@@ -49,9 +49,9 @@ Changelog example:
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Font Software is licensed under the UBUNTU FONT LICENCE Version 1.0
 This license is available with a FAQ at
-https://scripts.sil.org/OFL
+https://ubuntu.com/legal/font-licence
 
 ## Repository Layout
 
