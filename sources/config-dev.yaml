@@ -1,0 +1,9 @@
+sources:
+  - UbuntuMono.designspace
+  - UbuntuMono-Italic.designspace
+axisOrder:
+  - wght
+  - ital
+familyName: Ubuntu Mono
+buildStatic: false
+cleanUp: true

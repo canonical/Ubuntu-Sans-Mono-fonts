@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="400"/>
+      <map input="500" output="564"/>
+      <map input="700" output="700"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="UbuntuMono-Regular.ufo" name="Ubuntu Mono Regular" familyname="Ubuntu Mono" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="UbuntuMono-Bold.ufo" name="Ubuntu Mono Bold" familyname="Ubuntu Mono" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Ubuntu Mono Regular" familyname="Ubuntu Mono" stylename="Regular" filename="../instance_ufo/UbuntuMono-Regular.ufo" stylemapfamilyname="Ubuntu Mono" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance name="Ubuntu Mono Medium" familyname="Ubuntu Mono" stylename="Medium" filename="../instance_ufo/UbuntuMono-Medium.ufo" stylemapfamilyname="Ubuntu Mono Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="564"/>
+      </location>
+    </instance>
+    <instance name="Ubuntu Mono Bold" familyname="Ubuntu Mono" stylename="Bold" filename="../instance_ufo/UbuntuMono-Bold.ufo" stylemapfamilyname="Ubuntu Mono" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>UFOFormat</key>
+      <integer>3</integer>
+    </dict>
+  </lib>
+</designspace>

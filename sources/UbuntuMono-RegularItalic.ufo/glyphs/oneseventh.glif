@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneseventh" format="2">
+  <advance width="500"/>
+  <unicode hex="F506"/>
+  <outline>
+    <contour>
+      <point x="15" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="575" y="619" type="line"/>
+      <point x="497" y="619" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="0" type="curve"/>
+      <point x="369" y="0" type="line"/>
+      <point x="409" y="99"/>
+      <point x="432" y="138"/>
+      <point x="513" y="209" type="curve"/>
+      <point x="523" y="250" type="line"/>
+      <point x="348" y="250" type="line"/>
+      <point x="336" y="200" type="line"/>
+      <point x="439" y="200" type="line"/>
+      <point x="375" y="131"/>
+      <point x="349" y="92"/>
+    </contour>
+    <contour>
+      <point x="181" y="376" type="line"/>
+      <point x="240" y="376" type="line"/>
+      <point x="301" y="626" type="line"/>
+      <point x="261" y="626" type="line"/>
+      <point x="221" y="596"/>
+      <point x="188" y="580"/>
+      <point x="138" y="561" type="curve"/>
+      <point x="145" y="516" type="line"/>
+      <point x="171" y="524"/>
+      <point x="193" y="532"/>
+      <point x="223" y="547" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
