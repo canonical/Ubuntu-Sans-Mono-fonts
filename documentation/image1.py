@@ -39,13 +39,13 @@ args = parser.parse_args()
 ttFont = TTFont(FONT_PATH)
 
 # Constants that are worked out dynamically
-MY_URL = subprocess.check_output("git remote get-url origin", shell=True).decode()
+MY_URL = subprocess.check_output("git remote get-url origin", shell=True).decode().split("@")[1] 
 MY_HASH = subprocess.check_output("git rev-parse --short HEAD", shell=True).decode()
-FONT_NAME = ttFont["name"].getDebugName(16)
+FONT_NAME = ttFont["name"].getDebugName(1)
 FONT_VERSION = "v%s" % floatToFixedToStr(ttFont["head"].fontRevision, 16)
 
 
-# Draws a grid
+# Draws a gridgit config --get remote.origin.url
 def grid():
     stroke(1, 0, 0, 0.75)
     strokeWidth(2)
