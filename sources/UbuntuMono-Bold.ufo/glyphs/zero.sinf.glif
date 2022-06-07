@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="zero.sinf" format="2">
-  <advance width="500"/>
-  <unicode hex="F814"/>
-  <outline>
-    <component base="zerosuperior" yOffset="-375"/>
-  </outline>
-</glyph>

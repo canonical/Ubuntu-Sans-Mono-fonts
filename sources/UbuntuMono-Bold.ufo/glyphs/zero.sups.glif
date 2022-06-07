@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="zero.sups" format="2">
-  <advance width="500"/>
-  <unicode hex="F80A"/>
-  <outline>
-    <component base="zerosuperior" yOffset="107"/>
-  </outline>
-</glyph>

@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+                <html lang="en">
+                    <head>
+                        <meta charset="utf-8">
+                        <title>Fontbakery Check Report</title>
+                        <style>
+                            
+            html {
+                font-family: sans-serif;
+            }
+
+            h2 {
+                margin-top: 2em;
+            }
+
+            h3 {
+                margin-bottom: 1px;
+            }
+
+            table {
+                border-collapse: collapse;
+            }
+
+            th,
+            td {
+                border: 1px solid #ddd;
+                padding: 0.5em
+            }
+
+            tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            tr {
+                text-align: left;
+            }
+
+            ul {
+                margin-top: 0;
+            }
+
+            .details_item {
+                list-style: none;
+                display: flex;
+                align-items: baseline;
+            }
+
+            .details_indicator {
+                flex: 0 0 5em;
+                font-weight: bold;
+                padding-right: 0.5em;
+                text-align: right;
+            }
+
+            .details_text {
+                flex: 1 0;
+            }
+            
+                        </style>
+                    </head>
+                    <body>
+                    <h1>Fontbakery Technical Report</h1>
+<div>If you think a check is flawed or have an idea for a check, please  file an issue at <a href='https://github.com/googlefonts/fontbakery/issues'>https://github.com/googlefonts/fontbakery/issues</a> and remember to include a pointer to the repo and branch you're checking.</div>
+<h2>Summary</h2>
+            <table>
+            <tr>
+                <th>💥 ERROR</th>
+                <th>🔥 FAIL</th>
+                <th>⚠️ WARN</th>
+                <th>⏩ SKIP</th>
+                <th>ℹ️ INFO</th>
+                <th>✔️ PASS</th>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>61</td>
+                <td>57</td>
+                <td>662</td>
+                <td>43</td>
+                <td>447</td>
+            </tr>
+            <tr>
+                <td>0%</td>
+                <td>6%</td>
+                <td>5%</td>
+                <td>61%</td>
+                <td>4%</td>
+                <td>41%</td>
+            </tr>
+            </table>
+            
+<p><strong>Note:</strong> The following loglevels were omitted in this report: SKIP, INFO, PASS, DEBUG</p>
+<h2>&lt;Section: Google Fonts&gt; 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️</h2>
+<h3>Checking OS/2 fsType does not impose restrictions.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/fstype&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>In this font fsType is set to 8 meaning that:
+The font may be embedded but must only be installed temporarily on other systems.</p>
+<p>No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>In this font fsType is set to 8 meaning that:
+The font may be embedded but must only be installed temporarily on other systems.</p>
+<p>No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>In this font fsType is set to 8 meaning that:
+The font may be embedded but must only be installed temporarily on other systems.</p>
+<p>No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>In this font fsType is set to 8 meaning that:
+The font may be embedded but must only be installed temporarily on other systems.</p>
+<p>No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>In this font fsType is set to 8 meaning that:
+The font may be embedded but must only be installed temporarily on other systems.</p>
+<p>No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>In this font fsType is set to 8 meaning that:
+The font may be embedded but must only be installed temporarily on other systems.</p>
+<p>No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead. [code: drm]</p>
+</span></li></ul></div></details>
+<h3>Version format is correct in 'name' table?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/version_format&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.80; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.80; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.840; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.840; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.840; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.80; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
+</span></li></ul></div></details>
+<h3>Copyright notices match canonical pattern in fonts</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/font_copyright&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
+But instead we have got:
+&quot;Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
+But instead we have got:
+&quot;Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
+But instead we have got:
+&quot;Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
+But instead we have got:
+&quot;Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
+But instead we have got:
+&quot;Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
+But instead we have got:
+&quot;Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
+</span></li></ul></div></details>
+<h3>Glyphs are similiar to Google Fonts version?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/production_glyphs_similarity&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
+* uniEFFD</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
+* uniEFFD and uni04B4</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
+* uniEFFD</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
+* uniEFFD</p>
+</span></li></ul></div></details>
+<h3>Check name table: FONT_FAMILY_NAME entries.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/familyname&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Entry [FONT_FAMILY_NAME(1):WINDOWS(3)] on the &quot;name&quot; table: Expected &quot;Ubuntu Mono Medium&quot; but got &quot;Ubuntu Mono Italic Medium&quot;. [code: mismatch]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Entry [FONT_FAMILY_NAME(1):WINDOWS(3)] on the &quot;name&quot; table: Expected &quot;Ubuntu Mono&quot; but got &quot;Ubuntu Mono Italic&quot;. [code: mismatch]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Entry [FONT_FAMILY_NAME(1):WINDOWS(3)] on the &quot;name&quot; table: Expected &quot;Ubuntu Mono&quot; but got &quot;Ubuntu Mono Italic&quot;. [code: mismatch]</p>
+</span></li></ul></div></details>
+<h3>Check name table: FULL_FONT_NAME entries.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/fullfontname&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>[FULL_FONT_NAME(4):WINDOWS(3)]
+Expected: &quot;Ubuntu Mono Medium Italic&quot;
+But got:  &quot;Ubuntu Mono Italic Medium Italic&quot; [code: bad-entry]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>[FULL_FONT_NAME(4):WINDOWS(3)]
+Expected: &quot;Ubuntu Mono Bold Italic&quot;
+But got:  &quot;Ubuntu Mono Italic Bold Italic&quot; [code: bad-entry]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>[FULL_FONT_NAME(4):WINDOWS(3)]
+Expected: &quot;Ubuntu Mono Italic&quot;
+But got:  &quot;Ubuntu Mono Italic Italic&quot; [code: bad-entry]</p>
+</span></li></ul></div></details>
+<h3>Check name table: POSTSCRIPT_NAME entries.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/postscriptname&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>[POSTSCRIPT_NAME(6):WINDOWS(3)]
+Expected: &quot;UbuntuMono-MediumItalic&quot;
+But got:  &quot;UbuntuMonoItalic-MediumItalic&quot; [code: bad-entry]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>[POSTSCRIPT_NAME(6):WINDOWS(3)]
+Expected: &quot;UbuntuMono-BoldItalic&quot;
+But got:  &quot;UbuntuMonoItalic-BoldItalic&quot; [code: bad-entry]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>[POSTSCRIPT_NAME(6):WINDOWS(3)]
+Expected: &quot;UbuntuMono-Italic&quot;
+But got:  &quot;UbuntuMonoItalic-Italic&quot; [code: bad-entry]</p>
+</span></li></ul></div></details>
+<h3>Check name table: TYPOGRAPHIC_FAMILY_NAME entries.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/typographicfamilyname&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>[TYPOGRAPHIC_FAMILY_NAME(16):WINDOWS(3)]
+Expected: &quot;Ubuntu Mono&quot;
+But got:  &quot;Ubuntu Mono Italic&quot;. [code: non-ribbi-bad-value]</p>
+</span></li></ul></div></details>
+<h3>Combined length of family and style must not exceed 27 characters.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/name/family_and_style_max_length&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
+FONT_FAMILY_NAME = 'Ubuntu Mono Italic Medium' / SUBFAMILY_NAME = 'Italic'</p>
+<p>Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
+FONT_FAMILY_NAME = 'Ubuntu Mono Italic' / SUBFAMILY_NAME = 'Bold Italic'</p>
+<p>Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]</p>
+</span></li></ul></div></details>
+<h3>Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/vertical_metrics_regressions&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoAscender is 693 when it should be 830 [code: bad-typo-ascender]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoDescender is -165 when it should be -170 [code: bad-typo-descender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoAscender is 693 when it should be 830 [code: bad-typo-ascender]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoDescender is -165 when it should be -170 [code: bad-typo-descender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoAscender is 693 when it should be 830 [code: bad-typo-ascender]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoDescender is -165 when it should be -170 [code: bad-typo-descender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoAscender is 693 when it should be 830 [code: bad-typo-ascender]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoDescender is -165 when it should be -170 [code: bad-typo-descender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoAscender is 693 when it should be 830 [code: bad-typo-ascender]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoDescender is -165 when it should be -170 [code: bad-typo-descender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoAscender is 693 when it should be 830 [code: bad-typo-ascender]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoDescender is -165 when it should be -170 [code: bad-typo-descender]</p>
+</span></li></ul></div></details>
+<h3>OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/os2/use_typo_metrics&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuMono-MediumItalic.ttf', 'fonts/ttf/UbuntuMono-BoldItalic.ttf', 'fonts/ttf/UbuntuMono-Bold.ttf', 'fonts/ttf/UbuntuMono-Medium.ttf', 'fonts/ttf/UbuntuMono-Regular.ttf', 'fonts/ttf/UbuntuMono-Italic.ttf']. [code: missing-os2-fsselection-bit7]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuMono-MediumItalic.ttf', 'fonts/ttf/UbuntuMono-BoldItalic.ttf', 'fonts/ttf/UbuntuMono-Bold.ttf', 'fonts/ttf/UbuntuMono-Medium.ttf', 'fonts/ttf/UbuntuMono-Regular.ttf', 'fonts/ttf/UbuntuMono-Italic.ttf']. [code: missing-os2-fsselection-bit7]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuMono-MediumItalic.ttf', 'fonts/ttf/UbuntuMono-BoldItalic.ttf', 'fonts/ttf/UbuntuMono-Bold.ttf', 'fonts/ttf/UbuntuMono-Medium.ttf', 'fonts/ttf/UbuntuMono-Regular.ttf', 'fonts/ttf/UbuntuMono-Italic.ttf']. [code: missing-os2-fsselection-bit7]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuMono-MediumItalic.ttf', 'fonts/ttf/UbuntuMono-BoldItalic.ttf', 'fonts/ttf/UbuntuMono-Bold.ttf', 'fonts/ttf/UbuntuMono-Medium.ttf', 'fonts/ttf/UbuntuMono-Regular.ttf', 'fonts/ttf/UbuntuMono-Italic.ttf']. [code: missing-os2-fsselection-bit7]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuMono-MediumItalic.ttf', 'fonts/ttf/UbuntuMono-BoldItalic.ttf', 'fonts/ttf/UbuntuMono-Bold.ttf', 'fonts/ttf/UbuntuMono-Medium.ttf', 'fonts/ttf/UbuntuMono-Regular.ttf', 'fonts/ttf/UbuntuMono-Italic.ttf']. [code: missing-os2-fsselection-bit7]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/UbuntuMono-MediumItalic.ttf', 'fonts/ttf/UbuntuMono-BoldItalic.ttf', 'fonts/ttf/UbuntuMono-Bold.ttf', 'fonts/ttf/UbuntuMono-Medium.ttf', 'fonts/ttf/UbuntuMono-Regular.ttf', 'fonts/ttf/UbuntuMono-Italic.ttf']. [code: missing-os2-fsselection-bit7]</p>
+</span></li></ul></div></details>
+<h3>Ensure fonts have ScriptLangTags declared on the 'meta' table.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/meta/script_lang_tags&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: Universal&gt; 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️</h2>
+<h3>Checking OS/2 usWinAscent & usWinDescent.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/family/win_ascent_and_descent&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinAscent value should be equal or greater than 852, but got 830 instead [code: ascent]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinDescent value should be equal or greater than 172, but got 170 instead. [code: descent]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinAscent value should be equal or greater than 852, but got 830 instead [code: ascent]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinDescent value should be equal or greater than 172, but got 170 instead. [code: descent]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinAscent value should be equal or greater than 852, but got 830 instead [code: ascent]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinDescent value should be equal or greater than 172, but got 170 instead. [code: descent]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinAscent value should be equal or greater than 852, but got 830 instead [code: ascent]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinDescent value should be equal or greater than 172, but got 170 instead. [code: descent]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinAscent value should be equal or greater than 852, but got 830 instead [code: ascent]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinDescent value should be equal or greater than 172, but got 170 instead. [code: descent]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinAscent value should be equal or greater than 852, but got 830 instead [code: ascent]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2.usWinDescent value should be equal or greater than 172, but got 170 instead. [code: descent]</p>
+</span></li></ul></div></details>
+<h3>Checking OS/2 Metrics match hhea Metrics.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/os2_metrics_match_hhea&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2 sTypoAscender (693) and hhea ascent (830) must be equal. [code: ascender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2 sTypoAscender (693) and hhea ascent (830) must be equal. [code: ascender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2 sTypoAscender (693) and hhea ascent (830) must be equal. [code: ascender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2 sTypoAscender (693) and hhea ascent (830) must be equal. [code: ascender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2 sTypoAscender (693) and hhea ascent (830) must be equal. [code: ascender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>OS/2 sTypoAscender (693) and hhea ascent (830) must be equal. [code: ascender]</p>
+</span></li></ul></div></details>
+<h3>Check font contains no unreachable glyphs</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/unreachable_glyphs&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
+- uni1F8A.alt
+- uni1F8E.alt
+- uni256A.001
+- uni043F.locl.ita
+- Guillemotleft
+- Hyphen
+- uni1F9D.alt
+- uni1FAF.alt
+- uni1FCC.alt
+- uni1F9E.alt
+- And 52 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists.
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
+- uni1F8A.alt
+- uni1F8E.alt
+- uni256A.001
+- uni043F.locl.ita
+- Guillemotleft
+- Hyphen
+- uni1F9D.alt
+- uni1FAF.alt
+- uni1FCC.alt
+- uni1F9E.alt
+- And 52 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists.
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
+- uni1F8A.alt
+- uni1F8E.alt
+- uni256A.001
+- Guillemotleft
+- Hyphen
+- uni1F9D.alt
+- uni1FAF.alt
+- uni1FCC.alt
+- uni1F9E.alt
+- Bracketleft
+- And 47 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists.
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
+- uni1F8A.alt
+- uni1F8E.alt
+- uni256A.001
+- Guillemotleft
+- Hyphen
+- uni1F9D.alt
+- uni1FAF.alt
+- uni1FCC.alt
+- uni1F9E.alt
+- Bracketleft
+- And 47 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists.
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
+- uni1F8A.alt
+- uni1F8E.alt
+- uni256A.001
+- Guillemotleft
+- Hyphen
+- uni1F9D.alt
+- uni1FAF.alt
+- uni1FCC.alt
+- uni1F9E.alt
+- Bracketleft
+- And 47 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists.
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
+- uni1F8A.alt
+- uni1F8E.alt
+- uni256A.001
+- uni043F.locl.ita
+- Guillemotleft
+- Hyphen
+- uni1F9D.alt
+- uni1FAF.alt
+- uni1FCC.alt
+- uni1F9E.alt
+- And 52 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists.
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<h3>Check if each glyph has the recommended amount of contours.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/contour_count&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
+<p>The following glyphs do not have the recommended number of contours:</p>
+<pre><code>- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+- And Glyph name: uni00AD	Contours detected: 1	Expected: 0
+</code></pre>
+<p>[code: contour-count]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
+<p>The following glyphs do not have the recommended number of contours:</p>
+<pre><code>- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+- And Glyph name: uni00AD	Contours detected: 1	Expected: 0
+</code></pre>
+<p>[code: contour-count]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
+<p>The following glyphs do not have the recommended number of contours:</p>
+<pre><code>- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+- And Glyph name: uni00AD	Contours detected: 1	Expected: 0
+</code></pre>
+<p>[code: contour-count]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
+<p>The following glyphs do not have the recommended number of contours:</p>
+<pre><code>- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+- And Glyph name: uni00AD	Contours detected: 1	Expected: 0
+</code></pre>
+<p>[code: contour-count]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
+<p>The following glyphs do not have the recommended number of contours:</p>
+<pre><code>- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+- And Glyph name: uni00AD	Contours detected: 1	Expected: 0
+</code></pre>
+<p>[code: contour-count]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
+<p>The following glyphs do not have the recommended number of contours:</p>
+<pre><code>- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+- And Glyph name: uni00AD	Contours detected: 1	Expected: 0
+</code></pre>
+<p>[code: contour-count]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: fontbakery.profiles.head&gt; 🔥🔥🔥⚠️</h2>
+<h3>Make sure all font files have the same version value.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/family/equal_font_versions&gt;</div>
+
+<details><summary>⚠️ <strong>Family check</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Version info differs among font files of the same font project.
+These were the version values found:</p>
+<ul>
+<li>fonts/ttf/UbuntuMono-MediumItalic.ttf: 0.00799560546875</li>
+<li>fonts/ttf/UbuntuMono-BoldItalic.ttf: 0.00799560546875</li>
+<li>fonts/ttf/UbuntuMono-Bold.ttf: 0.839996337890625</li>
+<li>fonts/ttf/UbuntuMono-Medium.ttf: 0.839996337890625</li>
+<li>fonts/ttf/UbuntuMono-Regular.ttf: 0.839996337890625</li>
+<li>fonts/ttf/UbuntuMono-Italic.ttf: 0.00799560546875
+[code: mismatch]</li>
+</ul>
+</span></li></ul></div></details>
+<h3>Checking font version fields (head and name table).</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/font_version&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>head version is &quot;0.00800&quot; while name version string (for platform 3, encoding 1) is &quot;Version 0.80; ttfautohint (v1.8.4.7-5d5b)&quot;. [code: mismatch]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>head version is &quot;0.00800&quot; while name version string (for platform 3, encoding 1) is &quot;Version 0.80; ttfautohint (v1.8.4.7-5d5b)&quot;. [code: mismatch]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>head version is &quot;0.00800&quot; while name version string (for platform 3, encoding 1) is &quot;Version 0.80; ttfautohint (v1.8.4.7-5d5b)&quot;. [code: mismatch]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: fontbakery.profiles.name&gt; 🔥🔥🔥🔥🔥🔥⏩⏩⏩⏩⏩⏩</h2>
+<h3>Checking correctness of monospaced metadata.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/monospace&gt;</div>
+
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>On monospaced fonts, the value of post.isFixedPitch must be set to a non-zero value (meaning 'fixed width monospaced'), but got 0 instead. [code: mono-bad-post-isFixedPitch]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>On monospaced fonts, the value of post.isFixedPitch must be set to a non-zero value (meaning 'fixed width monospaced'), but got 0 instead. [code: mono-bad-post-isFixedPitch]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>On monospaced fonts, the value of post.isFixedPitch must be set to a non-zero value (meaning 'fixed width monospaced'), but got 0 instead. [code: mono-bad-post-isFixedPitch]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>On monospaced fonts, the value of post.isFixedPitch must be set to a non-zero value (meaning 'fixed width monospaced'), but got 0 instead. [code: mono-bad-post-isFixedPitch]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>On monospaced fonts, the value of post.isFixedPitch must be set to a non-zero value (meaning 'fixed width monospaced'), but got 0 instead. [code: mono-bad-post-isFixedPitch]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>On monospaced fonts, the value of post.isFixedPitch must be set to a non-zero value (meaning 'fixed width monospaced'), but got 0 instead. [code: mono-bad-post-isFixedPitch]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: fontbakery.profiles.hhea&gt; ⚠️⚠️⚠️⚠️⚠️⚠️</h2>
+<h3>Checking Vertical Metric Linegaps.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/linegaps&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>OS/2 sTypoLineGap is not equal to 0. [code: OS/2]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>OS/2 sTypoLineGap is not equal to 0. [code: OS/2]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>OS/2 sTypoLineGap is not equal to 0. [code: OS/2]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>OS/2 sTypoLineGap is not equal to 0. [code: OS/2]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>OS/2 sTypoLineGap is not equal to 0. [code: OS/2]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>OS/2 sTypoLineGap is not equal to 0. [code: OS/2]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: fontbakery.profiles.gdef&gt; ⚠️⚠️⚠️⚠️⚠️⚠️</h2>
+<h3>Check glyphs in mark glyph class are non-spacing.</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/gdef_spacing_marks&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+breve_inverted (U+0311) [code: spacing-mark-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+breve_inverted (U+0311) [code: spacing-mark-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+breve_inverted (U+0311) [code: spacing-mark-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+breve_inverted (U+0311) [code: spacing-mark-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+breve_inverted (U+0311) [code: spacing-mark-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+breve_inverted (U+0311) [code: spacing-mark-glyphs]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: fontbakery.profiles.gpos&gt; ⚠️⚠️⚠️⚠️⚠️⚠️</h2>
+<h3>Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/gpos_kerning_info&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>GPOS table lacks kerning information. [code: lacks-kern-info]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>GPOS table lacks kerning information. [code: lacks-kern-info]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>GPOS table lacks kerning information. [code: lacks-kern-info]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>GPOS table lacks kerning information. [code: lacks-kern-info]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>GPOS table lacks kerning information. [code: lacks-kern-info]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>GPOS table lacks kerning information. [code: lacks-kern-info]</p>
+</span></li></ul></div></details>
+<h2>&lt;Section: Outline Correctness Checks&gt; ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⏩⏩⏩</h2>
+<h3>Are any segments inordinately short?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_short_segments&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have segments which seem very short:
+* question (U+003F) contains a short segment B&lt;&lt;166.0,225.0&gt;-&lt;165.0,229.0&gt;-&lt;165.0,232.5&gt;&gt;
+* question (U+003F) contains a short segment B&lt;&lt;165.0,232.5&gt;-&lt;165.0,236.0&gt;-&lt;165.0,240.0&gt;&gt;
+* at (U+0040) contains a short segment B&lt;&lt;316.0,444.0&gt;-&lt;327.0,444.0&gt;-&lt;338.5,442.5&gt;&gt;
+* m (U+006D) contains a short segment B&lt;&lt;160.0,373.0&gt;-&lt;154.0,373.0&gt;-&lt;145.5,372.0&gt;&gt;
+* m (U+006D) contains a short segment B&lt;&lt;145.5,372.0&gt;-&lt;137.0,371.0&gt;-&lt;129.0,369.0&gt;&gt;
+* questiondown (U+00BF) contains a short segment B&lt;&lt;337.0,229.0&gt;-&lt;338.0,225.0&gt;-&lt;338.0,221.5&gt;&gt;
+* questiondown (U+00BF) contains a short segment B&lt;&lt;338.0,221.5&gt;-&lt;338.0,218.0&gt;-&lt;338.0,214.0&gt;&gt;
+* ccedilla (U+00E7) contains a short segment B&lt;&lt;305.0,-11.0&gt;-&lt;304.0,-14.0&gt;-&lt;303.0,-17.5&gt;&gt;
+* ccedilla (U+00E7) contains a short segment B&lt;&lt;303.0,-17.5&gt;-&lt;302.0,-21.0&gt;-&lt;300.0,-24.0&gt;&gt;
+* Eogonek (U+0118) contains a short segment B&lt;&lt;395.0,-81.0&gt;-&lt;395.0,-91.0&gt;-&lt;400.5,-98.0&gt;&gt; and 84 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have segments which seem very short:
+* at (U+0040) contains a short segment B&lt;&lt;335.0,438.0&gt;-&lt;344.0,438.0&gt;-&lt;354.0,437.0&gt;&gt;
+* at (U+0040) contains a short segment B&lt;&lt;354.0,437.0&gt;-&lt;364.0,436.0&gt;-&lt;375.0,434.0&gt;&gt;
+* R (U+0052) contains a short segment B&lt;&lt;241.0,236.0&gt;-&lt;237.0,235.0&gt;-&lt;229.5,235.0&gt;&gt;
+* R (U+0052) contains a short segment B&lt;&lt;229.5,235.0&gt;-&lt;222.0,235.0&gt;-&lt;219.0,235.0&gt;&gt;
+* m (U+006D) contains a short segment B&lt;&lt;160.0,388.0&gt;-&lt;153.0,388.0&gt;-&lt;143.0,386.5&gt;&gt;
+* sterling (U+00A3) contains a short segment L&lt;&lt;223.0,255.0&gt;--&lt;223.0,252.0&gt;&gt;
+* questiondown (U+00BF) contains a short segment B&lt;&lt;328.0,235.0&gt;-&lt;328.0,231.0&gt;-&lt;328.5,227.0&gt;&gt;
+* ccedilla (U+00E7) contains a short segment B&lt;&lt;305.0,-11.0&gt;-&lt;303.0,-15.0&gt;-&lt;301.0,-19.5&gt;&gt;
+* ccedilla (U+00E7) contains a short segment B&lt;&lt;301.0,-19.5&gt;-&lt;299.0,-24.0&gt;-&lt;297.0,-28.0&gt;&gt;
+* Eogonek (U+0118) contains a short segment B&lt;&lt;390.0,-82.0&gt;-&lt;390.0,-93.0&gt;-&lt;397.0,-100.0&gt;&gt; and 88 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]</p>
+</span></li></ul></div></details>
+<h3>Do any segments have colinear vectors?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_colinear_vectors&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have colinear vectors:
+* uni01CA (U+01CA): L&lt;&lt;175.0,412.0&gt;--&lt;140.0,252.0&gt;&gt; -&gt; L&lt;&lt;140.0,252.0&gt;--&lt;79.0,0.0&gt;&gt;
+* uni01CA (U+01CA): L&lt;&lt;233.0,223.0&gt;--&lt;267.0,382.0&gt;&gt; -&gt; L&lt;&lt;267.0,382.0&gt;--&lt;324.0,619.0&gt;&gt;
+* uni01CB (U+01CB): L&lt;&lt;184.0,412.0&gt;--&lt;149.0,250.0&gt;&gt; -&gt; L&lt;&lt;149.0,250.0&gt;--&lt;88.0,0.0&gt;&gt; and uni01CB (U+01CB): L&lt;&lt;242.0,223.0&gt;--&lt;275.0,377.0&gt;&gt; -&gt; L&lt;&lt;275.0,377.0&gt;--&lt;333.0,619.0&gt;&gt; [code: found-colinear-vectors]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have colinear vectors:
+* uni01CA (U+01CA): L&lt;&lt;179.0,393.0&gt;--&lt;145.0,253.0&gt;&gt; -&gt; L&lt;&lt;145.0,253.0&gt;--&lt;84.0,0.0&gt;&gt;
+* uni01CA (U+01CA): L&lt;&lt;227.0,256.0&gt;--&lt;260.0,396.0&gt;&gt; -&gt; L&lt;&lt;260.0,396.0&gt;--&lt;313.0,619.0&gt;&gt;
+* uni01CB (U+01CB): L&lt;&lt;188.0,393.0&gt;--&lt;153.0,249.0&gt;&gt; -&gt; L&lt;&lt;153.0,249.0&gt;--&lt;93.0,0.0&gt;&gt; and uni01CB (U+01CB): L&lt;&lt;236.0,256.0&gt;--&lt;267.0,386.0&gt;&gt; -&gt; L&lt;&lt;267.0,386.0&gt;--&lt;322.0,619.0&gt;&gt; [code: found-colinear-vectors]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have colinear vectors:
+* uni01CA (U+01CA): L&lt;&lt;202.0,223.0&gt;--&lt;198.0,388.0&gt;&gt; -&gt; L&lt;&lt;198.0,388.0&gt;--&lt;198.0,619.0&gt;&gt;
+* uni01CA (U+01CA): L&lt;&lt;98.0,412.0&gt;--&lt;102.0,237.0&gt;&gt; -&gt; L&lt;&lt;102.0,237.0&gt;--&lt;102.0,0.0&gt;&gt;
+* uni01CB (U+01CB): L&lt;&lt;202.0,223.0&gt;--&lt;198.0,373.0&gt;&gt; -&gt; L&lt;&lt;198.0,373.0&gt;--&lt;198.0,619.0&gt;&gt;
+* uni01CB (U+01CB): L&lt;&lt;98.0,412.0&gt;--&lt;102.0,251.0&gt;&gt; -&gt; L&lt;&lt;102.0,251.0&gt;--&lt;102.0,0.0&gt;&gt;
+* uni2116 (U+2116): L&lt;&lt;200.0,243.0&gt;--&lt;196.0,375.0&gt;&gt; -&gt; L&lt;&lt;196.0,375.0&gt;--&lt;196.0,619.0&gt;&gt; and uni2116 (U+2116): L&lt;&lt;95.0,393.0&gt;--&lt;99.0,238.0&gt;&gt; -&gt; L&lt;&lt;99.0,238.0&gt;--&lt;99.0,0.0&gt;&gt; [code: found-colinear-vectors]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have colinear vectors:
+* uni01CA (U+01CA): L&lt;&lt;221.0,183.0&gt;--&lt;212.0,366.0&gt;&gt; -&gt; L&lt;&lt;212.0,366.0&gt;--&lt;212.0,619.0&gt;&gt;
+* uni01CA (U+01CA): L&lt;&lt;89.0,436.0&gt;--&lt;98.0,251.0&gt;&gt; -&gt; L&lt;&lt;98.0,251.0&gt;--&lt;98.0,0.0&gt;&gt;
+* uni01CB (U+01CB): L&lt;&lt;221.0,183.0&gt;--&lt;212.0,366.0&gt;&gt; -&gt; L&lt;&lt;212.0,366.0&gt;--&lt;212.0,619.0&gt;&gt;
+* uni01CB (U+01CB): L&lt;&lt;89.0,436.0&gt;--&lt;98.0,251.0&gt;&gt; -&gt; L&lt;&lt;98.0,251.0&gt;--&lt;98.0,0.0&gt;&gt;
+* uni2116 (U+2116): L&lt;&lt;221.0,183.0&gt;--&lt;212.0,366.0&gt;&gt; -&gt; L&lt;&lt;212.0,366.0&gt;--&lt;212.0,619.0&gt;&gt; and uni2116 (U+2116): L&lt;&lt;89.0,436.0&gt;--&lt;98.0,251.0&gt;&gt; -&gt; L&lt;&lt;98.0,251.0&gt;--&lt;98.0,0.0&gt;&gt; [code: found-colinear-vectors]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have colinear vectors:
+* uni01CA (U+01CA): L&lt;&lt;170.0,436.0&gt;--&lt;135.0,251.0&gt;&gt; -&gt; L&lt;&lt;135.0,251.0&gt;--&lt;74.0,0.0&gt;&gt;
+* uni01CA (U+01CA): L&lt;&lt;241.0,183.0&gt;--&lt;276.0,366.0&gt;&gt; -&gt; L&lt;&lt;276.0,366.0&gt;--&lt;337.0,619.0&gt;&gt;
+* uni01CB (U+01CB): L&lt;&lt;179.0,436.0&gt;--&lt;144.0,251.0&gt;&gt; -&gt; L&lt;&lt;144.0,251.0&gt;--&lt;83.0,0.0&gt;&gt; and uni01CB (U+01CB): L&lt;&lt;250.0,183.0&gt;--&lt;285.0,366.0&gt;&gt; -&gt; L&lt;&lt;285.0,366.0&gt;--&lt;346.0,619.0&gt;&gt; [code: found-colinear-vectors]</p>
+</span></li></ul></div></details>
+<h3>Do outlines contain any jaggy segments?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_jaggy_segments&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have jaggy segments:
+* uni01CA (U+01CA): B&lt;&lt;175.5,269.5&gt;-&lt;175.0,335.0&gt;-&lt;175.0,412.0&gt;&gt;/L&lt;&lt;175.0,412.0&gt;--&lt;140.0,252.0&gt;&gt; = 12.33908727832618
+* uni01CA (U+01CA): L&lt;&lt;223.0,619.0&gt;--&lt;233.0,223.0&gt;&gt;/L&lt;&lt;233.0,223.0&gt;--&lt;267.0,382.0&gt;&gt; = 13.516701175961831
+* uni01CB (U+01CB): B&lt;&lt;184.5,269.5&gt;-&lt;184.0,335.0&gt;-&lt;184.0,412.0&gt;&gt;/L&lt;&lt;184.0,412.0&gt;--&lt;149.0,250.0&gt;&gt; = 12.19133647060236 and uni01CB (U+01CB): L&lt;&lt;232.0,619.0&gt;--&lt;242.0,223.0&gt;&gt;/L&lt;&lt;242.0,223.0&gt;--&lt;275.0,377.0&gt;&gt; = 13.541312763586014 [code: found-jaggy-segments]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have jaggy segments:
+* M (U+004D): B&lt;&lt;409.0,243.5&gt;-&lt;440.0,365.0&gt;-&lt;471.0,486.0&gt;&gt;/L&lt;&lt;471.0,486.0&gt;--&lt;333.0,219.0&gt;&gt; = 12.962357976988338
+* Mu (U+039C): B&lt;&lt;409.0,243.5&gt;-&lt;440.0,365.0&gt;-&lt;471.0,486.0&gt;&gt;/L&lt;&lt;471.0,486.0&gt;--&lt;333.0,219.0&gt;&gt; = 12.962357976988338
+* W (U+0057): B&lt;&lt;206.5,376.5&gt;-&lt;176.0,255.0&gt;-&lt;145.0,133.0&gt;&gt;/B&lt;&lt;145.0,133.0&gt;-&lt;180.0,200.0&gt;-&lt;214.0,266.5&gt;&gt; = 13.324993848147084
+* Wacute (U+1E82): B&lt;&lt;206.5,376.5&gt;-&lt;176.0,255.0&gt;-&lt;145.0,133.0&gt;&gt;/B&lt;&lt;145.0,133.0&gt;-&lt;180.0,200.0&gt;-&lt;214.0,266.5&gt;&gt; = 13.324993848147084
+* Wcircumflex (U+0174): B&lt;&lt;206.5,376.5&gt;-&lt;176.0,255.0&gt;-&lt;145.0,133.0&gt;&gt;/B&lt;&lt;145.0,133.0&gt;-&lt;180.0,200.0&gt;-&lt;214.0,266.5&gt;&gt; = 13.324993848147084
+* Wdieresis (U+1E84): B&lt;&lt;206.5,376.5&gt;-&lt;176.0,255.0&gt;-&lt;145.0,133.0&gt;&gt;/B&lt;&lt;145.0,133.0&gt;-&lt;180.0,200.0&gt;-&lt;214.0,266.5&gt;&gt; = 13.324993848147084
+* Wgrave (U+1E80): B&lt;&lt;206.5,376.5&gt;-&lt;176.0,255.0&gt;-&lt;145.0,133.0&gt;&gt;/B&lt;&lt;145.0,133.0&gt;-&lt;180.0,200.0&gt;-&lt;214.0,266.5&gt;&gt; = 13.324993848147084
+* uni01CA (U+01CA): B&lt;&lt;176.0,284.5&gt;-&lt;177.0,332.0&gt;-&lt;179.0,393.0&gt;&gt;/L&lt;&lt;179.0,393.0&gt;--&lt;145.0,253.0&gt;&gt; = 11.772541687471604
+* uni01CB (U+01CB): B&lt;&lt;185.0,284.5&gt;-&lt;186.0,332.0&gt;-&lt;188.0,393.0&gt;&gt;/L&lt;&lt;188.0,393.0&gt;--&lt;153.0,249.0&gt;&gt; = 11.78327625962009
+* uni041C (U+041C): B&lt;&lt;409.0,243.5&gt;-&lt;440.0,365.0&gt;-&lt;471.0,486.0&gt;&gt;/L&lt;&lt;471.0,486.0&gt;--&lt;333.0,219.0&gt;&gt; = 12.962357976988338 and 11 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have jaggy segments:
+* AE (U+00C6): L&lt;&lt;255.0,245.0&gt;--&lt;255.0,536.0&gt;&gt;/B&lt;&lt;255.0,536.0&gt;-&lt;238.0,468.0&gt;-&lt;221.0,398.0&gt;&gt; = 14.036243467926457
+* AEacute (U+01FC): L&lt;&lt;255.0,245.0&gt;--&lt;255.0,536.0&gt;&gt;/B&lt;&lt;255.0,536.0&gt;-&lt;238.0,468.0&gt;-&lt;221.0,398.0&gt;&gt; = 14.036243467926457
+* uni01CA (U+01CA): B&lt;&lt;129.0,284.5&gt;-&lt;118.0,332.0&gt;-&lt;105.0,393.0&gt;&gt;/L&lt;&lt;105.0,393.0&gt;--&lt;105.0,0.0&gt;&gt; = 12.030596096537845
+* uni01CB (U+01CB): B&lt;&lt;129.0,284.5&gt;-&lt;118.0,332.0&gt;-&lt;105.0,393.0&gt;&gt;/L&lt;&lt;105.0,393.0&gt;--&lt;105.0,0.0&gt;&gt; = 12.030596096537845
+* uni01E2 (U+01E2): L&lt;&lt;255.0,245.0&gt;--&lt;255.0,536.0&gt;&gt;/B&lt;&lt;255.0,536.0&gt;-&lt;238.0,468.0&gt;-&lt;221.0,398.0&gt;&gt; = 14.036243467926457
+* uni04CD (U+04CD): L&lt;&lt;196.0,219.0&gt;--&lt;136.0,481.0&gt;&gt;/L&lt;&lt;136.0,481.0&gt;--&lt;136.0,0.0&gt;&gt; = 12.898751104164447
+* uni04CE (U+04CE): B&lt;&lt;166.0,198.0&gt;-&lt;151.0,265.0&gt;-&lt;137.0,332.0&gt;&gt;/L&lt;&lt;137.0,332.0&gt;--&lt;137.0,0.0&gt;&gt; = 11.80243420778352
+* uni04CE (U+04CE): L&lt;&lt;353.0,0.0&gt;--&lt;353.0,332.0&gt;&gt;/B&lt;&lt;353.0,332.0&gt;-&lt;336.0,265.0&gt;-&lt;318.5,198.0&gt;&gt; = 14.237280465761073 and uni04D4 (U+04D4): L&lt;&lt;255.0,245.0&gt;--&lt;255.0,536.0&gt;&gt;/B&lt;&lt;255.0,536.0&gt;-&lt;238.0,468.0&gt;-&lt;221.0,398.0&gt;&gt; = 14.036243467926457 [code: found-jaggy-segments]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have jaggy segments:
+* uni01CA (U+01CA): B&lt;&lt;132.5,269.5&gt;-&lt;116.0,335.0&gt;-&lt;98.0,412.0&gt;&gt;/L&lt;&lt;98.0,412.0&gt;--&lt;102.0,237.0&gt;&gt; = 11.848152920604212
+* uni01CA (U+01CA): L&lt;&lt;97.0,619.0&gt;--&lt;202.0,223.0&gt;&gt;/L&lt;&lt;202.0,223.0&gt;--&lt;198.0,388.0&gt;&gt; = 13.4616217094329
+* uni01CB (U+01CB): B&lt;&lt;132.5,269.5&gt;-&lt;116.0,335.0&gt;-&lt;98.0,412.0&gt;&gt;/L&lt;&lt;98.0,412.0&gt;--&lt;102.0,251.0&gt;&gt; = 11.734337893381687
+* uni01CB (U+01CB): L&lt;&lt;97.0,619.0&gt;--&lt;202.0,223.0&gt;&gt;/L&lt;&lt;202.0,223.0&gt;--&lt;198.0,373.0&gt;&gt; = 13.322812856771293
+* uni2116 (U+2116): L&lt;&lt;203.0,0.0&gt;--&lt;95.0,393.0&gt;&gt;/L&lt;&lt;95.0,393.0&gt;--&lt;99.0,238.0&gt;&gt; = 13.887812556134483 and uni2116 (U+2116): L&lt;&lt;92.0,619.0&gt;--&lt;200.0,243.0&gt;&gt;/L&lt;&lt;200.0,243.0&gt;--&lt;196.0,375.0&gt;&gt; = 14.290162859521345 [code: found-jaggy-segments]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have jaggy segments:
+* uni01CA (U+01CA): B&lt;&lt;148.5,218.0&gt;-&lt;119.0,327.0&gt;-&lt;89.0,436.0&gt;&gt;/L&lt;&lt;89.0,436.0&gt;--&lt;98.0,251.0&gt;&gt; = 12.603301410644626
+* uni01CA (U+01CA): L&lt;&lt;102.0,619.0&gt;--&lt;221.0,183.0&gt;&gt;/L&lt;&lt;221.0,183.0&gt;--&lt;212.0,366.0&gt;&gt; = 12.450680935748139
+* uni01CB (U+01CB): B&lt;&lt;148.5,218.0&gt;-&lt;119.0,327.0&gt;-&lt;89.0,436.0&gt;&gt;/L&lt;&lt;89.0,436.0&gt;--&lt;98.0,251.0&gt;&gt; = 12.603301410644626
+* uni01CB (U+01CB): L&lt;&lt;102.0,619.0&gt;--&lt;221.0,183.0&gt;&gt;/L&lt;&lt;221.0,183.0&gt;--&lt;212.0,366.0&gt;&gt; = 12.450680935748139
+* uni2116 (U+2116): L&lt;&lt;102.0,619.0&gt;--&lt;221.0,183.0&gt;&gt;/L&lt;&lt;221.0,183.0&gt;--&lt;212.0,366.0&gt;&gt; = 12.450680935748139 and uni2116 (U+2116): L&lt;&lt;208.0,0.0&gt;--&lt;89.0,436.0&gt;&gt;/L&lt;&lt;89.0,436.0&gt;--&lt;98.0,251.0&gt;&gt; = 12.48107119784496 [code: found-jaggy-segments]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have jaggy segments:
+* uni01CA (U+01CA): B&lt;&lt;177.0,218.0&gt;-&lt;174.0,327.0&gt;-&lt;170.0,436.0&gt;&gt;/L&lt;&lt;170.0,436.0&gt;--&lt;135.0,251.0&gt;&gt; = 12.814777350462322
+* uni01CA (U+01CA): L&lt;&lt;227.0,619.0&gt;--&lt;241.0,183.0&gt;&gt;/L&lt;&lt;241.0,183.0&gt;--&lt;276.0,366.0&gt;&gt; = 12.666593927233722
+* uni01CB (U+01CB): B&lt;&lt;186.0,218.0&gt;-&lt;183.0,327.0&gt;-&lt;179.0,436.0&gt;&gt;/L&lt;&lt;179.0,436.0&gt;--&lt;144.0,251.0&gt;&gt; = 12.814777350462322 and uni01CB (U+01CB): L&lt;&lt;236.0,619.0&gt;--&lt;250.0,183.0&gt;&gt;/L&lt;&lt;250.0,183.0&gt;--&lt;285.0,366.0&gt;&gt; = 12.666593927233722 [code: found-jaggy-segments]</p>
+</span></li></ul></div></details>
+<h3>Do outlines contain any semi-vertical or semi-horizontal lines?</h3>
+<div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_semi_vertical&gt;</div>
+
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs have semi-vertical/semi-horizontal lines:</p>
+<ul>
+<li>kgreenlandic (U+0138): L&lt;&lt;63.0,469.0&gt;--&lt;187.0,470.0&gt;&gt; [code: found-semi-vertical]</li>
+</ul>
+</span></li></ul></div></details>
+                    </body>
+                </html>

@@ -1,8 +1,0 @@
-sources:
-  - UbuntuMono.designspace
-  - UbuntuMono-Italic.designspace
-axisOrder:
-  - wght
-  - ital
-familyName: Ubuntu Mono
-cleanUp: true
