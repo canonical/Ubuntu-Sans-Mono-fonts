@@ -95,16 +95,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F8A.alt
 	- uni1F8E.alt
+	- uni1F9C.alt
+	- kgreenlandic.case
+	- Questiondown
+	- circumflex.asc
 	- uni256A.001
-	- uni043F.locl.ita
-	- Guillemotleft
-	- Hyphen
-	- uni1F9D.alt
-	- uni1FAF.alt
+	- uni1F8C.alt
+	- uni1FAC.alt
 	- uni1FCC.alt
-	- uni1F9E.alt 
+	- uni1F88.alt 
 	- And 52 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -227,16 +227,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F8A.alt
 	- uni1F8E.alt
+	- uni1F9C.alt
+	- kgreenlandic.case
+	- Questiondown
+	- circumflex.asc
 	- uni256A.001
-	- uni043F.locl.ita
-	- Guillemotleft
-	- Hyphen
-	- uni1F9D.alt
-	- uni1FAF.alt
+	- uni1F8C.alt
+	- uni1FAC.alt
 	- uni1FCC.alt
-	- uni1F9E.alt 
+	- uni1F88.alt 
 	- And 52 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -332,7 +332,7 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uniEFFD and uni04B4
+	* uni04B4 and uniEFFD
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -341,16 +341,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F8A.alt
 	- uni1F8E.alt
+	- uni1F9C.alt
+	- kgreenlandic.case
+	- Questiondown
+	- circumflex.asc
 	- uni256A.001
-	- Guillemotleft
-	- Hyphen
-	- uni1F9D.alt
-	- uni1FAF.alt
+	- uni1F8C.alt
+	- uni1FAC.alt
 	- uni1FCC.alt
-	- uni1F9E.alt
-	- Bracketleft 
+	- uni1F88.alt 
 	- And 47 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -460,16 +460,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F8A.alt
 	- uni1F8E.alt
+	- uni1F9C.alt
+	- kgreenlandic.case
+	- Questiondown
+	- circumflex.asc
 	- uni256A.001
-	- Guillemotleft
-	- Hyphen
-	- uni1F9D.alt
-	- uni1FAF.alt
+	- uni1F8C.alt
+	- uni1FAC.alt
 	- uni1FCC.alt
-	- uni1F9E.alt
-	- Bracketleft 
+	- uni1F88.alt 
 	- And 47 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -585,16 +585,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F8A.alt
 	- uni1F8E.alt
+	- uni1F9C.alt
+	- kgreenlandic.case
+	- Questiondown
+	- circumflex.asc
 	- uni256A.001
-	- Guillemotleft
-	- Hyphen
-	- uni1F9D.alt
-	- uni1FAF.alt
+	- uni1F8C.alt
+	- uni1FAC.alt
 	- uni1FCC.alt
-	- uni1F9E.alt
-	- Bracketleft 
+	- uni1F88.alt 
 	- And 47 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -714,16 +714,16 @@ But got:  "UbuntuMonoItalic-Italic" [code: bad-entry]
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F8A.alt
 	- uni1F8E.alt
+	- uni1F9C.alt
+	- kgreenlandic.case
+	- Questiondown
+	- circumflex.asc
 	- uni256A.001
-	- uni043F.locl.ita
-	- Guillemotleft
-	- Hyphen
-	- uni1F9D.alt
-	- uni1FAF.alt
+	- uni1F8C.alt
+	- uni1FAC.alt
 	- uni1FCC.alt
-	- uni1F9E.alt 
+	- uni1F88.alt 
 	- And 52 more.
 
 Use -F or --full-lists to disable shortening of long lists.
