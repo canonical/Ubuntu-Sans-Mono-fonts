@@ -52,7 +52,3 @@ Changelog example:
 This Font Software is licensed under the UBUNTU FONT LICENCE Version 1.0
 This license is available with a FAQ at
 https://ubuntu.com/legal/font-licence
-
-## Repository Layout
-
-This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
