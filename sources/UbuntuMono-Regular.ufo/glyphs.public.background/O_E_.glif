@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <outline>
+    <contour>
+      <point x="220" y="554" type="qcurve"/>
+      <point x="193" y="554"/>
+      <point x="150" y="518"/>
+      <point x="122" y="452"/>
+      <point x="107" y="359"/>
+      <point x="107" y="301" type="qcurve"/>
+      <point x="107" y="185"/>
+      <point x="164" y="65"/>
+      <point x="220" y="65" type="qcurve"/>
+      <point x="240" y="65"/>
+      <point x="260" y="71"/>
+      <point x="263" y="72" type="qcurve"/>
+      <point x="263" y="547" type="line"/>
+      <point x="250" y="552"/>
+      <point x="229" y="554"/>
+    </contour>
+    <contour>
+      <point x="220" y="-6" type="qcurve"/>
+      <point x="131" y="-6"/>
+      <point x="27" y="141"/>
+      <point x="27" y="301" type="qcurve"/>
+      <point x="27" y="461"/>
+      <point x="131" y="625"/>
+      <point x="221" y="625" type="qcurve"/>
+      <point x="232" y="625"/>
+      <point x="262" y="621"/>
+      <point x="276" y="619" type="qcurve"/>
+      <point x="469" y="619" type="line"/>
+      <point x="469" y="549" type="line"/>
+      <point x="341" y="549" type="line"/>
+      <point x="341" y="359" type="line"/>
+      <point x="446" y="359" type="line"/>
+      <point x="446" y="289" type="line"/>
+      <point x="341" y="289" type="line"/>
+      <point x="341" y="70" type="line"/>
+      <point x="482" y="70" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="247" y="-6"/>
+    </contour>
+  </outline>
+</glyph>

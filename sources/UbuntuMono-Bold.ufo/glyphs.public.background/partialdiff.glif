@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="partialdiff" format="2">
+  <outline>
+    <contour>
+      <point x="192" y="591" type="qcurve"/>
+      <point x="169" y="591"/>
+      <point x="124" y="583"/>
+      <point x="93" y="572" type="qcurve"/>
+      <point x="77" y="667" type="line"/>
+      <point x="116" y="683"/>
+      <point x="176" y="693"/>
+      <point x="207" y="693" type="qcurve"/>
+      <point x="284" y="693"/>
+      <point x="380" y="634"/>
+      <point x="434" y="537"/>
+      <point x="453" y="412"/>
+      <point x="453" y="346" type="qcurve"/>
+      <point x="453" y="283"/>
+      <point x="429" y="156"/>
+      <point x="374" y="54"/>
+      <point x="283" y="-11"/>
+      <point x="217" y="-11" type="qcurve"/>
+      <point x="178" y="-11"/>
+      <point x="109" y="18"/>
+      <point x="58" y="72"/>
+      <point x="29" y="151"/>
+      <point x="29" y="202" type="qcurve"/>
+      <point x="29" y="259"/>
+      <point x="59" y="354"/>
+      <point x="115" y="421"/>
+      <point x="194" y="458"/>
+      <point x="243" y="458" type="qcurve"/>
+      <point x="271" y="458"/>
+      <point x="317" y="445"/>
+      <point x="338" y="432" type="qcurve"/>
+      <point x="334" y="504"/>
+      <point x="256" y="591"/>
+    </contour>
+    <contour>
+      <point x="246" y="353" type="qcurve"/>
+      <point x="217" y="353"/>
+      <point x="177" y="327"/>
+      <point x="151" y="285"/>
+      <point x="139" y="232"/>
+      <point x="139" y="204" type="qcurve"/>
+      <point x="139" y="151"/>
+      <point x="182" y="95"/>
+      <point x="217" y="95" type="qcurve"/>
+      <point x="249" y="95"/>
+      <point x="294" y="131"/>
+      <point x="323" y="193"/>
+      <point x="337" y="277"/>
+      <point x="339" y="325" type="qcurve"/>
+      <point x="319" y="339"/>
+      <point x="265" y="353"/>
+    </contour>
+  </outline>
+</glyph>

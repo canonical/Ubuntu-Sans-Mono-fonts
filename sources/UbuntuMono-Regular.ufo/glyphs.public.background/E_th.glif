@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <outline>
+    <contour>
+      <point x="460" y="310" type="qcurve"/>
+      <point x="460" y="224"/>
+      <point x="419" y="104"/>
+      <point x="348" y="29"/>
+      <point x="250" y="-5"/>
+      <point x="193" y="-5" type="qcurve"/>
+      <point x="132" y="-5"/>
+      <point x="71" y="10" type="qcurve"/>
+      <point x="71" y="291" type="line"/>
+      <point x="18" y="291" type="line"/>
+      <point x="18" y="355" type="line"/>
+      <point x="71" y="355" type="line"/>
+      <point x="71" y="610" type="line"/>
+      <point x="132" y="625"/>
+      <point x="193" y="625" type="qcurve"/>
+      <point x="250" y="625"/>
+      <point x="348" y="591"/>
+      <point x="419" y="515"/>
+      <point x="460" y="395"/>
+    </contour>
+    <contour>
+      <point x="154" y="69" type="line"/>
+      <point x="165" y="67"/>
+      <point x="189" y="66"/>
+      <point x="200" y="66" type="qcurve"/>
+      <point x="242" y="66"/>
+      <point x="307" y="93"/>
+      <point x="352" y="152"/>
+      <point x="376" y="245"/>
+      <point x="376" y="310" type="qcurve"/>
+      <point x="376" y="436"/>
+      <point x="285" y="554"/>
+      <point x="197" y="554" type="qcurve"/>
+      <point x="172" y="554"/>
+      <point x="154" y="551" type="qcurve"/>
+      <point x="154" y="355" type="line"/>
+      <point x="252" y="355" type="line"/>
+      <point x="252" y="291" type="line"/>
+      <point x="154" y="291" type="line"/>
+    </contour>
+  </outline>
+</glyph>

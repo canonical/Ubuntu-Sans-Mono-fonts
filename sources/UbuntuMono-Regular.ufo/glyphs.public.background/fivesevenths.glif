@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fivesevenths" format="2">
+  <outline>
+    <contour>
+      <point x="102" y="539" type="line"/>
+      <point x="158" y="537"/>
+      <point x="212" y="494"/>
+      <point x="212" y="455" type="qcurve"/>
+      <point x="212" y="415"/>
+      <point x="154" y="367"/>
+      <point x="95" y="367" type="qcurve"/>
+      <point x="71" y="367"/>
+      <point x="25" y="380"/>
+      <point x="13" y="388" type="qcurve"/>
+      <point x="27" y="436" type="line"/>
+      <point x="37" y="431"/>
+      <point x="72" y="417"/>
+      <point x="93" y="417" type="qcurve"/>
+      <point x="119" y="417"/>
+      <point x="153" y="433"/>
+      <point x="153" y="452" type="qcurve"/>
+      <point x="153" y="475"/>
+      <point x="106" y="494"/>
+      <point x="42" y="494" type="qcurve"/>
+      <point x="45" y="517"/>
+      <point x="48" y="548"/>
+      <point x="51" y="576"/>
+      <point x="53" y="605"/>
+      <point x="54" y="626" type="qcurve"/>
+      <point x="201" y="626" type="line"/>
+      <point x="201" y="576" type="line"/>
+      <point x="105" y="576" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="0" type="line"/>
+      <point x="329" y="34"/>
+      <point x="343" y="86"/>
+      <point x="361" y="131"/>
+      <point x="387" y="174"/>
+      <point x="405" y="200" type="qcurve"/>
+      <point x="301" y="200" type="line"/>
+      <point x="301" y="250" type="line"/>
+      <point x="476" y="250" type="line"/>
+      <point x="476" y="209" type="line"/>
+      <point x="452" y="182"/>
+      <point x="422" y="138"/>
+      <point x="401" y="92"/>
+      <point x="388" y="37"/>
+      <point x="382" y="0" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="394" y="619" type="line"/>
+      <point x="464" y="619" type="line"/>
+    </contour>
+  </outline>
+</glyph>

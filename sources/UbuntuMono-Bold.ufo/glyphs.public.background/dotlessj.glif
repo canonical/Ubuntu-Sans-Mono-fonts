@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
+  <outline>
+    <contour>
+      <point x="400" y="31" type="line"/>
+      <point x="400" y="-26"/>
+      <point x="372" y="-103"/>
+      <point x="323" y="-150"/>
+      <point x="256" y="-170"/>
+      <point x="217" y="-170" type="qcurve"/>
+      <point x="169" y="-170"/>
+      <point x="87" y="-146"/>
+      <point x="49" y="-127" type="qcurve"/>
+      <point x="87" y="-23" type="line"/>
+      <point x="112" y="-37"/>
+      <point x="183" y="-62"/>
+      <point x="212" y="-62" type="qcurve"/>
+      <point x="243" y="-62"/>
+      <point x="277" y="-25"/>
+      <point x="277" y="25" type="qcurve"/>
+      <point x="277" y="367" type="line"/>
+      <point x="87" y="367" type="line"/>
+      <point x="87" y="469" type="line"/>
+      <point x="400" y="469" type="line"/>
+    </contour>
+  </outline>
+</glyph>

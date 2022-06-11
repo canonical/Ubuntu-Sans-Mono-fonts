@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FEF" format="2">
+  <outline>
+    <contour>
+      <point x="199" y="693" type="line"/>
+      <point x="347" y="564" type="line"/>
+      <point x="312" y="518" type="line"/>
+      <point x="152" y="631" type="line"/>
+    </contour>
+  </outline>
+</glyph>
