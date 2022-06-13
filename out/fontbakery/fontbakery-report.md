@@ -94,16 +94,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F89.alt
-	- Guillemotright
-	- uni1F9D.alt
-	- i.locl
-	- uni1F9B.alt
-	- uni1F9F.alt
+	- Hyphen
+	- uni1FA8.alt
+	- uni1FFC.alt
+	- uni1FCC.alt
+	- Backslash
+	- Braceright
+	- ampersand.001
+	- uni043F.locl.ita
 	- At
-	- Guillemotleft
-	- uni0442.locl.ita
-	- kgreenlandic.case 
+	- uni1FAB.alt 
 	- And 52 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -206,13 +206,13 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- acute.asc
+	- uni256A.001
+	- uni256B.001
 	- caron.asc
-	- rouble
+	- acute.asc
 	- uni20B8
-	- circumflex.asc
-	- uni256B.001 
-	- And uni256A.001
+	- circumflex.asc 
+	- And rouble
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -331,13 +331,13 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- acute.asc
+	- uni256A.001
+	- uni256B.001
 	- caron.asc
-	- rouble
+	- acute.asc
 	- uni20B8
-	- circumflex.asc
-	- uni256B.001 
-	- And uni256A.001
+	- circumflex.asc 
+	- And rouble
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -492,16 +492,16 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F89.alt
-	- Guillemotright
-	- uni1F9D.alt
-	- i.locl
-	- uni1F9B.alt
-	- uni1F9F.alt
+	- Hyphen
+	- uni1FA8.alt
+	- uni1FFC.alt
+	- uni1FCC.alt
+	- Backslash
+	- Braceright
+	- ampersand.001
+	- uni043F.locl.ita
 	- At
-	- Guillemotleft
-	- uni0442.locl.ita
-	- kgreenlandic.case 
+	- uni1FAB.alt 
 	- And 52 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -617,16 +617,16 @@ But got:  "UbuntuMonoItalic-Italic" [code: bad-entry]
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni1F89.alt
-	- Guillemotright
-	- uni1F9D.alt
-	- i.locl
-	- uni1F9B.alt
-	- uni1F9F.alt
+	- Hyphen
+	- uni1FA8.alt
+	- uni1FFC.alt
+	- uni1FCC.alt
+	- Backslash
+	- Braceright
+	- ampersand.001
+	- uni043F.locl.ita
 	- At
-	- Guillemotleft
-	- uni0442.locl.ita
-	- kgreenlandic.case 
+	- uni1FAB.alt 
 	- And 52 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -720,13 +720,13 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- acute.asc
+	- uni256A.001
+	- uni256B.001
 	- caron.asc
-	- rouble
+	- acute.asc
 	- uni20B8
-	- circumflex.asc
-	- uni256B.001 
-	- And uni256A.001
+	- circumflex.asc 
+	- And rouble
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
