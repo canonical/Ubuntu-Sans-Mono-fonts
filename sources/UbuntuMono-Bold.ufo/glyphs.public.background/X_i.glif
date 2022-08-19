@@ -2,22 +2,22 @@
 <glyph name="Xi" format="2">
   <outline>
     <contour>
-      <point x="32" y="619" type="line"/>
-      <point x="468" y="619" type="line"/>
-      <point x="468" y="515" type="line"/>
-      <point x="32" y="515" type="line"/>
+      <point x="36" y="693" type="line"/>
+      <point x="524" y="693" type="line"/>
+      <point x="524" y="577" type="line"/>
+      <point x="36" y="577" type="line"/>
     </contour>
     <contour>
-      <point x="71" y="275" type="line"/>
-      <point x="71" y="379" type="line"/>
-      <point x="430" y="379" type="line"/>
-      <point x="430" y="275" type="line"/>
+      <point x="80" y="308" type="line"/>
+      <point x="80" y="424" type="line"/>
+      <point x="482" y="424" type="line"/>
+      <point x="482" y="308" type="line"/>
     </contour>
     <contour>
-      <point x="32" y="104" type="line"/>
-      <point x="468" y="104" type="line"/>
-      <point x="468" y="0" type="line"/>
-      <point x="32" y="0" type="line"/>
+      <point x="36" y="116" type="line"/>
+      <point x="524" y="116" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="36" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

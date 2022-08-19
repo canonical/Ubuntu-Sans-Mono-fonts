@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caron.asc" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <outline>
     <contour>
-      <point x="390" y="677" type="line"/>
-      <point x="529" y="781" type="line"/>
-      <point x="495" y="829" type="line"/>
-      <point x="400" y="773" type="line"/>
-      <point x="328" y="829" type="line"/>
-      <point x="283" y="787" type="line"/>
+      <point x="437" y="758" type="line"/>
+      <point x="592" y="875" type="line"/>
+      <point x="554" y="928" type="line"/>
+      <point x="448" y="866" type="line"/>
+      <point x="367" y="928" type="line"/>
+      <point x="317" y="881" type="line"/>
     </contour>
   </outline>
 </glyph>

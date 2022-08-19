@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lambda" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="039B"/>
   <outline>
     <contour>
-      <point x="-5" y="0" type="curve"/>
-      <point x="122" y="0" type="line"/>
-      <point x="174" y="128"/>
-      <point x="274" y="355"/>
-      <point x="346" y="494" type="curve"/>
-      <point x="356" y="348"/>
-      <point x="354" y="144"/>
-      <point x="349" y="0" type="curve"/>
-      <point x="475" y="0" type="line"/>
-      <point x="482" y="119"/>
-      <point x="463" y="464"/>
-      <point x="442" y="619" type="curve"/>
-      <point x="311" y="619" type="line"/>
-      <point x="181" y="407"/>
-      <point x="63" y="159"/>
+      <point x="-6" y="0" type="curve"/>
+      <point x="137" y="0" type="line"/>
+      <point x="195" y="143"/>
+      <point x="307" y="398"/>
+      <point x="388" y="553" type="curve"/>
+      <point x="399" y="390"/>
+      <point x="396" y="161"/>
+      <point x="391" y="0" type="curve"/>
+      <point x="532" y="0" type="line"/>
+      <point x="540" y="133"/>
+      <point x="519" y="520"/>
+      <point x="495" y="693" type="curve"/>
+      <point x="348" y="693" type="line"/>
+      <point x="203" y="456"/>
+      <point x="71" y="178"/>
     </contour>
   </outline>
 </glyph>

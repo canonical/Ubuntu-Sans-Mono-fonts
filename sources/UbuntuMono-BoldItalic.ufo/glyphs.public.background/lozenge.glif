@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <outline>
+    <contour>
+      <point x="100" y="356" type="qcurve"/>
+      <point x="148" y="411"/>
+      <point x="232" y="505"/>
+      <point x="310" y="590"/>
+      <point x="385" y="671"/>
+      <point x="424" y="711" type="qcurve"/>
+      <point x="464" y="629"/>
+      <point x="539" y="449"/>
+      <point x="584" y="338" type="qcurve"/>
+      <point x="535" y="283"/>
+      <point x="451" y="189"/>
+      <point x="373" y="104"/>
+      <point x="298" y="24"/>
+      <point x="259" y="-17" type="qcurve"/>
+      <point x="220" y="65"/>
+      <point x="142" y="245"/>
+    </contour>
+    <contour>
+      <point x="445" y="355" type="qcurve"/>
+      <point x="428" y="398"/>
+      <point x="402" y="461"/>
+      <point x="385" y="497" type="qcurve"/>
+      <point x="353" y="461"/>
+      <point x="276" y="380"/>
+      <point x="240" y="335" type="qcurve"/>
+      <point x="255" y="290"/>
+      <point x="281" y="227"/>
+      <point x="298" y="192" type="qcurve"/>
+      <point x="330" y="227"/>
+      <point x="409" y="309"/>
+    </contour>
+  </outline>
+</glyph>

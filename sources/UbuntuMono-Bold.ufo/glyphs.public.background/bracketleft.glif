@@ -2,14 +2,14 @@
 <glyph name="bracketleft" format="2">
   <outline>
     <contour>
-      <point x="113" y="699" type="line"/>
-      <point x="390" y="699" type="line"/>
-      <point x="390" y="603" type="line"/>
-      <point x="230" y="603" type="line"/>
-      <point x="230" y="-69" type="line"/>
-      <point x="390" y="-69" type="line"/>
-      <point x="390" y="-165" type="line"/>
-      <point x="113" y="-165" type="line"/>
+      <point x="127" y="783" type="line"/>
+      <point x="437" y="783" type="line"/>
+      <point x="437" y="675" type="line"/>
+      <point x="258" y="675" type="line"/>
+      <point x="258" y="-77" type="line"/>
+      <point x="437" y="-77" type="line"/>
+      <point x="437" y="-185" type="line"/>
+      <point x="127" y="-185" type="line"/>
     </contour>
   </outline>
 </glyph>

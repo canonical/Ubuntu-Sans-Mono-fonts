@@ -14,7 +14,18 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3131</string>
+    <string>3134</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
+    <dict>
+      <key>showAngle</key>
+      <integer>1</integer>
+      <key>showCoordinates</key>
+      <integer>1</integer>
+      <key>sortBy</key>
+      <string></string>
+      <key>tagPrefix</key>
+      <string>guide_</string>
+    </dict>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Extension Kerning</key>
     <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.Variable Font Origin</key>
@@ -26,11 +37,9 @@
     <key>com.schriftgestaltung.customParameter.GSFont.blueFuzz</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
-    <true/>
+    <false/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
     <integer>0</integer>
-    <key>com.schriftgestaltung.customParameter.GSFont.versionString</key>
-    <string>Version %d.%2d</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>
@@ -1626,8 +1635,28 @@
       <string>uni2113</string>
       <key>afii61352</key>
       <string>uni2116</string>
+      <key>brevecomb</key>
+      <string>uni0306</string>
+      <key>brevecomb.cyr</key>
+      <string>uni0306.cyr</string>
+      <key>caroncomb</key>
+      <string>uni030C</string>
+      <key>caroncomb.alt</key>
+      <string>uni030C.alt</string>
+      <key>cedillacomb</key>
+      <string>uni0327</string>
+      <key>circumflexcomb</key>
+      <string>uni0302</string>
       <key>commaaccent</key>
       <string>uni0326</string>
+      <key>commaaccentcomb</key>
+      <string>uni0326</string>
+      <key>commaturnedabovecomb</key>
+      <string>uni0312</string>
+      <key>dieresiscomb</key>
+      <string>uni0308</string>
+      <key>dotaccentcomb</key>
+      <string>uni0307</string>
       <key>dotlessj</key>
       <string>uni0237</string>
       <key>eightinferior</key>
@@ -1658,10 +1687,14 @@
       <string>uni2074</string>
       <key>gcommaaccent</key>
       <string>uni0123</string>
+      <key>hungarumlautcomb</key>
+      <string>uni030B</string>
       <key>kcommaaccent</key>
       <string>uni0137</string>
       <key>lcommaaccent</key>
       <string>uni013C</string>
+      <key>macroncomb</key>
+      <string>uni0304</string>
       <key>mu</key>
       <string>uni03BC</string>
       <key>ncommaaccent</key>
@@ -1670,6 +1703,8 @@
       <string>uni2089</string>
       <key>ninesuperior</key>
       <string>uni2079</string>
+      <key>ogonekcomb</key>
+      <string>uni0328</string>
       <key>onefifth</key>
       <string>uni2155</string>
       <key>oneinferior</key>
@@ -1686,6 +1721,8 @@
       <string>uni2153</string>
       <key>rcommaaccent</key>
       <string>uni0157</string>
+      <key>ringcomb</key>
+      <string>uni030A</string>
       <key>scommaaccent</key>
       <string>uni0219</string>
       <key>seveninferior</key>

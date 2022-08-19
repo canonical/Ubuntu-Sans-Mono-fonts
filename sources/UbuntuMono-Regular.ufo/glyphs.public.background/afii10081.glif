@@ -2,14 +2,14 @@
 <glyph name="afii10081" format="2">
   <outline>
     <contour>
-      <point x="429" y="0" type="line"/>
-      <point x="346" y="0" type="line"/>
-      <point x="346" y="395" type="line"/>
-      <point x="154" y="395" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="71" y="0" type="line"/>
-      <point x="71" y="464" type="line"/>
-      <point x="429" y="464" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="442" type="line"/>
+      <point x="172" y="442" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="520" type="line"/>
+      <point x="480" y="520" type="line"/>
     </contour>
   </outline>
 </glyph>

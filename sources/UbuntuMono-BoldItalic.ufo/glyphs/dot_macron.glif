@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dot_macron" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <outline>
     <contour>
-      <point x="259" y="661" type="line"/>
-      <point x="491" y="661" type="line"/>
-      <point x="508" y="732" type="line"/>
-      <point x="276" y="732" type="line"/>
+      <point x="290" y="740" type="line"/>
+      <point x="550" y="740" type="line"/>
+      <point x="569" y="820" type="line"/>
+      <point x="309" y="820" type="line"/>
     </contour>
     <contour>
-      <point x="350" y="523" type="curve" smooth="yes"/>
-      <point x="379" y="523"/>
-      <point x="411" y="550"/>
-      <point x="411" y="585" type="curve" smooth="yes"/>
-      <point x="411" y="616"/>
-      <point x="388" y="636"/>
-      <point x="360" y="636" type="curve" smooth="yes"/>
-      <point x="330" y="636"/>
-      <point x="300" y="611"/>
-      <point x="300" y="572" type="curve" smooth="yes"/>
-      <point x="300" y="543"/>
-      <point x="322" y="523"/>
+      <point x="392" y="586" type="curve" smooth="yes"/>
+      <point x="424" y="586"/>
+      <point x="460" y="616"/>
+      <point x="460" y="655" type="curve" smooth="yes"/>
+      <point x="460" y="690"/>
+      <point x="435" y="712"/>
+      <point x="403" y="712" type="curve" smooth="yes"/>
+      <point x="370" y="712"/>
+      <point x="336" y="684"/>
+      <point x="336" y="641" type="curve" smooth="yes"/>
+      <point x="336" y="608"/>
+      <point x="361" y="586"/>
     </contour>
   </outline>
 </glyph>

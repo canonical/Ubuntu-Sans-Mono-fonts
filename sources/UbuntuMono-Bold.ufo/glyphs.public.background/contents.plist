@@ -368,6 +368,8 @@
     <string>breve.glif</string>
     <key>breve_inverted</key>
     <string>breve_inverted.glif</string>
+    <key>brevecomb.cyr</key>
+    <string>brevecomb.cyr.glif</string>
     <key>brokenbar</key>
     <string>brokenbar.glif</string>
     <key>bullet</key>
@@ -564,8 +566,6 @@
     <string>kgreenlandic.glif</string>
     <key>kgreenlandic.case</key>
     <string>kgreenlandic.case.glif</string>
-    <key>kratka</key>
-    <string>kratka.glif</string>
     <key>l</key>
     <string>l.glif</string>
     <key>lacute</key>

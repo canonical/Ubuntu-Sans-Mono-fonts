@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F32" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="1F32"/>
-  <anchor x="224" y="699" name="top"/>
+  <anchor x="251" y="783" name="top"/>
   <outline>
     <component base="iota"/>
-    <component base="uni1FCD" xOffset="-26"/>
+    <component base="uni1FCD" xOffset="-29"/>
   </outline>
   <lib>
     <dict>

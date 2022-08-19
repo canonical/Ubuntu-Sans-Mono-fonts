@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <guideline x="98" y="0" angle="0"/>
+  <guideline x="475" y="0" angle="0"/>
+  <guideline y="39"/>
+  <guideline y="255"/>
+  <guideline y="474"/>
+  <outline>
+    <contour>
+      <point x="114" y="349" type="line"/>
+      <point x="588" y="531" type="line"/>
+      <point x="598" y="408" type="line"/>
+      <point x="251" y="287" type="line"/>
+      <point x="536" y="156" type="line"/>
+      <point x="479" y="49" type="line"/>
+      <point x="87" y="239" type="line"/>
+    </contour>
+  </outline>
+</glyph>

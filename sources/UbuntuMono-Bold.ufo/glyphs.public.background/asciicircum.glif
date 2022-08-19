@@ -2,13 +2,13 @@
 <glyph name="asciicircum" format="2">
   <outline>
     <contour>
-      <point x="491" y="309" type="line"/>
-      <point x="380" y="255" type="line"/>
-      <point x="254" y="473" type="line"/>
-      <point x="128" y="255" type="line"/>
-      <point x="16" y="309" type="line"/>
-      <point x="201" y="619" type="line"/>
-      <point x="306" y="619" type="line"/>
+      <point x="550" y="346" type="line"/>
+      <point x="426" y="286" type="line"/>
+      <point x="284" y="530" type="line"/>
+      <point x="143" y="286" type="line"/>
+      <point x="18" y="346" type="line"/>
+      <point x="225" y="693" type="line"/>
+      <point x="343" y="693" type="line"/>
     </contour>
   </outline>
 </glyph>

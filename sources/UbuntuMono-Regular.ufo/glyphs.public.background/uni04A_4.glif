@@ -2,20 +2,20 @@
 <glyph name="uni04A4" format="2">
   <outline>
     <contour>
-      <point x="482" y="619" type="line"/>
-      <point x="482" y="549" type="line"/>
-      <point x="388" y="549" type="line"/>
-      <point x="388" y="0" type="line"/>
-      <point x="306" y="0" type="line"/>
-      <point x="306" y="288" type="line"/>
-      <point x="127" y="288" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="45" y="0" type="line"/>
-      <point x="45" y="619" type="line"/>
-      <point x="127" y="619" type="line"/>
-      <point x="127" y="358" type="line"/>
-      <point x="306" y="358" type="line"/>
-      <point x="306" y="619" type="line"/>
+      <point x="540" y="693" type="line"/>
+      <point x="540" y="615" type="line"/>
+      <point x="435" y="615" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="323" type="line"/>
+      <point x="142" y="323" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="693" type="line"/>
+      <point x="142" y="693" type="line"/>
+      <point x="142" y="401" type="line"/>
+      <point x="343" y="401" type="line"/>
+      <point x="343" y="693" type="line"/>
     </contour>
   </outline>
 </glyph>

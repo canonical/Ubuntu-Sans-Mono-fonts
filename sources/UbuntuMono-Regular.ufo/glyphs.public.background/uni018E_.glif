@@ -2,18 +2,18 @@
 <glyph name="uni018E" format="2">
   <outline>
     <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="40" y="70" type="line"/>
-      <point x="327" y="70" type="line"/>
-      <point x="327" y="289" type="line"/>
-      <point x="95" y="289" type="line"/>
-      <point x="95" y="359" type="line"/>
-      <point x="327" y="359" type="line"/>
-      <point x="327" y="549" type="line"/>
-      <point x="63" y="549" type="line"/>
-      <point x="63" y="619" type="line"/>
-      <point x="409" y="619" type="line"/>
-      <point x="409" y="0" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="78" type="line"/>
+      <point x="366" y="78" type="line"/>
+      <point x="366" y="324" type="line"/>
+      <point x="106" y="324" type="line"/>
+      <point x="106" y="402" type="line"/>
+      <point x="366" y="402" type="line"/>
+      <point x="366" y="615" type="line"/>
+      <point x="71" y="615" type="line"/>
+      <point x="71" y="693" type="line"/>
+      <point x="458" y="693" type="line"/>
+      <point x="458" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

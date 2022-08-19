@@ -2,26 +2,26 @@
 <glyph name="comma" format="2">
   <outline>
     <contour>
-      <point x="149" y="-79" type="line"/>
-      <point x="167" y="-75"/>
-      <point x="202" y="-67"/>
-      <point x="232" y="-52"/>
-      <point x="256" y="-29"/>
-      <point x="263" y="-9" type="qcurve"/>
-      <point x="231" y="-6"/>
-      <point x="202" y="37"/>
-      <point x="202" y="58" type="qcurve"/>
-      <point x="202" y="98"/>
-      <point x="247" y="139"/>
-      <point x="276" y="139" type="qcurve"/>
-      <point x="313" y="139"/>
-      <point x="351" y="86"/>
-      <point x="351" y="48" type="qcurve"/>
-      <point x="351" y="19"/>
-      <point x="328" y="-44"/>
-      <point x="281" y="-99"/>
-      <point x="211" y="-138"/>
-      <point x="163" y="-144" type="qcurve"/>
+      <point x="167" y="-88" type="line"/>
+      <point x="187" y="-84"/>
+      <point x="226" y="-75"/>
+      <point x="260" y="-58"/>
+      <point x="287" y="-32"/>
+      <point x="295" y="-10" type="qcurve"/>
+      <point x="259" y="-7"/>
+      <point x="226" y="41"/>
+      <point x="226" y="65" type="qcurve"/>
+      <point x="226" y="110"/>
+      <point x="277" y="156"/>
+      <point x="309" y="156" type="qcurve"/>
+      <point x="351" y="156"/>
+      <point x="393" y="96"/>
+      <point x="393" y="54" type="qcurve"/>
+      <point x="393" y="21"/>
+      <point x="367" y="-49"/>
+      <point x="315" y="-111"/>
+      <point x="236" y="-155"/>
+      <point x="183" y="-161" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

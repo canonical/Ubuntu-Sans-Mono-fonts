@@ -2,33 +2,33 @@
 <glyph name="Kappa" format="2">
   <outline>
     <contour>
-      <point x="443" y="619" type="line"/>
-      <point x="413" y="569"/>
-      <point x="361" y="492"/>
-      <point x="311" y="424"/>
-      <point x="259" y="362"/>
-      <point x="228" y="328" type="qcurve"/>
-      <point x="258" y="301"/>
-      <point x="324" y="230"/>
-      <point x="387" y="145"/>
-      <point x="443" y="50"/>
-      <point x="464" y="0" type="qcurve"/>
-      <point x="371" y="0" type="line"/>
-      <point x="349" y="46"/>
-      <point x="297" y="134"/>
-      <point x="239" y="212"/>
-      <point x="177" y="275"/>
-      <point x="146" y="298" type="qcurve"/>
-      <point x="146" y="0" type="line"/>
-      <point x="64" y="0" type="line"/>
-      <point x="64" y="619" type="line"/>
-      <point x="146" y="619" type="line"/>
-      <point x="146" y="343" type="line"/>
-      <point x="174" y="375"/>
-      <point x="231" y="445"/>
-      <point x="283" y="516"/>
-      <point x="329" y="586"/>
-      <point x="348" y="619" type="qcurve"/>
+      <point x="496" y="693" type="line"/>
+      <point x="463" y="637"/>
+      <point x="404" y="551"/>
+      <point x="348" y="475"/>
+      <point x="290" y="405"/>
+      <point x="255" y="367" type="qcurve"/>
+      <point x="289" y="337"/>
+      <point x="363" y="258"/>
+      <point x="433" y="162"/>
+      <point x="496" y="56"/>
+      <point x="520" y="0" type="qcurve"/>
+      <point x="416" y="0" type="line"/>
+      <point x="391" y="52"/>
+      <point x="333" y="150"/>
+      <point x="268" y="237"/>
+      <point x="198" y="308"/>
+      <point x="164" y="334" type="qcurve"/>
+      <point x="164" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="72" y="693" type="line"/>
+      <point x="164" y="693" type="line"/>
+      <point x="164" y="384" type="line"/>
+      <point x="195" y="420"/>
+      <point x="259" y="498"/>
+      <point x="317" y="578"/>
+      <point x="368" y="656"/>
+      <point x="390" y="693" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

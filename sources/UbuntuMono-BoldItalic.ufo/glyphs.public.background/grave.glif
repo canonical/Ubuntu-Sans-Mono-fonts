@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <guideline y="513"/>
+  <guideline y="691"/>
+  <guideline y="693"/>
+  <outline>
+    <contour>
+      <point x="335" y="774" type="line"/>
+      <point x="512" y="642" type="line"/>
+      <point x="461" y="567" type="line"/>
+      <point x="267" y="669" type="line"/>
+    </contour>
+  </outline>
+</glyph>

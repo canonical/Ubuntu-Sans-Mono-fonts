@@ -2,32 +2,32 @@
 <glyph name="dieresis" format="2">
   <outline>
     <contour>
-      <point x="152" y="538" type="qcurve"/>
-      <point x="124" y="538"/>
-      <point x="83" y="573"/>
-      <point x="83" y="605" type="qcurve"/>
-      <point x="83" y="637"/>
-      <point x="124" y="673"/>
-      <point x="152" y="673" type="qcurve"/>
-      <point x="179" y="673"/>
-      <point x="221" y="637"/>
-      <point x="221" y="605" type="qcurve"/>
-      <point x="221" y="573"/>
-      <point x="179" y="538"/>
+      <point x="170" y="603" type="qcurve"/>
+      <point x="139" y="603"/>
+      <point x="93" y="642"/>
+      <point x="93" y="678" type="qcurve"/>
+      <point x="93" y="713"/>
+      <point x="139" y="754"/>
+      <point x="170" y="754" type="qcurve"/>
+      <point x="200" y="754"/>
+      <point x="248" y="713"/>
+      <point x="248" y="678" type="qcurve"/>
+      <point x="248" y="642"/>
+      <point x="200" y="603"/>
     </contour>
     <contour>
-      <point x="351" y="538" type="qcurve"/>
-      <point x="323" y="538"/>
-      <point x="282" y="573"/>
-      <point x="282" y="605" type="qcurve"/>
-      <point x="282" y="637"/>
-      <point x="323" y="673"/>
-      <point x="351" y="673" type="qcurve"/>
-      <point x="379" y="673"/>
-      <point x="420" y="637"/>
-      <point x="420" y="605" type="qcurve"/>
-      <point x="420" y="573"/>
-      <point x="379" y="538"/>
+      <point x="393" y="603" type="qcurve"/>
+      <point x="362" y="603"/>
+      <point x="316" y="642"/>
+      <point x="316" y="678" type="qcurve"/>
+      <point x="316" y="713"/>
+      <point x="362" y="754"/>
+      <point x="393" y="754" type="qcurve"/>
+      <point x="424" y="754"/>
+      <point x="470" y="713"/>
+      <point x="470" y="678" type="qcurve"/>
+      <point x="470" y="642"/>
+      <point x="424" y="603"/>
     </contour>
   </outline>
 </glyph>

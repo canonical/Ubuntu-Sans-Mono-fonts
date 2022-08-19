@@ -2,13 +2,13 @@
 <glyph name="less" format="2">
   <outline>
     <contour>
-      <point x="45" y="313" type="line"/>
-      <point x="429" y="474" type="line"/>
-      <point x="463" y="366" type="line"/>
-      <point x="183" y="257" type="line"/>
-      <point x="463" y="148" type="line"/>
-      <point x="429" y="40" type="line"/>
-      <point x="45" y="202" type="line"/>
+      <point x="50" y="351" type="line"/>
+      <point x="480" y="531" type="line"/>
+      <point x="519" y="410" type="line"/>
+      <point x="205" y="288" type="line"/>
+      <point x="519" y="166" type="line"/>
+      <point x="480" y="45" type="line"/>
+      <point x="50" y="226" type="line"/>
     </contour>
   </outline>
 </glyph>

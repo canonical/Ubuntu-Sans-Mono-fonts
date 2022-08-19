@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10052" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="0403"/>
   <outline>
     <component base="afii10020"/>
-    <component base="acute" xOffset="80" yOffset="139"/>
+    <component base="acute" xOffset="90" yOffset="156"/>
   </outline>
   <lib>
     <dict>

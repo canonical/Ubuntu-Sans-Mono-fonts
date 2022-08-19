@@ -2,10 +2,10 @@
 <glyph name="uni1FEF" format="2">
   <outline>
     <contour>
-      <point x="199" y="693" type="line"/>
-      <point x="347" y="564" type="line"/>
-      <point x="312" y="518" type="line"/>
-      <point x="152" y="631" type="line"/>
+      <point x="223" y="776" type="line"/>
+      <point x="389" y="632" type="line"/>
+      <point x="349" y="580" type="line"/>
+      <point x="170" y="707" type="line"/>
     </contour>
   </outline>
 </glyph>

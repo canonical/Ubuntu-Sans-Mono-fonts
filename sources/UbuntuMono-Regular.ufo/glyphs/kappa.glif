@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kappa" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="03BA"/>
   <outline>
     <contour>
-      <point x="71" y="0" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="154" y="223" type="line"/>
-      <point x="221" y="179"/>
-      <point x="330" y="83"/>
-      <point x="380" y="0" type="curve"/>
-      <point x="478" y="0" type="line"/>
-      <point x="430" y="83"/>
-      <point x="309" y="202"/>
-      <point x="238" y="255" type="curve"/>
-      <point x="315" y="321"/>
-      <point x="403" y="396"/>
-      <point x="460" y="464" type="curve"/>
-      <point x="363" y="464" type="line"/>
-      <point x="305" y="396"/>
-      <point x="227" y="334"/>
-      <point x="154" y="270" type="curve"/>
-      <point x="154" y="464" type="line"/>
-      <point x="71" y="464" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="172" y="250" type="line"/>
+      <point x="248" y="200"/>
+      <point x="370" y="93"/>
+      <point x="426" y="0" type="curve"/>
+      <point x="535" y="0" type="line"/>
+      <point x="482" y="93"/>
+      <point x="346" y="226"/>
+      <point x="267" y="286" type="curve"/>
+      <point x="353" y="360"/>
+      <point x="451" y="444"/>
+      <point x="515" y="520" type="curve"/>
+      <point x="407" y="520" type="line"/>
+      <point x="342" y="444"/>
+      <point x="254" y="374"/>
+      <point x="172" y="302" type="curve"/>
+      <point x="172" y="520" type="line"/>
+      <point x="80" y="520" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sevensuperior" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="2077"/>
   <outline>
     <contour>
-      <point x="219" y="270" type="curve"/>
-      <point x="317" y="270" type="line"/>
-      <point x="336" y="367"/>
-      <point x="419" y="473"/>
-      <point x="504" y="551" type="curve"/>
-      <point x="522" y="626" type="line"/>
-      <point x="247" y="626" type="line"/>
-      <point x="227" y="540" type="line"/>
-      <point x="386" y="540" type="line"/>
-      <point x="292" y="455"/>
-      <point x="243" y="363"/>
+      <point x="245" y="302" type="curve"/>
+      <point x="355" y="302" type="line"/>
+      <point x="376" y="411"/>
+      <point x="469" y="530"/>
+      <point x="564" y="617" type="curve"/>
+      <point x="585" y="701" type="line"/>
+      <point x="277" y="701" type="line"/>
+      <point x="254" y="605" type="line"/>
+      <point x="432" y="605" type="line"/>
+      <point x="327" y="510"/>
+      <point x="272" y="407"/>
     </contour>
   </outline>
 </glyph>

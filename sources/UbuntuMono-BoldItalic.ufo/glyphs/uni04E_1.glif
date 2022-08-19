@@ -1,8 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04E1" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="04E1"/>
   <outline>
     <component base="uni0292"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.annotations</key>
+      <array>
+        <dict>
+          <key>position</key>
+          <array>
+            <real>496.545</real>
+            <real>230.731</real>
+          </array>
+          <key>type</key>
+          <string>Text</string>
+          <key>width</key>
+          <integer>100</integer>
+        </dict>
+        <dict>
+          <key>position</key>
+          <array>
+            <real>463.226</real>
+            <real>178.386</real>
+          </array>
+          <key>type</key>
+          <string>Text</string>
+          <key>width</key>
+          <integer>100</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

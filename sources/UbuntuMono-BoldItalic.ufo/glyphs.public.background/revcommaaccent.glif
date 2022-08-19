@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="revcommaaccent" format="2">
+  <outline>
+    <contour>
+      <point x="329" y="599" type="line"/>
+      <point x="330" y="606"/>
+      <point x="332" y="619"/>
+      <point x="334" y="626" type="qcurve"/>
+      <point x="352" y="697"/>
+      <point x="432" y="776"/>
+      <point x="500" y="793" type="qcurve"/>
+      <point x="535" y="728" type="line"/>
+      <point x="498" y="713"/>
+      <point x="458" y="657"/>
+      <point x="451" y="599" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

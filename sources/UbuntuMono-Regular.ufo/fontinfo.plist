@@ -16,11 +16,11 @@
     <array>
       <dict>
         <key>y</key>
-        <integer>-170</integer>
+        <integer>-190</integer>
       </dict>
       <dict>
         <key>y</key>
-        <integer>830</integer>
+        <integer>930</integer>
       </dict>
     </array>
     <key>italicAngle</key>
@@ -28,11 +28,11 @@
     <key>openTypeHeadCreated</key>
     <string>2022/06/07 18:37:36</string>
     <key>openTypeHheaAscender</key>
-    <integer>830</integer>
+    <integer>932</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-170</integer>
+    <integer>-189</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>0</integer>
+    <integer>28</integer>
     <key>openTypeNameDesigner</key>
     <string>Dalton Maag Ltd</string>
     <key>openTypeNameDesignerURL</key>
@@ -60,7 +60,7 @@
       <integer>2</integer>
       <integer>11</integer>
       <integer>3</integer>
-      <integer>4</integer>
+      <integer>9</integer>
       <integer>3</integer>
       <integer>6</integer>
       <integer>2</integer>
@@ -71,15 +71,15 @@
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>250</integer>
     <key>openTypeOS2StrikeoutSize</key>
-    <integer>50</integer>
+    <integer>79</integer>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>693</integer>
+    <integer>776</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-165</integer>
+    <integer>-185</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>49</integer>
+    <integer>56</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>
@@ -106,17 +106,19 @@
     <key>openTypeOS2VendorID</key>
     <string>DAMA</string>
     <key>openTypeOS2WinAscent</key>
-    <integer>830</integer>
+    <integer>932</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>170</integer>
+    <integer>189</integer>
     <key>postscriptBlueScale</key>
     <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
+    <key>postscriptIsFixedPitch</key>
+    <true/>
     <key>postscriptUnderlinePosition</key>
-    <integer>-123</integer>
+    <integer>-138</integer>
     <key>postscriptUnderlineThickness</key>
-    <integer>20</integer>
+    <integer>79</integer>
     <key>styleName</key>
     <string>Regular</string>
     <key>trademark</key>

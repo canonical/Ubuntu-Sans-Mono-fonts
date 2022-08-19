@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotleft" format="2">
+  <advance width="560"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="412" y="91" type="line"/>
+      <point x="472" y="123" type="line"/>
+      <point x="416" y="279" type="line"/>
+      <point x="553" y="451" type="line"/>
+      <point x="501" y="491" type="line"/>
+      <point x="321" y="284" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="91" type="line"/>
+      <point x="270" y="123" type="line"/>
+      <point x="214" y="279" type="line"/>
+      <point x="352" y="451" type="line"/>
+      <point x="300" y="491" type="line"/>
+      <point x="120" y="284" type="line"/>
+    </contour>
+  </outline>
+</glyph>

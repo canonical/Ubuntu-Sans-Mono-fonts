@@ -2,26 +2,26 @@
 <glyph name="breve_inverted" format="2">
   <outline>
     <contour>
-      <point x="250" y="675" type="qcurve"/>
-      <point x="281" y="675"/>
-      <point x="334" y="656"/>
-      <point x="373" y="619"/>
-      <point x="395" y="567"/>
-      <point x="395" y="534" type="qcurve"/>
-      <point x="395" y="527" type="line"/>
-      <point x="305" y="527" type="line"/>
-      <point x="302" y="565"/>
-      <point x="272" y="590"/>
-      <point x="250" y="590" type="qcurve"/>
-      <point x="228" y="590"/>
-      <point x="198" y="565"/>
-      <point x="196" y="527" type="qcurve"/>
-      <point x="105" y="527" type="line"/>
-      <point x="105" y="534" type="line"/>
-      <point x="105" y="567"/>
-      <point x="127" y="619"/>
-      <point x="166" y="656"/>
-      <point x="219" y="675"/>
+      <point x="280" y="756" type="qcurve"/>
+      <point x="315" y="756"/>
+      <point x="374" y="735"/>
+      <point x="418" y="693"/>
+      <point x="442" y="635"/>
+      <point x="442" y="598" type="qcurve"/>
+      <point x="442" y="590" type="line"/>
+      <point x="342" y="590" type="line"/>
+      <point x="338" y="633"/>
+      <point x="305" y="661"/>
+      <point x="280" y="661" type="qcurve"/>
+      <point x="255" y="661"/>
+      <point x="222" y="633"/>
+      <point x="220" y="590" type="qcurve"/>
+      <point x="118" y="590" type="line"/>
+      <point x="118" y="598" type="line"/>
+      <point x="118" y="635"/>
+      <point x="142" y="693"/>
+      <point x="186" y="735"/>
+      <point x="245" y="756"/>
     </contour>
   </outline>
 </glyph>

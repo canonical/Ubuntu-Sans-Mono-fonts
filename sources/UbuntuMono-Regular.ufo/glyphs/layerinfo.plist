@@ -470,6 +470,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.acute.asc</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.acutecomb</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.adieresis</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ae</key>
@@ -724,6 +726,10 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.breve_inverted</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb.cyr</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.brokenbar</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.bullet</key>
@@ -740,6 +746,10 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.caron.asc</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.caroncomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.caroncomb.alt</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ccaron</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ccedilla</key>
@@ -750,6 +760,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.cedilla</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.cedillacomb</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.cent</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.chi</key>
@@ -758,11 +770,17 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.circumflex.asc</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflexcomb</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.colon</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.comma</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.commaaccent</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.commaaccentcomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.commaturnedabovecomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.copyright</key>
       <integer>0</integer>
@@ -798,6 +816,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresis_macron</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dieresistonos</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.divide</key>
@@ -809,6 +829,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.dot_macron</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotaccent</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.dotlessi</key>
       <integer>0</integer>
@@ -940,6 +962,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.grave</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.gravecomb</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.greater</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.greaterequal</key>
@@ -959,6 +983,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.hcircumflex</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hungarumlaut</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hungarumlautcomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.hyphen</key>
       <integer>0</integer>
@@ -1010,8 +1036,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.kgreenlandic.case</key>
       <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.kratka</key>
-      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.l</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.lacute</key>
@@ -1041,6 +1065,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.m</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.macron</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.macroncomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.minus</key>
       <integer>0</integer>
@@ -1093,6 +1119,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.oe</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ogonek</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ogonekcomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ograve</key>
       <integer>0</integer>
@@ -1218,6 +1246,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ring_acute</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ringcomb</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.rouble</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.s</key>
@@ -1311,6 +1341,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde_macron</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tildecomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tonos</key>
       <integer>0</integer>
@@ -1751,6 +1783,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.uni0292</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni02C9</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni030F</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni0394</key>
       <integer>0</integer>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni01DB" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="01DB"/>
   <outline>
     <component base="U"/>
-    <component base="dieresis_grave.cap" xOffset="-6"/>
+    <component base="dieresis_grave.cap" xOffset="-7"/>
   </outline>
   <lib>
     <dict>

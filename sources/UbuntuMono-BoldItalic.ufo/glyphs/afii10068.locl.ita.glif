@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10068.locl.ita" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="macron" xOffset="-54"/>
+    <component base="macron" xOffset="-60"/>
   </outline>
   <lib>
     <dict>
