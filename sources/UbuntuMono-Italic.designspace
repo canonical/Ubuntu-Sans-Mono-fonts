@@ -10,7 +10,7 @@
 
   <!-- Sources -->
   <sources>
-    <source filename="UbuntuMono-RegularItalic.ufo" name="Ubuntu Mono Italic" familyname="Ubuntu Mono Italic" stylename="Regular">
+    <source filename="UbuntuMono-Italic.ufo" name="Ubuntu Mono Italic" familyname="Ubuntu Mono Italic" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>

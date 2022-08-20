@@ -9,11 +9,11 @@ paths = sys.argv[1:]
 
 for path in paths:
     path = path.strip('\"')
+    print(path)
     f = TTFont(path)
 
 
-    findName = f['name'].getName(25, 1, 0, 0).toUnicode()
-    #print('find', findName)
+    findNames = ['UbuntuMono', 'Ubuntu Mono', 'Ubuntu']
     versionName = f['name'].getName(3, 3, 1, 0x409).toUnicode()
     versionNumber = versionName.split(';')[0]
     varNoSpace = 'Beta'+versionNumber
@@ -21,12 +21,23 @@ for path in paths:
 
 
     for namerecord in f['name'].names:
-        new = namerecord.toUnicode().replace(findName, findName+varNoSpace)
+        new = namerecord.toUnicode()
+        for findName in findNames:
+            if findName in new:
+                new = new.replace(findName, findName+varNoSpace)
+                break
         if new:
             #print('Changing name', namerecord.toUnicode(), 'to', new )
             f['name'].setName(new, namerecord.nameID, namerecord.platformID, namerecord.platEncID, namerecord.langID)
     
     #os.remove(path)
     basePath, fileName = os.path.split(path)
-    newPath = os.path.join(basePath, fileName.replace(findName, findName+varNoSpace))
+    
+    newFileName = fileName
+    for findName in findNames:
+        if findName in newFileName:
+            newFileName = newFileName.replace(findName, findName+varNoSpace)
+            break
+    newPath = os.path.join(basePath, newFileName)
+    print('\t', newPath)
     f.save(newPath)

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="iota" format="2">
-  <advance width="500"/>
-  <unicode hex="03B9"/>
-  <outline>
-    <component base="dotlessi"/>
-  </outline>
-</glyph>
