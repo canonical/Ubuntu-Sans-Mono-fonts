@@ -10,7 +10,7 @@
 
   <!-- Sources -->
   <sources>
-    <source filename="UbuntuMono-RegularItalic.ufo" name="Ubuntu Mono Italic" familyname="Ubuntu Mono Italic" stylename="Regular">
+    <source filename="UbuntuMono-Italic.ufo" name="Ubuntu Mono Italic" familyname="Ubuntu Mono" stylename="Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -19,7 +19,7 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="UbuntuMono-BoldItalic.ufo" name="Ubuntu Mono Italic Bold" familyname="Ubuntu Mono Italic" stylename="Bold">
+    <source filename="UbuntuMono-BoldItalic.ufo" name="Ubuntu Mono Bold Italic" familyname="Ubuntu Mono" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="700"/>
       </location>
@@ -28,17 +28,17 @@
 
   <!-- Instances -->
   <instances>
-    <instance name="Ubuntu Mono Italic" familyname="Ubuntu Mono Italic" stylename="Italic" filename="../instance_ufo/UbuntuMono-Italic.ufo" stylemapfamilyname="Ubuntu Mono Italic" stylemapstylename="italic">
+    <instance name="Ubuntu Mono Italic" familyname="Ubuntu Mono" stylename="Italic" filename="../instance_ufo/UbuntuMono-Italic.ufo" stylemapfamilyname="Ubuntu Mono" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
     </instance>
-    <instance name="Ubuntu Mono Medium Italic" familyname="Ubuntu Mono Italic" stylename="Medium Italic" filename="../instance_ufo/UbuntuMono-MediumItalic.ufo" stylemapfamilyname="Ubuntu Mono Italic Medium" stylemapstylename="italic">
+    <instance name="Ubuntu Mono Medium Italic" familyname="Ubuntu Mono" stylename="Medium Italic" filename="../instance_ufo/UbuntuMono-MediumItalic.ufo" stylemapfamilyname="Ubuntu Mono Medium" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="564"/>
       </location>
     </instance>
-    <instance name="Ubuntu Mono Bold Italic" familyname="Ubuntu Mono Italic" stylename="Bold Italic" filename="../instance_ufo/UbuntuMono-BoldItalic.ufo" stylemapfamilyname="Ubuntu Mono Italic" stylemapstylename="bold italic">
+    <instance name="Ubuntu Mono Bold Italic" familyname="Ubuntu Mono" stylename="Bold Italic" filename="../instance_ufo/UbuntuMono-BoldItalic.ufo" stylemapfamilyname="Ubuntu Mono" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="700"/>
       </location>

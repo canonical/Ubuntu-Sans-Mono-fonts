@@ -1,8 +1,0 @@
-table GDEF {
-  # automatic
-  GlyphClassDef
-    , # Base
-    , # Liga
-    [breve_inverted commaaccent], # Mark
-    ;
-} GDEF;

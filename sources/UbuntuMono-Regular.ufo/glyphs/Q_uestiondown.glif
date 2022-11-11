@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Questiondown" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <outline>
-    <component base="questiondown" yOffset="162"/>
+    <component base="questiondown" yOffset="181"/>
   </outline>
 </glyph>

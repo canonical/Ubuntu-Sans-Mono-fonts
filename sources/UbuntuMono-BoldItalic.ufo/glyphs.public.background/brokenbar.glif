@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <guideline x="170" y="0" angle="103.5"/>
+  <outline>
+    <contour>
+      <point x="283" y="386" type="line"/>
+      <point x="379" y="783" type="line"/>
+      <point x="516" y="783" type="line"/>
+      <point x="421" y="386" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="212" type="line"/>
+      <point x="284" y="-185" type="line"/>
+      <point x="146" y="-185" type="line"/>
+      <point x="241" y="212" type="line"/>
+    </contour>
+  </outline>
+</glyph>

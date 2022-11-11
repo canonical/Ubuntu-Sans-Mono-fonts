@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Slash" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <outline>
-    <component base="slash" yOffset="42"/>
+    <component base="slash" yOffset="47"/>
   </outline>
 </glyph>

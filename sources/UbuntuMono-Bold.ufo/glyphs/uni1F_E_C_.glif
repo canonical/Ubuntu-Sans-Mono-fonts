@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1FEC" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="1FEC"/>
-  <anchor x="250" y="0" name="bottom"/>
-  <anchor x="-90" y="639" name="top"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="-101" y="716" name="top"/>
   <outline>
     <component base="P"/>
-    <component base="uni1FFE" xOffset="-340" yOffset="-103"/>
+    <component base="uni1FFE" xOffset="-381" yOffset="-115"/>
   </outline>
   <lib>
     <dict>

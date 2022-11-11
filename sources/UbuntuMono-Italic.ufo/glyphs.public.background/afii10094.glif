@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10094" format="2">
+  <outline>
+    <contour>
+      <point x="348" y="333" type="qcurve"/>
+      <point x="439" y="333"/>
+      <point x="538" y="265"/>
+      <point x="538" y="192" type="qcurve"/>
+      <point x="538" y="136"/>
+      <point x="495" y="59"/>
+      <point x="421" y="10"/>
+      <point x="324" y="-11"/>
+      <point x="269" y="-11" type="qcurve"/>
+      <point x="215" y="-11"/>
+      <point x="120" y="0"/>
+      <point x="81" y="15" type="qcurve"/>
+      <point x="202" y="520" type="line"/>
+      <point x="295" y="520" type="line"/>
+      <point x="246" y="321" type="line"/>
+      <point x="265" y="327"/>
+      <point x="323" y="333"/>
+    </contour>
+    <contour>
+      <point x="186" y="69" type="line"/>
+      <point x="202" y="67"/>
+      <point x="241" y="63"/>
+      <point x="277" y="63" type="qcurve"/>
+      <point x="354" y="63"/>
+      <point x="448" y="122"/>
+      <point x="448" y="183" type="qcurve"/>
+      <point x="448" y="221"/>
+      <point x="390" y="259"/>
+      <point x="323" y="259" type="qcurve"/>
+      <point x="270" y="259"/>
+      <point x="228" y="250" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

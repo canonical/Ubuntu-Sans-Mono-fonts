@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="umacron" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="016B"/>
-  <anchor x="250" y="0" name="bottom"/>
-  <anchor x="450" y="10" name="ogonek"/>
-  <anchor x="250" y="520" name="top"/>
-  <anchor x="480" y="520" name="topright"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="504" y="11" name="ogonek"/>
+  <anchor x="280" y="582" name="top"/>
+  <anchor x="538" y="582" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="macron"/>

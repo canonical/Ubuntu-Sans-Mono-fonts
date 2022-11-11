@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="afii10193" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="045F"/>
   <outline>
     <contour>
-      <point x="192" y="-134" type="line"/>
-      <point x="306" y="-134" type="line"/>
-      <point x="306" y="0" type="line"/>
-      <point x="438" y="0" type="line"/>
-      <point x="438" y="470" type="line"/>
-      <point x="314" y="470" type="line"/>
-      <point x="314" y="102" type="line"/>
-      <point x="186" y="102" type="line"/>
-      <point x="186" y="470" type="line"/>
-      <point x="63" y="470" type="line"/>
-      <point x="63" y="0" type="line"/>
-      <point x="192" y="0" type="line"/>
+      <point x="215" y="-150" type="line"/>
+      <point x="343" y="-150" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="491" y="526" type="line"/>
+      <point x="352" y="526" type="line"/>
+      <point x="352" y="114" type="line"/>
+      <point x="208" y="114" type="line"/>
+      <point x="208" y="526" type="line"/>
+      <point x="71" y="526" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="215" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

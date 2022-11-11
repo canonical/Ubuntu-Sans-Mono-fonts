@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij" format="2">
+  <outline>
+    <contour>
+      <point x="213" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="202" y="526" type="line"/>
+      <point x="340" y="526" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="590" type="qcurve"/>
+      <point x="261" y="590"/>
+      <point x="216" y="628"/>
+      <point x="216" y="669" type="qcurve"/>
+      <point x="216" y="690"/>
+      <point x="232" y="727"/>
+      <point x="258" y="752"/>
+      <point x="291" y="766"/>
+      <point x="309" y="766" type="qcurve"/>
+      <point x="342" y="766"/>
+      <point x="390" y="728"/>
+      <point x="390" y="685" type="qcurve"/>
+      <point x="390" y="665"/>
+      <point x="373" y="629"/>
+      <point x="347" y="605"/>
+      <point x="314" y="590"/>
+    </contour>
+    <contour>
+      <point x="248" y="-185" type="qcurve"/>
+      <point x="220" y="-185"/>
+      <point x="176" y="-175"/>
+      <point x="153" y="-166" type="qcurve"/>
+      <point x="192" y="-48" type="line"/>
+      <point x="206" y="-54"/>
+      <point x="232" y="-59"/>
+      <point x="249" y="-59" type="qcurve"/>
+      <point x="284" y="-59"/>
+      <point x="321" y="-17"/>
+      <point x="330" y="24" type="qcurve"/>
+      <point x="451" y="526" type="line"/>
+      <point x="590" y="526" type="line"/>
+      <point x="468" y="19" type="line"/>
+      <point x="442" y="-84"/>
+      <point x="342" y="-185"/>
+    </contour>
+    <contour>
+      <point x="545" y="590" type="qcurve"/>
+      <point x="510" y="590"/>
+      <point x="465" y="628"/>
+      <point x="465" y="669" type="qcurve"/>
+      <point x="465" y="690"/>
+      <point x="480" y="727"/>
+      <point x="506" y="752"/>
+      <point x="540" y="766"/>
+      <point x="558" y="766" type="qcurve"/>
+      <point x="591" y="766"/>
+      <point x="640" y="728"/>
+      <point x="640" y="685" type="qcurve"/>
+      <point x="640" y="665"/>
+      <point x="623" y="629"/>
+      <point x="596" y="605"/>
+      <point x="562" y="590"/>
+    </contour>
+  </outline>
+</glyph>

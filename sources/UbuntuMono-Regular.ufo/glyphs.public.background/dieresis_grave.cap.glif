@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis_grave.cap" format="2">
+  <outline>
+    <contour>
+      <point x="253" y="930" type="line"/>
+      <point x="332" y="810" type="line"/>
+      <point x="287" y="772" type="line"/>
+      <point x="193" y="878" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="736" type="qcurve"/>
+      <point x="121" y="736"/>
+      <point x="90" y="766"/>
+      <point x="90" y="791" type="qcurve"/>
+      <point x="90" y="816"/>
+      <point x="121" y="846"/>
+      <point x="144" y="846" type="qcurve"/>
+      <point x="167" y="846"/>
+      <point x="198" y="816"/>
+      <point x="198" y="791" type="qcurve"/>
+      <point x="198" y="766"/>
+      <point x="167" y="736"/>
+    </contour>
+    <contour>
+      <point x="416" y="736" type="qcurve"/>
+      <point x="393" y="736"/>
+      <point x="362" y="766"/>
+      <point x="362" y="791" type="qcurve"/>
+      <point x="362" y="816"/>
+      <point x="393" y="846"/>
+      <point x="416" y="846" type="qcurve"/>
+      <point x="438" y="846"/>
+      <point x="470" y="816"/>
+      <point x="470" y="791" type="qcurve"/>
+      <point x="470" y="766"/>
+      <point x="438" y="736"/>
+    </contour>
+  </outline>
+</glyph>

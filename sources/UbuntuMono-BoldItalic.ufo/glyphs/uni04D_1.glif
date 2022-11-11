@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04D1" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="04D1"/>
   <outline>
     <component base="a"/>
-    <component base="kratka" xOffset="36"/>
+    <component base="brevecomb.cyr" xOffset="40"/>
   </outline>
   <lib>
     <dict>
@@ -24,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>kratka</string>
+          <string>brevecomb.cyr</string>
         </dict>
       </array>
     </dict>

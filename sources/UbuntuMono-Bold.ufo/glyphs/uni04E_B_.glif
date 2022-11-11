@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04EB" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="04EB"/>
-  <anchor x="250" y="520" name="top"/>
+  <anchor x="280" y="582" name="top"/>
   <outline>
     <component base="uni04E9"/>
     <component base="dieresis"/>

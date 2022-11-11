@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two.sinf" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="F816"/>
   <outline>
-    <component base="twosuperior" xOffset="-90" yOffset="-375"/>
+    <component base="twosuperior" xOffset="-101" yOffset="-420"/>
   </outline>
 </glyph>

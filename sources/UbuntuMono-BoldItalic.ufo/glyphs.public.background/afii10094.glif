@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="afii10094" format="2">
+  <outline>
+    <contour>
+      <point x="314" y="240" type="qcurve"/>
+      <point x="295" y="240"/>
+      <point x="254" y="235"/>
+      <point x="241" y="230" type="qcurve"/>
+      <point x="211" y="101" type="line"/>
+      <point x="228" y="99"/>
+      <point x="265" y="96"/>
+      <point x="281" y="96" type="qcurve"/>
+      <point x="345" y="96"/>
+      <point x="413" y="139"/>
+      <point x="413" y="178" type="qcurve"/>
+      <point x="413" y="240"/>
+    </contour>
+    <contour>
+      <point x="174" y="526" type="line"/>
+      <point x="312" y="526" type="line"/>
+      <point x="267" y="337" type="line"/>
+      <point x="276" y="340"/>
+      <point x="300" y="344"/>
+      <point x="327" y="346"/>
+      <point x="352" y="347"/>
+      <point x="361" y="347" type="qcurve"/>
+      <point x="451" y="347"/>
+      <point x="549" y="263"/>
+      <point x="549" y="189" type="qcurve"/>
+      <point x="549" y="147"/>
+      <point x="513" y="74"/>
+      <point x="440" y="20"/>
+      <point x="330" y="-11"/>
+      <point x="258" y="-11" type="qcurve"/>
+      <point x="208" y="-11"/>
+      <point x="108" y="1"/>
+      <point x="50" y="15" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

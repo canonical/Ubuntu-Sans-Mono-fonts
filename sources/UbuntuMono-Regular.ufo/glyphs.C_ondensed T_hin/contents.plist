@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>acutecomb</key>
+    <string>acutecomb.glif</string>
+    <key>brevecomb</key>
+    <string>brevecomb.glif</string>
+    <key>caroncomb</key>
+    <string>caroncomb.glif</string>
+    <key>caroncomb.alt</key>
+    <string>caroncomb.alt.glif</string>
+    <key>cedillacomb</key>
+    <string>cedillacomb.glif</string>
+    <key>circumflexcomb</key>
+    <string>circumflexcomb.glif</string>
+    <key>commaaccentcomb</key>
+    <string>commaaccentcomb.glif</string>
+    <key>commaturnedabovecomb</key>
+    <string>commaturnedabovecomb.glif</string>
+    <key>dieresiscomb</key>
+    <string>dieresiscomb.glif</string>
+    <key>dotaccentcomb</key>
+    <string>dotaccentcomb.glif</string>
+    <key>gravecomb</key>
+    <string>gravecomb.glif</string>
+    <key>hungarumlautcomb</key>
+    <string>hungarumlautcomb.glif</string>
+    <key>macroncomb</key>
+    <string>macroncomb.glif</string>
+    <key>ogonekcomb</key>
+    <string>ogonekcomb.glif</string>
+    <key>ringcomb</key>
+    <string>ringcomb.glif</string>
+    <key>tildecomb</key>
+    <string>tildecomb.glif</string>
+    <key>uni030F</key>
+    <string>uni030F_.glif</string>
+  </dict>
+</plist>

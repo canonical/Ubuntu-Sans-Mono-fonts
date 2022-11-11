@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine.sinf" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="F81D"/>
   <outline>
-    <component base="ninesuperior" yOffset="-375"/>
+    <component base="ninesuperior" yOffset="-420"/>
   </outline>
 </glyph>

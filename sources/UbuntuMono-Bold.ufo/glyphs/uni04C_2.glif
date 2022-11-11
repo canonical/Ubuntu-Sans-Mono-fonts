@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04C2" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="04C2"/>
-  <anchor x="480" y="0" name="bottomright"/>
-  <anchor x="250" y="520" name="top"/>
+  <anchor x="538" y="0" name="bottomright"/>
+  <anchor x="281" y="768" name="top"/>
   <outline>
     <component base="afii10072"/>
-    <component base="kratka"/>
+    <component base="brevecomb.cyr"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +26,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>kratka</string>
+          <string>brevecomb.cyr</string>
         </dict>
       </array>
     </dict>

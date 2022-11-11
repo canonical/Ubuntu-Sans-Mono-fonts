@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis_acute" format="2">
+  <outline>
+    <contour>
+      <point x="174" y="587" type="qcurve"/>
+      <point x="151" y="587"/>
+      <point x="120" y="617"/>
+      <point x="120" y="642" type="qcurve"/>
+      <point x="120" y="668"/>
+      <point x="151" y="697"/>
+      <point x="174" y="697" type="qcurve"/>
+      <point x="197" y="697"/>
+      <point x="228" y="668"/>
+      <point x="228" y="642" type="qcurve"/>
+      <point x="228" y="617"/>
+      <point x="197" y="587"/>
+    </contour>
+    <contour>
+      <point x="386" y="587" type="qcurve"/>
+      <point x="363" y="587"/>
+      <point x="332" y="617"/>
+      <point x="332" y="642" type="qcurve"/>
+      <point x="332" y="668"/>
+      <point x="363" y="697"/>
+      <point x="386" y="697" type="qcurve"/>
+      <point x="409" y="697"/>
+      <point x="440" y="668"/>
+      <point x="440" y="642" type="qcurve"/>
+      <point x="440" y="617"/>
+      <point x="409" y="587"/>
+    </contour>
+    <contour>
+      <point x="333" y="855" type="line"/>
+      <point x="393" y="802" type="line"/>
+      <point x="282" y="675" type="line"/>
+      <point x="237" y="713" type="line"/>
+    </contour>
+  </outline>
+</glyph>

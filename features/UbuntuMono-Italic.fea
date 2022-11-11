@@ -1,0 +1,458 @@
+# GSUB groups
+@FIG_DFLT = [zero one two three four five six seven eight nine];
+@FIG_NUM = [zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior];
+@FIG_DNOM = [zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior];
+@FIG_SUPS = [zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups];
+@FIG_SINF = [zero.sinf one.sinf two.sinf three.sinf four.sinf five.sinf six.sinf seven.sinf eight.sinf nine.sinf];
+# @ZERO = [zero zerosuperior zeroinferior zero.sups zero.sinf];
+@ONE = [one onesuperior oneinferior one.sups one.sinf];
+@TWO = [two twosuperior twoinferior two.sups two.sinf];
+@THREE = [three threesuperior threeinferior three.sups three.sinf];
+@FOUR = [four foursuperior fourinferior four.sups four.sinf];
+@FIVE = [five fivesuperior fiveinferior five.sups five.sinf];
+@SIX = [six sixsuperior sixinferior six.sups six.sinf];
+@SEVEN = [seven sevensuperior seveninferior seven.sups seven.sinf];
+@EIGHT = [eight eightsuperior eightinferior eight.sups eight.sinf];
+@NINE = [nine ninesuperior nineinferior nine.sups nine.sinf];
+@FRACTIONS = [onequarter onehalf threequarters onethird twothirds onefifth twofifths threefifths fourfifths onesixth fivesixths oneeighth threeeighths fiveeighths seveneighths oneseventh twosevenths threesevenths foursevenths fivesevenths sixsevenths oneninth twoninths fourninths fiveninths sevenninths eightninths];
+@case1 = [parenleft parenright hyphen slash at bracketleft backslash bracketright braceleft braceright guilsinglleft bullet endash emdash guilsinglright exclamdown guillemotleft guillemotright questiondown];
+@case2 = [Parenleft Parenright Hyphen Slash At Bracketleft Backslash Bracketright Braceleft Braceright Guilsinglleft Bullet Endash Emdash Guilsinglright Exclamdown Guillemotleft Guillemotright Questiondown];
+@LC_LETT = [a b c d e f g h i j k l m n o p q r s t u v w x y z eth thorn oslash eng cdotaccent ebreve gdotaccent gcircumflex hcircumflex hbar itilde ibreve jcircumflex ldot obreve scircumflex tbar utilde ubreve wcircumflex ycircumflex abreve amacron aogonek cacute ccaron dcaron dcroat ecaron edotaccent emacron eogonek gbreve gcommaaccent imacron iogonek kcommaaccent lacute lcaron lcommaaccent nacute ncaron ncommaaccent ohungarumlaut omacron racute rcaron rcommaaccent sacute scommaaccent tcaron uni0163 uhungarumlaut umacron uogonek uring zdotaccent zacute ccircumflex scaron zcaron agrave aacute acircumflex atilde adieresis aring ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis ntilde ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis yacute ydieresis lslash wgrave wacute wdieresis ygrave scedilla uni021B ae oe ij i.locl kgreenlandic napostrophe];
+@UC_LETT  = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Eth Thorn Oslash Eng Cdotaccent Ebreve Gdotaccent Gcircumflex Hcircumflex Hbar Itilde Ibreve Jcircumflex Ldot Obreve Scircumflex Tbar Utilde Ubreve Wcircumflex Ycircumflex Abreve Amacron Aogonek Cacute Ccaron Dcaron Dcroat Ecaron Edotaccent Emacron Eogonek Gbreve Gcommaaccent Imacron Iogonek Kcommaaccent Lacute Lcaron Lcommaaccent Nacute Ncaron Ncommaaccent Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Sacute Scommaaccent Tcaron uni0162 Uhungarumlaut Umacron Uogonek Uring Zdotaccent Zacute Ccircumflex Scaron Zcaron Agrave Aacute Acircumflex Atilde Adieresis Aring Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Ugrave Uacute Ucircumflex Udieresis Yacute Ydieresis Lslash Wgrave Wacute Wdieresis Ygrave Scedilla uni021A AE OE IJ Idotaccent kgreenlandic.case napostrophe.case];
+@AlphaSub = [uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1FBC];
+@AlphaSub.alt = [uni1F88.alt uni1F89.alt uni1F8A.alt uni1F8B.alt uni1F8C.alt uni1F8D.alt uni1F8E.alt uni1F8F.alt uni1FBC.alt];
+@EtaSub = [uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1FCC];
+@EtaSub.alt = [uni1F98.alt uni1F99.alt uni1F9A.alt uni1F9B.alt uni1F9C.alt uni1F9D.alt uni1F9E.alt uni1F9F.alt uni1FCC.alt];
+@OmegaSub = [uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1FFC];
+@OmegaSub.alt = [uni1FA8.alt uni1FA9.alt uni1FAA.alt uni1FAB.alt uni1FAC.alt uni1FAD.alt uni1FAE.alt uni1FAF.alt uni1FFC.alt];
+
+# languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn TRK;
+languagesystem cyrl dflt;
+languagesystem cyrl MKD;
+languagesystem cyrl SRB;
+languagesystem grek dflt;
+
+lookup locl_TRK {
+	sub i by i.locl;
+} locl_TRK;
+
+lookup locl_SRB {
+	sub afii10066 by afii10066.locl;
+	sub afii10068 by afii10068.locl.ita;
+	sub afii10069 by afii10069.locl.ita;
+	sub afii10081 by afii10081.locl.ita;
+	sub afii10084 by afii10084.locl.ita;
+} locl_SRB;
+
+lookup numr_text {
+	sub @FIG_DFLT by @FIG_NUM;
+	sub @FIG_DNOM by @FIG_NUM;
+	sub @FIG_SUPS by @FIG_NUM;
+	sub @FIG_SINF by @FIG_NUM;
+} numr_text;
+
+lookup ordn_ao {
+	sub a by ordfeminine;
+	sub o by ordmasculine;
+} ordn_ao;
+
+lookup dnom_text {
+	sub @FIG_DFLT by @FIG_DNOM;
+	sub @FIG_NUM by @FIG_DNOM;
+	sub @FIG_SUPS by @FIG_DNOM;
+	sub @FIG_SINF by @FIG_DNOM;
+} dnom_text;
+
+lookup sups_text {
+	sub @FIG_DFLT by @FIG_SUPS;
+	sub @FIG_NUM by @FIG_SUPS;
+	sub @FIG_DNOM by @FIG_SUPS;
+	sub @FIG_SINF by @FIG_SUPS;
+} sups_text;
+
+lookup sub1 {
+	sub @FIG_DFLT by @FIG_SINF;
+	sub @FIG_NUM by @FIG_SINF;
+	sub @FIG_DNOM by @FIG_SINF;
+	sub @FIG_SUPS by @FIG_SINF;
+} sub1;
+
+lookup sin1 {
+	sub @FIG_DFLT by @FIG_SINF;
+	sub @FIG_NUM by @FIG_SINF;
+	sub @FIG_DNOM by @FIG_SINF;
+	sub @FIG_SUPS by @FIG_SINF;
+} sin1;
+
+lookup frac12 {
+	sub [slash uni2215] by fraction;
+} frac12;
+
+lookup frac13 {
+	sub @ONE fraction @FOUR by onequarter;
+	sub @ONE fraction @TWO by onehalf;
+	sub @THREE fraction @FOUR by threequarters;
+
+	sub @ONE fraction @THREE by onethird;
+	sub @TWO fraction @THREE by twothirds;
+
+	sub @ONE fraction @FIVE by onefifth;
+	sub @TWO fraction @FIVE by twofifths;
+	sub @THREE fraction @FIVE by threefifths;
+	sub @FOUR fraction @FIVE by fourfifths;
+
+	sub @ONE fraction @SIX by onesixth;
+	sub @FIVE fraction @SIX by fivesixths;
+
+	sub @ONE fraction @EIGHT by oneeighth;
+	sub @THREE fraction @EIGHT by threeeighths;
+	sub @FIVE fraction @EIGHT by fiveeighths;
+	sub @SEVEN fraction @EIGHT by seveneighths;
+
+	sub @ONE fraction @SEVEN by oneseventh;
+	sub @TWO fraction @SEVEN by twosevenths;
+	sub @THREE fraction @SEVEN by threesevenths;
+	sub @FOUR fraction @SEVEN by foursevenths;
+	sub @FIVE fraction @SEVEN by fivesevenths;
+	sub @SIX fraction @SEVEN by sixsevenths;
+
+	sub @ONE fraction @NINE by oneninth;
+	sub @TWO fraction @NINE by twoninths;
+	sub @FOUR fraction @NINE by fourninths;
+	sub @FIVE fraction @NINE by fiveninths;
+	sub @SEVEN fraction @NINE by sevenninths;
+	sub @EIGHT fraction @NINE by eightninths;
+} frac13;
+
+lookup afrc1 {
+	sub [slash uni2215] by fraction;
+} afrc1;
+
+lookup afrc2 {
+	sub @FIG_DFLT by @FIG_NUM;
+	sub @FIG_DNOM by @FIG_NUM;
+  sub @FIG_SUPS by @FIG_NUM;
+	sub @FIG_SINF by @FIG_NUM;
+} afrc2;
+
+lookup afrc3 {
+	sub [fraction @FIG_DNOM] @FIG_NUM' by @FIG_DNOM;
+} afrc3;
+
+lookup case_add {
+	sub dotlessj by J;
+	sub longs by S;
+	sub @case1 by @case2;
+} case_add;
+
+lookup case_dflt {
+	sub @LC_LETT by @UC_LETT;
+} case_dflt;
+
+lookup salt01 {
+	sub @AlphaSub by @AlphaSub.alt;
+} salt01;
+
+lookup salt02 {
+	sub @EtaSub by @EtaSub.alt;
+} salt02;
+
+lookup salt03 {
+	sub @OmegaSub by @OmegaSub.alt;
+} salt03;
+
+feature locl { # Localized Forms
+	script cyrl;
+	language BGR;
+	lookup locl_cyrl_BGR_1 {
+		sub afii10066 by afii10066.locl;
+	} locl_cyrl_BGR_1;
+
+	language MKD;
+	lookup locl_cyrl_MKD_1 {
+		sub afii10066 by afii10066.locl;
+		sub afii10068 by afii10068.locl.ita;
+		sub afii10069 by afii10069.locl.ita;
+		sub afii10081 by afii10081.locl.ita;
+		sub afii10084 by afii10084.locl.ita;
+	} locl_cyrl_MKD_1;
+
+	language SRB;
+	lookup locl_cyrl_SRB_1 {
+		sub afii10066 by afii10066.locl;
+		sub afii10068 by afii10068.locl.ita;
+		sub afii10069 by afii10069.locl.ita;
+		sub afii10081 by afii10081.locl.ita;
+		sub afii10084 by afii10084.locl.ita;
+	} locl_cyrl_SRB_1;
+
+	script latn;
+	language AZE;
+	lookup locl_latn_AZE_1 {
+		sub i by i.locl;
+	} locl_latn_AZE_1;
+
+	language CRT;
+	lookup locl_latn_CRT_1 {
+		sub i by i.locl;
+	} locl_latn_CRT_1;
+
+	language TRK;
+	lookup locl_latn_TRK_1 {
+		sub i by i.locl;
+	} locl_latn_TRK_1;
+} locl;
+
+feature numr { # Numerators
+	script latn; # Latin
+	lookup numr_text;
+	language AZE; # Azeri
+	language TRK; # Turkish
+	language CRT; # Crimean Tatar
+	language MOL;
+	language ROM;
+
+	script grek; # Greek
+	lookup numr_text;
+
+	script cyrl; # Cyrillic
+	lookup numr_text;
+	language BGR;
+	language SRB; # Serbian
+	language MKD; # Macedonian
+} numr;
+
+feature ordn {
+	script latn; # Latin
+	lookup ordn_ao;
+} ordn;
+
+feature dnom { # Denominators
+	script latn; # Latin
+	lookup dnom_text;
+	language AZE; # Azeri
+	language TRK; # Turkish
+	language CRT; # Crimean Tatar
+	language MOL;
+	language ROM;
+
+	script grek; # Greek
+	lookup dnom_text;
+
+	script cyrl; # Cyrillic
+	language BGR;
+	lookup dnom_text;
+	language SRB; # Serbian
+	lookup dnom_text;
+	language MKD; # Macedonian
+	lookup dnom_text;
+	language dflt; # Macedonian
+	lookup dnom_text;
+} dnom;
+
+feature sups { # Superscript
+	script latn; # Latin
+	lookup sups_text;
+	language AZE; # Azeri
+	language TRK; # Turkish
+	language CRT; # Crimean Tatar
+	language MOL ;
+	language ROM ;
+
+	script grek; # Greek
+	lookup sups_text;
+
+	script cyrl; # Cyrillic
+	lookup sups_text;
+	language BGR;
+	language SRB; # Serbian
+	language MKD; # Macedonian
+} sups;
+
+feature subs { # Subscripts
+	script latn; # Latin
+	lookup sub1;
+	language AZE; # Azeri
+	language TRK; # Turkish
+	language CRT; # Crimean Tatar
+	language MOL ;
+	language ROM ;
+
+	script grek; # Greek
+	lookup sub1;
+
+	script cyrl; # Cyrillic
+	lookup sub1;
+	language BGR;
+	language SRB; # Serbian
+	language MKD; # Macedonian
+} subs;
+
+feature sinf { # Scientific Inferiors
+	script latn; # Latin
+	lookup sin1;
+	language AZE; # Azeri
+	language TRK; # Turkish
+	language CRT; # Crimean Tatar
+	language MOL ;
+	language ROM ;
+
+	script grek; # Greek
+	lookup sin1;
+
+	script cyrl; # Cyrillic
+	lookup sin1;
+	language BGR;
+	language SRB; # Serbian
+	language MKD; # Macedonian
+
+} sinf;
+
+feature frac { # Fractions
+	script latn;
+	lookup frac12;
+	lookup frac13;
+	language AZE;
+	language TRK;
+	language CRT;
+	language MOL;
+	language ROM;
+
+	script cyrl;
+	language BGR;
+	lookup frac12;
+	lookup frac13;
+	language MKD;
+	lookup frac12;
+	lookup frac13;
+	language SRB;
+	lookup frac12;
+	lookup frac13;
+	language dflt;
+	lookup frac12;
+	lookup frac13;
+
+	script grek;
+	lookup frac12;
+	lookup frac13;
+
+} frac;
+
+feature afrc { # Alternate fractions
+	#Monospaced cannot have both precomposed and dynamic frations in the same feature.
+  #We have Dynamic Fractions here, precomposed fractions are placed in Fractions(frac).
+	script latn;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+	language AZE;
+	language TRK;
+	language CRT;
+	language MOL;
+	language ROM;
+
+	script cyrl;
+	language BGR;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+	language MKD;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+	language SRB;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+	language dflt;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+
+	script grek;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+
+} afrc;
+
+feature ss02 {
+	script latn;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+	language AZE;
+	language TRK;
+	language CRT;
+	language MOL;
+	language ROM;
+
+	script cyrl;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+	language BGR;
+	language MKD;
+	language SRB;
+
+	script grek;
+	lookup afrc1;
+	lookup afrc2;
+	lookup afrc3;
+
+} ss02;
+
+feature case { # Case-Sensitive Forms
+  script latn;
+  lookup case_add;
+  lookup case_dflt;
+  language AZE;
+  language TRK;
+  language CRT;
+
+  script cyrl;
+	language BGR;
+  lookup case_add;
+  lookup case_dflt;
+	language MKD;
+	lookup case_add;
+	lookup case_dflt;
+	language SRB;
+	lookup case_add;
+	lookup case_dflt;
+	language dflt;
+	lookup case_add;
+	lookup case_dflt;
+
+  script grek;
+  lookup case_add;
+  lookup case_dflt;
+} case;
+
+feature ss01 { # Greek Stylistic Alternates
+	script latn;
+	lookup salt01;
+	lookup salt02;
+	lookup salt03;
+
+	script grek; # Greek
+	lookup salt01;
+	lookup salt02;
+	lookup salt03;
+} ss01;
+
+feature salt { # Stylistic Alternates
+	script latn;
+	lookup salt01;
+	lookup salt02;
+	lookup salt03;
+
+	script grek; # Greek
+	lookup salt01;
+	lookup salt02;
+	lookup salt03;
+} salt;

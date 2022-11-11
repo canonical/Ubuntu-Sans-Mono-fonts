@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030F" format="2">
+  <unicode hex="030F"/>
+  <outline>
+    <component base="double_grave"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>355</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe.case" format="2">
+  <outline>
+    <contour>
+      <point x="424" y="0" type="line"/>
+      <point x="405" y="58"/>
+      <point x="372" y="165"/>
+      <point x="340" y="269"/>
+      <point x="307" y="379"/>
+      <point x="289" y="440" type="qcurve"/>
+      <point x="289" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="693" type="line"/>
+      <point x="276" y="693" type="line"/>
+      <point x="290" y="650"/>
+      <point x="324" y="549"/>
+      <point x="358" y="444"/>
+      <point x="394" y="337"/>
+      <point x="410" y="287" type="qcurve"/>
+      <point x="410" y="693" type="line"/>
+      <point x="508" y="693" type="line"/>
+      <point x="508" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="776" type="line"/>
+      <point x="155" y="734" type="line"/>
+      <point x="152" y="702"/>
+      <point x="142" y="651"/>
+      <point x="125" y="606"/>
+      <point x="102" y="564"/>
+      <point x="87" y="542" type="qcurve"/>
+      <point x="10" y="564" type="line"/>
+      <point x="31" y="609"/>
+      <point x="48" y="689"/>
+      <point x="48" y="731" type="qcurve"/>
+      <point x="48" y="744"/>
+      <point x="47" y="767"/>
+      <point x="45" y="776" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

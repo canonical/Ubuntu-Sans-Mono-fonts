@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sixinferior" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="2086"/>
   <outline>
-    <component base="sixsuperior" yOffset="-268"/>
+    <component base="sixsuperior" yOffset="-300"/>
   </outline>
 </glyph>

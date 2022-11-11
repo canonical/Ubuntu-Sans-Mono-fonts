@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni04DD" format="2">
-  <advance width="500"/>
+  <advance width="560"/>
   <unicode hex="04DD"/>
+  <guideline x="230" y="0" angle="103.5"/>
   <outline>
     <component base="afii10072"/>
     <component base="dieresis" xOffset="-4"/>
