@@ -33,7 +33,7 @@ for path in paths:
     versionName = get_name_record(f, 3, fallbackID=1)
     versionNumber = versionName.split(';')[0]
 
-    new_familyName = familyName+'Beta'+versionNumber
+    new_familyName = f'{familyName} Beta {versionNumber}'
     new_psFamilyName = new_familyName.replace(" ", "")
     
     oldNames = [familyName, psFamilyName]
