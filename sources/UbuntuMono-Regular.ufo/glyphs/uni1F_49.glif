@@ -5,12 +5,12 @@
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="280" y="389" name="center"/>
   <anchor x="504" y="11" name="ogonek"/>
-  <anchor x="-64" y="710" name="top"/>
+  <anchor x="-56" y="708" name="top"/>
   <anchor x="22" y="776" name="topleft"/>
   <anchor x="538" y="776" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="uni1FFE" xOffset="-344" yOffset="-71"/>
+    <component base="uni1FFE" xOffset="-336" yOffset="-58"/>
   </outline>
   <lib>
     <dict>

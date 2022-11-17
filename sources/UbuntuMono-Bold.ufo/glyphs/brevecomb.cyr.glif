@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb.cyr" format="2">
+  <anchor x="281" y="526" name="_top"/>
+  <anchor x="281" y="768" name="top"/>
   <outline>
     <contour>
       <point x="280" y="598" type="curve" smooth="yes"/>

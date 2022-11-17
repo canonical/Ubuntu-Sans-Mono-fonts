@@ -6,7 +6,7 @@
   <outline>
     <component base="eta"/>
     <component base="uni1FC0"/>
-    <component base="uni1FBE" xOffset="-120"/>
+    <component base="uni1FBE" xOffset="-126"/>
   </outline>
   <lib>
     <dict>

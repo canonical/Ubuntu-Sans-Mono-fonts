@@ -8,18 +8,18 @@
   <anchor x="22" y="776" name="topleft"/>
   <outline>
     <contour>
-      <point x="102" y="0" type="line"/>
+      <point x="111" y="0" type="line"/>
       <point x="515" y="0" type="line"/>
-      <point x="515" y="78" type="line"/>
-      <point x="194" y="78" type="line"/>
-      <point x="194" y="324" type="line"/>
-      <point x="454" y="324" type="line"/>
-      <point x="454" y="402" type="line"/>
-      <point x="194" y="402" type="line"/>
-      <point x="194" y="615" type="line"/>
-      <point x="491" y="615" type="line"/>
+      <point x="515" y="67" type="line"/>
+      <point x="190" y="67" type="line"/>
+      <point x="190" y="329" type="line"/>
+      <point x="454" y="329" type="line"/>
+      <point x="454" y="396" type="line"/>
+      <point x="190" y="396" type="line"/>
+      <point x="190" y="626" type="line"/>
+      <point x="491" y="626" type="line"/>
       <point x="491" y="693" type="line"/>
-      <point x="102" y="693" type="line"/>
+      <point x="111" y="693" type="line"/>
     </contour>
   </outline>
 </glyph>

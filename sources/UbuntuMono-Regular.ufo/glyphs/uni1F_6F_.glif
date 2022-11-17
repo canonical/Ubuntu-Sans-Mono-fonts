@@ -6,7 +6,7 @@
   <anchor x="22" y="776" name="topleft"/>
   <outline>
     <component base="Omega"/>
-    <component base="uni1FDF" xOffset="-366" yOffset="-106"/>
+    <component base="uni1FDF" xOffset="-352" yOffset="-103"/>
   </outline>
   <lib>
     <dict>

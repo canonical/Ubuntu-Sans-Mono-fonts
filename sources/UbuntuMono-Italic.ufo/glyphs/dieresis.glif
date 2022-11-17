@@ -4,32 +4,32 @@
   <unicode hex="00A8"/>
   <outline>
     <contour>
-      <point x="321" y="616" type="curve" smooth="yes"/>
-      <point x="352" y="616"/>
-      <point x="385" y="642"/>
-      <point x="385" y="681" type="curve" smooth="yes"/>
-      <point x="385" y="713"/>
-      <point x="361" y="734"/>
-      <point x="332" y="734" type="curve" smooth="yes"/>
-      <point x="301" y="734"/>
-      <point x="269" y="707"/>
-      <point x="269" y="668" type="curve" smooth="yes"/>
-      <point x="269" y="636"/>
-      <point x="292" y="616"/>
+      <point x="327" y="620" type="curve" smooth="yes"/>
+      <point x="357" y="620"/>
+      <point x="386" y="644"/>
+      <point x="386" y="679" type="curve" smooth="yes"/>
+      <point x="386" y="709"/>
+      <point x="364" y="728"/>
+      <point x="337" y="728" type="curve" smooth="yes"/>
+      <point x="309" y="728"/>
+      <point x="280" y="703"/>
+      <point x="280" y="668" type="curve" smooth="yes"/>
+      <point x="280" y="638"/>
+      <point x="301" y="620"/>
     </contour>
     <contour>
-      <point x="511" y="616" type="curve" smooth="yes"/>
-      <point x="542" y="616"/>
-      <point x="575" y="642"/>
-      <point x="575" y="681" type="curve" smooth="yes"/>
-      <point x="575" y="713"/>
-      <point x="551" y="734"/>
-      <point x="522" y="734" type="curve" smooth="yes"/>
-      <point x="491" y="734"/>
-      <point x="459" y="707"/>
-      <point x="459" y="668" type="curve" smooth="yes"/>
-      <point x="459" y="636"/>
-      <point x="482" y="616"/>
+      <point x="508" y="620" type="curve" smooth="yes"/>
+      <point x="537" y="620"/>
+      <point x="566" y="644"/>
+      <point x="566" y="679" type="curve" smooth="yes"/>
+      <point x="566" y="709"/>
+      <point x="544" y="728"/>
+      <point x="518" y="728" type="curve" smooth="yes"/>
+      <point x="490" y="728"/>
+      <point x="460" y="703"/>
+      <point x="460" y="668" type="curve" smooth="yes"/>
+      <point x="460" y="638"/>
+      <point x="482" y="620"/>
     </contour>
   </outline>
 </glyph>

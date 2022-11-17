@@ -7,7 +7,7 @@
   <anchor x="280" y="582" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="double_grave" xOffset="-59"/>
+    <component base="double_grave" xOffset="-63"/>
   </outline>
   <lib>
     <dict>

@@ -7,11 +7,11 @@
       <key>com.schriftgestaltung.layerId</key>
       <string>7ECD32C6-DE69-43E8-A997-136050A70802</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni01D7</key>
-      <integer>2</integer>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni01D9</key>
-      <integer>2</integer>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uni01DB</key>
-      <integer>2</integer>
+      <integer>1</integer>
     </dict>
   </dict>
 </plist>

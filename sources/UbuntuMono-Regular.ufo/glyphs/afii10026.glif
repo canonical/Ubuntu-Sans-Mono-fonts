@@ -6,20 +6,20 @@
   <anchor x="280" y="776" name="top"/>
   <outline>
     <contour>
-      <point x="62" y="0" type="line"/>
-      <point x="156" y="0" type="line"/>
-      <point x="258" y="248"/>
-      <point x="332" y="395"/>
-      <point x="414" y="553" type="curve"/>
-      <point x="414" y="0" type="line"/>
-      <point x="498" y="0" type="line"/>
-      <point x="498" y="693" type="line"/>
-      <point x="404" y="693" type="line"/>
-      <point x="281" y="470"/>
-      <point x="234" y="377"/>
-      <point x="146" y="160" type="curve"/>
-      <point x="146" y="693" type="line"/>
-      <point x="62" y="693" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="267" y="274"/>
+      <point x="342" y="421"/>
+      <point x="423" y="581" type="curve"/>
+      <point x="423" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="495" y="693" type="line"/>
+      <point x="406" y="693" type="line"/>
+      <point x="271" y="442"/>
+      <point x="237" y="379"/>
+      <point x="137" y="128" type="curve"/>
+      <point x="137" y="693" type="line"/>
+      <point x="65" y="693" type="line"/>
     </contour>
   </outline>
 </glyph>

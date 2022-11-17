@@ -3,7 +3,30 @@
   <advance width="560"/>
   <unicode hex="2248"/>
   <outline>
-    <component base="asciitilde" yOffset="108"/>
-    <component base="asciitilde" yOffset="-105"/>
+    <component base="asciitilde" yOffset="104"/>
+    <component base="asciitilde" yOffset="-100"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>asciitilde</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>asciitilde</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="1FA5"/>
   <outline>
     <component base="omega"/>
-    <component base="uni1FDE" xOffset="-3"/>
+    <component base="uni1FDE" xOffset="-4"/>
     <component base="uni1FBE"/>
   </outline>
   <lib>

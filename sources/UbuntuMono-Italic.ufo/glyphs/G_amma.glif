@@ -5,4 +5,19 @@
   <outline>
     <component base="afii10020"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>afii10020</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

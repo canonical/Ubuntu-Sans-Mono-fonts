@@ -8,7 +8,7 @@
   <anchor x="22" y="776" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="grave" xOffset="-321" yOffset="-71"/>
+    <component base="grave" xOffset="-299" yOffset="-67"/>
   </outline>
   <lib>
     <dict>

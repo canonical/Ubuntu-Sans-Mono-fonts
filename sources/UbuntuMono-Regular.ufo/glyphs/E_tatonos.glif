@@ -8,7 +8,7 @@
   <anchor x="22" y="776" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="tonos.cap" xOffset="-365"/>
+    <component base="tonos.cap" xOffset="-366"/>
   </outline>
   <lib>
     <dict>

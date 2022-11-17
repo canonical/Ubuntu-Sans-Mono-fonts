@@ -6,21 +6,21 @@
   <anchor x="280" y="776" name="top"/>
   <outline>
     <contour>
-      <point x="222" y="0" type="curve"/>
-      <point x="336" y="0" type="line"/>
-      <point x="436" y="270"/>
-      <point x="522" y="575"/>
+      <point x="226" y="0" type="curve"/>
+      <point x="332" y="0" type="line"/>
+      <point x="435" y="280"/>
+      <point x="525" y="593"/>
       <point x="547" y="693" type="curve"/>
-      <point x="450" y="693" type="line"/>
-      <point x="416" y="508"/>
-      <point x="332" y="233"/>
-      <point x="282" y="80" type="curve"/>
-      <point x="230" y="232"/>
-      <point x="151" y="504"/>
-      <point x="114" y="693" type="curve"/>
+      <point x="464" y="693" type="line"/>
+      <point x="427" y="495"/>
+      <point x="333" y="214"/>
+      <point x="282" y="62" type="curve"/>
+      <point x="229" y="213"/>
+      <point x="143" y="490"/>
+      <point x="100" y="693" type="curve"/>
       <point x="15" y="693" type="line"/>
-      <point x="40" y="573"/>
-      <point x="129" y="269"/>
+      <point x="40" y="581"/>
+      <point x="127" y="288"/>
     </contour>
   </outline>
 </glyph>

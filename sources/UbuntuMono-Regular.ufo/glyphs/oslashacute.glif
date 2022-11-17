@@ -5,7 +5,7 @@
   <anchor x="280" y="582" name="top"/>
   <outline>
     <component base="oslash"/>
-    <component base="acute" xOffset="26"/>
+    <component base="acute" xOffset="34"/>
   </outline>
   <lib>
     <dict>

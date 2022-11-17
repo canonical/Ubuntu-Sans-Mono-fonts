@@ -8,12 +8,12 @@
   <anchor x="538" y="776" name="topright"/>
   <outline>
     <contour>
-      <point x="102" y="0" type="line"/>
+      <point x="109" y="0" type="line"/>
       <point x="515" y="0" type="line"/>
-      <point x="515" y="78" type="line"/>
-      <point x="194" y="78" type="line"/>
-      <point x="194" y="693" type="line"/>
-      <point x="102" y="693" type="line"/>
+      <point x="515" y="67" type="line"/>
+      <point x="187" y="67" type="line"/>
+      <point x="187" y="693" type="line"/>
+      <point x="109" y="693" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0439"/>
   <outline>
     <component base="u"/>
-    <component base="brevecomb.cyr" xOffset="-9"/>
+    <component base="brevecomb.cyr" xOffset="-10"/>
   </outline>
   <lib>
     <dict>

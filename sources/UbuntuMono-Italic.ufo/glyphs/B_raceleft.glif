@@ -2,6 +2,21 @@
 <glyph name="Braceleft" format="2">
   <advance width="560"/>
   <outline>
-    <component base="braceleft" yOffset="47"/>
+    <component base="braceleft" xOffset="3" yOffset="47"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>braceleft</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -2,23 +2,21 @@
 <glyph name="lessequal" format="2">
   <advance width="560"/>
   <unicode hex="2264"/>
-  <guideline x="27" y="0" angle="0"/>
-  <guideline x="404" y="0" angle="0"/>
   <outline>
     <contour>
-      <point x="507" y="130" type="line"/>
-      <point x="550" y="204" type="line"/>
-      <point x="239" y="348" type="line"/>
-      <point x="620" y="494" type="line"/>
-      <point x="615" y="577" type="line"/>
-      <point x="147" y="393" type="line"/>
-      <point x="128" y="314" type="line"/>
+      <point x="503" y="121" type="line"/>
+      <point x="541" y="185" type="line"/>
+      <point x="222" y="334" type="line"/>
+      <point x="613" y="490" type="line"/>
+      <point x="609" y="563" type="line"/>
+      <point x="144" y="374" type="line"/>
+      <point x="127" y="306" type="line"/>
     </contour>
     <contour>
-      <point x="38" y="1" type="line"/>
-      <point x="487" y="1" type="line"/>
-      <point x="506" y="80" type="line"/>
-      <point x="57" y="80" type="line"/>
+      <point x="35" y="1" type="line"/>
+      <point x="478" y="1" type="line"/>
+      <point x="494" y="68" type="line"/>
+      <point x="51" y="68" type="line"/>
     </contour>
   </outline>
 </glyph>

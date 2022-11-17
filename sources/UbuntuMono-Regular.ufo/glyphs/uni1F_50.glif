@@ -2,7 +2,7 @@
 <glyph name="uni1F50" format="2">
   <advance width="560"/>
   <unicode hex="1F50"/>
-  <anchor x="280" y="781" name="top"/>
+  <anchor x="280" y="766" name="top"/>
   <outline>
     <component base="upsilon"/>
     <component base="uni1FBF"/>

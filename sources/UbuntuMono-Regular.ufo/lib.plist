@@ -2,6 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>Letterink-NibData</key>
+    <dict>
+      <key>AngleInDegrees</key>
+      <integer>45</integer>
+      <key>MainAxisWidth</key>
+      <integer>30</integer>
+      <key>MinorAxisWidth</key>
+      <integer>15</integer>
+    </dict>
     <key>com.github.googlei18n.ufo2ft.filters</key>
     <array>
       <dict>
@@ -14,7 +23,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3134</string>
+    <string>3144</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
@@ -57,7 +66,7 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
     <key>com.schriftgestaltung.fontMasterID</key>
-    <string>master01</string>
+    <string>68468CF6-F9DE-483A-BB46-0E44086B3000</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
@@ -70,8 +79,6 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
-    <key>layerinfo.color</key>
-    <string>1,0.75,0,0.7</string>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>

@@ -19,7 +19,7 @@ build: build.stamp
 dev: venv .init.stamp sources/config-dev.yaml $(SOURCES)
 	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config-dev.yaml
 	# add version to names if we want 
-	#python scripts/addVersionToNames.py $(shell find fonts/variable -type f)
+	python scripts/addVersionToNames.py $(shell find fonts/variable -type f)
 
 
 venv: venv/touchfile

@@ -4,11 +4,11 @@
   <unicode hex="1F2C"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="280" y="389" name="center"/>
-  <anchor x="-148" y="712" name="top"/>
+  <anchor x="-137" y="711" name="top"/>
   <anchor x="22" y="776" name="topleft"/>
   <outline>
     <component base="H"/>
-    <component base="uni1FCE" xOffset="-428" yOffset="-71"/>
+    <component base="uni1FCE" xOffset="-417" yOffset="-58"/>
   </outline>
   <lib>
     <dict>
