@@ -20,20 +20,20 @@ Detected underlineThickness values are:
 	fonts/ttf/UbuntuMono-Regular.ttf: 79
 	fonts/ttf/UbuntuMono-Medium.ttf: 101
 	fonts/ttf/UbuntuMono-Bold.ttf: 120
-	fonts/ttf/UbuntuMono-Italic.ttf: 79
+	fonts/ttf/UbuntuMono-Italic.ttf: 120
 	fonts/ttf/UbuntuMono-BoldItalic.ttf: 120
-	fonts/ttf/UbuntuMono-MediumItalic.ttf: 101
+	fonts/ttf/UbuntuMono-MediumItalic.ttf: 120
  [code: inconsistent-underline-thickness]
 </div></details><br></div></details><details><summary><b>[19] UbuntuMono-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.861; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -49,8 +49,8 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 954, but got 932 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 191, but got 189 instead. [code: descent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 981, but got 932 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 197, but got 189 instead. [code: descent]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
@@ -63,16 +63,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F77
-	* uni0495
-	* questiondown
-	* uni0229
-	* uni04B7
-	* Bracketleft
-	* uni1F9F
-	* braceright
-	* six.sups
-	* uni1FB0 and 1023 more.
+	* uni0181
+	* uni1F70
+	* uni048B
+	* uni04AE
+	* uni049E
+	* uni021D
+	* uni1F87
+	* uni019D
+	* uni1F0C
+	* Wacute and 787 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -88,12 +88,12 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni256B.001
-	- uni256A.001
 	- acute.asc
 	- caron.asc
-	- uni030C.alt 
-	- And circumflex.asc
+	- uni256B.001
+	- uni256A.001
+	- circumflex.asc 
+	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -143,30 +143,31 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
-	* uni01CA (U+01CA): L<<100.0,488.0>--<110.0,281.0>> -> L<<110.0,281.0>--<110.0,0.0>>
-	* uni01CA (U+01CA): L<<248.0,205.0>--<237.0,410.0>> -> L<<237.0,410.0>--<237.0,693.0>>
-	* uni01CB (U+01CB): L<<100.0,488.0>--<110.0,281.0>> -> L<<110.0,281.0>--<110.0,0.0>>
-	* uni01CB (U+01CB): L<<248.0,205.0>--<237.0,410.0>> -> L<<237.0,410.0>--<237.0,693.0>>
-	* uni2116 (U+2116): L<<100.0,488.0>--<110.0,281.0>> -> L<<110.0,281.0>--<110.0,0.0>> and uni2116 (U+2116): L<<248.0,205.0>--<237.0,410.0>> -> L<<237.0,410.0>--<237.0,693.0>> [code: found-colinear-vectors]
+	* uni01CA (U+01CA): L<<260.0,180.0>--<245.0,396.0>> -> L<<245.0,396.0>--<245.0,693.0>>
+	* uni01CA (U+01CA): L<<95.0,502.0>--<108.0,289.0>> -> L<<108.0,289.0>--<108.0,0.0>>
+	* uni01CB (U+01CB): L<<260.0,180.0>--<245.0,406.0>> -> L<<245.0,406.0>--<245.0,693.0>>
+	* uni01CB (U+01CB): L<<95.0,502.0>--<108.0,281.0>> -> L<<108.0,281.0>--<108.0,0.0>>
+	* uni2116 (U+2116): L<<261.0,168.0>--<247.0,405.0>> -> L<<247.0,405.0>--<247.0,693.0>> and uni2116 (U+2116): L<<96.0,514.0>--<109.0,289.0>> -> L<<109.0,289.0>--<109.0,0.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
-	* uni01CA (U+01CA): B<<166.0,244.5>-<133.0,367.0>-<100.0,488.0>>/L<<100.0,488.0>--<110.0,281.0>> = 12.48935686880825
-	* uni01CA (U+01CA): L<<114.0,693.0>--<248.0,205.0>>/L<<248.0,205.0>--<237.0,410.0>> = 12.282955931130896
-	* uni01CB (U+01CB): B<<166.0,244.5>-<133.0,367.0>-<100.0,488.0>>/L<<100.0,488.0>--<110.0,281.0>> = 12.48935686880825
-	* uni01CB (U+01CB): L<<114.0,693.0>--<248.0,205.0>>/L<<248.0,205.0>--<237.0,410.0>> = 12.282955931130896
-	* uni2116 (U+2116): L<<114.0,693.0>--<248.0,205.0>>/L<<248.0,205.0>--<237.0,410.0>> = 12.282955931130896 and uni2116 (U+2116): L<<233.0,0.0>--<100.0,488.0>>/L<<100.0,488.0>--<110.0,281.0>> = 12.47942175888303 [code: found-jaggy-segments]
+	* uni01CA (U+01CA): B<<141.5,338.0>-<118.0,424.0>-<95.0,502.0>>/L<<95.0,502.0>--<108.0,289.0>> = 12.936708290677316
+	* uni01CA (U+01CA): L<<117.0,693.0>--<260.0,180.0>>/L<<260.0,180.0>--<245.0,396.0>> = 11.603445579167502
+	* uni01CB (U+01CB): B<<141.5,338.0>-<118.0,424.0>-<95.0,502.0>>/L<<95.0,502.0>--<108.0,281.0>> = 13.06284078810359
+	* uni01CB (U+01CB): L<<117.0,693.0>--<260.0,180.0>>/L<<260.0,180.0>--<245.0,406.0>> = 11.778693639479739
+	* uni024A (U+024A): L<<408.0,-1.0>--<408.0,82.0>>/B<<408.0,82.0>-<398.0,41.0>-<357.0,13.0>> = 13.706961004079783
+	* uni2116 (U+2116): L<<120.0,693.0>--<261.0,168.0>>/L<<261.0,168.0>--<247.0,405.0>> = 11.6526258660711 and uni2116 (U+2116): L<<236.0,0.0>--<96.0,514.0>>/L<<96.0,514.0>--<109.0,289.0>> = 11.929506309926724 [code: found-jaggy-segments]
 </div></details><br></div></details><details><summary><b>[18] UbuntuMono-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.861; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -182,8 +183,8 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 954, but got 932 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 191, but got 189 instead. [code: descent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 981, but got 932 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 197, but got 189 instead. [code: descent]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
@@ -205,12 +206,12 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni256B.001
-	- uni256A.001
 	- acute.asc
 	- caron.asc
-	- uni030C.alt 
-	- And circumflex.asc
+	- uni256B.001
+	- uni256A.001
+	- circumflex.asc 
+	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -260,29 +261,30 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
-	* uni01CA (U+01CA): L<<110.0,462.0>--<114.0,266.0>> -> L<<114.0,266.0>--<114.0,0.0>>
-	* uni01CA (U+01CA): L<<227.0,250.0>--<222.0,435.0>> -> L<<222.0,435.0>--<222.0,693.0>>
-	* uni01CB (U+01CB): L<<110.0,462.0>--<114.0,281.0>> -> L<<114.0,281.0>--<114.0,0.0>>
-	* uni01CB (U+01CB): L<<227.0,250.0>--<222.0,417.0>> -> L<<222.0,417.0>--<222.0,693.0>>
-	* uni2116 (U+2116): L<<107.0,440.0>--<111.0,267.0>> -> L<<111.0,267.0>--<111.0,0.0>> and uni2116 (U+2116): L<<224.0,272.0>--<220.0,420.0>> -> L<<220.0,420.0>--<220.0,693.0>> [code: found-colinear-vectors]
+	* uni01CA (U+01CA): L<<108.0,468.0>--<113.0,269.0>> -> L<<113.0,269.0>--<113.0,0.0>>
+	* uni01CA (U+01CA): L<<232.0,238.0>--<225.0,429.0>> -> L<<225.0,429.0>--<225.0,693.0>>
+	* uni01CB (U+01CB): L<<108.0,468.0>--<113.0,281.0>> -> L<<113.0,281.0>--<113.0,0.0>>
+	* uni01CB (U+01CB): L<<232.0,238.0>--<225.0,415.0>> -> L<<225.0,415.0>--<225.0,693.0>>
+	* uni2116 (U+2116): L<<105.0,452.0>--<111.0,270.0>> -> L<<111.0,270.0>--<111.0,0.0>> and uni2116 (U+2116): L<<230.0,255.0>--<224.0,418.0>> -> L<<224.0,418.0>--<224.0,693.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
-	* uni01CA (U+01CA): B<<148.5,302.5>-<130.0,376.0>-<110.0,462.0>>/L<<110.0,462.0>--<114.0,266.0>> = 11.922753736439402
-	* uni01CA (U+01CA): L<<109.0,693.0>--<227.0,250.0>>/L<<227.0,250.0>--<222.0,435.0>> = 13.367158375322333
-	* uni01CB (U+01CB): B<<148.5,302.5>-<130.0,376.0>-<110.0,462.0>>/L<<110.0,462.0>--<114.0,281.0>> = 11.825894063952093
-	* uni01CB (U+01CB): L<<109.0,693.0>--<227.0,250.0>>/L<<227.0,250.0>--<222.0,417.0>> = 13.200385878773703 and uni2116 (U+2116): L<<228.0,0.0>--<107.0,440.0>>/L<<107.0,440.0>--<111.0,267.0>> = 14.051729336534981 [code: found-jaggy-segments]
+	* uni01CA (U+01CA): B<<147.5,308.0>-<128.0,383.0>-<108.0,468.0>>/L<<108.0,468.0>--<113.0,269.0>> = 11.801230287304806
+	* uni01CA (U+01CA): L<<110.0,693.0>--<232.0,238.0>>/L<<232.0,238.0>--<225.0,429.0>> = 12.910859041736162
+	* uni01CB (U+01CB): B<<147.5,308.0>-<128.0,383.0>-<108.0,468.0>>/L<<108.0,468.0>--<113.0,281.0>> = 11.708912123176166
+	* uni01CB (U+01CB): L<<110.0,693.0>--<232.0,238.0>>/L<<232.0,238.0>--<225.0,415.0>> = 12.745010426716288
+	* uni2116 (U+2116): L<<106.0,693.0>--<230.0,255.0>>/L<<230.0,255.0>--<224.0,418.0>> = 13.698988776330973 and uni2116 (U+2116): L<<229.0,0.0>--<105.0,452.0>>/L<<105.0,452.0>--<111.0,270.0>> = 13.452702757263976 [code: found-jaggy-segments]
 </div></details><br></div></details><details><summary><b>[19] UbuntuMono-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.861; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -298,8 +300,8 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 954, but got 932 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 191, but got 189 instead. [code: descent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 981, but got 932 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 197, but got 189 instead. [code: descent]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
@@ -312,16 +314,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F77
-	* uni0495
-	* questiondown
-	* uni0229
-	* uni04B7
-	* Bracketleft
-	* uni1F9F
-	* braceright
-	* six.sups
-	* uni1FB0 and 1051 more.
+	* uni0181
+	* uni1F70
+	* uni01C0
+	* uni048B
+	* uni04AE
+	* uni049E
+	* uni021D
+	* uni1F87
+	* uni019D
+	* uni1F0C and 1051 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -337,12 +339,12 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni256B.001
-	- uni256A.001
 	- acute.asc
 	- caron.asc
-	- uni030C.alt 
-	- And circumflex.asc
+	- uni256B.001
+	- uni256A.001
+	- circumflex.asc 
+	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -409,13 +411,13 @@ Use -F or --full-lists to disable shortening of long lists. [code: non-mark-char
 </div></details><br></div></details><details><summary><b>[17] UbuntuMono-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.861; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -431,8 +433,8 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 954, but got 932 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 191, but got 189 instead. [code: descent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 981, but got 932 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 197, but got 189 instead. [code: descent]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
@@ -445,16 +447,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F77
-	* uni0495
-	* questiondown
-	* uni0229
-	* uni04B7
-	* Bracketleft
-	* uni1F9F
-	* braceright
-	* six.sups
-	* uni1FB0 and 1022 more.
+	* uni0181
+	* uni1F70
+	* uni048B
+	* uni049E
+	* uni021D
+	* uni1F87
+	* uni019D
+	* uni1F0C
+	* Wacute
+	* uni1F99 and 780 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -470,13 +472,13 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+	- acute.asc
+	- caron.asc
 	- uni256B.001
 	- ampersand.001
 	- uni256A.001
-	- acute.asc
-	- caron.asc
-	- uni030C.alt 
-	- And circumflex.asc
+	- circumflex.asc 
+	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -486,14 +488,19 @@ Use -F or --full-lists to disable shortening of long lists.
 
 The following glyphs do not have the recommended number of contours:
 
+	- Glyph name: i	Contours detected: 3	Expected: 2
 	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-	- Glyph name: ltshade	Contours detected: 39	Expected: 46
-	- Glyph name: shade	Contours detected: 78	Expected: 85
-	- Glyph name: dkshade	Contours detected: 61	Expected: 73
-	- Glyph name: dkshade	Contours detected: 61	Expected: 73
-	- Glyph name: ltshade	Contours detected: 39	Expected: 46
-	- Glyph name: shade	Contours detected: 78	Expected: 85 
-	- And Glyph name: uni00AD	Contours detected: 1	Expected: 0
+	- Glyph name: igrave	Contours detected: 3	Expected: 2
+	- Glyph name: iacute	Contours detected: 3	Expected: 2
+	- Glyph name: icircumflex	Contours detected: 3	Expected: 2
+	- Glyph name: idieresis	Contours detected: 4	Expected: 3
+	- Glyph name: hcircumflex	Contours detected: 1	Expected: 2
+	- Glyph name: itilde	Contours detected: 3	Expected: 2
+	- Glyph name: imacron	Contours detected: 3	Expected: 2
+	- Glyph name: ibreve	Contours detected: 3	Expected: 2 
+	- And 68 more.
+
+Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -512,26 +519,27 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
-	* uni01CA (U+01CA): L<<190.0,488.0>--<151.0,281.0>> -> L<<151.0,281.0>--<83.0,0.0>>
-	* uni01CA (U+01CA): L<<270.0,205.0>--<309.0,410.0>> -> L<<309.0,410.0>--<377.0,693.0>>
-	* uni01CB (U+01CB): L<<200.0,488.0>--<161.0,281.0>> -> L<<161.0,281.0>--<93.0,0.0>> and uni01CB (U+01CB): L<<280.0,205.0>--<319.0,410.0>> -> L<<319.0,410.0>--<388.0,693.0>> [code: found-colinear-vectors]
+	* uni01CA (U+01CA): L<<187.0,502.0>--<148.0,280.0>> -> L<<148.0,280.0>--<80.0,0.0>>
+	* uni01CA (U+01CA): L<<275.0,180.0>--<314.0,400.0>> -> L<<314.0,400.0>--<385.0,693.0>>
+	* uni01CB (U+01CB): L<<197.0,502.0>--<158.0,282.0>> -> L<<158.0,282.0>--<90.0,0.0>> and uni01CB (U+01CB): L<<285.0,180.0>--<325.0,403.0>> -> L<<325.0,403.0>--<396.0,693.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
-	* uni01CA (U+01CA): B<<198.5,244.5>-<195.0,367.0>-<190.0,488.0>>/L<<190.0,488.0>--<151.0,281.0>> = 13.036030795952431
-	* uni01CA (U+01CA): L<<254.0,693.0>--<270.0,205.0>>/L<<270.0,205.0>--<309.0,410.0>> = 12.649331607483349
-	* uni01CB (U+01CB): B<<208.5,244.5>-<205.0,367.0>-<200.0,488.0>>/L<<200.0,488.0>--<161.0,281.0>> = 13.036030795952431 and uni01CB (U+01CB): L<<264.0,693.0>--<280.0,205.0>>/L<<280.0,205.0>--<319.0,410.0>> = 12.649331607483349 [code: found-jaggy-segments]
+	* asterisk (U+002A): B<<473.0,408.0>-<505.0,376.0>-<529.0,338.0>>/L<<529.0,338.0>--<528.0,339.0>> = 12.724355685422363
+	* uni01CA (U+01CA): B<<195.0,338.0>-<192.0,424.0>-<187.0,502.0>>/L<<187.0,502.0>--<148.0,280.0>> = 13.631592245438554
+	* uni01CA (U+01CA): L<<256.0,693.0>--<275.0,180.0>>/L<<275.0,180.0>--<314.0,400.0>> = 12.173641223738318
+	* uni01CB (U+01CB): B<<205.5,338.0>-<202.0,424.0>-<197.0,502.0>>/L<<197.0,502.0>--<158.0,282.0>> = 13.720332882608297 and uni01CB (U+01CB): L<<266.0,693.0>--<285.0,180.0>>/L<<285.0,180.0>--<325.0,403.0>> = 12.29022473115213 [code: found-jaggy-segments]
 </div></details><br></div></details><details><summary><b>[17] UbuntuMono-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.861; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -547,8 +555,8 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 954, but got 932 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 191, but got 189 instead. [code: descent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 981, but got 932 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 197, but got 189 instead. [code: descent]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
@@ -561,16 +569,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F77
-	* uni0495
-	* questiondown
-	* uni0229
-	* uni04B7
-	* Bracketleft
-	* uni1F9F
-	* braceright
-	* six.sups
-	* uni1FB0 and 1049 more.
+	* uni0181
+	* uni1F70
+	* uni01C0
+	* uni048B
+	* uni04AE
+	* uni049E
+	* uni021D
+	* uni1F87
+	* uni019D
+	* uni1F0C and 1049 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -586,13 +594,13 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+	- acute.asc
+	- caron.asc
 	- uni256B.001
 	- ampersand.001
 	- uni256A.001
-	- acute.asc
-	- caron.asc
-	- uni030C.alt 
-	- And circumflex.asc
+	- circumflex.asc 
+	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -650,13 +658,13 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 </div></details><br></div></details><details><summary><b>[16] UbuntuMono-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
-* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.861; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
+* 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
 </div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
-"Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+"Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics_regressions">com.google.fonts/check/vertical_metrics_regressions</a>)</summary><div>
 
 
@@ -672,8 +680,8 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 954, but got 932 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 191, but got 189 instead. [code: descent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 981, but got 932 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 197, but got 189 instead. [code: descent]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
@@ -695,13 +703,13 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+	- acute.asc
+	- caron.asc
 	- uni256B.001
 	- ampersand.001
 	- uni256A.001
-	- acute.asc
-	- caron.asc
-	- uni030C.alt 
-	- And circumflex.asc
+	- circumflex.asc 
+	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -737,25 +745,16 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
-	* uni01CA (U+01CA): L<<195.0,462.0>--<157.0,282.0>> -> L<<157.0,282.0>--<89.0,0.0>>
-	* uni01CA (U+01CA): L<<261.0,250.0>--<299.0,429.0>> -> L<<299.0,429.0>--<363.0,693.0>>
-	* uni01CB (U+01CB): L<<206.0,462.0>--<166.0,280.0>> -> L<<166.0,280.0>--<99.0,0.0>> and uni01CB (U+01CB): L<<271.0,250.0>--<308.0,422.0>> -> L<<308.0,422.0>--<373.0,693.0>> [code: found-colinear-vectors]
+	* uni01CA (U+01CA): L<<194.0,468.0>--<156.0,282.0>> -> L<<156.0,282.0>--<88.0,0.0>>
+	* uni01CA (U+01CA): L<<264.0,238.0>--<301.0,424.0>> -> L<<301.0,424.0>--<366.0,693.0>>
+	* uni01CB (U+01CB): L<<205.0,468.0>--<165.0,280.0>> -> L<<165.0,280.0>--<98.0,0.0>> and uni01CB (U+01CB): L<<274.0,238.0>--<311.0,419.0>> -> L<<311.0,419.0>--<377.0,693.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
-	* uni01CA (U+01CA): B<<196.0,302.5>-<195.0,376.0>-<195.0,462.0>>/L<<195.0,462.0>--<157.0,282.0>> = 11.920738539922306
-	* uni01CA (U+01CA): L<<250.0,693.0>--<261.0,250.0>>/L<<261.0,250.0>--<299.0,429.0>> = 13.407816132757718
-	* uni01CB (U+01CB): B<<206.5,302.5>-<206.0,376.0>-<206.0,462.0>>/L<<206.0,462.0>--<166.0,280.0>> = 12.395406833758457
-	* uni01CB (U+01CB): L<<260.0,693.0>--<271.0,250.0>>/L<<271.0,250.0>--<308.0,422.0>> = 13.562649973956185
-	* uni1F88 (U+1F88): B<<301.5,528.5>-<304.0,572.0>-<307.0,601.0>>/B<<307.0,601.0>-<281.0,528.0>-<250.0,442.0>> = 13.69794703705892
-	* uni1F89 (U+1F89): B<<301.5,528.5>-<304.0,572.0>-<307.0,601.0>>/B<<307.0,601.0>-<281.0,528.0>-<250.0,442.0>> = 13.69794703705892
-	* uni1F8A (U+1F8A): B<<301.5,528.5>-<304.0,572.0>-<307.0,601.0>>/B<<307.0,601.0>-<281.0,528.0>-<250.0,442.0>> = 13.69794703705892
-	* uni1F8B (U+1F8B): B<<301.5,528.5>-<304.0,572.0>-<307.0,601.0>>/B<<307.0,601.0>-<281.0,528.0>-<250.0,442.0>> = 13.69794703705892
-	* uni1F8C (U+1F8C): B<<301.5,528.5>-<304.0,572.0>-<307.0,601.0>>/B<<307.0,601.0>-<281.0,528.0>-<250.0,442.0>> = 13.69794703705892
-	* uni1F8D (U+1F8D): B<<301.5,528.5>-<304.0,572.0>-<307.0,601.0>>/B<<307.0,601.0>-<281.0,528.0>-<250.0,442.0>> = 13.69794703705892 and 3 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+	* uni01CA (U+01CA): B<<196.0,308.0>-<195.0,383.0>-<194.0,468.0>>/L<<194.0,468.0>--<156.0,282.0>> = 12.220727443911795
+	* uni01CA (U+01CA): L<<251.0,693.0>--<264.0,238.0>>/L<<264.0,238.0>--<301.0,424.0>> = 12.887258472111856
+	* uni01CB (U+01CB): B<<206.5,308.0>-<205.0,383.0>-<205.0,468.0>>/L<<205.0,468.0>--<165.0,280.0>> = 12.01147838636543 and uni01CB (U+01CB): L<<261.0,693.0>--<274.0,238.0>>/L<<274.0,238.0>--<311.0,419.0>> = 13.189802233901787 [code: found-jaggy-segments]
 </div></details><br></div></details>
 ### Summary
 
