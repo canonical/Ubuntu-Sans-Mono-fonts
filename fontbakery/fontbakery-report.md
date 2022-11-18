@@ -63,16 +63,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0181
-	* uni1F70
-	* uni048B
-	* uni04AE
-	* uni049E
-	* uni021D
-	* uni1F87
-	* uni019D
-	* uni1F0C
-	* Wacute and 787 more.
+	* k
+	* Ntilde
+	* uni1F71
+	* uni1FAE.alt
+	* uni1F00
+	* j
+	* yacute
+	* uniF000
+	* Edieresis
+	* M and 787 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -88,11 +88,11 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- acute.asc
 	- caron.asc
-	- uni256B.001
 	- uni256A.001
-	- circumflex.asc 
+	- acute.asc
+	- circumflex.asc
+	- uni256B.001 
 	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
@@ -206,11 +206,11 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- acute.asc
 	- caron.asc
-	- uni256B.001
 	- uni256A.001
-	- circumflex.asc 
+	- acute.asc
+	- circumflex.asc
+	- uni256B.001 
 	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
@@ -314,16 +314,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0181
-	* uni1F70
-	* uni01C0
-	* uni048B
-	* uni04AE
-	* uni049E
-	* uni021D
-	* uni1F87
-	* uni019D
-	* uni1F0C and 1051 more.
+	* k
+	* Ntilde
+	* uni1F71
+	* uni1FAE.alt
+	* uni1F00
+	* Iotatonos
+	* j
+	* yacute
+	* uniF000
+	* Edieresis and 1051 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -339,11 +339,11 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- acute.asc
 	- caron.asc
-	- uni256B.001
 	- uni256A.001
-	- circumflex.asc 
+	- acute.asc
+	- circumflex.asc
+	- uni256B.001 
 	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
@@ -447,16 +447,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0181
-	* uni1F70
-	* uni048B
-	* uni049E
-	* uni021D
-	* uni1F87
-	* uni019D
-	* uni1F0C
-	* Wacute
-	* uni1F99 and 780 more.
+	* k
+	* Ntilde
+	* uni1F71
+	* uni1FAE.alt
+	* uni1F00
+	* yacute
+	* uniF000
+	* Edieresis
+	* M
+	* agrave and 780 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -472,12 +472,12 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- acute.asc
 	- caron.asc
-	- uni256B.001
-	- ampersand.001
 	- uni256A.001
-	- circumflex.asc 
+	- acute.asc
+	- circumflex.asc
+	- ampersand.001
+	- uni256B.001 
 	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
@@ -569,16 +569,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0181
-	* uni1F70
-	* uni01C0
-	* uni048B
-	* uni04AE
-	* uni049E
-	* uni021D
-	* uni1F87
-	* uni019D
-	* uni1F0C and 1049 more.
+	* k
+	* Ntilde
+	* uni1F71
+	* uni1FAE.alt
+	* uni1F00
+	* Iotatonos
+	* j
+	* yacute
+	* uniF000
+	* Edieresis and 1049 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -594,12 +594,12 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- acute.asc
 	- caron.asc
-	- uni256B.001
-	- ampersand.001
 	- uni256A.001
-	- circumflex.asc 
+	- acute.asc
+	- circumflex.asc
+	- ampersand.001
+	- uni256B.001 
 	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
@@ -703,12 +703,12 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- acute.asc
 	- caron.asc
-	- uni256B.001
-	- ampersand.001
 	- uni256A.001
-	- circumflex.asc 
+	- acute.asc
+	- circumflex.asc
+	- ampersand.001
+	- uni256B.001 
 	- And uni030C.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
