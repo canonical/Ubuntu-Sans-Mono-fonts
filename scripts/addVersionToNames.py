@@ -24,6 +24,7 @@ paths = getFiles(sys.argv[1], ['ttf'])
 
 for path in paths:
     path = path.strip('\"')
+    print(path)
     f = TTFont(path)
 
 
@@ -49,7 +50,11 @@ for path in paths:
                 break
         
         if isMatch != False:
-            record_newtext = record_text.replace(isMatch, newNames[oldNames.index(isMatch)] )
+
+            if record.nameID not in [1, 4, 7, 16]:
+                record_newtext = record_text.replace(isMatch, newNames[1])
+            else:
+                record_newtext = record_text.replace(isMatch, newNames[0])
 
             f['name'].setName(
                 record_newtext,
@@ -66,4 +71,5 @@ for path in paths:
     newFilename = fileName.replace(psFamilyName, new_psFamilyName)
     
     newPath = os.path.join(basePath, newFilename)
+
     f.save(newPath)
