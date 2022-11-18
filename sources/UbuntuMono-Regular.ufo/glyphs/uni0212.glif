@@ -6,6 +6,6 @@
   <anchor x="280" y="776" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="breve_inverted" xOffset="-29" yOffset="156"/>
+    <component base="breve_inverted" xOffset="-32" yOffset="156"/>
   </outline>
 </glyph>

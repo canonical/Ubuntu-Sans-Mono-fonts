@@ -7,31 +7,31 @@
   <outline>
     <contour>
       <point x="223" y="-15" type="curve" smooth="yes"/>
-      <point x="381" y="-15"/>
-      <point x="508" y="100"/>
-      <point x="508" y="347" type="curve" smooth="yes"/>
-      <point x="508" y="599"/>
-      <point x="389" y="709"/>
-      <point x="231" y="709" type="curve" smooth="yes"/>
-      <point x="176" y="709"/>
-      <point x="94" y="694"/>
-      <point x="49" y="663" type="curve"/>
-      <point x="73" y="590" type="line"/>
-      <point x="124" y="620"/>
-      <point x="174" y="627"/>
-      <point x="216" y="627" type="curve" smooth="yes"/>
-      <point x="346" y="627"/>
-      <point x="414" y="525"/>
-      <point x="414" y="347" type="curve" smooth="yes"/>
-      <point x="414" y="157"/>
-      <point x="335" y="67"/>
-      <point x="212" y="67" type="curve" smooth="yes"/>
-      <point x="168" y="67"/>
-      <point x="122" y="77"/>
-      <point x="71" y="105" type="curve"/>
-      <point x="47" y="29" type="line"/>
-      <point x="100" y="-1"/>
-      <point x="156" y="-15"/>
+      <point x="370" y="-15"/>
+      <point x="503" y="95"/>
+      <point x="503" y="347" type="curve" smooth="yes"/>
+      <point x="503" y="602"/>
+      <point x="383" y="709"/>
+      <point x="234" y="709" type="curve" smooth="yes"/>
+      <point x="192" y="709"/>
+      <point x="107" y="701"/>
+      <point x="54" y="664" type="curve"/>
+      <point x="75" y="602" type="line"/>
+      <point x="131" y="635"/>
+      <point x="181" y="638"/>
+      <point x="217" y="638" type="curve" smooth="yes"/>
+      <point x="361" y="638"/>
+      <point x="423" y="523"/>
+      <point x="423" y="346" type="curve" smooth="yes"/>
+      <point x="423" y="146"/>
+      <point x="336" y="56"/>
+      <point x="212" y="56" type="curve" smooth="yes"/>
+      <point x="177" y="56"/>
+      <point x="131" y="63"/>
+      <point x="73" y="94" type="curve"/>
+      <point x="52" y="28" type="line"/>
+      <point x="110" y="-4"/>
+      <point x="162" y="-15"/>
     </contour>
   </outline>
 </glyph>

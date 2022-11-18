@@ -5,33 +5,33 @@
   <outline>
     <contour>
       <point x="361" y="400" type="curve"/>
-      <point x="426" y="400" type="line"/>
-      <point x="426" y="413"/>
+      <point x="427" y="400" type="line"/>
+      <point x="427" y="413"/>
       <point x="428" y="547"/>
-      <point x="432" y="607" type="curve"/>
+      <point x="433" y="607" type="curve"/>
       <point x="476" y="477" type="line"/>
-      <point x="526" y="477" type="line"/>
-      <point x="575" y="607" type="line"/>
+      <point x="527" y="477" type="line"/>
+      <point x="576" y="607" type="line"/>
       <point x="577" y="547"/>
       <point x="579" y="413"/>
       <point x="579" y="400" type="curve"/>
       <point x="644" y="400" type="line"/>
       <point x="635" y="547"/>
-      <point x="629" y="613"/>
+      <point x="630" y="613"/>
       <point x="615" y="693" type="curve"/>
-      <point x="556" y="693" type="line"/>
+      <point x="557" y="693" type="line"/>
       <point x="502" y="541" type="line"/>
-      <point x="452" y="693" type="line"/>
+      <point x="453" y="693" type="line"/>
       <point x="392" y="693" type="line"/>
-      <point x="377" y="613"/>
+      <point x="378" y="613"/>
       <point x="371" y="549"/>
     </contour>
     <contour>
       <point x="203" y="400" type="line"/>
       <point x="268" y="400" type="line"/>
       <point x="268" y="637" type="line"/>
-      <point x="340" y="637" type="line"/>
-      <point x="340" y="693" type="line"/>
+      <point x="341" y="637" type="line"/>
+      <point x="341" y="693" type="line"/>
       <point x="131" y="693" type="line"/>
       <point x="131" y="637" type="line"/>
       <point x="203" y="637" type="line"/>

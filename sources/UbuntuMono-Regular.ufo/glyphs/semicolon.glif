@@ -3,7 +3,30 @@
   <advance width="560"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="comma" xOffset="-27"/>
-    <component base="period" yOffset="362"/>
+    <component base="comma" xOffset="-32"/>
+    <component base="period" yOffset="369"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>comma</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

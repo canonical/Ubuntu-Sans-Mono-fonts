@@ -3,8 +3,8 @@
   <advance width="560"/>
   <unicode hex="038C"/>
   <outline>
-    <component base="O" xOffset="-9"/>
-    <component base="tonos.cap" xOffset="-272"/>
+    <component base="O" xOffset="-12"/>
+    <component base="tonos.cap" xOffset="-268"/>
   </outline>
   <lib>
     <dict>

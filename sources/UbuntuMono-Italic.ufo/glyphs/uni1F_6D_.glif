@@ -4,6 +4,29 @@
   <unicode hex="1F6D"/>
   <outline>
     <component base="uni2126"/>
-    <component base="uni1FDE" xOffset="-396" yOffset="-71"/>
+    <component base="uni1FDE" xOffset="-376" yOffset="-58"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni2126</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1FDE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

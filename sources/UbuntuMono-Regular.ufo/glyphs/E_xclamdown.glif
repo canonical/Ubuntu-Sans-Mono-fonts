@@ -2,6 +2,21 @@
 <glyph name="Exclamdown" format="2">
   <advance width="560"/>
   <outline>
-    <component base="exclamdown" yOffset="178"/>
+    <component base="exclamdown" xOffset="-1" yOffset="178"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>exclamdown</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

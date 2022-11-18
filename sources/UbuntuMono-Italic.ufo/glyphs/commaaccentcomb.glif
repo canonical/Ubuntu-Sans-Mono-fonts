@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccentcomb" format="2">
   <unicode hex="0326"/>
-  <anchor x="254" y="0" name="_bottom"/>
-  <anchor x="208" y="-190" name="bottom"/>
+  <anchor x="255" y="0" name="_bottom"/>
+  <anchor x="209" y="-190" name="bottom"/>
   <outline>
     <component base="commaaccent"/>
   </outline>
@@ -12,7 +12,7 @@
       <array>
         <dict>
           <key>alignment</key>
-          <integer>1</integer>
+          <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
           <key>name</key>

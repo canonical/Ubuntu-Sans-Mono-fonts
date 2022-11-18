@@ -3,6 +3,21 @@
   <advance width="560"/>
   <unicode hex="F81A"/>
   <outline>
-    <component base="sixsuperior" xOffset="-117" yOffset="-486"/>
+    <component base="sixsuperior" xOffset="-122" yOffset="-506"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sixsuperior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

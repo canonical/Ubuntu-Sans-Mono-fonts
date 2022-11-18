@@ -5,7 +5,7 @@
   <outline>
     <component base="omega"/>
     <component base="uni1FBE"/>
-    <component base="uni1FFD" xOffset="2"/>
+    <component base="uni1FFD" xOffset="3"/>
   </outline>
   <lib>
     <dict>

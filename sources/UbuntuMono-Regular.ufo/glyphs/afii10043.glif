@@ -5,20 +5,20 @@
   <outline>
     <contour>
       <point x="442" y="-185" type="line"/>
-      <point x="530" y="-185" type="line"/>
-      <point x="530" y="78" type="line"/>
-      <point x="486" y="78" type="line"/>
-      <point x="486" y="693" type="line"/>
+      <point x="524" y="-185" type="line"/>
+      <point x="524" y="67" type="line"/>
+      <point x="479" y="67" type="line"/>
+      <point x="479" y="693" type="line"/>
       <point x="402" y="693" type="line"/>
-      <point x="402" y="78" type="line"/>
-      <point x="310" y="78" type="line"/>
-      <point x="310" y="430" type="line"/>
-      <point x="226" y="430" type="line"/>
-      <point x="226" y="78" type="line"/>
-      <point x="134" y="78" type="line"/>
+      <point x="402" y="67" type="line"/>
+      <point x="306" y="67" type="line"/>
+      <point x="306" y="430" type="line"/>
+      <point x="230" y="430" type="line"/>
+      <point x="230" y="67" type="line"/>
+      <point x="134" y="67" type="line"/>
       <point x="134" y="693" type="line"/>
-      <point x="50" y="693" type="line"/>
-      <point x="50" y="0" type="line"/>
+      <point x="57" y="693" type="line"/>
+      <point x="57" y="0" type="line"/>
       <point x="442" y="0" type="line"/>
     </contour>
   </outline>

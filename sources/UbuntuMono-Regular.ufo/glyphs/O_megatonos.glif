@@ -6,7 +6,7 @@
   <anchor x="22" y="776" name="topleft"/>
   <outline>
     <component base="Omega"/>
-    <component base="tonos.cap" xOffset="-314"/>
+    <component base="tonos.cap" xOffset="-308"/>
   </outline>
   <lib>
     <dict>

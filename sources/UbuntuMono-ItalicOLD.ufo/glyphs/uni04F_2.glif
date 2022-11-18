@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04F2" format="2">
+  <advance width="560"/>
+  <unicode hex="04F2"/>
+  <outline>
+    <component base="afii10037"/>
+    <component base="hungarumlaut" xOffset="90" yOffset="156"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>afii10037</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hungarumlaut</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

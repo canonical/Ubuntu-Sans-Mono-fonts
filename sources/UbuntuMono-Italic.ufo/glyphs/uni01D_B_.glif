@@ -4,7 +4,7 @@
   <unicode hex="01DB"/>
   <outline>
     <component base="U"/>
-    <component base="dieresis_grave.cap" xOffset="10"/>
+    <component base="dieresis_grave.cap" xOffset="15"/>
   </outline>
   <lib>
     <dict>

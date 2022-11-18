@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="summation" format="2">
+  <advance width="560"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="55" y="-109" type="line"/>
+      <point x="501" y="-109" type="line"/>
+      <point x="501" y="-31" type="line"/>
+      <point x="162" y="-31" type="line"/>
+      <point x="212" y="67"/>
+      <point x="289" y="180"/>
+      <point x="372" y="304" type="curve"/>
+      <point x="306" y="403"/>
+      <point x="211" y="545"/>
+      <point x="169" y="615" type="curve"/>
+      <point x="501" y="615" type="line"/>
+      <point x="501" y="693" type="line"/>
+      <point x="59" y="693" type="line"/>
+      <point x="59" y="631" type="line"/>
+      <point x="82" y="589"/>
+      <point x="130" y="523"/>
+      <point x="272" y="306" type="curve"/>
+      <point x="176" y="160"/>
+      <point x="100" y="52"/>
+      <point x="55" y="-43" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

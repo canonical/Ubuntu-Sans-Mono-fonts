@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>693</integer>
     <key>copyright</key>
-    <string>Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0</string>
+    <string>Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0</string>
     <key>descender</key>
     <integer>-185</integer>
     <key>familyName</key>
@@ -71,7 +71,7 @@
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>250</integer>
     <key>openTypeOS2StrikeoutSize</key>
-    <integer>79</integer>
+    <integer>120</integer>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
@@ -118,7 +118,7 @@
     <key>postscriptUnderlinePosition</key>
     <integer>-138</integer>
     <key>postscriptUnderlineThickness</key>
-    <integer>79</integer>
+    <integer>120</integer>
     <key>styleName</key>
     <string>Italic</string>
     <key>trademark</key>
@@ -128,8 +128,8 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>861</integer>
+    <integer>862</integer>
     <key>xHeight</key>
-    <integer>520</integer>
+    <integer>518</integer>
   </dict>
 </plist>

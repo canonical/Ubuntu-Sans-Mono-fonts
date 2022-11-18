@@ -10,7 +10,7 @@
   <anchor x="538" y="776" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="acute" xOffset="-302" yOffset="-71"/>
+    <component base="acute" xOffset="-278" yOffset="-67"/>
   </outline>
   <lib>
     <dict>

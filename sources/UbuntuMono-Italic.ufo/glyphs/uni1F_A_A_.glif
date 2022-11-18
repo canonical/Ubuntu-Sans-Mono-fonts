@@ -4,7 +4,7 @@
   <unicode hex="1FAA"/>
   <outline>
     <component base="uni1FFC"/>
-    <component base="uni1FCD" xOffset="-469" yOffset="-71"/>
+    <component base="uni1FCD" xOffset="-456" yOffset="-58"/>
   </outline>
   <lib>
     <dict>

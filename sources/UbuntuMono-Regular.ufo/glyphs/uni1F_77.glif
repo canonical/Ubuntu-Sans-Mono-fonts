@@ -2,10 +2,10 @@
 <glyph name="uni1F77" format="2">
   <advance width="560"/>
   <unicode hex="1F77"/>
-  <anchor x="271" y="776" name="top"/>
+  <anchor x="262" y="772" name="top"/>
   <outline>
     <component base="iota"/>
-    <component base="uni1FFD" xOffset="-9"/>
+    <component base="uni1FFD" xOffset="-18"/>
   </outline>
   <lib>
     <dict>

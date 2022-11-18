@@ -4,17 +4,17 @@
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="174" y="0" type="curve"/>
-      <point x="269" y="0" type="line"/>
-      <point x="286" y="248"/>
-      <point x="420" y="513"/>
-      <point x="510" y="616" type="curve"/>
-      <point x="510" y="693" type="line"/>
-      <point x="71" y="693" type="line"/>
-      <point x="71" y="613" type="line"/>
-      <point x="407" y="613" type="line"/>
-      <point x="305" y="492"/>
-      <point x="189" y="213"/>
+      <point x="182" y="0" type="curve"/>
+      <point x="263" y="0" type="line"/>
+      <point x="281" y="251"/>
+      <point x="418" y="518"/>
+      <point x="511" y="624" type="curve"/>
+      <point x="511" y="693" type="line"/>
+      <point x="76" y="693" type="line"/>
+      <point x="76" y="623" type="line"/>
+      <point x="425" y="623" type="line"/>
+      <point x="317" y="506"/>
+      <point x="199" y="220"/>
     </contour>
   </outline>
 </glyph>
