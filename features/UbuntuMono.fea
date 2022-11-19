@@ -369,6 +369,10 @@ feature afrc { # Alternate fractions
 } afrc;
 
 feature ss02 {
+		featureNames { 
+			name "Alternate Fractions"; 
+			name 1 "Alternate Fractions"; 
+		};
 	script latn;
 	lookup afrc1;
 	lookup afrc2;
@@ -422,6 +426,11 @@ feature case { # Case-Sensitive Forms
 } case;
 
 feature ss01 { # Greek Stylistic Alternates
+
+		featureNames { 
+			name "Greek Stylistic Alternates"; 
+			name 1 "Greek Stylistic Alternates"; 
+		};
 	script latn;
 	lookup salt01;
 	lookup salt02;

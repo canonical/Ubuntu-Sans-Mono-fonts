@@ -381,6 +381,10 @@ feature afrc { # Alternate fractions
 } afrc;
 
 feature ss02 {
+		featureNames { 
+			name "Alternate Fractions"; 
+			name 1 "Alternate Fractions"; 
+		};
 	script latn;
 	lookup afrc1;
 	lookup afrc2;
