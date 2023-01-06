@@ -12,13 +12,17 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntuMono-fonts%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdjrrb%2FUbuntuMono-fonts%2Fgh-pages%2Fbadges%2FUniversal.json
 
-The Ubuntu Font Family are a set of matching new libre/open fonts in development during 2010--2011. And with further expansion work and bug fixing during 2015. The development is being funded by Canonical Ltd on behalf the wider Free Software community and the Ubuntu project. The technical font design work and implementation is being undertaken by Dalton Maag.
+The **Ubuntu Font Family** are a set of matching libre/open fonts. The fonts were originally developed in 2010–2011, further expanded and improved in 2015, and expanded again in 2022–2023 when variable fonts were added. 
 
-Both the final font Truetype/OpenType files and the design files used to produce the font family are distributed under an open licence and you are expressly encouraged to experiment, modify, share and improve.
+The development is being funded by Canonical Ltd on behalf the wider Free Software community and the Ubuntu project. The technical font design work and implementation has been undertaken by [Dalton Maag](http://daltonmaag.com), [Type Network](http://typenetwork.com), and [DJR Type](http://djr.com).
+
+Both the final font TrueType/OpenType files and the design files used to produce the font family are distributed under an open licence and you are expressly encouraged to experiment, modify, share and improve.
 
 http://font.ubuntu.com/
 
 ![Sample Image](documentation/image1.png)
+
+A proportional-width variant, **Ubuntu**, is available in a separate repository: [https://github.com/djrrb/ubuntu-fonts](https://github.com/djrrb/ubuntu-fonts)
 
 ## About
 
