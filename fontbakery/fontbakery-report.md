@@ -14,7 +14,27 @@ Detected underlineThickness values are:
 	fonts/ttf/UbuntuMono-BoldItalic.ttf: 120
 	fonts/ttf/UbuntuMono-Italic.ttf: 79
  [code: inconsistent-underline-thickness]
-</div></details><br></div></details><details><summary><b>[12] UbuntuMono-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[15] UbuntuMono-MediumItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
 * 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
@@ -47,12 +67,12 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni030C.alt
-	- circumflex.asc
-	- caron.asc
+	- uni256A.001
+	- acute.asc
 	- uni256B.001
-	- acute.asc 
-	- And uni256A.001
+	- uni030C.alt
+	- caron.asc 
+	- And circumflex.asc
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -80,21 +100,27 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
 	 breve_inverted (U+0311), uni030F (U+030F) and uni0328 (U+0328) [code: mark-chars]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[17] UbuntuMono-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have colinear vectors:
-	* uni01CA (U+01CA): L<<194.0,468.0>--<156.0,282.0>> -> L<<156.0,282.0>--<88.0,0.0>>
-	* uni01CA (U+01CA): L<<264.0,238.0>--<301.0,424.0>> -> L<<301.0,424.0>--<366.0,693.0>>
-	* uni01CB (U+01CB): L<<205.0,468.0>--<165.0,280.0>> -> L<<165.0,280.0>--<98.0,0.0>> and uni01CB (U+01CB): L<<274.0,238.0>--<311.0,419.0>> -> L<<311.0,419.0>--<377.0,693.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have jaggy segments:
-	* uni01CA (U+01CA): B<<196.0,308.0>-<195.0,383.0>-<194.0,468.0>>/L<<194.0,468.0>--<156.0,282.0>> = 12.220727443911795
-	* uni01CA (U+01CA): L<<251.0,693.0>--<264.0,238.0>>/L<<264.0,238.0>--<301.0,424.0>> = 12.887258472111856
-	* uni01CB (U+01CB): B<<206.5,308.0>-<205.0,383.0>-<205.0,468.0>>/L<<205.0,468.0>--<165.0,280.0>> = 12.01147838636543 and uni01CB (U+01CB): L<<261.0,693.0>--<274.0,238.0>>/L<<274.0,238.0>--<311.0,419.0>> = 13.189802233901787 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[14] UbuntuMono-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
 * 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
@@ -119,16 +145,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F9B
-	* uni1F84
-	* uni1F7D
-	* Omicrontonos
-	* uni01B3
-	* uni01F8
-	* uni04D4
-	* yen
-	* uni1FF9
-	* uni01AB and 787 more.
+	* uni1F93
+	* uni0194
+	* uni1FF6
+	* zacute
+	* dkshade
+	* O
+	* uni1FBB
+	* Ccaron
+	* uni1FBC.alt
+	* uni04D4 and 787 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -139,12 +165,12 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni030C.alt
-	- circumflex.asc
-	- caron.asc
+	- uni256A.001
+	- acute.asc
 	- uni256B.001
-	- acute.asc 
-	- And uni256A.001
+	- uni030C.alt
+	- caron.asc 
+	- And circumflex.asc
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -186,26 +212,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-
 	 U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] UbuntuMono-Medium.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have colinear vectors:
-	* uni01CA (U+01CA): L<<260.0,180.0>--<245.0,396.0>> -> L<<245.0,396.0>--<245.0,693.0>>
-	* uni01CA (U+01CA): L<<95.0,502.0>--<108.0,289.0>> -> L<<108.0,289.0>--<108.0,0.0>>
-	* uni01CB (U+01CB): L<<260.0,180.0>--<245.0,406.0>> -> L<<245.0,406.0>--<245.0,693.0>>
-	* uni01CB (U+01CB): L<<95.0,502.0>--<108.0,281.0>> -> L<<108.0,281.0>--<108.0,0.0>>
-	* uni2116 (U+2116): L<<261.0,168.0>--<247.0,405.0>> -> L<<247.0,405.0>--<247.0,693.0>> and uni2116 (U+2116): L<<96.0,514.0>--<109.0,289.0>> -> L<<109.0,289.0>--<109.0,0.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have jaggy segments:
-	* uni01CA (U+01CA): B<<141.5,338.0>-<118.0,424.0>-<95.0,502.0>>/L<<95.0,502.0>--<108.0,289.0>> = 12.936708290677316
-	* uni01CA (U+01CA): L<<117.0,693.0>--<260.0,180.0>>/L<<260.0,180.0>--<245.0,396.0>> = 11.603445579167502
-	* uni01CB (U+01CB): B<<141.5,338.0>-<118.0,424.0>-<95.0,502.0>>/L<<95.0,502.0>--<108.0,281.0>> = 13.06284078810359
-	* uni01CB (U+01CB): L<<117.0,693.0>--<260.0,180.0>>/L<<260.0,180.0>--<245.0,406.0>> = 11.778693639479739
-	* uni024A (U+024A): L<<408.0,-1.0>--<408.0,82.0>>/B<<408.0,82.0>-<398.0,41.0>-<357.0,13.0>> = 13.706961004079783
-	* uni2116 (U+2116): L<<120.0,693.0>--<261.0,168.0>>/L<<261.0,168.0>--<247.0,405.0>> = 11.6526258660711 and uni2116 (U+2116): L<<236.0,0.0>--<96.0,514.0>>/L<<96.0,514.0>--<109.0,289.0>> = 11.929506309926724 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[13] UbuntuMono-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
 * 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
@@ -234,12 +261,12 @@ But instead we have got:
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni030C.alt
-	- circumflex.asc
-	- caron.asc
+	- uni256A.001
+	- acute.asc
 	- uni256B.001
-	- acute.asc 
-	- And uni256A.001
+	- uni030C.alt
+	- caron.asc 
+	- And circumflex.asc
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -281,25 +308,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-
 	 U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[17] UbuntuMono-Bold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have colinear vectors:
-	* uni01CA (U+01CA): L<<108.0,468.0>--<113.0,269.0>> -> L<<113.0,269.0>--<113.0,0.0>>
-	* uni01CA (U+01CA): L<<232.0,238.0>--<225.0,429.0>> -> L<<225.0,429.0>--<225.0,693.0>>
-	* uni01CB (U+01CB): L<<108.0,468.0>--<113.0,281.0>> -> L<<113.0,281.0>--<113.0,0.0>>
-	* uni01CB (U+01CB): L<<232.0,238.0>--<225.0,415.0>> -> L<<225.0,415.0>--<225.0,693.0>>
-	* uni2116 (U+2116): L<<105.0,452.0>--<111.0,270.0>> -> L<<111.0,270.0>--<111.0,0.0>> and uni2116 (U+2116): L<<230.0,255.0>--<224.0,418.0>> -> L<<224.0,418.0>--<224.0,693.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have jaggy segments:
-	* uni01CA (U+01CA): B<<147.5,308.0>-<128.0,383.0>-<108.0,468.0>>/L<<108.0,468.0>--<113.0,269.0>> = 11.801230287304806
-	* uni01CA (U+01CA): L<<110.0,693.0>--<232.0,238.0>>/L<<232.0,238.0>--<225.0,429.0>> = 12.910859041736162
-	* uni01CB (U+01CB): B<<147.5,308.0>-<128.0,383.0>-<108.0,468.0>>/L<<108.0,468.0>--<113.0,281.0>> = 11.708912123176166
-	* uni01CB (U+01CB): L<<110.0,693.0>--<232.0,238.0>>/L<<232.0,238.0>--<225.0,415.0>> = 12.745010426716288
-	* uni2116 (U+2116): L<<106.0,693.0>--<230.0,255.0>>/L<<230.0,255.0>--<224.0,418.0>> = 13.698988776330973 and uni2116 (U+2116): L<<229.0,0.0>--<105.0,452.0>>/L<<105.0,452.0>--<111.0,270.0>> = 13.452702757263976 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[14] UbuntuMono-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
 * 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
@@ -324,16 +353,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F9B
-	* lacute
-	* five.sinf
-	* uni1F84
-	* uni1F7D
-	* Omicrontonos
-	* parenleft
-	* uni1F7B
-	* uni01B3
-	* uni01F8 and 1051 more.
+	* uni1F93
+	* uni0194
+	* uni1FF6
+	* uni1F39
+	* zacute
+	* double_grave
+	* uni1F34
+	* dkshade
+	* O
+	* itilde and 1051 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -344,12 +373,12 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni030C.alt
-	- circumflex.asc
-	- caron.asc
+	- uni256A.001
+	- acute.asc
 	- uni256B.001
-	- acute.asc 
-	- And uni256A.001
+	- uni030C.alt
+	- caron.asc 
+	- And circumflex.asc
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -391,25 +420,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-
 	 U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD and 7 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] UbuntuMono-BoldItalic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have jaggy segments:
-	* AE (U+00C6): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457
-	* AEacute (U+01FC): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457
-	* uni01CA (U+01CA): B<<145.0,318.5>-<133.0,372.0>-<118.0,440.0>>/L<<118.0,440.0>--<118.0,0.0>> = 12.439562018846544
-	* uni01CB (U+01CB): B<<145.0,318.5>-<133.0,372.0>-<118.0,440.0>>/L<<118.0,440.0>--<118.0,0.0>> = 12.439562018846544
-	* uni01E2 (U+01E2): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457
-	* uni04CD (U+04CD): L<<220.0,245.0>--<152.0,539.0>>/L<<152.0,539.0>--<152.0,0.0>> = 13.023079670604968
-	* uni04CD (U+04CD): L<<394.0,0.0>--<394.0,539.0>>/L<<394.0,539.0>--<319.0,245.0>> = 14.311041262606418
-	* uni04CE (U+04CE): B<<186.0,221.0>-<170.0,296.0>-<153.0,372.0>>/L<<153.0,372.0>--<153.0,0.0>> = 12.60860679336622
-	* uni04CE (U+04CE): L<<395.0,0.0>--<395.0,372.0>>/B<<395.0,372.0>-<376.0,296.0>-<357.0,221.0>> = 14.036243467926457 and uni04D4 (U+04D4): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457 [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
- * kgreenlandic (U+0138): L<<71.0,525.0>--<209.0,526.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[13] UbuntuMono-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
 * 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
@@ -434,16 +465,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F9B
-	* lacute
-	* five.sinf
-	* uni1F84
-	* uni1F7D
-	* Omicrontonos
-	* parenleft
-	* uni1F7B
-	* uni01B3
-	* uni01F8 and 1049 more.
+	* uni1F93
+	* uni0194
+	* uni1FF6
+	* uni1F39
+	* zacute
+	* uni1F34
+	* dkshade
+	* O
+	* itilde
+	* uni1FBB and 1049 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -458,12 +489,12 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni030C.alt
-	- circumflex.asc
-	- caron.asc
+	- uni256A.001
+	- acute.asc
 	- uni256B.001
-	- acute.asc 
-	- And uni256A.001
+	- uni030C.alt
+	- caron.asc 
+	- And circumflex.asc
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -491,30 +522,27 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
 	 breve_inverted (U+0311), uni030F (U+030F) and uni0328 (U+0328) [code: mark-chars]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] UbuntuMono-Italic.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have colinear vectors:
-	* uni01CA (U+01CA): L<<200.0,440.0>--<162.0,283.0>> -> L<<162.0,283.0>--<94.0,0.0>>
-	* uni01CA (U+01CA): L<<254.0,287.0>--<291.0,444.0>> -> L<<291.0,444.0>--<351.0,693.0>>
-	* uni01CB (U+01CB): L<<211.0,440.0>--<171.0,279.0>> -> L<<171.0,279.0>--<104.0,0.0>> and uni01CB (U+01CB): L<<264.0,287.0>--<299.0,432.0>> -> L<<299.0,432.0>--<361.0,693.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
 
 
-* ⚠ **WARN** The following glyphs have jaggy segments:
-	* M (U+004D): B<<459.0,272.0>-<494.0,408.0>-<528.0,544.0>>/L<<528.0,544.0>--<373.0,245.0>> = 13.365738317706885
-	* Mu (U+039C): B<<459.0,272.0>-<494.0,408.0>-<528.0,544.0>>/L<<528.0,544.0>--<373.0,245.0>> = 13.365738317706885
-	* W (U+0057): B<<231.5,421.0>-<197.0,285.0>-<162.0,149.0>>/B<<162.0,149.0>-<201.0,224.0>-<239.0,298.5>> = 13.04236869014117
-	* Wacute (U+1E82): B<<231.5,421.0>-<197.0,285.0>-<162.0,149.0>>/B<<162.0,149.0>-<201.0,224.0>-<239.0,298.5>> = 13.04236869014117
-	* Wcircumflex (U+0174): B<<231.5,421.0>-<197.0,285.0>-<162.0,149.0>>/B<<162.0,149.0>-<201.0,224.0>-<239.0,298.5>> = 13.04236869014117
-	* Wdieresis (U+1E84): B<<231.5,421.0>-<197.0,285.0>-<162.0,149.0>>/B<<162.0,149.0>-<201.0,224.0>-<239.0,298.5>> = 13.04236869014117
-	* Wgrave (U+1E80): B<<231.5,421.0>-<197.0,285.0>-<162.0,149.0>>/B<<162.0,149.0>-<201.0,224.0>-<239.0,298.5>> = 13.04236869014117
-	* uni01CA (U+01CA): B<<197.0,318.5>-<198.0,372.0>-<200.0,440.0>>/L<<200.0,440.0>--<162.0,283.0>> = 11.92141873635303
-	* uni01CB (U+01CB): B<<208.0,318.5>-<209.0,372.0>-<211.0,440.0>>/L<<211.0,440.0>--<171.0,279.0>> = 12.26779345018865
-	* uni041C (U+041C): B<<459.0,272.0>-<494.0,408.0>-<528.0,544.0>>/L<<528.0,544.0>--<373.0,245.0>> = 13.365738317706885 and 11 more.
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[13] UbuntuMono-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>💔 <b>ERROR:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* 💔 **ERROR** The condition <FontBakeryCondition:outlines_dict> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'
+</div></details><details><summary>🔥 <b>FAIL:</b> Version format is correct in 'name' table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/version_format">com.google.fonts/check/name/version_format</a>)</summary><div>
 
 
 * 🔥 **FAIL** The NameID.VERSION_STRING (nameID=5) value must follow the pattern "Version X.Y" with X.Y greater than or equal to 1.000. Current version string is: "Version 0.862; ttfautohint (v1.8.4.7-5d5b)" [code: bad-version-strings]
@@ -539,16 +567,16 @@ But instead we have got:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1F9B
-	* uni1F84
-	* uni1F7D
-	* Omicrontonos
-	* uni01B3
-	* uni01F8
-	* uni04D4
-	* yen
-	* uni1FF9
-	* uni04F7 and 780 more.
+	* uni1F93
+	* uni0194
+	* uni1FF6
+	* zacute
+	* dkshade
+	* O
+	* uni1FBB
+	* Ccaron
+	* uni1FBC.alt
+	* uni04D4 and 780 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure Stylistic Sets have description. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/stylisticset_description">com.google.fonts/check/stylisticset_description</a>)</summary><div>
@@ -563,12 +591,12 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- uni030C.alt
-	- circumflex.asc
-	- caron.asc
+	- uni256A.001
+	- acute.asc
 	- uni256B.001
-	- acute.asc 
-	- And uni256A.001
+	- uni030C.alt
+	- caron.asc 
+	- And circumflex.asc
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -601,28 +629,13 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
 	 breve_inverted (U+0311), uni030F (U+030F) and uni0328 (U+0328) [code: mark-chars]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-	* uni01CA (U+01CA): L<<187.0,502.0>--<148.0,280.0>> -> L<<148.0,280.0>--<80.0,0.0>>
-	* uni01CA (U+01CA): L<<275.0,180.0>--<314.0,400.0>> -> L<<314.0,400.0>--<385.0,693.0>>
-	* uni01CB (U+01CB): L<<197.0,502.0>--<158.0,282.0>> -> L<<158.0,282.0>--<90.0,0.0>> and uni01CB (U+01CB): L<<285.0,180.0>--<325.0,403.0>> -> L<<325.0,403.0>--<396.0,693.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-	* asterisk (U+002A): B<<473.0,408.0>-<505.0,376.0>-<529.0,338.0>>/L<<529.0,338.0>--<528.0,339.0>> = 12.724355685422363
-	* uni01CA (U+01CA): B<<195.0,338.0>-<192.0,424.0>-<187.0,502.0>>/L<<187.0,502.0>--<148.0,280.0>> = 13.631592245438554
-	* uni01CA (U+01CA): L<<256.0,693.0>--<275.0,180.0>>/L<<275.0,180.0>--<314.0,400.0>> = 12.173641223738318
-	* uni01CB (U+01CB): B<<205.5,338.0>-<202.0,424.0>-<197.0,502.0>>/L<<197.0,502.0>--<158.0,282.0>> = 13.720332882608297 and uni01CB (U+01CB): L<<266.0,693.0>--<285.0,180.0>>/L<<285.0,180.0>--<325.0,403.0>> = 12.29022473115213 [code: found-jaggy-segments]
 </div></details><br></div></details>
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 25 | 55 | 656 | 43 | 491 | 0 |
-| 0% | 2% | 4% | 52% | 3% | 39% | 0% |
+| 30 | 25 | 43 | 653 | 43 | 476 | 0 |
+| 2% | 2% | 3% | 51% | 3% | 37% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
