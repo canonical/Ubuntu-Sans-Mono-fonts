@@ -30,7 +30,7 @@ for path in paths:
 
     familyName = get_name_record(f, 16, fallbackID=1)
     psFamilyName = familyName.replace(" ", "")
-    print('find', familyName)
+
     versionName = get_name_record(f, 3, fallbackID=1)
     versionNumber = versionName.split(';')[0]
 

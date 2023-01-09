@@ -5,4 +5,39 @@ axisOrder:
   - wght
   - ital
 familyName: Ubuntu Mono
-cleanUp: true
+buildWebfont: false
+stat:
+  UbuntuMono[wght].ttf:
+    - name: Weight
+      tag: wght
+      values:
+        - name: Regular
+          value: 400
+          linkedValue: 700
+        - name: Medium
+          value: 500
+        - name: Bold
+          value: 700
+    - name: Italic
+      tag: ital
+      values:
+      - name: Roman
+        value: 0
+        linkedValue: 1
+        flags: 2
+  UbuntuMono-Italic[wght].ttf:
+    - name: Weight
+      tag: wght
+      values:
+        - name: Regular
+          value: 400
+          linkedValue: 700
+        - name: Medium
+          value: 500
+        - name: Bold
+          value: 700
+    - name: Italic
+      tag: ital
+      values:
+      - name: Roman
+        value: 1

@@ -17,12 +17,12 @@ help:
 build: build.stamp
 
 dev: venv .init.stamp sources/config-dev.yaml $(SOURCES)
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config-dev.yaml; python scripts/addVersionToNames.py ./fonts/variable;	
+	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config-dev.yaml && touch build.stamp; rm -rf instance_ufo/; python3 scripts/makeWebfonts.py
 
 venv: venv/touchfile
 
 build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && touch build.stamp; rm -rf instance_ufo/
+	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && touch build.stamp; rm -rf instance_ufo/; python3 scripts/makeWebfonts.py
 
 .init.stamp: venv
 	. venv/bin/activate; python3 scripts/first-run.py
