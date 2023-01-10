@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursevenths" format="2">
+  <advance width="560"/>
+  <unicode hex="F509"/>
+  <outline>
+    <contour>
+      <point x="2" y="0" type="line"/>
+      <point x="37" y="0" type="line"/>
+      <point x="540" y="693" type="line"/>
+      <point x="503" y="693" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="0" type="curve"/>
+      <point x="379" y="0" type="line"/>
+      <point x="396" y="111"/>
+      <point x="427" y="170"/>
+      <point x="494" y="247" type="curve"/>
+      <point x="494" y="280" type="line"/>
+      <point x="327" y="280" type="line"/>
+      <point x="327" y="241" type="line"/>
+      <point x="447" y="241" type="line"/>
+      <point x="391" y="163"/>
+      <point x="365" y="102"/>
+    </contour>
+    <contour>
+      <point x="192" y="421" type="line"/>
+      <point x="228" y="421" type="line"/>
+      <point x="228" y="488" type="line"/>
+      <point x="267" y="488" type="line"/>
+      <point x="267" y="526" type="line"/>
+      <point x="228" y="526" type="line"/>
+      <point x="228" y="701" type="line"/>
+      <point x="167" y="701" type="line"/>
+      <point x="121" y="657"/>
+      <point x="82" y="591"/>
+      <point x="42" y="529" type="curve"/>
+      <point x="42" y="488" type="line"/>
+      <point x="192" y="488" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="526" type="line"/>
+      <point x="120" y="575"/>
+      <point x="149" y="635"/>
+      <point x="192" y="683" type="curve"/>
+      <point x="192" y="526" type="line"/>
+    </contour>
+  </outline>
+</glyph>

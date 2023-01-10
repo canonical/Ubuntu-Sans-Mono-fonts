@@ -23,7 +23,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3144</string>
+    <string>3149</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
@@ -68,7 +68,7 @@
     <key>com.schriftgestaltung.fontMasterID</key>
     <string>68468CF6-F9DE-483A-BB46-0E44086B3000</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
