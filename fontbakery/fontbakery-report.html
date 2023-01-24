@@ -96,6 +96,8 @@
 
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.862; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
 </span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.862; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
+</span></li></ul></div></details>
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.862; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
 </span></li></ul></div></details>
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.862; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
@@ -104,12 +106,14 @@
 </span></li></ul></div></details>
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.862; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
 </span></li></ul></div></details>
-<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The NameID.VERSION_STRING (nameID=5) value must follow the pattern &quot;Version X.Y&quot; with X.Y greater than or equal to 1.000. Current version string is: &quot;Version 0.862; ttfautohint (v1.8.4.7-5d5b)&quot; [code: bad-version-strings]</p>
-</span></li></ul></div></details>
 <h3>Copyright notices match canonical pattern in fonts</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/font_copyright&gt;</div>
 
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
+But instead we have got:
+&quot;Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
 But instead we have got:
 &quot;Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
 </span></li></ul></div></details>
@@ -129,69 +133,70 @@ But instead we have got:
 But instead we have got:
 &quot;Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
 </span></li></ul></div></details>
-<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Name Table entry: Copyright notices should match a pattern similar to: &quot;Copyright 2019 The Familyname Project Authors (git url)&quot;
-But instead we have got:
-&quot;Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0&quot; [code: bad-notice-format]</p>
-</span></li></ul></div></details>
 <h3>Glyphs are similiar to Google Fonts version?</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/production_glyphs_similarity&gt;</div>
 
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
+* Omicron
+* uni01E0
+* h
+* uni1FA8.alt
+* uni04B1
+* uni04D7
+* uni04B5
+* atilde
+* uni0494
+* Braceright and 780 more.</p>
+<p>Use -F or --full-lists to disable shortening of long lists.</p>
+</span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
-* uni1F93
-* uni0194
-* uni1FF6
-* zacute
-* dkshade
-* O
-* uni1FBB
-* Ccaron
-* uni1FBC.alt
-* uni04D4 and 787 more.</p>
+* Omicron
+* uni01E0
+* h
+* uni1FA8.alt
+* uni04B1
+* uni04D7
+* uni04B5
+* atilde
+* uni0494
+* Braceright and 787 more.</p>
 <p>Use -F or --full-lists to disable shortening of long lists.</p>
 </span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
-* uni1F93
-* uni0194
-* uni1FF6
-* uni1F39
-* zacute
-* double_grave
-* uni1F34
-* dkshade
-* O
-* itilde and 1051 more.</p>
+* Omicron
+* uni01E0
+* h
+* c
+* uni1FA8.alt
+* ordmasculine
+* uni04B1
+* uni1FD2
+* uni04D7
+* igrave and 1051 more.</p>
 <p>Use -F or --full-lists to disable shortening of long lists.</p>
 </span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
-* uni1F93
-* uni0194
-* uni1FF6
-* uni1F39
-* zacute
-* uni1F34
-* dkshade
-* O
-* itilde
-* uni1FBB and 1049 more.</p>
-<p>Use -F or --full-lists to disable shortening of long lists.</p>
-</span></li></ul></div></details>
-<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>Following glyphs differ greatly from Google Fonts version:
-* uni1F93
-* uni0194
-* uni1FF6
-* zacute
-* dkshade
-* O
-* uni1FBB
-* Ccaron
-* uni1FBC.alt
-* uni04D4 and 780 more.</p>
+* Omicron
+* uni01E0
+* h
+* c
+* uni1FA8.alt
+* ordmasculine
+* uni04B1
+* uni1FD2
+* uni04D7
+* igrave and 1049 more.</p>
 <p>Use -F or --full-lists to disable shortening of long lists.</p>
 </span></li></ul></div></details>
 <h3>Check if the vertical metrics of a family are similar to the same family hosted on Google Fonts.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/vertical_metrics_regressions&gt;</div>
 
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoAscender is 932 when it should be 830 [code: bad-typo-ascender]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoDescender is -189 when it should be -170 [code: bad-typo-descender]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: hhea Ascender is 932 when it should be 830 [code: bad-hhea-ascender]</p>
+</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: hhea Descender is -189 when it should be -170 [code: bad-hhea-descender]</p>
+</span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoAscender is 932 when it should be 830 [code: bad-typo-ascender]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoDescender is -189 when it should be -170 [code: bad-typo-descender]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: hhea Ascender is 932 when it should be 830 [code: bad-hhea-ascender]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: hhea Descender is -189 when it should be -170 [code: bad-hhea-descender]</p>
@@ -216,24 +221,21 @@ But instead we have got:
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: hhea Ascender is 932 when it should be 830 [code: bad-hhea-ascender]</p>
 </span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: hhea Descender is -189 when it should be -170 [code: bad-hhea-descender]</p>
 </span></li></ul></div></details>
-<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoAscender is 932 when it should be 830 [code: bad-typo-ascender]</p>
-</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: OS/2 sTypoDescender is -189 when it should be -170 [code: bad-typo-descender]</p>
-</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: hhea Ascender is 932 when it should be 830 [code: bad-hhea-ascender]</p>
-</span></li><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Ubuntu Mono Regular: hhea Descender is -189 when it should be -170 [code: bad-hhea-descender]</p>
-</span></li></ul></div></details>
 <h3>Ensure Stylistic Sets have description.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/stylisticset_description&gt;</div>
 
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]</p>
 </span></li></ul></div></details>
-<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]</p>
-</span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The stylistic set ss01 lacks a description string on the 'name' table. [code: missing-description]</p>
 </span></li></ul></div></details>
 <h3>Ensure fonts have ScriptLangTags declared on the 'meta' table.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/meta/script_lang_tags&gt;</div>
 
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
 </span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
 </span></li></ul></div></details>
@@ -243,64 +245,62 @@ But instead we have got:
 </span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
 </span></li></ul></div></details>
-<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font file does not have a 'meta' table. [code: lacks-meta-table]</p>
-</span></li></ul></div></details>
 <h2>&lt;Section: Universal&gt; ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️ℹ️</h2>
 <h3>Check font contains no unreachable glyphs</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/unreachable_glyphs&gt;</div>
 
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
 - uni256A.001
-- acute.asc
-- uni256B.001
 - uni030C.alt
+- circumflex.asc
 - caron.asc
-- And circumflex.asc
-[code: unreachable-glyphs]</p>
-</span></li></ul></div></details>
-<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
-- uni256A.001
 - acute.asc
-- uni256B.001
-- uni030C.alt
-- caron.asc
-- And circumflex.asc
-[code: unreachable-glyphs]</p>
-</span></li></ul></div></details>
-<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
-- uni256A.001
-- acute.asc
-- uni256B.001
-- uni030C.alt
-- caron.asc
-- And circumflex.asc
-[code: unreachable-glyphs]</p>
-</span></li></ul></div></details>
-<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
-- uni256A.001
-- acute.asc
-- uni256B.001
-- uni030C.alt
-- caron.asc
-- And circumflex.asc
-[code: unreachable-glyphs]</p>
-</span></li></ul></div></details>
-<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
-- uni256A.001
-- acute.asc
-- uni256B.001
-- uni030C.alt
-- caron.asc
-- And circumflex.asc
+- And uni256B.001
 [code: unreachable-glyphs]</p>
 </span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
 - uni256A.001
-- acute.asc
-- uni256B.001
 - uni030C.alt
+- circumflex.asc
 - caron.asc
-- And circumflex.asc
+- acute.asc
+- And uni256B.001
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
+- uni256A.001
+- uni030C.alt
+- circumflex.asc
+- caron.asc
+- acute.asc
+- And uni256B.001
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
+- uni256A.001
+- uni030C.alt
+- circumflex.asc
+- caron.asc
+- acute.asc
+- And uni256B.001
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
+- uni256A.001
+- uni030C.alt
+- circumflex.asc
+- caron.asc
+- acute.asc
+- And uni256B.001
+[code: unreachable-glyphs]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following glyphs could not be reached by codepoint or substitution rules:
+- uni256A.001
+- uni030C.alt
+- circumflex.asc
+- caron.asc
+- acute.asc
+- And uni256B.001
 [code: unreachable-glyphs]</p>
 </span></li></ul></div></details>
 <h3>Check if each glyph has the recommended amount of contours.</h3>
@@ -319,6 +319,24 @@ But instead we have got:
 - And Glyph name: uni00AD	Contours detected: 1	Expected: 0
 </code></pre>
 <p>[code: contour-count]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
+</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
+<p>The following glyphs do not have the recommended number of contours:</p>
+<pre><code>- Glyph name: i	Contours detected: 3	Expected: 2
+- Glyph name: uni00AD	Contours detected: 1	Expected: 0
+- Glyph name: igrave	Contours detected: 3	Expected: 2
+- Glyph name: iacute	Contours detected: 3	Expected: 2
+- Glyph name: icircumflex	Contours detected: 3	Expected: 2
+- Glyph name: idieresis	Contours detected: 4	Expected: 3
+- Glyph name: hcircumflex	Contours detected: 1	Expected: 2
+- Glyph name: itilde	Contours detected: 3	Expected: 2
+- Glyph name: imacron	Contours detected: 3	Expected: 2
+- Glyph name: ibreve	Contours detected: 3	Expected: 2 
+- And 68 more.
+</code></pre>
+<p>Use -F or --full-lists to disable shortening of long lists.
+[code: contour-count]</p>
 </span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
 </span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
@@ -376,28 +394,12 @@ But instead we have got:
 </code></pre>
 <p>[code: contour-count]</p>
 </span></li></ul></div></details>
-<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]</p>
-</span></li><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.</p>
-<p>The following glyphs do not have the recommended number of contours:</p>
-<pre><code>- Glyph name: i	Contours detected: 3	Expected: 2
-- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-- Glyph name: igrave	Contours detected: 3	Expected: 2
-- Glyph name: iacute	Contours detected: 3	Expected: 2
-- Glyph name: icircumflex	Contours detected: 3	Expected: 2
-- Glyph name: idieresis	Contours detected: 4	Expected: 3
-- Glyph name: hcircumflex	Contours detected: 1	Expected: 2
-- Glyph name: itilde	Contours detected: 3	Expected: 2
-- Glyph name: imacron	Contours detected: 3	Expected: 2
-- Glyph name: ibreve	Contours detected: 3	Expected: 2 
-- And 68 more.
-</code></pre>
-<p>Use -F or --full-lists to disable shortening of long lists.
-[code: contour-count]</p>
-</span></li></ul></div></details>
 <h3>Ensure dotted circle glyph is present and can attach marks.</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/dotted_circle&gt;</div>
 
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>No dotted circle glyph present [code: missing-dotted-circle]</p>
+</span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>No dotted circle glyph present [code: missing-dotted-circle]</p>
 </span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>No dotted circle glyph present [code: missing-dotted-circle]</p>
 </span></li></ul></div></details>
@@ -407,8 +409,6 @@ But instead we have got:
 </span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>No dotted circle glyph present [code: missing-dotted-circle]</p>
 </span></li></ul></div></details>
-<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>No dotted circle glyph present [code: missing-dotted-circle]</p>
-</span></li></ul></div></details>
 <h2>&lt;Section: fontbakery.profiles.post&gt; 🔥</h2>
 <h3>Fonts have consistent underline thickness?</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/family/underline_thickness&gt;</div>
@@ -416,11 +416,11 @@ But instead we have got:
 <details><summary>🔥 <strong>Family check</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>Thickness of the underline is not the same across this family. In order to fix this, please make sure that the underlineThickness value is the same in the 'post' table of all of this family font files.
 Detected underlineThickness values are:
 fonts/ttf/UbuntuMono-MediumItalic.ttf: 101
+fonts/ttf/UbuntuMono-Italic.ttf: 79
 fonts/ttf/UbuntuMono-Regular.ttf: 79
 fonts/ttf/UbuntuMono-Medium.ttf: 101
 fonts/ttf/UbuntuMono-Bold.ttf: 120
 fonts/ttf/UbuntuMono-BoldItalic.ttf: 120
-fonts/ttf/UbuntuMono-Italic.ttf: 79
 [code: inconsistent-underline-thickness]</p>
 </span></li></ul></div></details>
 <h2>&lt;Section: fontbakery.profiles.name&gt; 🔥🔥🔥🔥🔥🔥⏩⏩⏩⏩⏩⏩</h2>
@@ -429,6 +429,8 @@ fonts/ttf/UbuntuMono-Italic.ttf: 79
 
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
 </span></li></ul></div></details>
+<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
+</span></li></ul></div></details>
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
 </span></li></ul></div></details>
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
@@ -436,8 +438,6 @@ fonts/ttf/UbuntuMono-Italic.ttf: 79
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
 </span></li></ul></div></details>
 <details><summary>🔥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
-</span></li></ul></div></details>
-<details><summary>🔥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>🔥 FAIL</span><span class='details_text'><p>The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]</p>
 </span></li></ul></div></details>
 <h2>&lt;Section: fontbakery.profiles.gdef&gt; ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️</h2>
 <h3>Check glyphs in mark glyph class are non-spacing.</h3>
@@ -461,6 +461,9 @@ dieresistonos (U+0385), tonos (U+0384), tonos.cap (unencoded), uni1FBD (U+1FBD),
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following mark characters could be in the GDEF mark glyph class:
 breve_inverted (U+0311), uni030F (U+030F) and uni0328 (U+0328) [code: mark-chars]</p>
 </span></li></ul></div></details>
+<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following mark characters could be in the GDEF mark glyph class:
+breve_inverted (U+0311), uni030F (U+030F) and uni0328 (U+0328) [code: mark-chars]</p>
+</span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following mark characters could be in the GDEF mark glyph class:
 breve_inverted (U+0311) and uni030F (U+030F) [code: mark-chars]</p>
 </span></li></ul></div></details>
@@ -471,9 +474,6 @@ breve_inverted (U+0311) and uni030F (U+030F) [code: mark-chars]</p>
 breve_inverted (U+0311) and uni030F (U+030F) [code: mark-chars]</p>
 </span></li></ul></div></details>
 <details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following mark characters could be in the GDEF mark glyph class:
-breve_inverted (U+0311), uni030F (U+030F) and uni0328 (U+0328) [code: mark-chars]</p>
-</span></li></ul></div></details>
-<details><summary>⚠️ <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>⚠️ WARN</span><span class='details_text'><p>The following mark characters could be in the GDEF mark glyph class:
 breve_inverted (U+0311), uni030F (U+030F) and uni0328 (U+0328) [code: mark-chars]</p>
 </span></li></ul></div></details>
 <h3>Check GDEF mark glyph class doesn't have characters that are not marks.</h3>
@@ -497,6 +497,8 @@ U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD a
 
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
+<details><summary>💥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
+</span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
@@ -504,14 +506,14 @@ U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD a
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
-</span></li></ul></div></details>
-<details><summary>💥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <h3>Are any segments inordinately short?</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_short_segments&gt;</div>
 
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
+<details><summary>💥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
+</span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
@@ -519,14 +521,14 @@ U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD a
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
-</span></li></ul></div></details>
-<details><summary>💥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <h3>Do any segments have colinear vectors?</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_colinear_vectors&gt;</div>
 
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
+<details><summary>💥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
+</span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
@@ -534,14 +536,14 @@ U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD a
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
-</span></li></ul></div></details>
-<details><summary>💥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <h3>Do outlines contain any jaggy segments?</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_jaggy_segments&gt;</div>
 
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
+<details><summary>💥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
+</span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
@@ -549,14 +551,14 @@ U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD a
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
-</span></li></ul></div></details>
-<details><summary>💥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <h3>Do outlines contain any semi-vertical or semi-horizontal lines?</h3>
 <div>Check ID: &lt;FontBakeryCheck:com.google.fonts/check/outline_semi_vertical&gt;</div>
 
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-MediumItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
+<details><summary>💥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
+</span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Regular.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Medium.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
@@ -564,8 +566,6 @@ U+0384, U+0385, U+1FBD, U+1FBF, U+1FC0, U+1FC1, U+1FCD, U+1FCE, U+1FCF, U+1FDD a
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-Bold.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
 <details><summary>💥 <strong>fonts/ttf/UbuntuMono-BoldItalic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
-</span></li></ul></div></details>
-<details><summary>💥 <strong>fonts/ttf/UbuntuMono-Italic.ttf</strong></summary><div><ul><li class='details_item'><span class='details_indicator'>💥 ERROR</span><span class='details_text'><p>The condition <a href="FontBakeryCondition:outlines_dict">FontBakeryCondition:outlines_dict</a> had an error: AttributeError: '_TTGlyphGlyf' object has no attribute '_glyph'</p>
 </span></li></ul></div></details>
                     </body>
                 </html>
