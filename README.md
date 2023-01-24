@@ -14,7 +14,7 @@
 
 The **Ubuntu Font Family** are a set of matching libre/open fonts. The fonts were originally developed in 2010–2011, further expanded and improved in 2015, and expanded again in 2022–2023 when variable fonts were added. 
 
-The development is being funded by Canonical Ltd on behalf the wider Free Software community and the Ubuntu project. The technical font design work and implementation has been undertaken by [Dalton Maag](http://daltonmaag.com), [Type Network](http://typenetwork.com), and [DJR Type](http://djr.com).
+The development is being funded by Canonical Ltd on behalf the wider Free Software community and the Ubuntu project. The technical font design work and implementation has been undertaken by [Dalton Maag](http://daltonmaag.com), [Type Network](http://typenetwork.com), [DJR Type](http://djr.com), and [Dual Type](http://dualtype.design).
 
 Both the final font TrueType/OpenType files and the design files used to produce the font family are distributed under an open licence and you are expressly encouraged to experiment, modify, share and improve.
 
