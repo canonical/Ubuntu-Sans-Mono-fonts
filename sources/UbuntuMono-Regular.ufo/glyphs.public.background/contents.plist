@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>dieresis_grave.cap</key>
+    <string>dieresis_grave.cap.glif</string>
+    <key>kgreenlandic</key>
+    <string>kgreenlandic.glif</string>
+    <key>onehalf</key>
+    <string>onehalf.glif</string>
+    <key>questiondown</key>
+    <string>questiondown.glif</string>
+    <key>uni0497</key>
+    <string>uni0497.glif</string>
+  </dict>
+</plist>

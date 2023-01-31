@@ -83,7 +83,7 @@
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>250</integer>
     <key>openTypeOS2StrikeoutSize</key>
-    <integer>120</integer>
+    <integer>79</integer>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
@@ -120,7 +120,7 @@
     <key>openTypeOS2WinAscent</key>
     <integer>1020</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>221</integer>
+    <integer>223</integer>
     <key>postscriptBlueScale</key>
     <real>0.04</real>
     <key>postscriptBlueShift</key>
@@ -130,7 +130,7 @@
     <key>postscriptUnderlinePosition</key>
     <integer>-138</integer>
     <key>postscriptUnderlineThickness</key>
-    <integer>120</integer>
+    <integer>79</integer>
     <key>styleName</key>
     <string>Bold Italic</string>
     <key>trademark</key>
@@ -140,7 +140,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>862</integer>
+    <integer>864</integer>
     <key>xHeight</key>
     <integer>526</integer>
   </dict>

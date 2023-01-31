@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iota" format="2">
+  <advance width="560"/>
+  <unicode hex="0399"/>
+  <anchor x="280" y="776" name="topleft"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="499" y="11" name="ogonek"/>
+  <outline>
+    <component base="I"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

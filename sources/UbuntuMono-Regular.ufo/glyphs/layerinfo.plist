@@ -724,11 +724,11 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.breve</key>
       <integer>1</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.breve_inverted</key>
-      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb.cyr</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.breveinvertedcomb</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.brokenbar</key>
       <integer>1</integer>
@@ -776,9 +776,9 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.comma</key>
       <integer>1</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.commaaccent</key>
-      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.commaaccentcomb</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.commaaccentcomb.001</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.commaturnedabovecomb</key>
       <integer>1</integer>

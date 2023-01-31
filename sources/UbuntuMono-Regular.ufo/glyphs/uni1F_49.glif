@@ -5,7 +5,8 @@
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="280" y="389" name="center"/>
   <anchor x="504" y="11" name="ogonek"/>
-  <anchor x="-56" y="708" name="top"/>
+  <anchor x="280" y="776" name="top_1"/>
+  <anchor x="-56" y="708" name="top_2"/>
   <anchor x="22" y="776" name="topleft"/>
   <anchor x="538" y="776" name="topright"/>
   <outline>
@@ -33,6 +34,8 @@
           <string>uni1FFE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

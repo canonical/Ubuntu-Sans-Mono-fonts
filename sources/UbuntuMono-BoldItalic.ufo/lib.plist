@@ -14,7 +14,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3144</string>
+    <string>3151</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
@@ -1649,6 +1649,8 @@
       <string>uni0306</string>
       <key>brevecomb.cyr</key>
       <string>uni0306.cyr</string>
+      <key>breveinvertedcomb</key>
+      <string>uni0311</string>
       <key>caroncomb</key>
       <string>uni030C</string>
       <key>caroncomb.alt</key>
@@ -1776,5 +1778,14 @@
       <key>zerosuperior</key>
       <string>uni2070</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array>
+      <string>acute.asc</string>
+      <string>ampersand.001</string>
+      <string>caron.asc</string>
+      <string>circumflex.asc</string>
+      <string>uniE0FF</string>
+      <string>uniEFFD</string>
+    </array>
   </dict>
 </plist>

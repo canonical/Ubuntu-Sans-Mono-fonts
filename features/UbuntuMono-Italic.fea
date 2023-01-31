@@ -411,17 +411,17 @@ feature ss02 {
 } ss02;
 
 feature case { # Case-Sensitive Forms
-  script latn;
-  lookup case_add;
-  lookup case_dflt;
-  language AZE;
-  language TRK;
-  language CRT;
+	script latn;
+	lookup case_add;
+	lookup case_dflt;
+	language AZE;
+	language TRK;
+	language CRT;
 
-  script cyrl;
-	language BGR;
-  lookup case_add;
-  lookup case_dflt;
+	script cyrl;
+		language BGR;
+	lookup case_add;
+	lookup case_dflt;
 	language MKD;
 	lookup case_add;
 	lookup case_dflt;
@@ -432,12 +432,16 @@ feature case { # Case-Sensitive Forms
 	lookup case_add;
 	lookup case_dflt;
 
-  script grek;
-  lookup case_add;
-  lookup case_dflt;
+	script grek;
+	lookup case_add;
+	lookup case_dflt;
 } case;
 
 feature ss01 { # Greek Stylistic Alternates
+	featureNames { 
+		name "Greek Stylistic Alternates"; 
+		name 1 "Greek Stylistic Alternates"; 
+	};
 	script latn;
 	lookup salt01;
 	lookup salt02;

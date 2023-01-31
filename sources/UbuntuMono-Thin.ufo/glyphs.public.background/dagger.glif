@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <outline>
+    <contour>
+      <point x="282" y="-144" type="curve"/>
+      <point x="279" y="-144" type="line"/>
+      <point x="289" y="-59"/>
+      <point x="291" y="35"/>
+      <point x="291" y="139" type="curve" smooth="yes"/>
+      <point x="291" y="429" type="line"/>
+      <point x="458" y="429" type="line"/>
+      <point x="458" y="458" type="line"/>
+      <point x="291" y="458" type="line"/>
+      <point x="291" y="693" type="line"/>
+      <point x="265" y="693" type="line"/>
+      <point x="265" y="458" type="line"/>
+      <point x="100" y="458" type="line"/>
+      <point x="100" y="429" type="line"/>
+      <point x="265" y="429" type="line"/>
+      <point x="265" y="139" type="line" smooth="yes"/>
+      <point x="265" y="24"/>
+      <point x="269" y="-62"/>
+    </contour>
+  </outline>
+</glyph>

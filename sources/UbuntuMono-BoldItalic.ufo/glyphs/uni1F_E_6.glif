@@ -4,6 +4,6 @@
   <unicode hex="1FE6"/>
   <outline>
     <component base="upsilon"/>
-    <component base="breve_inverted"/>
+    <component base="breveinvertedcomb"/>
   </outline>
 </glyph>

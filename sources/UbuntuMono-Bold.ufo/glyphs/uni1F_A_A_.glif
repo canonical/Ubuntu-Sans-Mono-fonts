@@ -2,6 +2,7 @@
 <glyph name="uni1FAA" format="2">
   <advance width="560"/>
   <unicode hex="1FAA"/>
+  <anchor x="-224" y="716" name="top"/>
   <outline>
     <component base="uni1FFC"/>
     <component base="uni1FCD" xOffset="-504" yOffset="-115"/>
@@ -27,6 +28,8 @@
           <string>uni1FCD</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

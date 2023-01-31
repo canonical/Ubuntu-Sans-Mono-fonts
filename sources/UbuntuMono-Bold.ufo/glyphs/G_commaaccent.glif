@@ -6,6 +6,12 @@
   <anchor x="280" y="776" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="commaaccent"/>
+    <component base="commaaccentcomb"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

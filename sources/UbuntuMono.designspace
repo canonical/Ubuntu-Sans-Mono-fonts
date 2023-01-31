@@ -1,13 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+    <axis tag="wght" name="Weight" minimum="100" maximum="700" default="400">
+      <map input="100" output="100"/>
+      <map input="300" output="300"/>
       <map input="400" output="400"/>
       <map input="500" output="564"/>
       <map input="700" output="700"/>
     </axis>
   </axes>
   <sources>
+    <source filename="UbuntuMono-Thin.ufo" name="Ubuntu Mono Thin" familyname="Ubuntu Mono" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
     <source filename="UbuntuMono-Regular.ufo" name="Ubuntu Mono Regular" familyname="Ubuntu Mono" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
@@ -24,6 +31,16 @@
     </source>
   </sources>
   <instances>
+    <instance name="Ubuntu Mono Thin" familyname="Ubuntu Mono" stylename="Thin" filename="../instance_ufo/UbuntuMono-Thin.ufo" stylemapfamilyname="Ubuntu Mono Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="Ubuntu Mono Light" familyname="Ubuntu Mono" stylename="Light" filename="../instance_ufo/UbuntuMono-Light.ufo" stylemapfamilyname="Ubuntu Mono Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
     <instance name="Ubuntu Mono Regular" familyname="Ubuntu Mono" stylename="Regular" filename="../instance_ufo/UbuntuMono-Regular.ufo" stylemapfamilyname="Ubuntu Mono" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="400"/>

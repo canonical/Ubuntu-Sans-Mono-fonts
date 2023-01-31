@@ -720,12 +720,12 @@
     <string>bracketright.glif</string>
     <key>breve</key>
     <string>breve.glif</string>
-    <key>breve_inverted</key>
-    <string>breve_inverted.glif</string>
     <key>brevecomb</key>
     <string>brevecomb.glif</string>
     <key>brevecomb.cyr</key>
     <string>brevecomb.cyr.glif</string>
+    <key>breveinvertedcomb</key>
+    <string>breveinvertedcomb.glif</string>
     <key>brokenbar</key>
     <string>brokenbar.glif</string>
     <key>bullet</key>
@@ -772,10 +772,10 @@
     <string>colon.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
-    <key>commaaccent</key>
-    <string>commaaccent.glif</string>
     <key>commaaccentcomb</key>
     <string>commaaccentcomb.glif</string>
+    <key>commaaccentcomb.001</key>
+    <string>commaaccentcomb.001.glif</string>
     <key>commaturnedabovecomb</key>
     <string>commaturnedabovecomb.glif</string>
     <key>copyright</key>
