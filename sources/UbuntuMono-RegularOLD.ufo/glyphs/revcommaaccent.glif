@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="revcommaaccent" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="208" y="609" type="curve"/>
+      <point x="297" y="609" type="line"/>
+      <point x="297" y="622" type="line"/>
+      <point x="297" y="693"/>
+      <point x="320" y="711"/>
+      <point x="353" y="736" type="curve"/>
+      <point x="320" y="781" type="line"/>
+      <point x="236" y="762"/>
+      <point x="198" y="687"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

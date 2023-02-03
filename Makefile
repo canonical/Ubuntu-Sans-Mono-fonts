@@ -17,7 +17,7 @@ help:
 build: build.stamp
 
 dev: venv .init.stamp sources/config-dev.yaml $(SOURCES)
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config-dev.yaml && touch build.stamp; rm -rf instance_ufo/; python3 scripts/makeWebfonts.py
+	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config-dev.yaml; python scripts/addVersionToNames.py ./fonts/variable; python3 scripts/makeWebfonts.py
 
 venv: venv/touchfile
 

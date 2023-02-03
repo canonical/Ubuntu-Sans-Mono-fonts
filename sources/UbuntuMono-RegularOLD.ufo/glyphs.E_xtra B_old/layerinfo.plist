@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>8FCE060F-DBA2-4EDB-83CA-0388034B90B4</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.acutecomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.caroncomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.caroncomb.alt</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.cedillacomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.circumflexcomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.commaaccentcomb.001</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.commaturnedabovecomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dieresiscomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dotaccentcomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.gravecomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hungarumlautcomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.macroncomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ogonekcomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ringcomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tildecomb</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.uni030F</key>
+      <integer>3</integer>
+    </dict>
+  </dict>
+</plist>

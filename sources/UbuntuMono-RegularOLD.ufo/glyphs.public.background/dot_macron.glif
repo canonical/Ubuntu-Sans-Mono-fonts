@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dot_macron" format="2">
+  <outline>
+    <contour>
+      <point x="280" y="587" type="qcurve"/>
+      <point x="256" y="587"/>
+      <point x="225" y="617"/>
+      <point x="225" y="643" type="qcurve"/>
+      <point x="225" y="669"/>
+      <point x="256" y="699"/>
+      <point x="280" y="699" type="qcurve"/>
+      <point x="304" y="699"/>
+      <point x="335" y="669"/>
+      <point x="335" y="643" type="qcurve"/>
+      <point x="335" y="617"/>
+      <point x="304" y="587"/>
+    </contour>
+    <contour>
+      <point x="153" y="802" type="line"/>
+      <point x="407" y="802" type="line"/>
+      <point x="407" y="738" type="line"/>
+      <point x="153" y="738" type="line"/>
+    </contour>
+  </outline>
+</glyph>
