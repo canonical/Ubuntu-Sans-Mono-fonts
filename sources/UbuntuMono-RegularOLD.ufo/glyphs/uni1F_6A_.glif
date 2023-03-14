@@ -3,6 +3,7 @@
   <advance width="560"/>
   <unicode hex="1F6A"/>
   <anchor x="280" y="0" name="bottom"/>
+  <anchor x="-162" y="712" name="top"/>
   <anchor x="22" y="776" name="topleft"/>
   <outline>
     <component base="Omega"/>
@@ -29,6 +30,8 @@
           <string>uni1FCD</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

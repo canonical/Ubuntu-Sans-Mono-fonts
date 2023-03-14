@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sixsevenths" format="2">
   <advance width="560"/>
-  <unicode hex="F50B"/>
   <outline>
     <contour>
       <point x="31" y="0" type="line"/>

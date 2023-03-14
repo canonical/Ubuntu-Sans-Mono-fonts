@@ -4,6 +4,6 @@
   <unicode hex="1FB6"/>
   <outline>
     <component base="alpha"/>
-    <component base="breve_inverted" xOffset="19"/>
+    <component base="breveinvertedcomb" xOffset="19"/>
   </outline>
 </glyph>

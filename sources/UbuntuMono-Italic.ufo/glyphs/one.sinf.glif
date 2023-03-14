@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.sinf" format="2">
   <advance width="560"/>
-  <unicode hex="F815"/>
   <outline>
     <component base="onesuperior" xOffset="-74" yOffset="-506"/>
   </outline>

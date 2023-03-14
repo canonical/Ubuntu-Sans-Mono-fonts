@@ -4,7 +4,8 @@
   <unicode hex="1F0C"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="504" y="11" name="ogonek"/>
-  <anchor x="22" y="711" name="top"/>
+  <anchor x="280" y="776" name="top_1"/>
+  <anchor x="22" y="711" name="top_2"/>
   <outline>
     <component base="A"/>
     <component base="uni1FCE" xOffset="-258" yOffset="-58"/>
@@ -30,6 +31,8 @@
           <string>uni1FCE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

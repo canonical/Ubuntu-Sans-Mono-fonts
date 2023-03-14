@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
   <advance width="560"/>
-  <unicode hex="F001"/>
+  <unicode hex="FB01"/>
   <anchor x="280" y="0" name="caret_1"/>
   <outline>
     <contour>
@@ -51,4 +51,10 @@
       <point x="427" y="621"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

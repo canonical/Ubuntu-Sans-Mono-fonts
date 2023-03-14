@@ -5,7 +5,7 @@
     <key>lib</key>
     <dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>148F3442-1A12-47D5-AA94-107F0AF8FB78</string>
+      <string>8FCE060F-DBA2-4EDB-83CA-0388034B90B4</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.acutecomb</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.brevecomb</key>
@@ -18,7 +18,7 @@
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.circumflexcomb</key>
       <integer>3</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.commaaccentcomb</key>
+      <key>com.schriftgestaltung.layerOrderInGlyph.commaaccentcomb.001</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.commaturnedabovecomb</key>
       <integer>3</integer>

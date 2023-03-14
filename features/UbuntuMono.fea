@@ -426,11 +426,10 @@ feature case { # Case-Sensitive Forms
 } case;
 
 feature ss01 { # Greek Stylistic Alternates
-
-		featureNames { 
-			name "Greek Stylistic Alternates"; 
-			name 1 "Greek Stylistic Alternates"; 
-		};
+	featureNames { 
+		name "Greek Stylistic Alternates"; 
+		name 1 "Greek Stylistic Alternates"; 
+	};
 	script latn;
 	lookup salt01;
 	lookup salt02;

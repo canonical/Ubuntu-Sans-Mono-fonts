@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="six.sinf" format="2">
   <advance width="560"/>
-  <unicode hex="F81A"/>
   <outline>
     <component base="sixsuperior" xOffset="-122" yOffset="-506"/>
   </outline>

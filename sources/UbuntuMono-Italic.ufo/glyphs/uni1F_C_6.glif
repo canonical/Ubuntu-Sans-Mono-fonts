@@ -4,7 +4,7 @@
   <unicode hex="1FC6"/>
   <outline>
     <component base="eta"/>
-    <component base="breve_inverted" xOffset="15"/>
+    <component base="breveinvertedcomb" xOffset="15"/>
   </outline>
   <lib>
     <dict>
@@ -24,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>breve_inverted</string>
+          <string>breveinvertedcomb</string>
         </dict>
       </array>
     </dict>

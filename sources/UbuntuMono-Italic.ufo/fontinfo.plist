@@ -75,7 +75,7 @@
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>250</integer>
     <key>openTypeOS2StrikeoutSize</key>
-    <integer>120</integer>
+    <integer>79</integer>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
@@ -112,7 +112,7 @@
     <key>openTypeOS2WinAscent</key>
     <integer>1020</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>221</integer>
+    <integer>223</integer>
     <key>postscriptBlueScale</key>
     <real>0.04</real>
     <key>postscriptBlueShift</key>
@@ -130,9 +130,9 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>versionMinor</key>
-    <integer>862</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>518</integer>
   </dict>

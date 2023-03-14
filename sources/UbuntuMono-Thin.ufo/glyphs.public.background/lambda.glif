@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lambda" format="2">
+  <outline>
+    <contour>
+      <point x="49" y="0" type="curve"/>
+      <point x="64" y="0" type="line"/>
+      <point x="101" y="131"/>
+      <point x="175" y="345"/>
+      <point x="295" y="528" type="curve"/>
+      <point x="371" y="343"/>
+      <point x="430" y="169"/>
+      <point x="473" y="0" type="curve"/>
+      <point x="506" y="0" type="line"/>
+      <point x="453" y="186"/>
+      <point x="368" y="367"/>
+      <point x="265" y="642" type="curve" smooth="yes"/>
+      <point x="241" y="707"/>
+      <point x="212" y="776"/>
+      <point x="133" y="776" type="curve" smooth="yes"/>
+      <point x="106" y="776"/>
+      <point x="79" y="772"/>
+      <point x="101" y="776" type="curve"/>
+      <point x="98" y="749" type="line"/>
+      <point x="95" y="748"/>
+      <point x="111" y="752"/>
+      <point x="129" y="752" type="curve" smooth="yes"/>
+      <point x="213" y="752"/>
+      <point x="230" y="657"/>
+      <point x="272" y="554" type="curve"/>
+      <point x="161" y="342"/>
+      <point x="71" y="94"/>
+    </contour>
+  </outline>
+</glyph>

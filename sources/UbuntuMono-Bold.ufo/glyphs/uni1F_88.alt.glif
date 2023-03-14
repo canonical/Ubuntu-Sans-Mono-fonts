@@ -3,7 +3,8 @@
   <advance width="560"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="504" y="11" name="ogonek"/>
-  <anchor x="-8" y="716" name="top"/>
+  <anchor x="280" y="776" name="top_1"/>
+  <anchor x="-8" y="716" name="top_2"/>
   <outline>
     <component base="A"/>
     <component base="uni1FBF" xOffset="-288" yOffset="-115"/>
@@ -38,6 +39,8 @@
           <string>uni1FBE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneseventh" format="2">
+  <advance width="560"/>
+  <unicode hex="2150"/>
+  <outline>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="512" y="693" type="line"/>
+      <point x="476" y="693" type="line"/>
+    </contour>
+    <contour>
+      <point x="359" y="0" type="curve"/>
+      <point x="390" y="0" type="line"/>
+      <point x="401" y="98"/>
+      <point x="465" y="212"/>
+      <point x="526" y="264" type="curve"/>
+      <point x="526" y="287" type="line"/>
+      <point x="319" y="287" type="line"/>
+      <point x="319" y="260" type="line"/>
+      <point x="488" y="260" type="line"/>
+      <point x="426" y="200"/>
+      <point x="370" y="90"/>
+    </contour>
+    <contour>
+      <point x="145" y="421" type="line"/>
+      <point x="175" y="421" type="line"/>
+      <point x="175" y="701" type="line"/>
+      <point x="153" y="701" type="line"/>
+      <point x="122" y="666"/>
+      <point x="94" y="655"/>
+      <point x="52" y="641" type="curve"/>
+      <point x="60" y="617" type="line"/>
+      <point x="86" y="624"/>
+      <point x="119" y="636"/>
+      <point x="145" y="655" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

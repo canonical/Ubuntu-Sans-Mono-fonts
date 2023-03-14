@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eight.sups" format="2">
   <advance width="560"/>
-  <unicode hex="F812"/>
   <outline>
     <component base="eightsuperior" xOffset="29" yOffset="120"/>
   </outline>

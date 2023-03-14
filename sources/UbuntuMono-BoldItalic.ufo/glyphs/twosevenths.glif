@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twosevenths" format="2">
   <advance width="560"/>
-  <unicode hex="F507"/>
   <outline>
     <contour>
       <point x="28" y="0" type="line"/>

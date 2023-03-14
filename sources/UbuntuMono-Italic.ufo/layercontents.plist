@@ -6,5 +6,29 @@
       <string>public.default</string>
       <string>glyphs</string>
     </array>
+    <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
+    </array>
+    <array>
+      <string>Condensed Light Italic</string>
+      <string>glyphs.C_ondensed L_ight I_talic</string>
+    </array>
+    <array>
+      <string>Condensed Thin Italic</string>
+      <string>glyphs.C_ondensed T_hin I_talic</string>
+    </array>
+    <array>
+      <string>Condensed Italic</string>
+      <string>glyphs.C_ondensed I_talic</string>
+    </array>
+    <array>
+      <string>Condensed ExtraBold Italic</string>
+      <string>glyphs.C_ondensed E_xtraB_old I_talic</string>
+    </array>
+    <array>
+      <string>Light Italic</string>
+      <string>glyphs.L_ight I_talic</string>
+    </array>
   </array>
 </plist>
