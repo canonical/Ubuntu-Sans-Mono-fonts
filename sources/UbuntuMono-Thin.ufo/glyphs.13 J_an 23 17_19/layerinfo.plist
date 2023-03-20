@@ -6,8 +6,8 @@
     <dict>
       <key>com.schriftgestaltung.layerId</key>
       <string>725A180B-A124-46F8-B158-CC0BF1F80A7C</string>
-      <key>com.schriftgestaltung.layerOrderInGlyph.Delta</key>
-      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.increment</key>
+      <integer>3</integer>
     </dict>
   </dict>
 </plist>

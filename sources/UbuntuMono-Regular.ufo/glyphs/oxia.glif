@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oxia" format="2">
+  <advance width="560"/>
+  <unicode hex="1FFD"/>
+  <anchor x="280" y="772" name="top"/>
+  <outline>
+    <contour>
+      <point x="214" y="580" type="line"/>
+      <point x="382" y="713" type="line"/>
+      <point x="333" y="772" type="line"/>
+      <point x="176" y="624" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

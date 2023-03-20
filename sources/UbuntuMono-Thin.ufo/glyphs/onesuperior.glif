@@ -3,23 +3,7 @@
   <advance width="560"/>
   <unicode hex="00B9"/>
   <outline>
-    <contour>
-      <point x="163" y="324" type="line"/>
-      <point x="409" y="324" type="line"/>
-      <point x="409" y="350" type="line"/>
-      <point x="307" y="350" type="line"/>
-      <point x="307" y="701" type="line"/>
-      <point x="285" y="701" type="line"/>
-      <point x="241" y="647"/>
-      <point x="206" y="638"/>
-      <point x="161" y="622" type="curve"/>
-      <point x="170" y="596" type="line"/>
-      <point x="208" y="607"/>
-      <point x="247" y="624"/>
-      <point x="277" y="649" type="curve"/>
-      <point x="277" y="350" type="line"/>
-      <point x="163" y="350" type="line"/>
-    </contour>
+    <component base="one.numr" yOffset="120"/>
   </outline>
   <lib>
     <dict>

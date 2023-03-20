@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>693</integer>
     <key>copyright</key>
-    <string>Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0</string>
+    <string>Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0</string>
     <key>descender</key>
     <integer>-185</integer>
     <key>familyName</key>
@@ -34,7 +34,7 @@
     <key>italicAngle</key>
     <real>-13.5</real>
     <key>openTypeHeadCreated</key>
-    <string>2022/06/07 18:37:33</string>
+    <string>2022/06/07 18:37:36</string>
     <key>openTypeHheaAscender</key>
     <integer>932</integer>
     <key>openTypeHheaDescender</key>
@@ -138,9 +138,9 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
-    <key>versionMinor</key>
     <integer>0</integer>
+    <key>versionMinor</key>
+    <integer>865</integer>
     <key>xHeight</key>
     <integer>526</integer>
   </dict>

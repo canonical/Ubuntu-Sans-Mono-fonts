@@ -4,7 +4,7 @@
   <unicode hex="03C0"/>
   <anchor x="538" y="0" name="bottomright"/>
   <outline>
-    <component base="afii10081"/>
+    <component base="pe-cy"/>
   </outline>
   <lib>
     <dict>

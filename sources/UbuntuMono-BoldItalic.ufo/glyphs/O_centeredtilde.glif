@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocenteredtilde" format="2">
+  <advance width="560"/>
+  <unicode hex="019F"/>
+  <unicode hex="0275"/>
+  <outline>
+    <component base="Obarred-cy"/>
+  </outline>
+</glyph>

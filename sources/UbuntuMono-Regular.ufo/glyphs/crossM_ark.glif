@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="crossMark" format="2">
+  <advance width="560"/>
+  <unicode hex="274C"/>
+  <outline>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="280" y="228" type="line"/>
+      <point x="479" y="0" type="line"/>
+      <point x="526" y="48" type="line"/>
+      <point x="325" y="280" type="line"/>
+      <point x="535" y="520" type="line"/>
+      <point x="486" y="569" type="line"/>
+      <point x="280" y="332" type="line"/>
+      <point x="74" y="569" type="line"/>
+      <point x="25" y="520" type="line"/>
+      <point x="235" y="280" type="line"/>
+      <point x="34" y="48" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>space</string>
+    </dict>
+  </lib>
+</glyph>

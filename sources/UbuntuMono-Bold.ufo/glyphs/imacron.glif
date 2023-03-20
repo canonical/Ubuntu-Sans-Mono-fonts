@@ -6,7 +6,7 @@
   <anchor x="504" y="11" name="ogonek"/>
   <anchor x="280" y="582" name="top"/>
   <outline>
-    <component base="dotlessi"/>
+    <component base="idotless"/>
     <component base="macron" xOffset="-21"/>
   </outline>
   <lib>
@@ -19,7 +19,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotlessi</string>
+          <string>idotless</string>
         </dict>
         <dict>
           <key>alignment</key>

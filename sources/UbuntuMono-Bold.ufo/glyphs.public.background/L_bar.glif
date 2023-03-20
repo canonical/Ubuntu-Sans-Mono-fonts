@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lbar" format="2">
+  <outline>
+    <contour>
+      <point x="515" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="316" type="line"/>
+      <point x="20" y="316" type="line"/>
+      <point x="20" y="426" type="line"/>
+      <point x="110" y="426" type="line"/>
+      <point x="110" y="693" type="line"/>
+      <point x="248" y="693" type="line"/>
+      <point x="248" y="426" type="line"/>
+      <point x="394" y="426" type="line"/>
+      <point x="394" y="316" type="line"/>
+      <point x="248" y="316" type="line"/>
+      <point x="248" y="114" type="line"/>
+      <point x="515" y="114" type="line"/>
+    </contour>
+  </outline>
+</glyph>

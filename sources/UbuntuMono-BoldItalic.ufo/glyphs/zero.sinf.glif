@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="zero.sinf" format="2">
-  <advance width="560"/>
-  <outline>
-    <component base="zerosuperior" xOffset="-101" yOffset="-420"/>
-  </outline>
-</glyph>

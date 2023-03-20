@@ -6,8 +6,8 @@
     <dict>
       <key>com.schriftgestaltung.layerId</key>
       <string>78F7B340-503E-41D4-AA89-047E302D7C64</string>
-      <key>com.schriftgestaltung.layerOrderInGlyph.mu</key>
-      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.micro</key>
+      <integer>3</integer>
     </dict>
   </dict>
 </plist>

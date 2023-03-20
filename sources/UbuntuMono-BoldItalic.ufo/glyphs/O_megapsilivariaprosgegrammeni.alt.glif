@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsilivariaprosgegrammeni.alt" format="2">
+  <advance width="560"/>
+  <outline>
+    <component base="Ohm"/>
+    <component base="psilivaria" xOffset="-500" yOffset="-115"/>
+    <component base="prosgegrammeni"/>
+  </outline>
+</glyph>

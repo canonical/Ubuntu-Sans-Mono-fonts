@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zstroke" format="2">
+  <advance width="560"/>
+  <unicode hex="01B5"/>
+  <outline>
+    <contour>
+      <point x="31" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="514" y="113" type="line"/>
+      <point x="211" y="113" type="line"/>
+      <point x="259" y="172"/>
+      <point x="309" y="234"/>
+      <point x="364" y="299" type="curve"/>
+      <point x="547" y="299" type="line"/>
+      <point x="573" y="409" type="line"/>
+      <point x="458" y="409" type="line"/>
+      <point x="505" y="463"/>
+      <point x="556" y="520"/>
+      <point x="613" y="584" type="curve"/>
+      <point x="640" y="693" type="line"/>
+      <point x="207" y="693" type="line"/>
+      <point x="179" y="580" type="line"/>
+      <point x="461" y="580" type="line"/>
+      <point x="405" y="517"/>
+      <point x="355" y="461"/>
+      <point x="310" y="409" type="curve"/>
+      <point x="138" y="409" type="line"/>
+      <point x="111" y="299" type="line"/>
+      <point x="218" y="299" type="line"/>
+      <point x="152" y="220"/>
+      <point x="99" y="151"/>
+      <point x="53" y="88" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

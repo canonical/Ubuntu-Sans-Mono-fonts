@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="560"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="260" y="444" type="line"/>
+      <point x="360" y="709" type="line"/>
+      <point x="245" y="709" type="line"/>
+      <point x="185" y="444" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>space</string>
+    </dict>
+  </lib>
+</glyph>

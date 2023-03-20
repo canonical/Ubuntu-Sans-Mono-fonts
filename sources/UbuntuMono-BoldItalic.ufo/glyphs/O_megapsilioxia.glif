@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsilioxia" format="2">
+  <advance width="560"/>
+  <unicode hex="1F6C"/>
+  <outline>
+    <component base="Ohm"/>
+    <component base="psilioxia" xOffset="-478" yOffset="-115"/>
+  </outline>
+</glyph>

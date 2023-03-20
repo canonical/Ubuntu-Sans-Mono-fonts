@@ -5,7 +5,7 @@
   <anchor x="280" y="-207" name="bottom"/>
   <anchor x="280" y="582" name="top"/>
   <outline>
-    <component base="dotlessj"/>
+    <component base="jdotless"/>
     <component base="circumflex" xOffset="20"/>
   </outline>
   <lib>
@@ -18,7 +18,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotlessj</string>
+          <string>jdotless</string>
         </dict>
         <dict>
           <key>alignment</key>

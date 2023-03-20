@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fita-cy" format="2">
+  <advance width="560"/>
+  <unicode hex="0472"/>
+  <outline>
+    <contour>
+      <point x="280" y="-15" type="curve" smooth="yes"/>
+      <point x="432" y="-15"/>
+      <point x="522" y="119"/>
+      <point x="522" y="347" type="curve" smooth="yes"/>
+      <point x="522" y="575"/>
+      <point x="432" y="709"/>
+      <point x="280" y="709" type="curve" smooth="yes"/>
+      <point x="128" y="709"/>
+      <point x="38" y="575"/>
+      <point x="38" y="347" type="curve" smooth="yes"/>
+      <point x="38" y="119"/>
+      <point x="128" y="-15"/>
+    </contour>
+    <contour>
+      <point x="280" y="17" type="curve" smooth="yes"/>
+      <point x="158" y="17"/>
+      <point x="83" y="127"/>
+      <point x="75" y="314" type="curve"/>
+      <point x="97" y="346"/>
+      <point x="135" y="367"/>
+      <point x="180" y="367" type="curve" smooth="yes"/>
+      <point x="258" y="367"/>
+      <point x="298" y="289"/>
+      <point x="381" y="289" type="curve" smooth="yes"/>
+      <point x="423" y="289"/>
+      <point x="458" y="304"/>
+      <point x="486" y="336" type="curve"/>
+      <point x="483" y="136"/>
+      <point x="407" y="17"/>
+    </contour>
+    <contour>
+      <point x="381" y="321" type="curve" smooth="yes"/>
+      <point x="305" y="321"/>
+      <point x="262" y="399"/>
+      <point x="180" y="399" type="curve" smooth="yes"/>
+      <point x="136" y="399"/>
+      <point x="102" y="381"/>
+      <point x="74" y="353" type="curve"/>
+      <point x="76" y="557"/>
+      <point x="152" y="677"/>
+      <point x="280" y="677" type="curve" smooth="yes"/>
+      <point x="403" y="677"/>
+      <point x="478" y="566"/>
+      <point x="485" y="378" type="curve"/>
+      <point x="463" y="341"/>
+      <point x="424" y="321"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -3,7 +3,7 @@
   <advance width="560"/>
   <unicode hex="03B9"/>
   <outline>
-    <component base="dotlessi"/>
+    <component base="idotless"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotlessi</string>
+          <string>idotless</string>
         </dict>
       </array>
     </dict>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxDoubleDownAndRight" format="2">
+  <advance width="560"/>
+  <unicode hex="2554"/>
+  <outline>
+    <contour>
+      <point x="146" y="-190" type="line"/>
+      <point x="235" y="-190" type="line"/>
+      <point x="235" y="414" type="line"/>
+      <point x="560" y="414" type="line"/>
+      <point x="560" y="504" type="line"/>
+      <point x="146" y="504" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="-190" type="line"/>
+      <point x="414" y="-190" type="line"/>
+      <point x="414" y="235" type="line"/>
+      <point x="560" y="235" type="line"/>
+      <point x="560" y="325" type="line"/>
+      <point x="325" y="325" type="line"/>
+    </contour>
+  </outline>
+</glyph>

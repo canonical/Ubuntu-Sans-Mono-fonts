@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ertick-cy" format="2">
+  <outline>
+    <contour>
+      <point x="366" y="538" type="qcurve"/>
+      <point x="470" y="538"/>
+      <point x="567" y="431"/>
+      <point x="567" y="347" type="qcurve"/>
+      <point x="567" y="259"/>
+      <point x="502" y="102"/>
+      <point x="437" y="52" type="qcurve"/>
+      <point x="479" y="-66" type="line"/>
+      <point x="384" y="-104" type="line"/>
+      <point x="344" y="4" type="line"/>
+      <point x="320" y="-2"/>
+      <point x="265" y="-11"/>
+      <point x="235" y="-11" type="qcurve"/>
+      <point x="213" y="-11"/>
+      <point x="188" y="-9"/>
+      <point x="179" y="-7" type="qcurve"/>
+      <point x="136" y="-185" type="line"/>
+      <point x="-2" y="-185" type="line"/>
+      <point x="164" y="502" type="line"/>
+      <point x="187" y="512"/>
+      <point x="241" y="525"/>
+      <point x="296" y="534"/>
+      <point x="346" y="538"/>
+    </contour>
+    <contour>
+      <point x="206" y="104" type="line"/>
+      <point x="216" y="101"/>
+      <point x="233" y="101" type="qcurve"/>
+      <point x="273" y="101"/>
+      <point x="305" y="113" type="qcurve"/>
+      <point x="272" y="205" type="line"/>
+      <point x="367" y="243" type="line"/>
+      <point x="393" y="170" type="line"/>
+      <point x="403" y="184"/>
+      <point x="419" y="222"/>
+      <point x="429" y="263"/>
+      <point x="435" y="305"/>
+      <point x="435" y="323" type="qcurve"/>
+      <point x="435" y="344"/>
+      <point x="429" y="381"/>
+      <point x="411" y="409"/>
+      <point x="376" y="424"/>
+      <point x="348" y="424" type="qcurve"/>
+      <point x="325" y="424"/>
+      <point x="293" y="420"/>
+      <point x="281" y="417" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

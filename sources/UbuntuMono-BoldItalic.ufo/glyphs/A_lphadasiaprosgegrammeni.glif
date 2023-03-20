@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasiaprosgegrammeni" format="2">
+  <advance width="560"/>
+  <unicode hex="1F89"/>
+  <outline>
+    <component base="dasia" xOffset="-300" yOffset="-103"/>
+    <component base="Alphaprosgegrammeni"/>
+  </outline>
+</glyph>

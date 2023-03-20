@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadasiavaria" format="2">
+  <advance width="560"/>
+  <unicode hex="1F3B"/>
+  <outline>
+    <component base="I"/>
+    <component base="dasiavaria" xOffset="-388" yOffset="-61"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dasiavaria</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

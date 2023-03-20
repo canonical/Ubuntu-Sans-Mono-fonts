@@ -4,7 +4,7 @@
   <unicode hex="0123"/>
   <outline>
     <component base="g"/>
-    <component base="revcommaaccent" xOffset="55"/>
+    <component base="commaturnedabovecomb" xOffset="55"/>
   </outline>
   <lib>
     <dict>
@@ -24,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>revcommaaccent</string>
+          <string>commaturnedabovecomb</string>
         </dict>
       </array>
     </dict>

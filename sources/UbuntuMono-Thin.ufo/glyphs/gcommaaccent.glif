@@ -3,10 +3,10 @@
   <advance width="560"/>
   <unicode hex="0123"/>
   <anchor x="279" y="-207" name="bottom"/>
-  <anchor x="279" y="582" name="top"/>
+  <anchor x="301" y="765" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="revcommaaccent" xOffset="21"/>
+    <component base="commaturnedabovecomb" xOffset="21"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +26,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>revcommaaccent</string>
+          <string>commaturnedabovecomb</string>
         </dict>
       </array>
       <key>public.markColor</key>

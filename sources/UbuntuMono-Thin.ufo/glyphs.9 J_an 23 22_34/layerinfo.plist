@@ -6,8 +6,8 @@
     <dict>
       <key>com.schriftgestaltung.layerId</key>
       <string>6707D829-7A98-4CCA-A4AE-B878AA911691</string>
-      <key>com.schriftgestaltung.layerOrderInGlyph.guillemotright</key>
-      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.guillemetright</key>
+      <integer>3</integer>
     </dict>
   </dict>
 </plist>

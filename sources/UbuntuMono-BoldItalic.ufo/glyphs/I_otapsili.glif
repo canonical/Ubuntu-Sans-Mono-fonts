@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsili" format="2">
+  <advance width="560"/>
+  <unicode hex="1F38"/>
+  <outline>
+    <component base="I"/>
+    <component base="psili" xOffset="-314" yOffset="-103"/>
+  </outline>
+</glyph>

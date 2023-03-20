@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiaperispomeni" format="2">
+  <advance width="560"/>
+  <unicode hex="1F6F"/>
+  <outline>
+    <component base="Ohm"/>
+    <component base="dasiaperispomeni" xOffset="-417" yOffset="-115"/>
+  </outline>
+</glyph>

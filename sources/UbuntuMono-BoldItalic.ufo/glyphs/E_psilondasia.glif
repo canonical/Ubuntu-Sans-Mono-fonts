@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilondasia" format="2">
+  <advance width="560"/>
+  <unicode hex="1F19"/>
+  <outline>
+    <component base="E"/>
+    <component base="dasia" xOffset="-313" yOffset="-103"/>
+  </outline>
+</glyph>

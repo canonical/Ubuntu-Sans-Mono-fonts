@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasiavaria" format="2">
+  <advance width="560"/>
+  <unicode hex="1F2B"/>
+  <outline>
+    <component base="H"/>
+    <component base="dasiavaria" xOffset="-410" yOffset="-103"/>
+  </outline>
+</glyph>

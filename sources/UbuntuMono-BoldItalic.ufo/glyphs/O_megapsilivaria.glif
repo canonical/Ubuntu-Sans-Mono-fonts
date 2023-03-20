@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsilivaria" format="2">
+  <advance width="560"/>
+  <unicode hex="1F6A"/>
+  <outline>
+    <component base="Ohm"/>
+    <component base="psilivaria" xOffset="-500" yOffset="-115"/>
+  </outline>
+</glyph>

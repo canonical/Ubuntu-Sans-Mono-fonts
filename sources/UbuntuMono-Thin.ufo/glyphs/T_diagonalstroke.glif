@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tdiagonalstroke" format="2">
+  <advance width="560"/>
+  <unicode hex="023E"/>
+  <unicode hex="2C66"/>
+  <outline>
+    <contour>
+      <point x="72" y="-29" type="line"/>
+      <point x="242" y="240" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="277" y="295" type="line"/>
+      <point x="553" y="731" type="line"/>
+      <point x="527" y="749" type="line"/>
+      <point x="492" y="693" type="line"/>
+      <point x="44" y="693" type="line"/>
+      <point x="44" y="662" type="line"/>
+      <point x="242" y="662" type="line"/>
+      <point x="242" y="299" type="line"/>
+      <point x="46" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="354" type="line"/>
+      <point x="277" y="662" type="line"/>
+      <point x="472" y="662" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

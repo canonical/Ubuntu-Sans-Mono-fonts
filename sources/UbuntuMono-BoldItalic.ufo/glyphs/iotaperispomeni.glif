@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotaperispomeni" format="2">
+  <advance width="560"/>
+  <unicode hex="1FD6"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="breveinvertedcomb" xOffset="-19"/>
+  </outline>
+</glyph>

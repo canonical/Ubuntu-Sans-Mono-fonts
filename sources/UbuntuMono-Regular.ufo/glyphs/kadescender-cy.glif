@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kadescender-cy" format="2">
+  <advance width="560"/>
+  <unicode hex="049B"/>
+  <outline>
+    <contour>
+      <point x="447" y="-142" type="line"/>
+      <point x="523" y="-142" type="line"/>
+      <point x="523" y="67" type="line"/>
+      <point x="483" y="67" type="line"/>
+      <point x="415" y="150"/>
+      <point x="317" y="240"/>
+      <point x="255" y="283" type="curve"/>
+      <point x="349" y="360"/>
+      <point x="454" y="440"/>
+      <point x="521" y="518" type="curve"/>
+      <point x="430" y="518" type="line"/>
+      <point x="355" y="438"/>
+      <point x="255" y="372"/>
+      <point x="161" y="297" type="curve"/>
+      <point x="161" y="518" type="line"/>
+      <point x="83" y="518" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="161" y="0" type="line"/>
+      <point x="161" y="250" type="line"/>
+      <point x="246" y="202"/>
+      <point x="376" y="98"/>
+      <point x="442" y="0" type="curve"/>
+      <point x="447" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -6,10 +6,10 @@
     <dict>
       <key>com.schriftgestaltung.layerId</key>
       <string>F97DD728-BE98-48E0-ABB9-6F3AE1380178</string>
-      <key>com.schriftgestaltung.layerOrderInGlyph.ltshade</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.shade</key>
-      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.shadelight</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.shademedium</key>
+      <integer>3</integer>
     </dict>
   </dict>
 </plist>

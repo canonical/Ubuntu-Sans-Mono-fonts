@@ -7,9 +7,9 @@
       <key>com.schriftgestaltung.layerId</key>
       <string>06353AB1-A589-436A-BF5B-235B27EA9F8F</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.macronbelowcomb</key>
-      <integer>3</integer>
+      <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.verticallinebelowcomb</key>
-      <integer>3</integer>
+      <integer>2</integer>
     </dict>
   </dict>
 </plist>

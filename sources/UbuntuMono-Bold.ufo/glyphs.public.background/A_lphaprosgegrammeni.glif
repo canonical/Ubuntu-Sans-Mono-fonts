@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphaprosgegrammeni" format="2">
+  <outline>
+    <contour>
+      <point x="259" y="170" type="line"/>
+      <point x="146" y="170" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="41" y="205"/>
+      <point x="102" y="542"/>
+      <point x="131" y="693" type="qcurve"/>
+      <point x="281" y="693" type="line"/>
+      <point x="311" y="541"/>
+      <point x="371" y="199"/>
+      <point x="400" y="0" type="qcurve"/>
+      <point x="282" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="-11" type="line"/>
+      <point x="510" y="-6"/>
+      <point x="454" y="26"/>
+      <point x="423" y="73"/>
+      <point x="412" y="136"/>
+      <point x="412" y="175" type="qcurve"/>
+      <point x="412" y="526" type="line"/>
+      <point x="520" y="526" type="line"/>
+      <point x="520" y="162" type="line"/>
+      <point x="520" y="127"/>
+      <point x="538" y="87"/>
+      <point x="569" y="83" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="160" y="264" type="line"/>
+      <point x="245" y="264" type="line"/>
+      <point x="203" y="589" type="line"/>
+    </contour>
+  </outline>
+</glyph>

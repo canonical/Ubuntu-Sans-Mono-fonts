@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yogh" format="2">
+  <advance width="560"/>
+  <unicode hex="021C"/>
+  <outline>
+    <contour>
+      <point x="116" y="-186" type="curve" smooth="yes"/>
+      <point x="332" y="-186"/>
+      <point x="520" y="-113"/>
+      <point x="520" y="105" type="curve" smooth="yes"/>
+      <point x="520" y="188"/>
+      <point x="477" y="268"/>
+      <point x="389" y="309" type="curve"/>
+      <point x="457" y="351"/>
+      <point x="492" y="413"/>
+      <point x="492" y="482" type="curve" smooth="yes"/>
+      <point x="492" y="642"/>
+      <point x="379" y="709"/>
+      <point x="233" y="709" type="curve" smooth="yes"/>
+      <point x="156" y="709"/>
+      <point x="95" y="693"/>
+      <point x="38" y="665" type="curve"/>
+      <point x="85" y="557" type="line"/>
+      <point x="125" y="577"/>
+      <point x="180" y="589"/>
+      <point x="232" y="589" type="curve" smooth="yes"/>
+      <point x="300" y="589"/>
+      <point x="357" y="549"/>
+      <point x="357" y="476" type="curve" smooth="yes"/>
+      <point x="357" y="390"/>
+      <point x="282" y="358"/>
+      <point x="186" y="358" type="curve" smooth="yes"/>
+      <point x="134" y="358" type="line"/>
+      <point x="134" y="239" type="line"/>
+      <point x="199" y="239" type="line" smooth="yes"/>
+      <point x="312" y="239"/>
+      <point x="385" y="200"/>
+      <point x="385" y="99" type="curve" smooth="yes"/>
+      <point x="385" y="-18"/>
+      <point x="277" y="-65"/>
+      <point x="133" y="-66" type="curve" smooth="yes"/>
+      <point x="116" y="-66"/>
+      <point x="75" y="-65"/>
+      <point x="49" y="-62" type="curve"/>
+      <point x="39" y="-181" type="line"/>
+      <point x="71" y="-186"/>
+      <point x="100" y="-186"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
