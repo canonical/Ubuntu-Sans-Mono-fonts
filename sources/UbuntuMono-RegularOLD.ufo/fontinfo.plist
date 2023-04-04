@@ -12,17 +12,6 @@
     <integer>-185</integer>
     <key>familyName</key>
     <string>Ubuntu Mono</string>
-    <key>guidelines</key>
-    <array>
-      <dict>
-        <key>y</key>
-        <integer>-190</integer>
-      </dict>
-      <dict>
-        <key>y</key>
-        <integer>930</integer>
-      </dict>
-    </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -112,7 +101,7 @@
     <key>openTypeOS2WinAscent</key>
     <integer>1020</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>221</integer>
+    <integer>223</integer>
     <key>postscriptBlueScale</key>
     <real>0.04</real>
     <key>postscriptBlueShift</key>
@@ -130,9 +119,9 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>versionMinor</key>
-    <integer>862</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>520</integer>
   </dict>

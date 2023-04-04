@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iota-latin" format="2">
+  <advance width="560"/>
+  <unicode hex="0196"/>
+  <unicode hex="0269"/>
+  <outline>
+    <contour>
+      <point x="368" y="-15" type="curve" smooth="yes"/>
+      <point x="409" y="-15"/>
+      <point x="468" y="-2"/>
+      <point x="486" y="11" type="curve"/>
+      <point x="489" y="73" type="line"/>
+      <point x="472" y="64"/>
+      <point x="438" y="50"/>
+      <point x="397" y="50" type="curve" smooth="yes"/>
+      <point x="331" y="50"/>
+      <point x="311" y="72"/>
+      <point x="311" y="114" type="curve" smooth="yes"/>
+      <point x="311" y="132"/>
+      <point x="313" y="154"/>
+      <point x="320" y="178" type="curve" smooth="yes"/>
+      <point x="427" y="626" type="line"/>
+      <point x="569" y="626" type="line"/>
+      <point x="584" y="693" type="line"/>
+      <point x="242" y="693" type="line"/>
+      <point x="227" y="626" type="line"/>
+      <point x="349" y="626" type="line"/>
+      <point x="251" y="219" type="line" smooth="yes"/>
+      <point x="240" y="175"/>
+      <point x="234" y="135"/>
+      <point x="234" y="102" type="curve" smooth="yes"/>
+      <point x="234" y="26"/>
+      <point x="269" y="-15"/>
+    </contour>
+  </outline>
+</glyph>

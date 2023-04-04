@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy" format="2">
+  <guideline y="482"/>
+  <outline>
+    <contour>
+      <point x="307" y="99" type="qcurve"/>
+      <point x="349" y="99"/>
+      <point x="435" y="113"/>
+      <point x="476" y="127" type="qcurve"/>
+      <point x="482" y="16" type="line"/>
+      <point x="456" y="7"/>
+      <point x="355" y="-15"/>
+      <point x="276" y="-15" type="qcurve"/>
+      <point x="224" y="-15"/>
+      <point x="150" y="8"/>
+      <point x="102" y="46"/>
+      <point x="80" y="94"/>
+      <point x="80" y="121" type="qcurve"/>
+      <point x="80" y="166"/>
+      <point x="118" y="228"/>
+      <point x="177" y="271"/>
+      <point x="250" y="298"/>
+      <point x="284" y="308" type="qcurve"/>
+      <point x="311" y="316"/>
+      <point x="358" y="330"/>
+      <point x="393" y="349"/>
+      <point x="414" y="372"/>
+      <point x="414" y="388" type="qcurve"/>
+      <point x="414" y="407"/>
+      <point x="381" y="428"/>
+      <point x="332" y="428" type="qcurve"/>
+      <point x="287" y="428"/>
+      <point x="214" y="411"/>
+      <point x="185" y="400" type="qcurve"/>
+      <point x="175" y="505" type="line"/>
+      <point x="193" y="512"/>
+      <point x="242" y="525"/>
+      <point x="296" y="534"/>
+      <point x="352" y="540"/>
+      <point x="377" y="540" type="qcurve"/>
+      <point x="465" y="540"/>
+      <point x="551" y="467"/>
+      <point x="551" y="403" type="qcurve"/>
+      <point x="551" y="355"/>
+      <point x="513" y="291"/>
+      <point x="456" y="250"/>
+      <point x="389" y="225"/>
+      <point x="360" y="216" type="qcurve"/>
+      <point x="290" y="195"/>
+      <point x="217" y="164"/>
+      <point x="217" y="137" type="qcurve"/>
+      <point x="217" y="114"/>
+      <point x="256" y="99"/>
+    </contour>
+  </outline>
+</glyph>

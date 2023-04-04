@@ -8,6 +8,12 @@
   <anchor x="538" y="776" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="commaaccent" xOffset="5"/>
+    <component base="commaaccentcomb" xOffset="5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaoxia" format="2">
+  <outline>
+    <contour>
+      <point x="479" y="767" type="line"/>
+      <point x="337" y="589" type="line"/>
+      <point x="271" y="637" type="line"/>
+      <point x="392" y="829" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="582" type="line"/>
+      <point x="151" y="618"/>
+      <point x="81" y="710"/>
+      <point x="81" y="755" type="qcurve"/>
+      <point x="81" y="792"/>
+      <point x="118" y="831"/>
+      <point x="150" y="831" type="qcurve"/>
+      <point x="181" y="831"/>
+      <point x="220" y="794"/>
+      <point x="220" y="765" type="qcurve"/>
+      <point x="220" y="745"/>
+      <point x="195" y="711"/>
+      <point x="175" y="702" type="qcurve"/>
+      <point x="189" y="682"/>
+      <point x="226" y="645"/>
+      <point x="250" y="625" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

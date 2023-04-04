@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etaprosgegrammeni" format="2">
+  <outline>
+    <contour>
+      <point x="538" y="-13" type="line"/>
+      <point x="468" y="-7"/>
+      <point x="416" y="49"/>
+      <point x="416" y="95" type="qcurve"/>
+      <point x="416" y="113"/>
+      <point x="422" y="152"/>
+      <point x="428" y="175" type="qcurve"/>
+      <point x="512" y="526" type="line"/>
+      <point x="620" y="526" type="line"/>
+      <point x="533" y="162" type="line"/>
+      <point x="526" y="137"/>
+      <point x="526" y="121" type="qcurve"/>
+      <point x="526" y="105"/>
+      <point x="543" y="86"/>
+      <point x="563" y="83" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="501" y="693" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="301" y="316" type="line"/>
+      <point x="187" y="316" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="170" y="693" type="line"/>
+      <point x="278" y="693" type="line"/>
+      <point x="211" y="410" type="line"/>
+      <point x="324" y="410" type="line"/>
+      <point x="392" y="693" type="line"/>
+    </contour>
+  </outline>
+</glyph>

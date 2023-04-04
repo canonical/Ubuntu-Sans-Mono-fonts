@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender-cy" format="2">
+  <advance width="560"/>
+  <unicode hex="04B2"/>
+  <outline>
+    <contour>
+      <point x="495" y="-185" type="line"/>
+      <point x="530" y="-185" type="line"/>
+      <point x="530" y="31" type="line"/>
+      <point x="494" y="31" type="line"/>
+      <point x="426" y="156"/>
+      <point x="375" y="245"/>
+      <point x="300" y="369" type="curve"/>
+      <point x="503" y="693" type="line"/>
+      <point x="465" y="693" type="line"/>
+      <point x="283" y="397" type="line"/>
+      <point x="103" y="693" type="line"/>
+      <point x="63" y="693" type="line"/>
+      <point x="262" y="366" type="line"/>
+      <point x="172" y="231"/>
+      <point x="109" y="117"/>
+      <point x="49" y="0" type="curve"/>
+      <point x="88" y="0" type="line"/>
+      <point x="133" y="93"/>
+      <point x="197" y="204"/>
+      <point x="280" y="337" type="curve"/>
+      <point x="349" y="223"/>
+      <point x="412" y="114"/>
+      <point x="471" y="0" type="curve"/>
+      <point x="495" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

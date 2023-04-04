@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronpsili" format="2">
+  <advance width="560"/>
+  <unicode hex="1F48"/>
+  <outline>
+    <component base="O"/>
+    <component base="psili" xOffset="-312" yOffset="-103"/>
+  </outline>
+</glyph>

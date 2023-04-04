@@ -3,7 +3,7 @@
   <advance width="560"/>
   <unicode hex="2084"/>
   <outline>
-    <component base="foursuperior" xOffset="-55" yOffset="-316"/>
+    <component base="four.numr" xOffset="-88" yOffset="-506"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>foursuperior</string>
+          <string>four.numr</string>
         </dict>
       </array>
     </dict>

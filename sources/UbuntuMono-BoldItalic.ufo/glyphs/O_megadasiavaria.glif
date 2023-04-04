@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiavaria" format="2">
+  <advance width="560"/>
+  <unicode hex="1F6B"/>
+  <outline>
+    <component base="Ohm"/>
+    <component base="dasiavaria" xOffset="-479" yOffset="-115"/>
+  </outline>
+</glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0137"/>
   <outline>
     <component base="k"/>
-    <component base="commaaccent"/>
+    <component base="commaaccentcomb"/>
   </outline>
   <lib>
     <dict>
@@ -24,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>commaaccent</string>
+          <string>commaaccentcomb</string>
         </dict>
       </array>
     </dict>

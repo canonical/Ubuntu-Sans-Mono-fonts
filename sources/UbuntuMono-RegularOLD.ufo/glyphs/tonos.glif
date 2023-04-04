@@ -2,7 +2,6 @@
 <glyph name="tonos" format="2">
   <advance width="560"/>
   <unicode hex="0384"/>
-  <anchor x="277" y="869" name="_top"/>
   <outline>
     <contour>
       <point x="239" y="575" type="line"/>
@@ -11,4 +10,10 @@
       <point x="184" y="613" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

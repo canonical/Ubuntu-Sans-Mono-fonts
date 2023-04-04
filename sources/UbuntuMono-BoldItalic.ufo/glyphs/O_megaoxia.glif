@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegaoxia" format="2">
+  <advance width="560"/>
+  <unicode hex="1FFB"/>
+  <outline>
+    <component base="Ohm"/>
+    <component base="oxia" xOffset="-414" yOffset="-71"/>
+  </outline>
+</glyph>

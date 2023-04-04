@@ -3,7 +3,7 @@
   <advance width="560"/>
   <unicode hex="00ED"/>
   <outline>
-    <component base="dotlessi"/>
+    <component base="idotless"/>
     <component base="acute" xOffset="-38"/>
   </outline>
   <lib>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotlessi</string>
+          <string>idotless</string>
         </dict>
         <dict>
           <key>alignment</key>

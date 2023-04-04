@@ -4,7 +4,7 @@
   <unicode hex="0149"/>
   <outline>
     <component base="n" xOffset="15"/>
-    <component base="apostrophe" xOffset="-162"/>
+    <component base="apostrophemod" xOffset="-162"/>
   </outline>
   <lib>
     <dict>
@@ -24,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>apostrophe</string>
+          <string>apostrophemod</string>
         </dict>
       </array>
     </dict>

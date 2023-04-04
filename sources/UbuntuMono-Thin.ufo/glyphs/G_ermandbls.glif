@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Germandbls" format="2">
+  <advance width="560"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="80" y="444" type="curve"/>
+      <point x="80" y="10" type="line"/>
+      <point x="115" y="10" type="line"/>
+      <point x="115" y="444" type="line"/>
+      <point x="115" y="579"/>
+      <point x="185" y="680"/>
+      <point x="305" y="680" type="curve"/>
+      <point x="353" y="680"/>
+      <point x="403" y="670"/>
+      <point x="443" y="643" type="curve"/>
+      <point x="246" y="362" type="line"/>
+      <point x="352" y="337"/>
+      <point x="458" y="298"/>
+      <point x="458" y="183" type="curve"/>
+      <point x="458" y="97"/>
+      <point x="408" y="32"/>
+      <point x="327" y="32" type="curve"/>
+      <point x="282" y="32"/>
+      <point x="239" y="41"/>
+      <point x="197" y="59" type="curve"/>
+      <point x="186" y="27" type="line"/>
+      <point x="231" y="8"/>
+      <point x="279" y="0"/>
+      <point x="327" y="0" type="curve"/>
+      <point x="426" y="0"/>
+      <point x="494" y="77"/>
+      <point x="494" y="184" type="curve"/>
+      <point x="494" y="297"/>
+      <point x="401" y="354"/>
+      <point x="298" y="381" type="curve"/>
+      <point x="488" y="647" type="line"/>
+      <point x="437" y="695"/>
+      <point x="372" y="712"/>
+      <point x="304" y="712" type="curve"/>
+      <point x="162" y="712"/>
+      <point x="80" y="600"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>space</string>
+    </dict>
+  </lib>
+</glyph>

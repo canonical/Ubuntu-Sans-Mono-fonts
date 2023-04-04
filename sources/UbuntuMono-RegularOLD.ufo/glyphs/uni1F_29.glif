@@ -4,7 +4,8 @@
   <unicode hex="1F29"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="280" y="389" name="center"/>
-  <anchor x="-62" y="710" name="top"/>
+  <anchor x="280" y="776" name="top_1"/>
+  <anchor x="-62" y="710" name="top_2"/>
   <anchor x="22" y="776" name="topleft"/>
   <outline>
     <component base="H"/>
@@ -31,6 +32,8 @@
           <string>uni1FFE</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

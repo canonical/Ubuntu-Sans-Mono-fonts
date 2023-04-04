@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Istroke" format="2">
+  <advance width="560"/>
+  <unicode hex="0197"/>
+  <unicode hex="0268"/>
+  <outline>
+    <contour>
+      <point x="112" y="0" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="448" y="67" type="line"/>
+      <point x="319" y="67" type="line"/>
+      <point x="319" y="331" type="line"/>
+      <point x="421" y="331" type="line"/>
+      <point x="421" y="393" type="line"/>
+      <point x="319" y="393" type="line"/>
+      <point x="319" y="626" type="line"/>
+      <point x="448" y="626" type="line"/>
+      <point x="448" y="693" type="line"/>
+      <point x="112" y="693" type="line"/>
+      <point x="112" y="626" type="line"/>
+      <point x="241" y="626" type="line"/>
+      <point x="241" y="393" type="line"/>
+      <point x="137" y="393" type="line"/>
+      <point x="137" y="331" type="line"/>
+      <point x="241" y="331" type="line"/>
+      <point x="241" y="67" type="line"/>
+      <point x="112" y="67" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,8 +2,14 @@
 <glyph name="uni1FBD" format="2">
   <advance width="560"/>
   <unicode hex="1FBD"/>
-  <anchor x="280" y="869" name="_top"/>
+  <anchor x="280" y="781" name="top"/>
   <outline>
     <component base="uni1FBF"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

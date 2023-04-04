@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicrondasiaoxia" format="2">
+  <advance width="560"/>
+  <unicode hex="1F4D"/>
+  <outline>
+    <component base="O"/>
+    <component base="dasiaoxia" xOffset="-391" yOffset="-103"/>
+  </outline>
+</glyph>

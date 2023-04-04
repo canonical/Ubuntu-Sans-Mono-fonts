@@ -3,7 +3,7 @@
   <advance width="560"/>
   <unicode hex="0393"/>
   <outline>
-    <component base="afii10020"/>
+    <component base="Ge-cy"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>afii10020</string>
+          <string>Ge-cy</string>
         </dict>
       </array>
     </dict>

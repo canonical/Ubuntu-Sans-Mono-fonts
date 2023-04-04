@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eightninths" format="2">
   <advance width="560"/>
-  <unicode hex="F511"/>
   <outline>
     <contour>
       <point x="36" y="0" type="line"/>
@@ -99,4 +98,10 @@
       <point x="176" y="600"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

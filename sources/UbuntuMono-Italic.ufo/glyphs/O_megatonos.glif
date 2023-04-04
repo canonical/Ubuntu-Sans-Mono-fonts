@@ -3,7 +3,7 @@
   <advance width="560"/>
   <unicode hex="038F"/>
   <outline>
-    <component base="uni2126"/>
+    <component base="Ohm"/>
     <component base="tonos.cap" xOffset="-275"/>
   </outline>
   <lib>
@@ -16,7 +16,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>uni2126</string>
+          <string>Ohm</string>
         </dict>
         <dict>
           <key>alignment</key>

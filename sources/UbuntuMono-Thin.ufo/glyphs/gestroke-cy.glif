@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestroke-cy" format="2">
+  <advance width="560"/>
+  <unicode hex="0493"/>
+  <outline>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="248" type="line"/>
+      <point x="396" y="248" type="line"/>
+      <point x="396" y="276" type="line"/>
+      <point x="180" y="276" type="line"/>
+      <point x="180" y="485" type="line"/>
+      <point x="489" y="485" type="line"/>
+      <point x="489" y="513" type="line"/>
+      <point x="147" y="513" type="line"/>
+      <point x="147" y="276" type="line"/>
+      <point x="52" y="276" type="line"/>
+      <point x="52" y="248" type="line"/>
+      <point x="147" y="248" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

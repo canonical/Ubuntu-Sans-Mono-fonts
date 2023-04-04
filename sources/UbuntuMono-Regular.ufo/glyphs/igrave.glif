@@ -6,7 +6,7 @@
   <anchor x="504" y="11" name="ogonek"/>
   <anchor x="280" y="582" name="top"/>
   <outline>
-    <component base="dotlessi"/>
+    <component base="idotless"/>
     <component base="grave" xOffset="-39"/>
   </outline>
   <lib>
@@ -19,7 +19,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>dotlessi</string>
+          <string>idotless</string>
         </dict>
         <dict>
           <key>alignment</key>
@@ -30,6 +30,8 @@
           <string>grave</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

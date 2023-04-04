@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="560"/>
+  <outline>
+    <component base="one.numr" xOffset="-72" yOffset="-300"/>
+  </outline>
+</glyph>

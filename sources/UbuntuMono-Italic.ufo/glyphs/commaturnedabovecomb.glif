@@ -4,21 +4,19 @@
   <anchor x="405" y="518" name="_top"/>
   <anchor x="467" y="777" name="top"/>
   <outline>
-    <component base="revcommaaccent"/>
+    <contour>
+      <point x="360" y="612" type="curve"/>
+      <point x="439" y="612" type="line"/>
+      <point x="457" y="692"/>
+      <point x="478" y="717"/>
+      <point x="527" y="738" type="curve"/>
+      <point x="501" y="777" type="line"/>
+      <point x="429" y="765"/>
+      <point x="369" y="708"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>revcommaaccent</string>
-        </dict>
-      </array>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>560</integer>
     </dict>

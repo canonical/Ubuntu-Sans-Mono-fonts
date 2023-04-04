@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondasiaperispomeni" format="2">
+  <advance width="560"/>
+  <unicode hex="1F5F"/>
+  <outline>
+    <component base="Y"/>
+    <component base="dasiaperispomeni" xOffset="-417" yOffset="-103"/>
+  </outline>
+</glyph>

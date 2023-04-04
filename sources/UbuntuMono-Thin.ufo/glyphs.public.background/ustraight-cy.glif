@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraight-cy" format="2">
+  <outline>
+    <contour>
+      <point x="267" y="-185" type="line"/>
+      <point x="300" y="-185" type="line"/>
+      <point x="300" y="-1" type="line"/>
+      <point x="366" y="140"/>
+      <point x="448" y="321"/>
+      <point x="499" y="512" type="curve"/>
+      <point x="459" y="512" type="line"/>
+      <point x="416" y="364"/>
+      <point x="355" y="165"/>
+      <point x="289" y="45" type="curve"/>
+      <point x="223" y="166"/>
+      <point x="147" y="366"/>
+      <point x="104" y="512" type="curve"/>
+      <point x="60" y="512" type="line"/>
+      <point x="112" y="323"/>
+      <point x="204" y="135"/>
+      <point x="267" y="2" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

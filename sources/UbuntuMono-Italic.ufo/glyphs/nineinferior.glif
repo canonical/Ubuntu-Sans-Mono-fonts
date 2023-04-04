@@ -3,7 +3,7 @@
   <advance width="560"/>
   <unicode hex="2089"/>
   <outline>
-    <component base="ninesuperior" xOffset="-29" yOffset="-316"/>
+    <component base="nine.numr" xOffset="-74" yOffset="-506"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>ninesuperior</string>
+          <string>nine.numr</string>
         </dict>
       </array>
     </dict>

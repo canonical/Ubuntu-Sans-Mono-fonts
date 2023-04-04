@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oneninth" format="2">
   <advance width="560"/>
-  <unicode hex="F50C"/>
+  <unicode hex="2151"/>
   <outline>
     <contour>
       <point x="31" y="0" type="line"/>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kastroke-cy" format="2">
+  <advance width="560"/>
+  <unicode hex="049E"/>
+  <outline>
+    <contour>
+      <point x="95" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="317" type="line"/>
+      <point x="308" y="228"/>
+      <point x="376" y="105"/>
+      <point x="402" y="0" type="curve"/>
+      <point x="553" y="0" type="line"/>
+      <point x="521" y="127"/>
+      <point x="421" y="279"/>
+      <point x="343" y="367" type="curve"/>
+      <point x="426" y="469"/>
+      <point x="504" y="589"/>
+      <point x="544" y="693" type="curve"/>
+      <point x="392" y="693" type="line"/>
+      <point x="348" y="568"/>
+      <point x="304" y="507"/>
+      <point x="233" y="405" type="curve"/>
+      <point x="233" y="562" type="line"/>
+      <point x="289" y="562" type="line"/>
+      <point x="289" y="659" type="line"/>
+      <point x="233" y="659" type="line"/>
+      <point x="233" y="738" type="line"/>
+      <point x="95" y="738" type="line"/>
+      <point x="95" y="659" type="line"/>
+      <point x="30" y="659" type="line"/>
+      <point x="30" y="562" type="line"/>
+      <point x="95" y="562" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

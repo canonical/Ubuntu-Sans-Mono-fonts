@@ -3,7 +3,7 @@
   <advance width="560"/>
   <unicode hex="2088"/>
   <outline>
-    <component base="eightsuperior" xOffset="-76" yOffset="-316"/>
+    <component base="eight.numr" xOffset="-122" yOffset="-506"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>eightsuperior</string>
+          <string>eight.numr</string>
         </dict>
       </array>
     </dict>

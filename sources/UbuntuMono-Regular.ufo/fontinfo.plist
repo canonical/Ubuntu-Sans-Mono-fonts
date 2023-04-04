@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>693</integer>
     <key>copyright</key>
-    <string>Copyright 2011, 2022 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0</string>
+    <string>Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0</string>
     <key>descender</key>
     <integer>-185</integer>
     <key>familyName</key>
@@ -112,7 +112,7 @@
     <key>openTypeOS2WinAscent</key>
     <integer>1020</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>221</integer>
+    <integer>223</integer>
     <key>postscriptBlueScale</key>
     <real>0.04</real>
     <key>postscriptBlueShift</key>
@@ -132,7 +132,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>862</integer>
+    <integer>866</integer>
     <key>xHeight</key>
     <integer>518</integer>
   </dict>
