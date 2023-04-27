@@ -11,66 +11,6 @@
       <string>glyphs.public.background</string>
     </array>
     <array>
-      <string>8 Jan 23 19:19</string>
-      <string>glyphs.8 J_an 23 19_19</string>
-    </array>
-    <array>
-      <string>8 Jan 23 19:19.background</string>
-      <string>glyphs.8 J_an 23 19_19.background</string>
-    </array>
-    <array>
-      <string>8 Jan 23 19:21</string>
-      <string>glyphs.8 J_an 23 19_21</string>
-    </array>
-    <array>
-      <string>8 Jan 23 19:21.background</string>
-      <string>glyphs.8 J_an 23 19_21.background</string>
-    </array>
-    <array>
-      <string>8 Jan 23 19:28</string>
-      <string>glyphs.8 J_an 23 19_28</string>
-    </array>
-    <array>
-      <string>8 Jan 23 19:28.background</string>
-      <string>glyphs.8 J_an 23 19_28.background</string>
-    </array>
-    <array>
-      <string>Nov 17, 22, 16:43</string>
-      <string>glyphs.N_ov 17, 22, 16_43</string>
-    </array>
-    <array>
-      <string>8 Jan 23 19:49</string>
-      <string>glyphs.8 J_an 23 19_49</string>
-    </array>
-    <array>
-      <string>8 Jan 23 19:49.background</string>
-      <string>glyphs.8 J_an 23 19_49.background</string>
-    </array>
-    <array>
-      <string>8 Jan 23 19:56</string>
-      <string>glyphs.8 J_an 23 19_56</string>
-    </array>
-    <array>
-      <string>8 Jan 23 19:56.background</string>
-      <string>glyphs.8 J_an 23 19_56.background</string>
-    </array>
-    <array>
-      <string>8 Jan 23 20:19</string>
-      <string>glyphs.8 J_an 23 20_19</string>
-    </array>
-    <array>
-      <string>8 Jan 23 20:19.background</string>
-      <string>glyphs.8 J_an 23 20_19.background</string>
-    </array>
-    <array>
-      <string>8 Jan 23 20:37</string>
-      <string>glyphs.8 J_an 23 20_37</string>
-    </array>
-    <array>
-      <string>8 Jan 23 20:37.background</string>
-      <string>glyphs.8 J_an 23 20_37.background</string>
-    </array>
-    <array>
       <string>8 Jan 23 12:02</string>
       <string>glyphs.8 J_an 23 12_02</string>
     </array>
@@ -111,12 +51,64 @@
       <string>glyphs.7 J_an 23 23_36.background</string>
     </array>
     <array>
+      <string>8 Jan 23 19:56</string>
+      <string>glyphs.8 J_an 23 19_56</string>
+    </array>
+    <array>
+      <string>8 Jan 23 19:56.background</string>
+      <string>glyphs.8 J_an 23 19_56.background</string>
+    </array>
+    <array>
+      <string>8 Jan 23 20:19</string>
+      <string>glyphs.8 J_an 23 20_19</string>
+    </array>
+    <array>
+      <string>8 Jan 23 20:19.background</string>
+      <string>glyphs.8 J_an 23 20_19.background</string>
+    </array>
+    <array>
+      <string>8 Jan 23 19:49</string>
+      <string>glyphs.8 J_an 23 19_49</string>
+    </array>
+    <array>
+      <string>8 Jan 23 19:49.background</string>
+      <string>glyphs.8 J_an 23 19_49.background</string>
+    </array>
+    <array>
+      <string>Nov 17, 22, 16:43</string>
+      <string>glyphs.N_ov 17, 22, 16_43</string>
+    </array>
+    <array>
       <string>9 Jan 23 22:34</string>
       <string>glyphs.9 J_an 23 22_34</string>
     </array>
     <array>
       <string>9 Jan 23 22:34.background</string>
       <string>glyphs.9 J_an 23 22_34.background</string>
+    </array>
+    <array>
+      <string>8 Jan 23 20:37</string>
+      <string>glyphs.8 J_an 23 20_37</string>
+    </array>
+    <array>
+      <string>8 Jan 23 20:37.background</string>
+      <string>glyphs.8 J_an 23 20_37.background</string>
+    </array>
+    <array>
+      <string>8 Jan 23 19:28</string>
+      <string>glyphs.8 J_an 23 19_28</string>
+    </array>
+    <array>
+      <string>8 Jan 23 19:28.background</string>
+      <string>glyphs.8 J_an 23 19_28.background</string>
+    </array>
+    <array>
+      <string>8 Jan 23 19:19</string>
+      <string>glyphs.8 J_an 23 19_19</string>
+    </array>
+    <array>
+      <string>8 Jan 23 19:19.background</string>
+      <string>glyphs.8 J_an 23 19_19.background</string>
     </array>
     <array>
       <string>13 Jan 23 17:19</string>
@@ -133,6 +125,14 @@
     <array>
       <string>13 Jan 23 17:10.background</string>
       <string>glyphs.13 J_an 23 17_10.background</string>
+    </array>
+    <array>
+      <string>8 Jan 23 19:21</string>
+      <string>glyphs.8 J_an 23 19_21</string>
+    </array>
+    <array>
+      <string>8 Jan 23 19:21.background</string>
+      <string>glyphs.8 J_an 23 19_21.background</string>
     </array>
     <array>
       <string>Mar 13, 23 at 20:58</string>

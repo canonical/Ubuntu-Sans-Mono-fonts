@@ -500,6 +500,8 @@
     <string>eight.glif</string>
     <key>eight.numr</key>
     <string>eight.numr.glif</string>
+    <key>eight.osf</key>
+    <string>eight.osf.glif</string>
     <key>el-cy</key>
     <string>el-cy.glif</string>
     <key>eltail-cy</key>
@@ -564,6 +566,8 @@
     <string>five.glif</string>
     <key>five.numr</key>
     <string>five.numr.glif</string>
+    <key>five.osf</key>
+    <string>five.osf.glif</string>
     <key>fiveeighths</key>
     <string>fiveeighths.glif</string>
     <key>fivesixths</key>
@@ -574,6 +578,8 @@
     <string>four.glif</string>
     <key>four.numr</key>
     <string>four.numr.glif</string>
+    <key>four.osf</key>
+    <string>four.osf.glif</string>
     <key>fourfifths</key>
     <string>fourfifths.glif</string>
     <key>g</key>
@@ -708,6 +714,8 @@
     <string>nine.glif</string>
     <key>nine.numr</key>
     <string>nine.numr.glif</string>
+    <key>nine.osf</key>
+    <string>nine.osf.glif</string>
     <key>nj</key>
     <string>nj.glif</string>
     <key>nje-cy</key>
@@ -738,6 +746,8 @@
     <string>one.glif</string>
     <key>one.numr</key>
     <string>one.numr.glif</string>
+    <key>one.osf</key>
+    <string>one.osf.glif</string>
     <key>oneeighth</key>
     <string>oneeighth.glif</string>
     <key>onefifth</key>
@@ -864,6 +874,8 @@
     <string>six.glif</string>
     <key>six.numr</key>
     <string>six.numr.glif</string>
+    <key>six.osf</key>
+    <string>six.osf.glif</string>
     <key>softsign-cy</key>
     <string>softsign-cy.glif</string>
     <key>sswashtail</key>
@@ -898,6 +910,8 @@
     <string>three.glif</string>
     <key>three.numr</key>
     <string>three.numr.glif</string>
+    <key>three.osf</key>
+    <string>three.osf.glif</string>
     <key>threeeighths</key>
     <string>threeeighths.glif</string>
     <key>threefifths</key>
@@ -928,6 +942,8 @@
     <string>two.glif</string>
     <key>two.numr</key>
     <string>two.numr.glif</string>
+    <key>two.osf</key>
+    <string>two.osf.glif</string>
     <key>twofifths</key>
     <string>twofifths.glif</string>
     <key>twostroke</key>
@@ -990,6 +1006,8 @@
     <string>zero.glif</string>
     <key>zero.numr</key>
     <string>zero.numr.glif</string>
+    <key>zero.osf</key>
+    <string>zero.osf.glif</string>
     <key>zeta</key>
     <string>zeta.glif</string>
     <key>zhe-cy</key>
