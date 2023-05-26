@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik.osf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="265" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="299" y="168" type="line"/>
+      <point x="438" y="231" type="line"/>
+      <point x="427" y="255" type="line"/>
+      <point x="299" y="198" type="line"/>
+      <point x="299" y="319" type="line"/>
+      <point x="438" y="382" type="line"/>
+      <point x="427" y="406" type="line"/>
+      <point x="299" y="349" type="line"/>
+      <point x="299" y="544" type="line"/>
+      <point x="465" y="544" type="line"/>
+      <point x="465" y="575" type="line"/>
+      <point x="99" y="575" type="line"/>
+      <point x="99" y="544" type="line"/>
+      <point x="265" y="544" type="line"/>
+      <point x="265" y="336" type="line"/>
+      <point x="129" y="275" type="line"/>
+      <point x="141" y="251" type="line"/>
+      <point x="265" y="307" type="line"/>
+      <point x="265" y="185" type="line"/>
+      <point x="129" y="124" type="line"/>
+      <point x="141" y="99" type="line"/>
+      <point x="265" y="155" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>width</key>
+        <real>84.5</real>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

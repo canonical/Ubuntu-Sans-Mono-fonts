@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>hryvnia.osf</key>
+    <string>hryvnia.osf.glif</string>
+    <key>ruble.osf</key>
+    <string>ruble.osf.glif</string>
+    <key>tenge.osf</key>
+    <string>tenge.osf.glif</string>
+    <key>tugrik.osf</key>
+    <string>tugrik.osf.glif</string>
+  </dict>
+</plist>

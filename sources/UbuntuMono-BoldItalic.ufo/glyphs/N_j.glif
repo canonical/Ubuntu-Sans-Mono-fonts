@@ -4,52 +4,83 @@
   <unicode hex="01CB"/>
   <outline>
     <contour>
-      <point x="7" y="0" type="line"/>
-      <point x="104" y="0" type="line"/>
-      <point x="171" y="279" type="line"/>
-      <point x="211" y="440" type="line"/>
-      <point x="205" y="259"/>
-      <point x="206" y="172"/>
-      <point x="209" y="0" type="curve"/>
-      <point x="293" y="0" type="line"/>
-      <point x="459" y="693" type="line"/>
-      <point x="361" y="693" type="line"/>
-      <point x="299" y="432" type="line"/>
-      <point x="264" y="287" type="line"/>
-      <point x="256" y="693" type="line"/>
-      <point x="172" y="693" type="line"/>
+      <point x="-35" y="0" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="129" y="279" type="line"/>
+      <point x="169" y="440" type="line"/>
+      <point x="163" y="259"/>
+      <point x="164" y="172"/>
+      <point x="167" y="0" type="curve"/>
+      <point x="251" y="0" type="line"/>
+      <point x="417" y="693" type="line"/>
+      <point x="319" y="693" type="line"/>
+      <point x="257" y="432" type="line"/>
+      <point x="222" y="287" type="line"/>
+      <point x="214" y="693" type="line"/>
+      <point x="130" y="693" type="line"/>
     </contour>
     <contour>
-      <point x="290" y="-186" type="curve" smooth="yes"/>
-      <point x="403" y="-186"/>
-      <point x="458" y="-113"/>
-      <point x="492" y="27" type="curve" smooth="yes"/>
-      <point x="613" y="526" type="line"/>
-      <point x="514" y="526" type="line"/>
-      <point x="391" y="15" type="line" smooth="yes"/>
-      <point x="373" y="-60"/>
-      <point x="343" y="-87"/>
-      <point x="298" y="-87" type="curve" smooth="yes"/>
-      <point x="277" y="-87"/>
-      <point x="251" y="-81"/>
-      <point x="222" y="-71" type="curve"/>
-      <point x="192" y="-166" type="line"/>
-      <point x="228" y="-180"/>
-      <point x="261" y="-186"/>
+      <point x="248" y="-186" type="curve" smooth="yes"/>
+      <point x="361" y="-186"/>
+      <point x="416" y="-113"/>
+      <point x="450" y="27" type="curve" smooth="yes"/>
+      <point x="571" y="526" type="line"/>
+      <point x="472" y="526" type="line"/>
+      <point x="349" y="15" type="line" smooth="yes"/>
+      <point x="331" y="-60"/>
+      <point x="301" y="-87"/>
+      <point x="256" y="-87" type="curve" smooth="yes"/>
+      <point x="235" y="-87"/>
+      <point x="209" y="-81"/>
+      <point x="180" y="-71" type="curve"/>
+      <point x="150" y="-166" type="line"/>
+      <point x="186" y="-180"/>
+      <point x="219" y="-186"/>
     </contour>
     <contour>
-      <point x="575" y="589" type="curve" smooth="yes"/>
-      <point x="629" y="589"/>
-      <point x="670" y="640"/>
-      <point x="670" y="685" type="curve" smooth="yes"/>
-      <point x="670" y="720"/>
-      <point x="645" y="743"/>
-      <point x="610" y="743" type="curve" smooth="yes"/>
-      <point x="566" y="743"/>
-      <point x="514" y="703"/>
-      <point x="514" y="645" type="curve" smooth="yes"/>
-      <point x="514" y="612"/>
-      <point x="540" y="589"/>
+      <point x="533" y="589" type="curve" smooth="yes"/>
+      <point x="587" y="589"/>
+      <point x="628" y="640"/>
+      <point x="628" y="685" type="curve" smooth="yes"/>
+      <point x="628" y="720"/>
+      <point x="603" y="743"/>
+      <point x="568" y="743" type="curve" smooth="yes"/>
+      <point x="524" y="743"/>
+      <point x="472" y="703"/>
+      <point x="472" y="645" type="curve" smooth="yes"/>
+      <point x="472" y="612"/>
+      <point x="498" y="589"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik.osf" format="2">
+  <advance width="445"/>
+  <outline>
+    <contour>
+      <point x="152.439" y="0" type="line"/>
+      <point x="292.182" y="0" type="line"/>
+      <point x="292.182" y="193.124" type="line"/>
+      <point x="395.475" y="246.461" type="line"/>
+      <point x="353.371" y="329.719" type="line"/>
+      <point x="292.182" y="296.515" type="line"/>
+      <point x="292.182" y="378.633" type="line"/>
+      <point x="394.25" y="431.358" type="line"/>
+      <point x="353.371" y="512.166" type="line"/>
+      <point x="292.182" y="478.962" type="line"/>
+      <point x="292.182" y="579.671" type="line"/>
+      <point x="451.262" y="579.671" type="line"/>
+      <point x="451.262" y="693" type="line"/>
+      <point x="-6.642" y="693" type="line"/>
+      <point x="-6.642" y="579.671" type="line"/>
+      <point x="152.439" y="579.671" type="line"/>
+      <point x="152.439" y="407.882" type="line"/>
+      <point x="54.045" y="357.381" type="line"/>
+      <point x="94.924" y="276.574" type="line"/>
+      <point x="152.439" y="307.035" type="line"/>
+      <point x="152.439" y="225.435" type="line"/>
+      <point x="54.045" y="174.935" type="line"/>
+      <point x="96.148" y="91.677" type="line"/>
+      <point x="152.439" y="121.526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

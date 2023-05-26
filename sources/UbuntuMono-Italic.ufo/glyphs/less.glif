@@ -4,13 +4,44 @@
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="463" y="66" type="line"/>
-      <point x="502" y="130" type="line"/>
-      <point x="182" y="278" type="line"/>
-      <point x="575" y="431" type="line"/>
-      <point x="571" y="501" type="line"/>
-      <point x="104" y="318" type="line"/>
-      <point x="87" y="247" type="line"/>
+      <point x="421" y="66" type="line"/>
+      <point x="460" y="130" type="line"/>
+      <point x="140" y="278" type="line"/>
+      <point x="533" y="431" type="line"/>
+      <point x="529" y="501" type="line"/>
+      <point x="62" y="318" type="line"/>
+      <point x="45" y="247" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

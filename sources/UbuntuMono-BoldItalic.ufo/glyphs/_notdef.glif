@@ -3,16 +3,47 @@
   <advance width="560"/>
   <outline>
     <contour>
-      <point x="56" y="0" type="line"/>
-      <point x="504" y="0" type="line"/>
-      <point x="504" y="840" type="line"/>
-      <point x="56" y="840" type="line"/>
+      <point x="14" y="0" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="462" y="840" type="line"/>
+      <point x="14" y="840" type="line"/>
     </contour>
     <contour>
-      <point x="112" y="56" type="line"/>
-      <point x="112" y="784" type="line"/>
-      <point x="448" y="784" type="line"/>
-      <point x="448" y="56" type="line"/>
+      <point x="70" y="56" type="line"/>
+      <point x="70" y="784" type="line"/>
+      <point x="406" y="784" type="line"/>
+      <point x="406" y="56" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

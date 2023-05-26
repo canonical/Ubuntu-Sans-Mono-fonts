@@ -4,12 +4,18 @@
   <dict>
     <key>dieresis_grave.cap</key>
     <string>dieresis_grave.cap.glif</string>
+    <key>hryvnia.osf</key>
+    <string>hryvnia.osf.glif</string>
     <key>kgreenlandic</key>
     <string>kgreenlandic.glif</string>
     <key>onehalf</key>
     <string>onehalf.glif</string>
     <key>questiondown</key>
     <string>questiondown.glif</string>
+    <key>rupeeIndian.osf</key>
+    <string>rupeeI_ndian.osf.glif</string>
+    <key>sterling.osf</key>
+    <string>sterling.osf.glif</string>
     <key>zhedescender-cy</key>
     <string>zhedescender-cy.glif</string>
   </dict>

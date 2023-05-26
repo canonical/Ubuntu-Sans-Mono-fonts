@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>8A662902-8FE1-4476-B892-C4466163EF20</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hryvnia.osf</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ruble.osf</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tenge.osf</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tugrik.osf</key>
+      <integer>9</integer>
+    </dict>
+  </dict>
+</plist>

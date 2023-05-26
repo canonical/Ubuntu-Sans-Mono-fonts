@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.osf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="202" y="-159" type="curve"/>
+      <point x="237" y="-159" type="line"/>
+      <point x="251" y="70"/>
+      <point x="374" y="358"/>
+      <point x="488" y="502" type="curve"/>
+      <point x="488" y="534" type="line"/>
+      <point x="89" y="534" type="line"/>
+      <point x="89" y="503" type="line"/>
+      <point x="452" y="503" type="line"/>
+      <point x="345" y="373"/>
+      <point x="215" y="63"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

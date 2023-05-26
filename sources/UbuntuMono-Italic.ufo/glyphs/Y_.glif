@@ -4,23 +4,54 @@
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="228" y="0" type="line"/>
-      <point x="306" y="0" type="line"/>
-      <point x="368" y="259" type="line"/>
-      <point x="489" y="400"/>
-      <point x="609" y="550"/>
-      <point x="699" y="693" type="curve"/>
-      <point x="613" y="693" type="line"/>
-      <point x="542" y="581"/>
-      <point x="442" y="444"/>
-      <point x="340" y="312" type="curve"/>
-      <point x="301" y="424"/>
-      <point x="260" y="569"/>
-      <point x="244" y="693" type="curve"/>
-      <point x="167" y="693" type="line"/>
-      <point x="187" y="550"/>
-      <point x="231" y="406"/>
-      <point x="289" y="257" type="curve"/>
+      <point x="186" y="0" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="326" y="259" type="line"/>
+      <point x="447" y="400"/>
+      <point x="567" y="550"/>
+      <point x="657" y="693" type="curve"/>
+      <point x="571" y="693" type="line"/>
+      <point x="500" y="581"/>
+      <point x="400" y="444"/>
+      <point x="298" y="312" type="curve"/>
+      <point x="259" y="424"/>
+      <point x="218" y="569"/>
+      <point x="202" y="693" type="curve"/>
+      <point x="125" y="693" type="line"/>
+      <point x="145" y="550"/>
+      <point x="189" y="406"/>
+      <point x="247" y="257" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -4,88 +4,119 @@
   <unicode hex="F000"/>
   <outline>
     <contour>
-      <point x="-152" y="372" type="line"/>
-      <point x="194" y="372" type="line"/>
-      <point x="194" y="404" type="line"/>
-      <point x="-152" y="404" type="line"/>
+      <point x="-194" y="372" type="line"/>
+      <point x="152" y="372" type="line"/>
+      <point x="152" y="404" type="line"/>
+      <point x="-194" y="404" type="line"/>
     </contour>
     <contour>
-      <point x="-185" y="35" type="line"/>
-      <point x="-152" y="35" type="line"/>
-      <point x="-152" y="368" type="line"/>
-      <point x="-185" y="368" type="line"/>
+      <point x="-227" y="35" type="line"/>
+      <point x="-194" y="35" type="line"/>
+      <point x="-194" y="368" type="line"/>
+      <point x="-227" y="368" type="line"/>
     </contour>
     <contour>
-      <point x="-152" y="0" type="line"/>
-      <point x="194" y="0" type="line"/>
-      <point x="194" y="32" type="line"/>
-      <point x="-152" y="32" type="line"/>
+      <point x="-194" y="0" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="152" y="32" type="line"/>
+      <point x="-194" y="32" type="line"/>
     </contour>
     <contour>
-      <point x="-185" y="407" type="line"/>
-      <point x="-152" y="407" type="line"/>
-      <point x="-152" y="740" type="line"/>
-      <point x="-185" y="740" type="line"/>
+      <point x="-227" y="407" type="line"/>
+      <point x="-194" y="407" type="line"/>
+      <point x="-194" y="740" type="line"/>
+      <point x="-227" y="740" type="line"/>
     </contour>
     <contour>
-      <point x="194" y="35" type="line"/>
-      <point x="225" y="35" type="line"/>
-      <point x="225" y="368" type="line"/>
-      <point x="194" y="368" type="line"/>
+      <point x="152" y="35" type="line"/>
+      <point x="183" y="35" type="line"/>
+      <point x="183" y="368" type="line"/>
+      <point x="152" y="368" type="line"/>
     </contour>
     <contour>
-      <point x="335" y="35" type="line"/>
-      <point x="367" y="35" type="line"/>
-      <point x="367" y="368" type="line"/>
-      <point x="335" y="368" type="line"/>
+      <point x="293" y="35" type="line"/>
+      <point x="325" y="35" type="line"/>
+      <point x="325" y="368" type="line"/>
+      <point x="293" y="368" type="line"/>
     </contour>
     <contour>
-      <point x="367" y="0" type="line"/>
-      <point x="712" y="0" type="line"/>
-      <point x="712" y="32" type="line"/>
-      <point x="367" y="32" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="670" y="32" type="line"/>
+      <point x="325" y="32" type="line"/>
     </contour>
     <contour>
-      <point x="-152" y="744" type="line"/>
-      <point x="194" y="744" type="line"/>
-      <point x="194" y="775" type="line"/>
-      <point x="-152" y="775" type="line"/>
+      <point x="-194" y="744" type="line"/>
+      <point x="152" y="744" type="line"/>
+      <point x="152" y="775" type="line"/>
+      <point x="-194" y="775" type="line"/>
     </contour>
     <contour>
-      <point x="194" y="407" type="line"/>
-      <point x="225" y="407" type="line"/>
-      <point x="225" y="740" type="line"/>
-      <point x="194" y="740" type="line"/>
+      <point x="152" y="407" type="line"/>
+      <point x="183" y="407" type="line"/>
+      <point x="183" y="740" type="line"/>
+      <point x="152" y="740" type="line"/>
     </contour>
     <contour>
-      <point x="335" y="407" type="line"/>
-      <point x="367" y="407" type="line"/>
-      <point x="367" y="740" type="line"/>
-      <point x="335" y="740" type="line"/>
+      <point x="293" y="407" type="line"/>
+      <point x="325" y="407" type="line"/>
+      <point x="325" y="740" type="line"/>
+      <point x="293" y="740" type="line"/>
     </contour>
     <contour>
-      <point x="367" y="372" type="line"/>
-      <point x="712" y="372" type="line"/>
-      <point x="712" y="404" type="line"/>
-      <point x="367" y="404" type="line"/>
+      <point x="325" y="372" type="line"/>
+      <point x="670" y="372" type="line"/>
+      <point x="670" y="404" type="line"/>
+      <point x="325" y="404" type="line"/>
     </contour>
     <contour>
-      <point x="712" y="35" type="line"/>
-      <point x="745" y="35" type="line"/>
-      <point x="745" y="368" type="line"/>
-      <point x="712" y="368" type="line"/>
+      <point x="670" y="35" type="line"/>
+      <point x="703" y="35" type="line"/>
+      <point x="703" y="368" type="line"/>
+      <point x="670" y="368" type="line"/>
     </contour>
     <contour>
-      <point x="367" y="744" type="line"/>
-      <point x="712" y="744" type="line"/>
-      <point x="712" y="775" type="line"/>
-      <point x="367" y="775" type="line"/>
+      <point x="325" y="744" type="line"/>
+      <point x="670" y="744" type="line"/>
+      <point x="670" y="775" type="line"/>
+      <point x="325" y="775" type="line"/>
     </contour>
     <contour>
-      <point x="712" y="407" type="line"/>
-      <point x="745" y="407" type="line"/>
-      <point x="745" y="740" type="line"/>
-      <point x="712" y="740" type="line"/>
+      <point x="670" y="407" type="line"/>
+      <point x="703" y="407" type="line"/>
+      <point x="703" y="740" type="line"/>
+      <point x="670" y="740" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

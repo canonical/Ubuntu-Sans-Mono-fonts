@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupeeIndian.osf" format="2">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="248.706" y="0" type="curve"/>
+      <point x="275.159" y="0" type="line"/>
+      <point x="257.243" y="67.243"/>
+      <point x="153.176" y="215.345"/>
+      <point x="68.057" y="315.135" type="curve"/>
+      <point x="121.226" y="316.135" type="line" smooth="yes"/>
+      <point x="228.26" y="332.135"/>
+      <point x="276.176" y="395.841"/>
+      <point x="279.142" y="486.118" type="curve"/>
+      <point x="359.571" y="486.118" type="line"/>
+      <point x="365.209" y="523" type="line"/>
+      <point x="276.469" y="523" type="line"/>
+      <point x="270.469" y="589.429"/>
+      <point x="228.385" y="629.446"/>
+      <point x="171.628" y="656.118" type="curve"/>
+      <point x="387.554" y="656.118" type="line"/>
+      <point x="394.865" y="693" type="line"/>
+      <point x="28.588" y="693" type="line"/>
+      <point x="28.588" y="656.118" type="line"/>
+      <point x="-14.146" y="656.118" type="line" smooth="yes"/>
+      <point x="159.192" y="656.118"/>
+      <point x="235.328" y="586.362"/>
+      <point x="242.983" y="523" type="curve"/>
+      <point x="28.588" y="523" type="line"/>
+      <point x="28.588" y="486.118" type="line"/>
+      <point x="242.311" y="486.118" type="line"/>
+      <point x="238.672" y="384.706"/>
+      <point x="189.706" y="344"/>
+      <point x="83.966" y="344" type="curve" smooth="yes"/>
+      <point x="28.588" y="344" type="line"/>
+      <point x="28.588" y="311.808" type="line"/>
+      <point x="131.085" y="206"/>
+      <point x="175.605" y="131.169"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik.osf" format="2">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="351" y="450" type="line"/>
+      <point x="339" y="475" type="line"/>
+      <point x="48" y="337" type="line"/>
+      <point x="61" y="312" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="278" type="line"/>
+      <point x="339" y="303" type="line"/>
+      <point x="48" y="165" type="line"/>
+      <point x="61" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="216" y="661" type="line"/>
+      <point x="379" y="661" type="line"/>
+      <point x="379" y="693" type="line"/>
+      <point x="20" y="693" type="line"/>
+      <point x="20" y="661" type="line"/>
+      <point x="182" y="661" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

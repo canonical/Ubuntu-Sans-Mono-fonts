@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.osf" format="2">
+  <advance width="445"/>
+  <outline>
+    <contour>
+      <point x="155.181" y="0" type="line"/>
+      <point x="291.862" y="0" type="line"/>
+      <point x="291.862" y="117.982" type="line"/>
+      <point x="404.936" y="117.982" type="line"/>
+      <point x="404.936" y="210.923" type="line"/>
+      <point x="291.862" y="210.923" type="line"/>
+      <point x="291.862" y="274.219" type="line"/>
+      <point x="404.936" y="274.219" type="line"/>
+      <point x="404.936" y="367.16" type="line"/>
+      <point x="338.584" y="367.16" type="line"/>
+      <point x="386.643" y="492.742"/>
+      <point x="419.073" y="598.929"/>
+      <point x="452.481" y="693" type="curve"/>
+      <point x="308.915" y="693" type="line"/>
+      <point x="282.371" y="602.198"/>
+      <point x="252.747" y="487.098"/>
+      <point x="224.276" y="404.018" type="curve"/>
+      <point x="195.711" y="487.098"/>
+      <point x="164.249" y="600.361"/>
+      <point x="137.092" y="693" type="curve"/>
+      <point x="-8.249" y="693" type="line"/>
+      <point x="17.518" y="607.503"/>
+      <point x="60.876" y="488.455"/>
+      <point x="106.779" y="367.16" type="curve"/>
+      <point x="39.391" y="367.16" type="line"/>
+      <point x="39.391" y="274.219" type="line"/>
+      <point x="155.181" y="274.219" type="line"/>
+      <point x="155.181" y="210.923" type="line"/>
+      <point x="39.391" y="210.923" type="line"/>
+      <point x="39.391" y="117.982" type="line"/>
+      <point x="155.181" y="117.982" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

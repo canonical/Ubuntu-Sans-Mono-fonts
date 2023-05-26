@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>C365F999-F525-4F40-B4A5-8C179C5E0513</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.rupeeIndian.osf</key>
+      <integer>8</integer>
+    </dict>
+  </dict>
+</plist>

@@ -4,26 +4,57 @@
   <unicode hex="2211"/>
   <outline>
     <contour>
-      <point x="53" y="-109" type="line"/>
-      <point x="447" y="-109" type="line"/>
-      <point x="462" y="-41" type="line"/>
-      <point x="157" y="-41" type="line"/>
-      <point x="230" y="59"/>
-      <point x="323" y="161"/>
-      <point x="448" y="299" type="curve"/>
-      <point x="403" y="408"/>
-      <point x="349" y="564"/>
-      <point x="328" y="626" type="curve"/>
-      <point x="625" y="626" type="line"/>
-      <point x="641" y="693" type="line"/>
-      <point x="248" y="693" type="line"/>
-      <point x="234" y="636" type="line"/>
-      <point x="243" y="603"/>
-      <point x="264" y="562"/>
-      <point x="366" y="311" type="curve"/>
-      <point x="230" y="160"/>
-      <point x="132" y="48"/>
-      <point x="67" y="-49" type="curve"/>
+      <point x="11" y="-109" type="line"/>
+      <point x="405" y="-109" type="line"/>
+      <point x="420" y="-41" type="line"/>
+      <point x="115" y="-41" type="line"/>
+      <point x="188" y="59"/>
+      <point x="281" y="161"/>
+      <point x="406" y="299" type="curve"/>
+      <point x="361" y="408"/>
+      <point x="307" y="564"/>
+      <point x="286" y="626" type="curve"/>
+      <point x="583" y="626" type="line"/>
+      <point x="599" y="693" type="line"/>
+      <point x="206" y="693" type="line"/>
+      <point x="192" y="636" type="line"/>
+      <point x="201" y="603"/>
+      <point x="222" y="562"/>
+      <point x="324" y="311" type="curve"/>
+      <point x="188" y="160"/>
+      <point x="90" y="48"/>
+      <point x="25" y="-49" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

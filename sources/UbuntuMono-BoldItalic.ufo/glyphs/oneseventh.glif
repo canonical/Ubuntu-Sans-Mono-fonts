@@ -4,36 +4,67 @@
   <unicode hex="2150"/>
   <outline>
     <contour>
-      <point x="12" y="0" type="line"/>
-      <point x="120" y="0" type="line"/>
-      <point x="641" y="693" type="line"/>
-      <point x="532" y="693" type="line"/>
+      <point x="-30" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="599" y="693" type="line"/>
+      <point x="490" y="693" type="line"/>
     </contour>
     <contour>
-      <point x="346" y="0" type="curve"/>
-      <point x="444" y="0" type="line"/>
-      <point x="459" y="77"/>
-      <point x="515" y="155"/>
-      <point x="584" y="215" type="curve"/>
-      <point x="600" y="280" type="line"/>
-      <point x="379" y="280" type="line"/>
-      <point x="362" y="211" type="line"/>
-      <point x="482" y="211" type="line"/>
-      <point x="405" y="144"/>
-      <point x="367" y="74"/>
+      <point x="304" y="0" type="curve"/>
+      <point x="402" y="0" type="line"/>
+      <point x="417" y="77"/>
+      <point x="473" y="155"/>
+      <point x="542" y="215" type="curve"/>
+      <point x="558" y="280" type="line"/>
+      <point x="337" y="280" type="line"/>
+      <point x="320" y="211" type="line"/>
+      <point x="440" y="211" type="line"/>
+      <point x="363" y="144"/>
+      <point x="325" y="74"/>
     </contour>
     <contour>
-      <point x="172" y="421" type="line"/>
-      <point x="269" y="421" type="line"/>
-      <point x="337" y="701" type="line"/>
-      <point x="267" y="701" type="line"/>
-      <point x="221" y="668"/>
-      <point x="183" y="646"/>
-      <point x="127" y="624" type="curve"/>
-      <point x="132" y="558" type="line"/>
-      <point x="161" y="566"/>
-      <point x="181" y="573"/>
-      <point x="214" y="589" type="curve"/>
+      <point x="130" y="421" type="line"/>
+      <point x="227" y="421" type="line"/>
+      <point x="295" y="701" type="line"/>
+      <point x="225" y="701" type="line"/>
+      <point x="179" y="668"/>
+      <point x="141" y="646"/>
+      <point x="85" y="624" type="curve"/>
+      <point x="90" y="558" type="line"/>
+      <point x="119" y="566"/>
+      <point x="139" y="573"/>
+      <point x="172" y="589" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

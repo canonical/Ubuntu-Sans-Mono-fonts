@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>public.kern1.PUNCT_Euro.001</key>
+    <array>
+      <string>euro.osf</string>
+    </array>
+    <key>public.kern1.PUNCT_sterling.001</key>
+    <array>
+      <string>sterling.osf</string>
+    </array>
+    <key>public.kern1.PUNCT_yen.001</key>
+    <array>
+      <string>yen.osf</string>
+    </array>
+    <key>public.kern2.PUNCT_Euro.001</key>
+    <array>
+      <string>euro.osf</string>
+    </array>
+    <key>public.kern2.PUNCT_sterling.001</key>
+    <array>
+      <string>sterling.osf</string>
+    </array>
+    <key>public.kern2.PUNCT_yen.001</key>
+    <array>
+      <string>yen.osf</string>
+    </array>
+  </dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble.osf" format="2">
+  <advance width="445"/>
+  <outline>
+    <contour>
+      <point x="78.926" y="0" type="line"/>
+      <point x="211.64" y="0" type="line"/>
+      <point x="211.64" y="98.225" type="line"/>
+      <point x="330.245" y="98.225" type="line"/>
+      <point x="330.245" y="202.19" type="line"/>
+      <point x="211.64" y="202.19" type="line"/>
+      <point x="211.64" y="270.119" type="line"/>
+      <point x="213.299" y="270.119" type="line" smooth="yes"/>
+      <point x="348.176" y="270.119"/>
+      <point x="423.475" y="338.358"/>
+      <point x="423.475" y="489.373" type="curve" smooth="yes"/>
+      <point x="423.475" y="651.701"/>
+      <point x="328.64" y="701.648"/>
+      <point x="206.779" y="701.648" type="curve" smooth="yes"/>
+      <point x="160.891" y="701.648"/>
+      <point x="113.228" y="692.775"/>
+      <point x="78.926" y="685.683" type="curve"/>
+      <point x="78.926" y="381.326" type="line"/>
+      <point x="15.63" y="381.326" type="line"/>
+      <point x="15.63" y="277.361" type="line"/>
+      <point x="78.926" y="277.361" type="line"/>
+      <point x="78.926" y="202.19" type="line"/>
+      <point x="15.63" y="202.19" type="line"/>
+      <point x="15.63" y="98.225" type="line"/>
+      <point x="78.926" y="98.225" type="line"/>
+    </contour>
+    <contour>
+      <point x="211.64" y="385.853" type="line"/>
+      <point x="211.64" y="579.707" type="line"/>
+      <point x="224.45" y="581.094"/>
+      <point x="238.557" y="580.636"/>
+      <point x="229.093" y="580.636" type="curve" smooth="yes"/>
+      <point x="262.11" y="580.636"/>
+      <point x="285.244" y="554.657"/>
+      <point x="285.244" y="486.923" type="curve" smooth="yes"/>
+      <point x="285.244" y="419.447"/>
+      <point x="268.699" y="385.853"/>
+      <point x="214.208" y="385.853" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

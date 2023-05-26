@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>6F4D185B-F1B5-483E-82CB-93136CBFADC5</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.dollar.osf</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.euro.osf</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.hryvnia.osf</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.percent.osf</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ruble.osf</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.rupeeIndian.osf</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.sterling.osf</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tenge.osf</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tugrik.osf</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.yen.osf</key>
+      <integer>9</integer>
+    </dict>
+  </dict>
+</plist>

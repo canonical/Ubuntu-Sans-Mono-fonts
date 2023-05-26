@@ -117,8 +117,22 @@
     <real>0.04</real>
     <key>postscriptBlueShift</key>
     <integer>7</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-18</integer>
+      <integer>0</integer>
+      <integer>526</integer>
+      <integer>544</integer>
+      <integer>693</integer>
+      <integer>711</integer>
+    </array>
     <key>postscriptIsFixedPitch</key>
     <true/>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-203</integer>
+      <integer>-185</integer>
+    </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-138</integer>
     <key>postscriptUnderlineThickness</key>
@@ -132,7 +146,7 @@
     <key>versionMajor</key>
     <integer>0</integer>
     <key>versionMinor</key>
-    <integer>866</integer>
+    <integer>868</integer>
     <key>xHeight</key>
     <integer>526</integer>
   </dict>

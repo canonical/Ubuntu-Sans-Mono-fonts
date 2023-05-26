@@ -4,20 +4,51 @@
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="480" y="0" type="line"/>
-      <point x="507" y="114" type="line"/>
-      <point x="255" y="114" type="line"/>
-      <point x="309" y="342" type="line"/>
-      <point x="474" y="419" type="line"/>
-      <point x="449" y="520" type="line"/>
-      <point x="340" y="468" type="line"/>
-      <point x="394" y="693" type="line"/>
-      <point x="256" y="693" type="line"/>
-      <point x="185" y="395" type="line"/>
-      <point x="52" y="333" type="line"/>
-      <point x="76" y="232" type="line"/>
-      <point x="155" y="269" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="465" y="114" type="line"/>
+      <point x="213" y="114" type="line"/>
+      <point x="267" y="342" type="line"/>
+      <point x="432" y="419" type="line"/>
+      <point x="407" y="520" type="line"/>
+      <point x="298" y="468" type="line"/>
+      <point x="352" y="693" type="line"/>
+      <point x="214" y="693" type="line"/>
+      <point x="143" y="395" type="line"/>
+      <point x="10" y="333" type="line"/>
+      <point x="34" y="232" type="line"/>
+      <point x="113" y="269" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hryvnia.osf" format="2">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="248" y="-8" type="curve"/>
+      <point x="233" y="-8"/>
+      <point x="286" y="-12"/>
+      <point x="354" y="22" type="curve"/>
+      <point x="338" y="50" type="line"/>
+      <point x="283" y="18"/>
+      <point x="244" y="29"/>
+      <point x="258" y="29" type="curve"/>
+      <point x="176" y="29"/>
+      <point x="113" y="57"/>
+      <point x="113" y="175" type="curve" smooth="yes"/>
+      <point x="113" y="206"/>
+      <point x="125" y="229"/>
+      <point x="141" y="250" type="curve"/>
+      <point x="391" y="250" type="line"/>
+      <point x="391" y="277" type="line"/>
+      <point x="140" y="277" type="line"/>
+      <point x="94" y="288"/>
+      <point x="230" y="333"/>
+      <point x="313" y="417" type="curve"/>
+      <point x="391" y="417" type="line"/>
+      <point x="391" y="445" type="line"/>
+      <point x="338" y="445" type="line"/>
+      <point x="354" y="466"/>
+      <point x="369" y="492"/>
+      <point x="369" y="527" type="curve" smooth="yes"/>
+      <point x="369" y="697"/>
+      <point x="249" y="704"/>
+      <point x="193" y="704" type="curve"/>
+      <point x="193" y="704"/>
+      <point x="131" y="695"/>
+      <point x="94" y="670" type="curve"/>
+      <point x="113" y="640" type="line"/>
+      <point x="167" y="669"/>
+      <point x="203" y="667"/>
+      <point x="195" y="667" type="curve"/>
+      <point x="292" y="667"/>
+      <point x="333" y="621"/>
+      <point x="333" y="536" type="curve" smooth="yes"/>
+      <point x="333" y="506"/>
+      <point x="314" y="472"/>
+      <point x="286" y="445" type="curve"/>
+      <point x="37" y="445" type="line"/>
+      <point x="37" y="417" type="line"/>
+      <point x="266" y="417" type="line" smooth="yes"/>
+      <point x="302" y="417"/>
+      <point x="183" y="377"/>
+      <point x="106" y="277" type="curve"/>
+      <point x="37" y="277" type="line"/>
+      <point x="37" y="250" type="line"/>
+      <point x="95" y="250" type="line"/>
+      <point x="83" y="215"/>
+      <point x="76" y="216"/>
+      <point x="76" y="172" type="curve" smooth="yes"/>
+      <point x="76" y="19"/>
+      <point x="185" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

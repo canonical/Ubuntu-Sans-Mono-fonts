@@ -4,5 +4,7 @@
   <dict>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>eight.osf</key>
+    <string>eight.osf.glif</string>
   </dict>
 </plist>
