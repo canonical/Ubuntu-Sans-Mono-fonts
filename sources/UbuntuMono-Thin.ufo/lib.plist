@@ -31,9 +31,42 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3151</string>
+    <string>3180</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
+    <key>com.schriftgestaltung.customParameter.GSFont.Family Alignment Zones</key>
+    <array>
+      <dict>
+        <key>pos</key>
+        <integer>776</integer>
+        <key>size</key>
+        <integer>16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>693</integer>
+        <key>size</key>
+        <integer>16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>518</integer>
+        <key>size</key>
+        <integer>16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>0</integer>
+        <key>size</key>
+        <integer>-16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>-185</integer>
+        <key>size</key>
+        <integer>-16</integer>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
     <dict>
       <key>showAngle</key>

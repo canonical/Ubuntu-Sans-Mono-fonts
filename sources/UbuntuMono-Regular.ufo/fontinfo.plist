@@ -119,19 +119,31 @@
     <integer>7</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <integer>-18</integer>
+      <integer>-16</integer>
       <integer>0</integer>
       <integer>518</integer>
-      <integer>536</integer>
+      <integer>534</integer>
       <integer>693</integer>
-      <integer>711</integer>
+      <integer>709</integer>
+      <integer>776</integer>
+      <integer>792</integer>
     </array>
     <key>postscriptIsFixedPitch</key>
     <true/>
     <key>postscriptOtherBlues</key>
     <array>
-      <integer>-203</integer>
+      <integer>-201</integer>
       <integer>-185</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>70</integer>
+      <integer>67</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>82</integer>
+      <integer>75</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-138</integer>
