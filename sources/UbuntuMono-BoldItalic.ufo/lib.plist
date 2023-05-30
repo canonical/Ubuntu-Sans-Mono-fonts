@@ -22,7 +22,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3180</string>
+    <string>3151</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Family Alignment Zones</key>
@@ -49,13 +49,13 @@
         <key>pos</key>
         <integer>0</integer>
         <key>size</key>
-        <integer>-16</integer>
+        <string>-16</string>
       </dict>
       <dict>
         <key>pos</key>
-        <integer>-185</integer>
+        <string>-185</string>
         <key>size</key>
-        <integer>-16</integer>
+        <string>-16</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
@@ -1457,6 +1457,7 @@
       <string>Tcedilla</string>
       <string>Tcommaaccent</string>
       <string>Tdiagonalstroke</string>
+      <string>Tdotbelow</string>
       <string>Thook</string>
       <string>Tonefive</string>
       <string>Tonesix</string>
@@ -1553,6 +1554,7 @@
       <string>tcedilla</string>
       <string>tcommaaccent</string>
       <string>tcurl</string>
+      <string>tdotbelow</string>
       <string>thook</string>
       <string>tonefive</string>
       <string>tonesix</string>
@@ -2103,7 +2105,6 @@
       <string>second</string>
       <string>literSign</string>
       <string>numero</string>
-      <string>replacementCharacter</string>
       <string>servicemark</string>
       <string>at.case</string>
       <string>ampersand.001</string>
@@ -2174,6 +2175,7 @@
       <string>boxVerticalSingleAndRightDouble</string>
       <string>boxVerticalDoubleAndHorizontalSingle.001</string>
       <string>boxVerticalSingleAndHorizontalDouble.001</string>
+      <string>replacementCharacter</string>
       <string>psili</string>
       <string>koronis</string>
       <string>dasia</string>
@@ -2783,6 +2785,8 @@
       <string>uni021A</string>
       <key>Tdiagonalstroke</key>
       <string>uni023E</string>
+      <key>Tdotbelow</key>
+      <string>uni1E6C</string>
       <key>Te-cy</key>
       <string>uni0422</string>
       <key>Tedescender-cy</key>
@@ -3717,6 +3721,8 @@
       <string>uni021B</string>
       <key>tcurl</key>
       <string>uni0236</string>
+      <key>tdotbelow</key>
+      <string>uni1E6D</string>
       <key>te-cy</key>
       <string>uni0442</string>
       <key>te-cy.locl.ita</key>

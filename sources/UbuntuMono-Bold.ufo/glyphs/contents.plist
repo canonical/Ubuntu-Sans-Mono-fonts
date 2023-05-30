@@ -814,6 +814,8 @@
     <string>T_commaaccent.glif</string>
     <key>Tdiagonalstroke</key>
     <string>T_diagonalstroke.glif</string>
+    <key>Tdotbelow</key>
+    <string>T_dotbelow.glif</string>
     <key>Te-cy</key>
     <string>T_e-cy.glif</string>
     <key>Tedescender-cy</key>
@@ -2404,6 +2406,8 @@
     <string>tcommaaccent.glif</string>
     <key>tcurl</key>
     <string>tcurl.glif</string>
+    <key>tdotbelow</key>
+    <string>tdotbelow.glif</string>
     <key>te-cy</key>
     <string>te-cy.glif</string>
     <key>tedescender-cy</key>

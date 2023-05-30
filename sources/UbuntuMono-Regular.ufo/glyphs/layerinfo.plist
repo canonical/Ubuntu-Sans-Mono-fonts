@@ -818,6 +818,8 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Tdiagonalstroke</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Tdotbelow</key>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Te-cy</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Tedescender-cy</key>
@@ -2407,6 +2409,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.tcommaaccent</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tcurl</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tdotbelow</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.te-cy</key>
       <integer>1</integer>
