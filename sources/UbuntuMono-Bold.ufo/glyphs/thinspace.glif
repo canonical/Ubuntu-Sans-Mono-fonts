@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="thinspace" format="2">
-  <advance width="600"/>
+  <advance width="560"/>
   <unicode hex="2009"/>
   <outline>
   </outline>
@@ -33,6 +33,8 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=zero</string>
     </dict>
   </lib>
 </glyph>
