@@ -22,7 +22,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3151</string>
+    <string>3202</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Family Alignment Zones</key>
@@ -49,13 +49,13 @@
         <key>pos</key>
         <integer>0</integer>
         <key>size</key>
-        <string>-16</string>
+        <integer>-16</integer>
       </dict>
       <dict>
         <key>pos</key>
-        <string>-185</string>
+        <integer>-185</integer>
         <key>size</key>
-        <string>-16</string>
+        <integer>-16</integer>
       </dict>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
@@ -92,7 +92,7 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
-    <string></string>
+    <string>Bold</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
     <integer>700</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
@@ -2105,6 +2105,7 @@
       <string>second</string>
       <string>literSign</string>
       <string>numero</string>
+      <string>replacementCharacter</string>
       <string>servicemark</string>
       <string>at.case</string>
       <string>ampersand.001</string>
@@ -2175,7 +2176,6 @@
       <string>boxVerticalSingleAndRightDouble</string>
       <string>boxVerticalDoubleAndHorizontalSingle.001</string>
       <string>boxVerticalSingleAndHorizontalDouble.001</string>
-      <string>replacementCharacter</string>
       <string>psili</string>
       <string>koronis</string>
       <string>dasia</string>
