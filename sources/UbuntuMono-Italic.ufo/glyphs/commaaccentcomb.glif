@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccentcomb" format="2">
   <unicode hex="0326"/>
+  <anchor x="213" y="0" name="_bottom"/>
+  <anchor x="168" y="-190" name="bottom"/>
   <outline>
     <contour>
       <point x="130" y="-190" type="curve" smooth="yes"/>

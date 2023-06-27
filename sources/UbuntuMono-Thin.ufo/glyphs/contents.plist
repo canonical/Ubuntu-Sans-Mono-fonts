@@ -442,6 +442,8 @@
     <string>I_dieresis-cy.glif</string>
     <key>Idotaccent</key>
     <string>I_dotaccent.glif</string>
+    <key>Idotbelow</key>
+    <string>I_dotbelow.glif</string>
     <key>Ie-cy</key>
     <string>I_e-cy.glif</string>
     <key>Iebreve-cy</key>
@@ -504,6 +506,8 @@
     <string>I_stroke.glif</string>
     <key>Itilde</key>
     <string>I_tilde.glif</string>
+    <key>Itildebelow</key>
+    <string>I_tildebelow.glif</string>
     <key>Izhitsa-cy</key>
     <string>I_zhitsa-cy.glif</string>
     <key>J</key>
@@ -1788,8 +1792,16 @@
     <string>idieresis.glif</string>
     <key>idieresis-cy</key>
     <string>idieresis-cy.glif</string>
+    <key>idotbelow</key>
+    <string>idotbelow.glif</string>
     <key>idotless</key>
     <string>idotless.glif</string>
+    <key>idotless_dotbelowcomb</key>
+    <string>idotless_dotbelowcomb.glif</string>
+    <key>idotless_ogonekcomb</key>
+    <string>idotless_ogonekcomb.glif</string>
+    <key>idotless_tildebelowcomb</key>
+    <string>idotless_tildebelowcomb.glif</string>
     <key>ie-cy</key>
     <string>ie-cy.glif</string>
     <key>iebreve-cy</key>
@@ -1866,8 +1878,14 @@
     <string>iotavaria.glif</string>
     <key>iotavrachy</key>
     <string>iotavrachy.glif</string>
+    <key>istroke</key>
+    <string>istroke.glif</string>
+    <key>istroke.dotless</key>
+    <string>istroke.dotless.glif</string>
     <key>itilde</key>
     <string>itilde.glif</string>
+    <key>itildebelow</key>
+    <string>itildebelow.glif</string>
     <key>izhitsa-cy</key>
     <string>izhitsa-cy.glif</string>
     <key>j</key>
@@ -1882,6 +1900,8 @@
     <string>je-cy.glif</string>
     <key>jstroke</key>
     <string>jstroke.glif</string>
+    <key>jstroke.dotless</key>
+    <string>jstroke.dotless.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>ka-cy</key>
@@ -2390,6 +2410,8 @@
     <string>sterling.glif</string>
     <key>sterling.osf</key>
     <string>sterling.osf.glif</string>
+    <key>strokeshortcomb</key>
+    <string>strokeshortcomb.glif</string>
     <key>summation</key>
     <string>summation.glif</string>
     <key>t</key>
@@ -2450,6 +2472,8 @@
     <string>tilde.glif</string>
     <key>tilde_macron</key>
     <string>tilde_macron.glif</string>
+    <key>tildebelowcomb</key>
+    <string>tildebelowcomb.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
     <key>tonefive</key>

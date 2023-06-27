@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>idotbelow</key>
+    <string>idotbelow.glif</string>
+    <key>idotless_dotbelowcomb</key>
+    <string>idotless_dotbelowcomb.glif</string>
+    <key>idotless_ogonekcomb</key>
+    <string>idotless_ogonekcomb.glif</string>
+    <key>idotless_tildebelowcomb</key>
+    <string>idotless_tildebelowcomb.glif</string>
+    <key>istroke.dotless</key>
+    <string>istroke.dotless.glif</string>
+    <key>itildebelow</key>
+    <string>itildebelow.glif</string>
+    <key>jstroke.dotless</key>
+    <string>jstroke.dotless.glif</string>
+  </dict>
+</plist>

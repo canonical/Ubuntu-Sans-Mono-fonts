@@ -1517,9 +1517,15 @@
       <string>hcaron</string>
       <string>hv</string>
       <string>idotless</string>
+      <string>idotless_dotbelowcomb</string>
+      <string>idotless_ogonekcomb</string>
+      <string>idotless_tildebelowcomb</string>
       <string>icaron</string>
       <string>idblgrave</string>
+      <string>idotbelow</string>
       <string>iinvertedbreve</string>
+      <string>istroke</string>
+      <string>itildebelow</string>
       <string>jdotless</string>
       <string>jcaron</string>
       <string>jstroke</string>
@@ -1574,6 +1580,8 @@
       <string>zhook</string>
       <string>zstroke</string>
       <string>zswashtail</string>
+      <string>istroke.dotless</string>
+      <string>jstroke.dotless</string>
       <string>clickalveolar</string>
       <string>clickdental</string>
       <string>clicklateral</string>
@@ -2211,7 +2219,9 @@
       <string>cedillacomb</string>
       <string>ogonekcomb</string>
       <string>verticallinebelowcomb</string>
+      <string>tildebelowcomb</string>
       <string>macronbelowcomb</string>
+      <string>strokeshortcomb</string>
       <string>brevecomb.cyr</string>
       <string>dotaccentcomb.i</string>
       <string>firsttonechinese</string>
@@ -3381,8 +3391,16 @@
       <string>uni0209</string>
       <key>idieresis-cy</key>
       <string>uni04E5</string>
+      <key>idotbelow</key>
+      <string>uni1ECB</string>
       <key>idotless</key>
       <string>dotlessi</string>
+      <key>idotless_dotbelowcomb</key>
+      <string>dotlessi_dotbelowcomb</string>
+      <key>idotless_ogonekcomb</key>
+      <string>uni01310328</string>
+      <key>idotless_tildebelowcomb</key>
+      <string>uni01310330</string>
       <key>ie-cy</key>
       <string>uni0435</string>
       <key>iebreve-cy</key>
@@ -3437,6 +3455,12 @@
       <string>uni1F76</string>
       <key>iotavrachy</key>
       <string>uni1FD0</string>
+      <key>istroke</key>
+      <string>uni0268</string>
+      <key>istroke.dotless</key>
+      <string>uni0268.dotless</string>
+      <key>itildebelow</key>
+      <string>uni1E2D</string>
       <key>izhitsa-cy</key>
       <string>uni0475</string>
       <key>jcaron</key>
@@ -3447,6 +3471,8 @@
       <string>uni0458</string>
       <key>jstroke</key>
       <string>uni0249</string>
+      <key>jstroke.dotless</key>
+      <string>uni0249.dotless</string>
       <key>ka-cy</key>
       <string>uni043A</string>
       <key>kabashkir-cy</key>
@@ -3715,6 +3741,8 @@
       <string>uni044C</string>
       <key>sswashtail</key>
       <string>uni023F</string>
+      <key>strokeshortcomb</key>
+      <string>uni0335</string>
       <key>tcedilla</key>
       <string>uni0163</string>
       <key>tcommaaccent</key>
@@ -3747,6 +3775,8 @@
       <string>three_fraction_seven</string>
       <key>threesuperior</key>
       <string>uni00B3</string>
+      <key>tildebelowcomb</key>
+      <string>uni0330</string>
       <key>tonefive</key>
       <string>uni01BD</string>
       <key>tonesix</key>

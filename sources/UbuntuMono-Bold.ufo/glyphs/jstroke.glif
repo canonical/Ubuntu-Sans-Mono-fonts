@@ -2,51 +2,11 @@
 <glyph name="jstroke" format="2">
   <advance width="560"/>
   <unicode hex="0249"/>
-  <anchor x="280" y="0" name="bottom"/>
-  <anchor x="280" y="582" name="top"/>
+  <anchor x="280" y="-207" name="bottom"/>
+  <anchor x="345" y="766" name="top"/>
   <outline>
-    <contour>
-      <point x="243" y="-190" type="curve" smooth="yes"/>
-      <point x="360" y="-190"/>
-      <point x="448" y="-136"/>
-      <point x="448" y="35" type="curve"/>
-      <point x="448" y="224" type="line"/>
-      <point x="536" y="224" type="line"/>
-      <point x="536" y="317" type="line"/>
-      <point x="448" y="317" type="line"/>
-      <point x="448" y="526" type="line"/>
-      <point x="97" y="526" type="line"/>
-      <point x="97" y="412" type="line"/>
-      <point x="310" y="412" type="line"/>
-      <point x="310" y="317" type="line"/>
-      <point x="97" y="317" type="line"/>
-      <point x="97" y="224" type="line"/>
-      <point x="310" y="224" type="line"/>
-      <point x="310" y="28" type="line" smooth="yes"/>
-      <point x="310" y="-46"/>
-      <point x="283" y="-69"/>
-      <point x="237" y="-69" type="curve" smooth="yes"/>
-      <point x="194" y="-69"/>
-      <point x="136" y="-46"/>
-      <point x="97" y="-26" type="curve"/>
-      <point x="55" y="-142" type="line"/>
-      <point x="112" y="-170"/>
-      <point x="172" y="-190"/>
-    </contour>
-    <contour>
-      <point x="344" y="590" type="curve" smooth="yes"/>
-      <point x="391" y="590"/>
-      <point x="431" y="624"/>
-      <point x="431" y="678" type="curve" smooth="yes"/>
-      <point x="431" y="732"/>
-      <point x="391" y="766"/>
-      <point x="344" y="766" type="curve" smooth="yes"/>
-      <point x="297" y="766"/>
-      <point x="258" y="732"/>
-      <point x="258" y="678" type="curve" smooth="yes"/>
-      <point x="258" y="624"/>
-      <point x="297" y="590"/>
-    </contour>
+    <component base="j"/>
+    <component base="strokeshortcomb" xOffset="39"/>
   </outline>
   <lib>
     <dict>

@@ -5,9 +5,8 @@
       <map input="100" output="100"/>
       <map input="300" output="300"/>
       <map input="400" output="400"/>
-      <map input="500" output="530"/>
+      <map input="500" output="564"/>
       <map input="700" output="700"/>
-
     </axis>
   </axes>
   <sources>
@@ -32,9 +31,6 @@
     </source>
   </sources>
   <instances>
-
-
-
     <instance 
         name="Ubuntu Mono Thin" 
         familyname="Ubuntu Mono" 

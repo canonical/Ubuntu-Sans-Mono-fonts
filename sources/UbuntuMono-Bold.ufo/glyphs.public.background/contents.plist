@@ -858,6 +858,8 @@
     <string>jdotless.glif</string>
     <key>jstroke</key>
     <string>jstroke.glif</string>
+    <key>jstroke.dotless</key>
+    <string>jstroke.dotless.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>ka-cy</key>

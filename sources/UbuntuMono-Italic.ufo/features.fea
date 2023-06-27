@@ -16,17 +16,22 @@
 @OmegaSub.alt = [ Omegaprosgegrammeni.alt Omegapsiliprosgegrammeni.alt Omegadasiaprosgegrammeni.alt Omegapsilivariaprosgegrammeni.alt Omegadasiavariaprosgegrammeni.alt Omegapsilioxiaprosgegrammeni.alt Omegadasiaoxiaprosgegrammeni.alt Omegapsiliperispomeniprosgegrammeni.alt Omegadasiaperispomeniprosgegrammeni.alt
 ];
 
-# Prefix: External features
-
-
 # Prefix: Languagesystems
 # automatic
 languagesystem DFLT dflt;
 
 languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
+
+languagesystem cyrl dflt;
+languagesystem cyrl BGR;
+languagesystem cyrl MKD;
+languagesystem cyrl SRB;
 
 
 feature aalt {
@@ -41,11 +46,12 @@ feature frac;
 feature ordn;
 feature onum;
 feature case;
+feature ss01;
+feature salt;
 
 } aalt;
 
 feature ccmp {
-# automatic
 lookup ccmp_DFLT_1 {
 	lookupflag 0;
 	sub dieresis acute by dieresis_acute;
@@ -56,14 +62,17 @@ lookup ccmp_DFLT_1 {
 	sub tilde macron by tilde_macron;
 } ccmp_DFLT_1;
 
-lookup ccmp_Other_1 {
+lookup ccmp_soft_dotted {
 	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	lookupflag UseMarkFilteringSet @CombiningTopAccents;
-	sub i' @CombiningTopAccents by idotless;
-	sub j' @CombiningTopAccents by jdotless;
-} ccmp_Other_1;
+    lookupflag UseMarkFilteringSet @CombiningTopAccents;
+    sub [i j idotbelow iogonek itildebelow istroke jstroke i-cy je-cy]' @CombiningTopAccents by [idotless jdotless idotless_dotbelowcomb idotless_ogonekcomb idotless_tildebelowcomb istroke.dotless jstroke.dotless idotless jdotless];
+} ccmp_soft_dotted;
 
 lookup ccmp_latn_1 {
+	sub itildebelow by i tildebelowcomb;
+} ccmp_latn_1;
+
+lookup ccmp_latn_2 {
 	sub fi by f i;
 	sub fl by f l;
 	sub lj by l j;
@@ -75,10 +84,11 @@ lookup ccmp_latn_1 {
 	sub dzcaron by d zcaron;
 	sub Dzcaron by D zcaron;
 	sub DZcaron by D Zcaron;
-} ccmp_latn_1;
+} ccmp_latn_2;
 
 script latn;
 lookup ccmp_latn_1;
+lookup ccmp_latn_2;
 
 } ccmp;
 
@@ -384,14 +394,6 @@ sub yen.osf by yen;
 sub percent.osf by percent;
 
 } case;
-
-feature liga {
-# automatic
-lookupflag IgnoreMarks;
-sub f i by fi;
-sub f l by fl;
-
-} liga;
 
 feature ss01 {
 featureNames {

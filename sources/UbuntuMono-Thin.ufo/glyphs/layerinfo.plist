@@ -446,6 +446,8 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Idotaccent</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Idotbelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Ie-cy</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Iebreve-cy</key>
@@ -508,6 +510,8 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Itilde</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Itildebelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.Izhitsa-cy</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.J</key>
@@ -1792,8 +1796,16 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.idieresis-cy</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.idotbelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.idotless</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.idotless_dotbelowcomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.idotless_ogonekcomb</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.idotless_tildebelowcomb</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ie-cy</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.iebreve-cy</key>
@@ -1870,8 +1882,14 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.iotavrachy</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.istroke</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.istroke.dotless</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.itilde</key>
       <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.itildebelow</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.izhitsa-cy</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.j</key>
@@ -1885,6 +1903,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.je-cy</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.jstroke</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.jstroke.dotless</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.k</key>
       <integer>2</integer>
@@ -2394,6 +2414,8 @@
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.sterling.osf</key>
       <integer>0</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.strokeshortcomb</key>
+      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.summation</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.t</key>
@@ -2453,6 +2475,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde_macron</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.tildebelowcomb</key>
       <integer>2</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tildecomb</key>
       <integer>2</integer>

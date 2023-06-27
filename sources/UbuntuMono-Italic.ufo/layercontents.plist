@@ -15,6 +15,14 @@
       <string>glyphs.M_ay 18, 23 at 07_48</string>
     </array>
     <array>
+      <string>Bold</string>
+      <string>glyphs.B_old</string>
+    </array>
+    <array>
+      <string>Bold.background</string>
+      <string>glyphs.B_old.background</string>
+    </array>
+    <array>
       <string>DJR-extrapolation</string>
       <string>glyphs.D_J_R_-extrapolation</string>
     </array>

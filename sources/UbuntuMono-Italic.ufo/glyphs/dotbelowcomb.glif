@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
+  <anchor x="178" y="0" name="_bottom"/>
+  <anchor x="130" y="-198" name="bottom"/>
   <outline>
     <component base="dotaccent" xOffset="-223" yOffset="-816"/>
   </outline>

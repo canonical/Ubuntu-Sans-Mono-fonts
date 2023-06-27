@@ -6,6 +6,10 @@
     <string>dieresis_grave.cap.glif</string>
     <key>hryvnia.osf</key>
     <string>hryvnia.osf.glif</string>
+    <key>jstroke</key>
+    <string>jstroke.glif</string>
+    <key>jstroke.dotless</key>
+    <string>jstroke.dotless.glif</string>
     <key>kgreenlandic</key>
     <string>kgreenlandic.glif</string>
     <key>onehalf</key>

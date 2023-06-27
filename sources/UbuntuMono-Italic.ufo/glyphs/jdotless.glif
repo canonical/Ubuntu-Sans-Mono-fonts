@@ -2,6 +2,9 @@
 <glyph name="jdotless" format="2">
   <advance width="560"/>
   <unicode hex="0237"/>
+  <anchor x="173" y="-185" name="bottom"/>
+  <anchor x="393" y="277" name="center"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <contour>
       <point x="129" y="-187" type="curve" smooth="yes"/>

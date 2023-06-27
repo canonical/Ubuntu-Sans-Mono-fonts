@@ -2,7 +2,7 @@
 <glyph name="tdotbelow" format="2">
   <advance width="560"/>
   <unicode hex="1E6D"/>
-  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="305" y="-196" name="bottom"/>
   <anchor x="280" y="291" name="center"/>
   <anchor x="280" y="582" name="top"/>
   <anchor x="538" y="869" name="topright"/>

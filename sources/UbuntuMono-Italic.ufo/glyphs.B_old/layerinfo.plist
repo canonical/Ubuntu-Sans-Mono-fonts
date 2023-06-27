@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>742B7ECD-C145-43C5-B5A4-7FAAF8B232DE</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.idotbelow</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.idotless_dotbelowcomb</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.idotless_ogonekcomb</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.idotless_tildebelowcomb</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.istroke.dotless</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.itildebelow</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.jstroke.dotless</key>
+      <integer>1</integer>
+    </dict>
+  </dict>
+</plist>

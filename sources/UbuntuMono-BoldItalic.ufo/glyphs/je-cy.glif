@@ -2,6 +2,9 @@
 <glyph name="je-cy" format="2">
   <advance width="560"/>
   <unicode hex="0458"/>
+  <anchor x="172" y="-185" name="bottom"/>
+  <anchor x="352" y="271" name="center"/>
+  <anchor x="450" y="766" name="top"/>
   <outline>
     <component base="j"/>
   </outline>

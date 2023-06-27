@@ -3,8 +3,9 @@
   <advance width="560"/>
   <unicode hex="01D0"/>
   <anchor x="280" y="0" name="bottom"/>
-  <anchor x="439" y="11" name="ogonek"/>
-  <anchor x="280" y="526" name="top"/>
+  <anchor x="255" y="271" name="center"/>
+  <anchor x="523" y="22" name="ogonek"/>
+  <anchor x="256" y="526" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="caron" xOffset="-19"/>

@@ -2,7 +2,6 @@
 <glyph name="Istroke" format="2">
   <advance width="560"/>
   <unicode hex="0197"/>
-  <unicode hex="0268"/>
   <outline>
     <contour>
       <point x="112" y="0" type="line"/>
