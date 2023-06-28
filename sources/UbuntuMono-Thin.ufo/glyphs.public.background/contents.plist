@@ -480,6 +480,8 @@
     <string>dje-cy.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dollar.osf</key>
+    <string>dollar.osf.glif</string>
     <key>dot_macron</key>
     <string>dot_macron.glif</string>
     <key>dtopbar</key>
@@ -500,6 +502,8 @@
     <string>eight.glif</string>
     <key>eight.numr</key>
     <string>eight.numr.glif</string>
+    <key>eight.osf</key>
+    <string>eight.osf.glif</string>
     <key>el-cy</key>
     <string>el-cy.glif</string>
     <key>eltail-cy</key>
@@ -542,6 +546,8 @@
     <string>eturned.glif</string>
     <key>euro</key>
     <string>euro.glif</string>
+    <key>euro.osf</key>
+    <string>euro.osf.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>exclamdown</key>
@@ -564,6 +570,8 @@
     <string>five.glif</string>
     <key>five.numr</key>
     <string>five.numr.glif</string>
+    <key>five.osf</key>
+    <string>five.osf.glif</string>
     <key>fiveeighths</key>
     <string>fiveeighths.glif</string>
     <key>fivesixths</key>
@@ -574,6 +582,8 @@
     <string>four.glif</string>
     <key>four.numr</key>
     <string>four.numr.glif</string>
+    <key>four.osf</key>
+    <string>four.osf.glif</string>
     <key>fourfifths</key>
     <string>fourfifths.glif</string>
     <key>g</key>
@@ -620,12 +630,12 @@
     <string>horizontalbar.glif</string>
     <key>hryvnia</key>
     <string>hryvnia.glif</string>
+    <key>hryvnia.osf</key>
+    <string>hryvnia.osf.glif</string>
     <key>hungarumlaut</key>
     <string>hungarumlaut.glif</string>
     <key>hv</key>
     <string>hv.glif</string>
-    <key>i</key>
-    <string>i.glif</string>
     <key>ii-cy</key>
     <string>ii-cy.glif</string>
     <key>iishorttail-cy</key>
@@ -644,10 +654,10 @@
     <string>iota.glif</string>
     <key>izhitsa-cy</key>
     <string>izhitsa-cy.glif</string>
-    <key>j</key>
-    <string>j.glif</string>
     <key>jstroke</key>
     <string>jstroke.glif</string>
+    <key>jstroke.dotless</key>
+    <string>jstroke.dotless.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>kadescender-cy</key>
@@ -708,6 +718,8 @@
     <string>nine.glif</string>
     <key>nine.numr</key>
     <string>nine.numr.glif</string>
+    <key>nine.osf</key>
+    <string>nine.osf.glif</string>
     <key>nj</key>
     <string>nj.glif</string>
     <key>nje-cy</key>
@@ -738,6 +750,8 @@
     <string>one.glif</string>
     <key>one.numr</key>
     <string>one.numr.glif</string>
+    <key>one.osf</key>
+    <string>one.osf.glif</string>
     <key>oneeighth</key>
     <string>oneeighth.glif</string>
     <key>onefifth</key>
@@ -776,6 +790,8 @@
     <string>pemiddlehook-cy.glif</string>
     <key>percent</key>
     <string>percent.glif</string>
+    <key>percent.osf</key>
+    <string>percent.osf.glif</string>
     <key>period</key>
     <string>period.glif</string>
     <key>perispomeni</key>
@@ -836,8 +852,12 @@
     <string>rstroke.glif</string>
     <key>ruble</key>
     <string>ruble.glif</string>
+    <key>ruble.osf</key>
+    <string>ruble.osf.glif</string>
     <key>rupeeIndian</key>
     <string>rupeeI_ndian.glif</string>
+    <key>rupeeIndian.osf</key>
+    <string>rupeeI_ndian.osf.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>scedilla</key>
@@ -864,12 +884,16 @@
     <string>six.glif</string>
     <key>six.numr</key>
     <string>six.numr.glif</string>
+    <key>six.osf</key>
+    <string>six.osf.glif</string>
     <key>softsign-cy</key>
     <string>softsign-cy.glif</string>
     <key>sswashtail</key>
     <string>sswashtail.glif</string>
     <key>sterling</key>
     <string>sterling.glif</string>
+    <key>sterling.osf</key>
+    <string>sterling.osf.glif</string>
     <key>summation</key>
     <string>summation.glif</string>
     <key>t</key>
@@ -886,6 +910,8 @@
     <string>tedescender-cy.glif</string>
     <key>tenge</key>
     <string>tenge.glif</string>
+    <key>tenge.osf</key>
+    <string>tenge.osf.glif</string>
     <key>tetse-cy</key>
     <string>tetse-cy.glif</string>
     <key>theta</key>
@@ -898,6 +924,8 @@
     <string>three.glif</string>
     <key>three.numr</key>
     <string>three.numr.glif</string>
+    <key>three.osf</key>
+    <string>three.osf.glif</string>
     <key>threeeighths</key>
     <string>threeeighths.glif</string>
     <key>threefifths</key>
@@ -924,10 +952,14 @@
     <string>trademark.glif</string>
     <key>tugrik</key>
     <string>tugrik.glif</string>
+    <key>tugrik.osf</key>
+    <string>tugrik.osf.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>two.numr</key>
     <string>two.numr.glif</string>
+    <key>two.osf</key>
+    <string>two.osf.glif</string>
     <key>twofifths</key>
     <string>twofifths.glif</string>
     <key>twostroke</key>
@@ -970,6 +1002,8 @@
     <string>yat-cy.glif</string>
     <key>yen</key>
     <string>yen.glif</string>
+    <key>yen.osf</key>
+    <string>yen.osf.glif</string>
     <key>yeru-cy</key>
     <string>yeru-cy.glif</string>
     <key>yhook</key>
@@ -990,6 +1024,8 @@
     <string>zero.glif</string>
     <key>zero.numr</key>
     <string>zero.numr.glif</string>
+    <key>zero.osf</key>
+    <string>zero.osf.glif</string>
     <key>zeta</key>
     <string>zeta.glif</string>
     <key>zhe-cy</key>

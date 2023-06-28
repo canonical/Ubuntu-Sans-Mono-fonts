@@ -3,21 +3,52 @@
   <advance width="560"/>
   <outline>
     <contour>
-      <point x="175" y="302" type="line"/>
-      <point x="485" y="302" type="line"/>
-      <point x="507" y="393" type="line"/>
-      <point x="417" y="393" type="line"/>
-      <point x="491" y="701" type="line"/>
-      <point x="404" y="701" type="line"/>
-      <point x="357" y="670"/>
-      <point x="297" y="641"/>
-      <point x="234" y="618" type="curve"/>
-      <point x="245" y="531" type="line"/>
-      <point x="288" y="547"/>
-      <point x="317" y="557"/>
-      <point x="346" y="572" type="curve"/>
-      <point x="304" y="393" type="line"/>
-      <point x="197" y="393" type="line"/>
+      <point x="133" y="302" type="line"/>
+      <point x="443" y="302" type="line"/>
+      <point x="465" y="393" type="line"/>
+      <point x="375" y="393" type="line"/>
+      <point x="449" y="701" type="line"/>
+      <point x="362" y="701" type="line"/>
+      <point x="315" y="670"/>
+      <point x="255" y="641"/>
+      <point x="192" y="618" type="curve"/>
+      <point x="203" y="531" type="line"/>
+      <point x="246" y="547"/>
+      <point x="275" y="557"/>
+      <point x="304" y="572" type="curve"/>
+      <point x="262" y="393" type="line"/>
+      <point x="155" y="393" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

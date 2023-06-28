@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.osf" format="2">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="153" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="106" type="line"/>
+      <point x="400" y="106" type="line"/>
+      <point x="400" y="207" type="line"/>
+      <point x="286" y="207" type="line"/>
+      <point x="286" y="264" type="line"/>
+      <point x="400" y="264" type="line"/>
+      <point x="400" y="365" type="line"/>
+      <point x="327" y="365" type="line"/>
+      <point x="364" y="491"/>
+      <point x="395" y="596"/>
+      <point x="437" y="693" type="curve"/>
+      <point x="308" y="693" type="line"/>
+      <point x="281" y="608"/>
+      <point x="244" y="488"/>
+      <point x="218" y="408" type="curve"/>
+      <point x="193" y="487"/>
+      <point x="151" y="602"/>
+      <point x="125" y="693" type="curve"/>
+      <point x="-8" y="693" type="line"/>
+      <point x="6" y="630"/>
+      <point x="58" y="503"/>
+      <point x="105" y="365" type="curve"/>
+      <point x="32" y="365" type="line"/>
+      <point x="32" y="264" type="line"/>
+      <point x="153" y="264" type="line"/>
+      <point x="153" y="207" type="line"/>
+      <point x="32" y="207" type="line"/>
+      <point x="32" y="106" type="line"/>
+      <point x="153" y="106" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

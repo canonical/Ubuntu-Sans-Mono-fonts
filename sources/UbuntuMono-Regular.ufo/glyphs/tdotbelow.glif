@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotbelow" format="2">
+  <advance width="560"/>
+  <unicode hex="1E6D"/>
+  <anchor x="305" y="-196" name="bottom"/>
+  <anchor x="280" y="291" name="center"/>
+  <anchor x="280" y="582" name="top"/>
+  <anchor x="538" y="869" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotbelowcomb" xOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>space</string>
+    </dict>
+  </lib>
+</glyph>

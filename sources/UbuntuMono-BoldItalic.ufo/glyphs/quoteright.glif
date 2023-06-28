@@ -4,22 +4,53 @@
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="274" y="467" type="line"/>
-      <point x="455" y="479"/>
-      <point x="538" y="605"/>
-      <point x="538" y="715" type="curve" smooth="yes"/>
-      <point x="538" y="776"/>
-      <point x="510" y="823"/>
-      <point x="450" y="823" type="curve" smooth="yes"/>
-      <point x="389" y="823"/>
-      <point x="340" y="775"/>
-      <point x="340" y="711" type="curve" smooth="yes"/>
-      <point x="340" y="664"/>
-      <point x="370" y="633"/>
-      <point x="413" y="627" type="curve"/>
-      <point x="398" y="584"/>
-      <point x="327" y="559"/>
-      <point x="265" y="556" type="curve"/>
+      <point x="232" y="467" type="line"/>
+      <point x="413" y="479"/>
+      <point x="496" y="605"/>
+      <point x="496" y="715" type="curve" smooth="yes"/>
+      <point x="496" y="776"/>
+      <point x="468" y="823"/>
+      <point x="408" y="823" type="curve" smooth="yes"/>
+      <point x="347" y="823"/>
+      <point x="298" y="775"/>
+      <point x="298" y="711" type="curve" smooth="yes"/>
+      <point x="298" y="664"/>
+      <point x="328" y="633"/>
+      <point x="371" y="627" type="curve"/>
+      <point x="356" y="584"/>
+      <point x="285" y="559"/>
+      <point x="223" y="556" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

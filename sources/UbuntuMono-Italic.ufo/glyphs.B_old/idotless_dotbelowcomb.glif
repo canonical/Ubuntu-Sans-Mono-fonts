@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless_dotbelowcomb" format="2">
+  <advance width="560"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="504" y="10" name="ogonek"/>
+  <anchor x="256" y="526" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotbelowcomb"/>
+  </outline>
+</glyph>

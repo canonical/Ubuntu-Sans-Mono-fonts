@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>dollar.osf</key>
+    <string>dollar.osf.glif</string>
+    <key>euro.osf</key>
+    <string>euro.osf.glif</string>
+    <key>hryvnia.osf</key>
+    <string>hryvnia.osf.glif</string>
+    <key>percent.osf</key>
+    <string>percent.osf.glif</string>
+    <key>ruble.osf</key>
+    <string>ruble.osf.glif</string>
+    <key>rupeeIndian.osf</key>
+    <string>rupeeI_ndian.osf.glif</string>
+    <key>sterling.osf</key>
+    <string>sterling.osf.glif</string>
+    <key>tenge.osf</key>
+    <string>tenge.osf.glif</string>
+    <key>tugrik.osf</key>
+    <string>tugrik.osf.glif</string>
+    <key>yen.osf</key>
+    <string>yen.osf.glif</string>
+  </dict>
+</plist>

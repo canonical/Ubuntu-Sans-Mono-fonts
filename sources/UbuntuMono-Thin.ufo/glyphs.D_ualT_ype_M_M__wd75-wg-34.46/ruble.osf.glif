@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble.osf" format="2">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="86.689" y="0" type="line"/>
+      <point x="124.865" y="0" type="line"/>
+      <point x="124.865" y="125.051" type="line"/>
+      <point x="300.311" y="125.051" type="line"/>
+      <point x="300.311" y="155.932" type="line"/>
+      <point x="124.865" y="155.932" type="line"/>
+      <point x="124.865" y="280.378" type="line"/>
+      <point x="204" y="280.378" type="line" smooth="yes"/>
+      <point x="358.446" y="280.378"/>
+      <point x="393.949" y="355.429"/>
+      <point x="393.949" y="494.034" type="curve" smooth="yes"/>
+      <point x="393.949" y="653.051"/>
+      <point x="316.622" y="698.328"/>
+      <point x="183.243" y="698.328" type="curve" smooth="yes"/>
+      <point x="124.192" y="698.328"/>
+      <point x="92.226" y="688.983"/>
+      <point x="86.689" y="688.017" type="curve"/>
+      <point x="86.689" y="319.26" type="line"/>
+      <point x="17.017" y="319.26" type="line"/>
+      <point x="17.017" y="288.378" type="line"/>
+      <point x="86.689" y="288.378" type="line"/>
+      <point x="86.689" y="155.932" type="line"/>
+      <point x="17.017" y="155.932" type="line"/>
+      <point x="17.017" y="125.051" type="line"/>
+      <point x="86.689" y="125.051" type="line"/>
+    </contour>
+    <contour>
+      <point x="124.865" y="324.26" type="line"/>
+      <point x="124.865" y="651.446" type="line"/>
+      <point x="164.622" y="658.463"/>
+      <point x="217.068" y="657.791"/>
+      <point x="186.243" y="657.791" type="curve" smooth="yes"/>
+      <point x="343.892" y="657.791"/>
+      <point x="355.791" y="581.311"/>
+      <point x="355.791" y="495.706" type="curve" smooth="yes"/>
+      <point x="355.791" y="353.571"/>
+      <point x="282.689" y="324.26"/>
+      <point x="207.689" y="324.26" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

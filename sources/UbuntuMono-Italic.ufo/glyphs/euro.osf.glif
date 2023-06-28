@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro.osf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="278" y="-12" type="curve" smooth="yes"/>
+      <point x="329" y="-12"/>
+      <point x="377" y="2"/>
+      <point x="404" y="13" type="curve"/>
+      <point x="401" y="72" type="line"/>
+      <point x="372" y="60"/>
+      <point x="335" y="51"/>
+      <point x="292" y="51" type="curve" smooth="yes"/>
+      <point x="215" y="51"/>
+      <point x="186" y="99"/>
+      <point x="186" y="165" type="curve" smooth="yes"/>
+      <point x="186" y="173"/>
+      <point x="187" y="184"/>
+      <point x="189" y="195" type="curve"/>
+      <point x="340" y="195" type="line"/>
+      <point x="362" y="249" type="line"/>
+      <point x="192" y="249" type="line"/>
+      <point x="195" y="281"/>
+      <point x="201" y="311"/>
+      <point x="209" y="338" type="curve"/>
+      <point x="401" y="338" type="line"/>
+      <point x="423" y="391" type="line"/>
+      <point x="228" y="391" type="line"/>
+      <point x="262" y="473"/>
+      <point x="320" y="530"/>
+      <point x="406" y="530" type="curve" smooth="yes"/>
+      <point x="436" y="530"/>
+      <point x="460" y="525"/>
+      <point x="485" y="515" type="curve"/>
+      <point x="515" y="575" type="line"/>
+      <point x="484" y="587"/>
+      <point x="459" y="591"/>
+      <point x="421" y="591" type="curve" smooth="yes"/>
+      <point x="296" y="591"/>
+      <point x="204" y="522"/>
+      <point x="152" y="391" type="curve"/>
+      <point x="90" y="391" type="line"/>
+      <point x="78" y="338" type="line"/>
+      <point x="135" y="338" type="line"/>
+      <point x="126" y="308"/>
+      <point x="120" y="271"/>
+      <point x="117" y="249" type="curve"/>
+      <point x="56" y="249" type="line"/>
+      <point x="44" y="195" type="line"/>
+      <point x="113" y="195" type="line"/>
+      <point x="112" y="185"/>
+      <point x="111" y="176"/>
+      <point x="111" y="166" type="curve" smooth="yes"/>
+      <point x="111" y="56"/>
+      <point x="169" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>87.7</real>
+        <key>weight</key>
+        <integer>2</integer>
+        <key>width</key>
+        <real>85.5</real>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

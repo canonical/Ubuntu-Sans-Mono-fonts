@@ -3,30 +3,61 @@
   <advance width="560"/>
   <outline>
     <contour>
-      <point x="175" y="0" type="line"/>
-      <point x="273" y="0" type="line"/>
-      <point x="373" y="430" type="line"/>
-      <point x="380" y="287"/>
-      <point x="388" y="143"/>
-      <point x="394" y="0" type="curve"/>
-      <point x="485" y="0" type="line"/>
-      <point x="652" y="693" type="line"/>
-      <point x="553" y="693" type="line"/>
-      <point x="461" y="297" type="line"/>
-      <point x="452" y="419"/>
-      <point x="446" y="571"/>
-      <point x="432" y="693" type="curve"/>
-      <point x="340" y="693" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="231" y="0" type="line"/>
+      <point x="331" y="430" type="line"/>
+      <point x="338" y="287"/>
+      <point x="346" y="143"/>
+      <point x="352" y="0" type="curve"/>
+      <point x="443" y="0" type="line"/>
+      <point x="610" y="693" type="line"/>
+      <point x="511" y="693" type="line"/>
+      <point x="419" y="297" type="line"/>
+      <point x="410" y="419"/>
+      <point x="404" y="571"/>
+      <point x="390" y="693" type="curve"/>
+      <point x="298" y="693" type="line"/>
     </contour>
     <contour>
-      <point x="200" y="542" type="line"/>
-      <point x="253" y="601"/>
-      <point x="299" y="659"/>
-      <point x="324" y="776" type="curve"/>
-      <point x="214" y="776" type="line"/>
-      <point x="214" y="722"/>
-      <point x="172" y="627"/>
-      <point x="128" y="564" type="curve"/>
+      <point x="158" y="542" type="line"/>
+      <point x="211" y="601"/>
+      <point x="257" y="659"/>
+      <point x="282" y="776" type="curve"/>
+      <point x="172" y="776" type="line"/>
+      <point x="172" y="722"/>
+      <point x="130" y="627"/>
+      <point x="86" y="564" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

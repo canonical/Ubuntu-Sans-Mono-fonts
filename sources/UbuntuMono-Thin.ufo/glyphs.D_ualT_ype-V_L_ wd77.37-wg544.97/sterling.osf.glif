@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling.osf" format="2">
+  <advance width="445"/>
+  <outline>
+    <contour>
+      <point x="49.388" y="0" type="curve"/>
+      <point x="397.714" y="0" type="line"/>
+      <point x="397.714" y="114.036" type="line"/>
+      <point x="196.483" y="114.036" type="line"/>
+      <point x="203.998" y="159.701"/>
+      <point x="210.421" y="227.166"/>
+      <point x="211.033" y="274.411" type="curve" smooth="yes"/>
+      <point x="211.033" y="281.521" type="line"/>
+      <point x="335.374" y="281.521" type="line"/>
+      <point x="335.374" y="389.616" type="line"/>
+      <point x="211.033" y="389.616" type="line"/>
+      <point x="211.033" y="504.52" type="line"/>
+      <point x="211.033" y="560.6"/>
+      <point x="245.332" y="592.225"/>
+      <point x="297.072" y="592.225" type="curve" smooth="yes"/>
+      <point x="319.773" y="591.612"/>
+      <point x="338.498" y="584.449"/>
+      <point x="359.927" y="572.296" type="curve"/>
+      <point x="391.374" y="678.586" type="line"/>
+      <point x="359.137" y="695.648"/>
+      <point x="319.732" y="706"/>
+      <point x="277.726" y="706" type="curve" smooth="yes"/>
+      <point x="163.29" y="706"/>
+      <point x="79.062" y="634.355"/>
+      <point x="79.062" y="503.641" type="curve" smooth="yes"/>
+      <point x="79.062" y="389.616" type="line"/>
+      <point x="13.018" y="389.616" type="line"/>
+      <point x="13.018" y="281.521" type="line"/>
+      <point x="79.062" y="281.521" type="line"/>
+      <point x="79.062" y="269.627" type="line" smooth="yes"/>
+      <point x="77.225" y="192.219"/>
+      <point x="71.323" y="102.61"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

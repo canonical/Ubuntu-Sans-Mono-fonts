@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik.osf" format="2">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="283" y="193" type="line"/>
+      <point x="390" y="252" type="line"/>
+      <point x="343" y="349" type="line"/>
+      <point x="283" y="314" type="line"/>
+      <point x="283" y="386" type="line"/>
+      <point x="390" y="444" type="line"/>
+      <point x="343" y="542" type="line"/>
+      <point x="283" y="507" type="line"/>
+      <point x="283" y="582" type="line"/>
+      <point x="437" y="582" type="line"/>
+      <point x="437" y="693" type="line"/>
+      <point x="-4" y="693" type="line"/>
+      <point x="-4" y="582" type="line"/>
+      <point x="150" y="582" type="line"/>
+      <point x="150" y="442" type="line"/>
+      <point x="37" y="383" type="line"/>
+      <point x="82" y="286" type="line"/>
+      <point x="150" y="323" type="line"/>
+      <point x="150" y="250" type="line"/>
+      <point x="37" y="191" type="line"/>
+      <point x="82" y="93" type="line"/>
+      <point x="150" y="131" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

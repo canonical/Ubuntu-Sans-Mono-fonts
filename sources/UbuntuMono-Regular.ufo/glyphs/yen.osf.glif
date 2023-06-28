@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.osf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="242" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="322" y="93" type="line"/>
+      <point x="454" y="93" type="line"/>
+      <point x="454" y="150" type="line"/>
+      <point x="322" y="150" type="line"/>
+      <point x="322" y="235" type="line"/>
+      <point x="454" y="235" type="line"/>
+      <point x="454" y="292" type="line"/>
+      <point x="337" y="292" type="line"/>
+      <point x="406" y="401"/>
+      <point x="460" y="493"/>
+      <point x="504" y="580" type="curve"/>
+      <point x="423" y="580" type="line"/>
+      <point x="380" y="489"/>
+      <point x="332" y="400"/>
+      <point x="284" y="325" type="curve"/>
+      <point x="227" y="414"/>
+      <point x="185" y="492"/>
+      <point x="142" y="580" type="curve"/>
+      <point x="60" y="580" type="line"/>
+      <point x="100" y="499"/>
+      <point x="157" y="402"/>
+      <point x="227" y="292" type="curve"/>
+      <point x="110" y="292" type="line"/>
+      <point x="110" y="235" type="line"/>
+      <point x="242" y="235" type="line"/>
+      <point x="242" y="150" type="line"/>
+      <point x="110" y="150" type="line"/>
+      <point x="110" y="93" type="line"/>
+      <point x="242" y="93" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>87.7</real>
+        <key>weight</key>
+        <integer>2</integer>
+        <key>width</key>
+        <real>85.5</real>
+      </dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

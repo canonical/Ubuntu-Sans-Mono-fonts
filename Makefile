@@ -17,12 +17,12 @@ help:
 build: build.stamp
 
 dev: venv .init.stamp sources/config-dev.yaml $(SOURCES)
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config-dev.yaml && touch build.stamp; rm -rf instance_ufo/; python3 scripts/makeWebfonts.py
+	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config-dev.yaml; python scripts/addVersionToNames.py ./fonts/variable;
 
 venv: venv/touchfile
 
 build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && touch build.stamp; rm -rf instance_ufo/; python3 scripts/makeWebfonts.py
+	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && touch build.stamp; rm -rf instance_ufo/; python3 scripts/fixTTHinting.py; python3 scripts/makeWebfonts.py
 
 .init.stamp: venv
 	. venv/bin/activate; python3 scripts/first-run.py
@@ -34,6 +34,9 @@ venv/touchfile: requirements.txt
 
 test: venv build.stamp
 	. venv/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --succinct --badges out/badges --html out/fontbakery/fontbakery-report.html --ghmarkdown out/fontbakery/fontbakery-report.md $(shell find fonts/ttf -type f)
+
+testvf: venv build.stamp
+	. venv/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --succinct --html out/fontbakery/fontbakery-var-report.html --ghmarkdown out/fontbakery/fontbakery-var-report.md $(shell find fonts/variable -type f)
 
 proof: venv build.stamp
 	. venv/bin/activate; mkdir -p out/ out/proof; gftools gen-html proof $(shell find fonts/ttf -type f) -o out/proof

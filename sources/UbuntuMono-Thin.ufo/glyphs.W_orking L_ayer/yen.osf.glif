@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.osf" format="2">
+  <advance width="430"/>
+  <outline>
+    <contour>
+      <point x="196" y="0" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="230" y="306" type="line"/>
+      <point x="286" y="415"/>
+      <point x="350" y="544"/>
+      <point x="401" y="693" type="curve"/>
+      <point x="367" y="693" type="line"/>
+      <point x="331" y="583"/>
+      <point x="277" y="463"/>
+      <point x="213" y="336" type="curve"/>
+      <point x="149" y="463"/>
+      <point x="95" y="583"/>
+      <point x="59" y="693" type="curve"/>
+      <point x="24" y="693" type="line"/>
+      <point x="75" y="543"/>
+      <point x="139" y="413"/>
+      <point x="196" y="304" type="curve"/>
+    </contour>
+    <contour>
+      <point x="72" y="300" type="line"/>
+      <point x="354" y="300" type="line"/>
+      <point x="354" y="330" type="line"/>
+      <point x="72" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="137" type="line"/>
+      <point x="354" y="137" type="line"/>
+      <point x="354" y="167" type="line"/>
+      <point x="72" y="167" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

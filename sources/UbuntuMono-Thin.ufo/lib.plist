@@ -22,10 +22,51 @@
         <true/>
       </dict>
     </array>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.percent.osf</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>percent</string>
+      </dict>
+    </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3180</string>
+    <string>3202</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
+    <key>com.schriftgestaltung.customParameter.GSFont.Family Alignment Zones</key>
+    <array>
+      <dict>
+        <key>pos</key>
+        <integer>776</integer>
+        <key>size</key>
+        <integer>16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>693</integer>
+        <key>size</key>
+        <integer>16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>518</integer>
+        <key>size</key>
+        <integer>16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>0</integer>
+        <key>size</key>
+        <integer>-16</integer>
+      </dict>
+      <dict>
+        <key>pos</key>
+        <integer>-185</integer>
+        <key>size</key>
+        <integer>-16</integer>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Guides Palette Config</key>
     <dict>
       <key>showAngle</key>
@@ -1345,6 +1386,853 @@
       <string>uniF0FF</string>
       <string>uniEFFD</string>
       <string>uniF000</string>
+      <string>Acaron</string>
+      <string>Adblgrave</string>
+      <string>Adieresismacron</string>
+      <string>Adotaccent</string>
+      <string>Adotmacron</string>
+      <string>Ainvertedbreve</string>
+      <string>Astroke</string>
+      <string>AEmacron</string>
+      <string>Bhook</string>
+      <string>Bstroke</string>
+      <string>Btopbar</string>
+      <string>Chook</string>
+      <string>Cstroke</string>
+      <string>DZ</string>
+      <string>DZcaron</string>
+      <string>Dhook</string>
+      <string>Dtail</string>
+      <string>Dtopbar</string>
+      <string>Dz</string>
+      <string>Dzcaron</string>
+      <string>Ecedilla</string>
+      <string>Edblgrave</string>
+      <string>Einvertedbreve</string>
+      <string>Eopen</string>
+      <string>Ereversed</string>
+      <string>Esh</string>
+      <string>Estroke</string>
+      <string>Schwa</string>
+      <string>Ezh</string>
+      <string>Ezhcaron</string>
+      <string>Ezhreversed</string>
+      <string>Fhook</string>
+      <string>Gacute</string>
+      <string>Ghook</string>
+      <string>Glottalstop</string>
+      <string>Gstroke</string>
+      <string>Yogh</string>
+      <string>Hcaron</string>
+      <string>Hwair</string>
+      <string>Icaron</string>
+      <string>Idblgrave</string>
+      <string>Idotbelow</string>
+      <string>Iinvertedbreve</string>
+      <string>Iota-latin</string>
+      <string>Istroke</string>
+      <string>Itildebelow</string>
+      <string>Jstroke</string>
+      <string>Kcaron</string>
+      <string>Khook</string>
+      <string>LJ</string>
+      <string>Lbar</string>
+      <string>Lj</string>
+      <string>Mturned</string>
+      <string>NJ</string>
+      <string>Ngrave</string>
+      <string>Nhookleft</string>
+      <string>Nj</string>
+      <string>Nlongrightleg</string>
+      <string>OU</string>
+      <string>Ocaron</string>
+      <string>Ocenteredtilde</string>
+      <string>Odblgrave</string>
+      <string>Odieresismacron</string>
+      <string>Odotaccent</string>
+      <string>Odotaccentmacron</string>
+      <string>Oi</string>
+      <string>Oinvertedbreve</string>
+      <string>Oogonek</string>
+      <string>Oogonekmacron</string>
+      <string>Oopen</string>
+      <string>Otildemacron</string>
+      <string>Phook</string>
+      <string>Qhooktail</string>
+      <string>Rdblgrave</string>
+      <string>Rinvertedbreve</string>
+      <string>Rstroke</string>
+      <string>Germandbls</string>
+      <string>Tcedilla</string>
+      <string>Tcommaaccent</string>
+      <string>Tdiagonalstroke</string>
+      <string>Tdotbelow</string>
+      <string>Thook</string>
+      <string>Tonefive</string>
+      <string>Tonesix</string>
+      <string>Tonetwo</string>
+      <string>Tretroflexhook</string>
+      <string>Ubar</string>
+      <string>Ucaron</string>
+      <string>Udblgrave</string>
+      <string>Udieresisacute</string>
+      <string>Udieresiscaron</string>
+      <string>Udieresisgrave</string>
+      <string>Udieresismacron</string>
+      <string>Uinvertedbreve</string>
+      <string>Upsilon-latin</string>
+      <string>Gamma-latin</string>
+      <string>Vhook</string>
+      <string>Vturned</string>
+      <string>Wynn</string>
+      <string>Yhook</string>
+      <string>Ymacron</string>
+      <string>Yr</string>
+      <string>Ystroke</string>
+      <string>Zhook</string>
+      <string>Zstroke</string>
+      <string>acaron</string>
+      <string>adblgrave</string>
+      <string>adieresismacron</string>
+      <string>adotaccent</string>
+      <string>adotmacron</string>
+      <string>ainvertedbreve</string>
+      <string>aemacron</string>
+      <string>bstroke</string>
+      <string>btopbar</string>
+      <string>chook</string>
+      <string>cstroke</string>
+      <string>dbdigraph</string>
+      <string>dcurl</string>
+      <string>deltaturned</string>
+      <string>dtopbar</string>
+      <string>dz</string>
+      <string>dzcaron</string>
+      <string>ecedilla</string>
+      <string>edblgrave</string>
+      <string>einvertedbreve</string>
+      <string>eshreversedloop</string>
+      <string>estroke</string>
+      <string>eturned</string>
+      <string>ezh</string>
+      <string>ezhcaron</string>
+      <string>ezhreversed</string>
+      <string>ezhtail</string>
+      <string>gacute</string>
+      <string>glottalinvertedstroke</string>
+      <string>glottalstopsmall</string>
+      <string>gstroke</string>
+      <string>yogh</string>
+      <string>hcaron</string>
+      <string>hv</string>
+      <string>idotless</string>
+      <string>idotless_dotbelowcomb</string>
+      <string>idotless_ogonekcomb</string>
+      <string>idotless_tildebelowcomb</string>
+      <string>icaron</string>
+      <string>idblgrave</string>
+      <string>idotbelow</string>
+      <string>iinvertedbreve</string>
+      <string>istroke</string>
+      <string>itildebelow</string>
+      <string>jdotless</string>
+      <string>jcaron</string>
+      <string>jstroke</string>
+      <string>kcaron</string>
+      <string>khook</string>
+      <string>lambdastroke</string>
+      <string>lbar</string>
+      <string>lcurl</string>
+      <string>lj</string>
+      <string>ncurl</string>
+      <string>ngrave</string>
+      <string>nj</string>
+      <string>nlegrightlong</string>
+      <string>ocaron</string>
+      <string>odblgrave</string>
+      <string>odieresismacron</string>
+      <string>odotaccent</string>
+      <string>odotaccentmacron</string>
+      <string>oi</string>
+      <string>oinvertedbreve</string>
+      <string>oogonek</string>
+      <string>oogonekmacron</string>
+      <string>otildemacron</string>
+      <string>ou</string>
+      <string>phook</string>
+      <string>qhooktail</string>
+      <string>qpdigraph</string>
+      <string>rdblgrave</string>
+      <string>rinvertedbreve</string>
+      <string>rstroke</string>
+      <string>sswashtail</string>
+      <string>tcedilla</string>
+      <string>tcommaaccent</string>
+      <string>tcurl</string>
+      <string>tdotbelow</string>
+      <string>thook</string>
+      <string>tonefive</string>
+      <string>tonesix</string>
+      <string>tonetwo</string>
+      <string>tpalatalhook</string>
+      <string>ucaron</string>
+      <string>udblgrave</string>
+      <string>udieresisacute</string>
+      <string>udieresiscaron</string>
+      <string>udieresisgrave</string>
+      <string>udieresismacron</string>
+      <string>uinvertedbreve</string>
+      <string>wynn</string>
+      <string>yhook</string>
+      <string>ymacron</string>
+      <string>ystroke</string>
+      <string>zhook</string>
+      <string>zstroke</string>
+      <string>zswashtail</string>
+      <string>istroke.dotless</string>
+      <string>jstroke.dotless</string>
+      <string>clickalveolar</string>
+      <string>clickdental</string>
+      <string>clicklateral</string>
+      <string>clickretroflex</string>
+      <string>twostroke</string>
+      <string>A-cy</string>
+      <string>Be-cy</string>
+      <string>Ve-cy</string>
+      <string>Ge-cy</string>
+      <string>Gje-cy</string>
+      <string>Geupturn-cy</string>
+      <string>Gedescender-cy</string>
+      <string>Gestroke-cy</string>
+      <string>Gemiddlehook-cy</string>
+      <string>De-cy</string>
+      <string>Ie-cy</string>
+      <string>Iegrave-cy</string>
+      <string>Io-cy</string>
+      <string>Zhe-cy</string>
+      <string>Ze-cy</string>
+      <string>Ii-cy</string>
+      <string>Iishort-cy</string>
+      <string>Iigrave-cy</string>
+      <string>Iishorttail-cy</string>
+      <string>Ka-cy</string>
+      <string>Kje-cy</string>
+      <string>El-cy</string>
+      <string>Em-cy</string>
+      <string>En-cy</string>
+      <string>O-cy</string>
+      <string>Pe-cy</string>
+      <string>Er-cy</string>
+      <string>Es-cy</string>
+      <string>Te-cy</string>
+      <string>U-cy</string>
+      <string>Ushort-cy</string>
+      <string>Ef-cy</string>
+      <string>Ha-cy</string>
+      <string>Che-cy</string>
+      <string>Tse-cy</string>
+      <string>Sha-cy</string>
+      <string>Shcha-cy</string>
+      <string>Dzhe-cy</string>
+      <string>Softsign-cy</string>
+      <string>Yeru-cy</string>
+      <string>Hardsign-cy</string>
+      <string>Lje-cy</string>
+      <string>Nje-cy</string>
+      <string>Dze-cy</string>
+      <string>E-cy</string>
+      <string>Ereversed-cy</string>
+      <string>I-cy</string>
+      <string>Yi-cy</string>
+      <string>Je-cy</string>
+      <string>Tshe-cy</string>
+      <string>Yu-cy</string>
+      <string>Ya-cy</string>
+      <string>Dje-cy</string>
+      <string>Yat-cy</string>
+      <string>Fita-cy</string>
+      <string>Izhitsa-cy</string>
+      <string>Zhedescender-cy</string>
+      <string>Zedescender-cy</string>
+      <string>Kadescender-cy</string>
+      <string>Kaverticalstroke-cy</string>
+      <string>Kastroke-cy</string>
+      <string>Kabashkir-cy</string>
+      <string>Endescender-cy</string>
+      <string>EnGe-cy</string>
+      <string>Pemiddlehook-cy</string>
+      <string>Haabkhasian-cy</string>
+      <string>Esdescender-cy</string>
+      <string>Tedescender-cy</string>
+      <string>Ustraight-cy</string>
+      <string>Ustraightstroke-cy</string>
+      <string>Hadescender-cy</string>
+      <string>Tetse-cy</string>
+      <string>Chedescender-cy</string>
+      <string>Cheverticalstroke-cy</string>
+      <string>Shha-cy</string>
+      <string>Cheabkhasian-cy</string>
+      <string>Chedescenderabkhasian-cy</string>
+      <string>Palochka-cy</string>
+      <string>Zhebreve-cy</string>
+      <string>Kahook-cy</string>
+      <string>Eltail-cy</string>
+      <string>Enhook-cy</string>
+      <string>Entail-cy</string>
+      <string>Chekhakassian-cy</string>
+      <string>Emtail-cy</string>
+      <string>Abreve-cy</string>
+      <string>Adieresis-cy</string>
+      <string>Aie-cy</string>
+      <string>Iebreve-cy</string>
+      <string>Schwa-cy</string>
+      <string>Schwadieresis-cy</string>
+      <string>Zhedieresis-cy</string>
+      <string>Zedieresis-cy</string>
+      <string>Dzeabkhasian-cy</string>
+      <string>Imacron-cy</string>
+      <string>Idieresis-cy</string>
+      <string>Odieresis-cy</string>
+      <string>Obarred-cy</string>
+      <string>Obarreddieresis-cy</string>
+      <string>Edieresis-cy</string>
+      <string>Umacron-cy</string>
+      <string>Udieresis-cy</string>
+      <string>Uhungarumlaut-cy</string>
+      <string>Chedieresis-cy</string>
+      <string>Yerudieresis-cy</string>
+      <string>Semisoftsign-cy</string>
+      <string>Ertick-cy</string>
+      <string>a-cy</string>
+      <string>be-cy</string>
+      <string>ve-cy</string>
+      <string>ge-cy</string>
+      <string>gje-cy</string>
+      <string>geupturn-cy</string>
+      <string>gedescender-cy</string>
+      <string>gestroke-cy</string>
+      <string>gemiddlehook-cy</string>
+      <string>de-cy</string>
+      <string>ie-cy</string>
+      <string>iegrave-cy</string>
+      <string>io-cy</string>
+      <string>zhe-cy</string>
+      <string>ze-cy</string>
+      <string>ii-cy</string>
+      <string>iishort-cy</string>
+      <string>iigrave-cy</string>
+      <string>iishorttail-cy</string>
+      <string>ka-cy</string>
+      <string>kje-cy</string>
+      <string>el-cy</string>
+      <string>em-cy</string>
+      <string>en-cy</string>
+      <string>o-cy</string>
+      <string>pe-cy</string>
+      <string>er-cy</string>
+      <string>es-cy</string>
+      <string>te-cy</string>
+      <string>u-cy</string>
+      <string>ushort-cy</string>
+      <string>ef-cy</string>
+      <string>ha-cy</string>
+      <string>che-cy</string>
+      <string>tse-cy</string>
+      <string>sha-cy</string>
+      <string>shcha-cy</string>
+      <string>dzhe-cy</string>
+      <string>softsign-cy</string>
+      <string>yeru-cy</string>
+      <string>hardsign-cy</string>
+      <string>lje-cy</string>
+      <string>nje-cy</string>
+      <string>dze-cy</string>
+      <string>e-cy</string>
+      <string>ereversed-cy</string>
+      <string>i-cy</string>
+      <string>yi-cy</string>
+      <string>je-cy</string>
+      <string>tshe-cy</string>
+      <string>yu-cy</string>
+      <string>ya-cy</string>
+      <string>dje-cy</string>
+      <string>yat-cy</string>
+      <string>fita-cy</string>
+      <string>izhitsa-cy</string>
+      <string>zhedescender-cy</string>
+      <string>zedescender-cy</string>
+      <string>kadescender-cy</string>
+      <string>kaverticalstroke-cy</string>
+      <string>kastroke-cy</string>
+      <string>kabashkir-cy</string>
+      <string>endescender-cy</string>
+      <string>enge-cy</string>
+      <string>pemiddlehook-cy</string>
+      <string>haabkhasian-cy</string>
+      <string>esdescender-cy</string>
+      <string>tedescender-cy</string>
+      <string>ustraight-cy</string>
+      <string>ustraightstroke-cy</string>
+      <string>hadescender-cy</string>
+      <string>tetse-cy</string>
+      <string>chedescender-cy</string>
+      <string>cheverticalstroke-cy</string>
+      <string>shha-cy</string>
+      <string>cheabkhasian-cy</string>
+      <string>chedescenderabkhasian-cy</string>
+      <string>palochka-cy</string>
+      <string>zhebreve-cy</string>
+      <string>kahook-cy</string>
+      <string>eltail-cy</string>
+      <string>enhook-cy</string>
+      <string>entail-cy</string>
+      <string>chekhakassian-cy</string>
+      <string>emtail-cy</string>
+      <string>abreve-cy</string>
+      <string>adieresis-cy</string>
+      <string>aie-cy</string>
+      <string>iebreve-cy</string>
+      <string>schwa-cy</string>
+      <string>schwadieresis-cy</string>
+      <string>zhedieresis-cy</string>
+      <string>zedieresis-cy</string>
+      <string>dzeabkhasian-cy</string>
+      <string>imacron-cy</string>
+      <string>idieresis-cy</string>
+      <string>odieresis-cy</string>
+      <string>obarred-cy</string>
+      <string>obarreddieresis-cy</string>
+      <string>edieresis-cy</string>
+      <string>umacron-cy</string>
+      <string>udieresis-cy</string>
+      <string>uhungarumlaut-cy</string>
+      <string>chedieresis-cy</string>
+      <string>yerudieresis-cy</string>
+      <string>semisoftsign-cy</string>
+      <string>ertick-cy</string>
+      <string>be-cy.locl</string>
+      <string>Alphapsili</string>
+      <string>Alphadasia</string>
+      <string>Alphapsilivaria</string>
+      <string>Alphadasiavaria</string>
+      <string>Alphapsilioxia</string>
+      <string>Alphadasiaoxia</string>
+      <string>Alphapsiliperispomeni</string>
+      <string>Alphadasiaperispomeni</string>
+      <string>Alphavaria</string>
+      <string>Alphaoxia</string>
+      <string>Alphavrachy</string>
+      <string>Alphamacron</string>
+      <string>Alphaprosgegrammeni</string>
+      <string>Alphapsiliprosgegrammeni</string>
+      <string>Alphadasiaprosgegrammeni</string>
+      <string>Alphapsilivariaprosgegrammeni</string>
+      <string>Alphadasiavariaprosgegrammeni</string>
+      <string>Alphapsilioxiaprosgegrammeni</string>
+      <string>Alphadasiaoxiaprosgegrammeni</string>
+      <string>Alphapsiliperispomeniprosgegrammeni</string>
+      <string>Alphadasiaperispomeniprosgegrammeni</string>
+      <string>Epsilonpsili</string>
+      <string>Epsilondasia</string>
+      <string>Epsilonpsilivaria</string>
+      <string>Epsilondasiavaria</string>
+      <string>Epsilonpsilioxia</string>
+      <string>Epsilondasiaoxia</string>
+      <string>Epsilonvaria</string>
+      <string>Epsilonoxia</string>
+      <string>Etapsili</string>
+      <string>Etadasia</string>
+      <string>Etapsilivaria</string>
+      <string>Etadasiavaria</string>
+      <string>Etapsilioxia</string>
+      <string>Etadasiaoxia</string>
+      <string>Etapsiliperispomeni</string>
+      <string>Etadasiaperispomeni</string>
+      <string>Etavaria</string>
+      <string>Etaoxia</string>
+      <string>Etaprosgegrammeni</string>
+      <string>Etapsiliprosgegrammeni</string>
+      <string>Etadasiaprosgegrammeni</string>
+      <string>Etapsilivariaprosgegrammeni</string>
+      <string>Etadasiavariaprosgegrammeni</string>
+      <string>Etapsilioxiaprosgegrammeni</string>
+      <string>Etadasiaoxiaprosgegrammeni</string>
+      <string>Etapsiliperispomeniprosgegrammeni</string>
+      <string>Etadasiaperispomeniprosgegrammeni</string>
+      <string>Iotapsili</string>
+      <string>Iotadasia</string>
+      <string>Iotapsilivaria</string>
+      <string>Iotadasiavaria</string>
+      <string>Iotapsilioxia</string>
+      <string>Iotadasiaoxia</string>
+      <string>Iotapsiliperispomeni</string>
+      <string>Iotadasiaperispomeni</string>
+      <string>Iotavaria</string>
+      <string>Iotaoxia</string>
+      <string>Iotavrachy</string>
+      <string>Iotamacron</string>
+      <string>Omicronpsili</string>
+      <string>Omicrondasia</string>
+      <string>Omicronpsilivaria</string>
+      <string>Omicrondasiavaria</string>
+      <string>Omicronpsilioxia</string>
+      <string>Omicrondasiaoxia</string>
+      <string>Omicronvaria</string>
+      <string>Omicronoxia</string>
+      <string>Rhodasia</string>
+      <string>Upsilondasia</string>
+      <string>Upsilondasiavaria</string>
+      <string>Upsilondasiaoxia</string>
+      <string>Upsilondasiaperispomeni</string>
+      <string>Upsilonvaria</string>
+      <string>Upsilonoxia</string>
+      <string>Upsilonvrachy</string>
+      <string>Upsilonmacron</string>
+      <string>Omegapsili</string>
+      <string>Omegadasia</string>
+      <string>Omegapsilivaria</string>
+      <string>Omegadasiavaria</string>
+      <string>Omegapsilioxia</string>
+      <string>Omegadasiaoxia</string>
+      <string>Omegapsiliperispomeni</string>
+      <string>Omegadasiaperispomeni</string>
+      <string>Omegavaria</string>
+      <string>Omegaoxia</string>
+      <string>Omegaprosgegrammeni</string>
+      <string>Omegapsiliprosgegrammeni</string>
+      <string>Omegadasiaprosgegrammeni</string>
+      <string>Omegapsilivariaprosgegrammeni</string>
+      <string>Omegadasiavariaprosgegrammeni</string>
+      <string>Omegapsilioxiaprosgegrammeni</string>
+      <string>Omegadasiaoxiaprosgegrammeni</string>
+      <string>Omegapsiliperispomeniprosgegrammeni</string>
+      <string>Omegadasiaperispomeniprosgegrammeni</string>
+      <string>Alphaprosgegrammeni.alt</string>
+      <string>Alphapsiliprosgegrammeni.alt</string>
+      <string>Alphadasiaprosgegrammeni.alt</string>
+      <string>Alphapsilivariaprosgegrammeni.alt</string>
+      <string>Alphadasiavariaprosgegrammeni.alt</string>
+      <string>Alphapsilioxiaprosgegrammeni.alt</string>
+      <string>Alphadasiaoxiaprosgegrammeni.alt</string>
+      <string>Alphapsiliperispomeniprosgegrammeni.alt</string>
+      <string>Alphadasiaperispomeniprosgegrammeni.alt</string>
+      <string>Etaprosgegrammeni.alt</string>
+      <string>Etapsiliprosgegrammeni.alt</string>
+      <string>Etadasiaprosgegrammeni.alt</string>
+      <string>Etapsilivariaprosgegrammeni.alt</string>
+      <string>Etadasiavariaprosgegrammeni.alt</string>
+      <string>Etapsilioxiaprosgegrammeni.alt</string>
+      <string>Etadasiaoxiaprosgegrammeni.alt</string>
+      <string>Etapsiliperispomeniprosgegrammeni.alt</string>
+      <string>Etadasiaperispomeniprosgegrammeni.alt</string>
+      <string>Omegaprosgegrammeni.alt</string>
+      <string>Omegapsiliprosgegrammeni.alt</string>
+      <string>Omegadasiaprosgegrammeni.alt</string>
+      <string>Omegapsilivariaprosgegrammeni.alt</string>
+      <string>Omegadasiavariaprosgegrammeni.alt</string>
+      <string>Omegapsilioxiaprosgegrammeni.alt</string>
+      <string>Omegadasiaoxiaprosgegrammeni.alt</string>
+      <string>Omegapsiliperispomeniprosgegrammeni.alt</string>
+      <string>Omegadasiaperispomeniprosgegrammeni.alt</string>
+      <string>sigmafinal</string>
+      <string>alphapsili</string>
+      <string>alphadasia</string>
+      <string>alphapsilivaria</string>
+      <string>alphadasiavaria</string>
+      <string>alphapsilioxia</string>
+      <string>alphadasiaoxia</string>
+      <string>alphapsiliperispomeni</string>
+      <string>alphadasiaperispomeni</string>
+      <string>alphavaria</string>
+      <string>alphaoxia</string>
+      <string>alphaperispomeni</string>
+      <string>alphavrachy</string>
+      <string>alphamacron</string>
+      <string>alphaypogegrammeni</string>
+      <string>alphavariaypogegrammeni</string>
+      <string>alphaoxiaypogegrammeni</string>
+      <string>alphapsiliypogegrammeni</string>
+      <string>alphadasiaypogegrammeni</string>
+      <string>alphapsilivariaypogegrammeni</string>
+      <string>alphadasiavariaypogegrammeni</string>
+      <string>alphapsilioxiaypogegrammeni</string>
+      <string>alphadasiaoxiaypogegrammeni</string>
+      <string>alphapsiliperispomeniypogegrammeni</string>
+      <string>alphadasiaperispomeniypogegrammeni</string>
+      <string>alphaperispomeniypogegrammeni</string>
+      <string>epsilonpsili</string>
+      <string>epsilondasia</string>
+      <string>epsilonpsilivaria</string>
+      <string>epsilondasiavaria</string>
+      <string>epsilonpsilioxia</string>
+      <string>epsilondasiaoxia</string>
+      <string>epsilonvaria</string>
+      <string>epsilonoxia</string>
+      <string>etapsili</string>
+      <string>etadasia</string>
+      <string>etapsilivaria</string>
+      <string>etadasiavaria</string>
+      <string>etapsilioxia</string>
+      <string>etadasiaoxia</string>
+      <string>etapsiliperispomeni</string>
+      <string>etadasiaperispomeni</string>
+      <string>etavaria</string>
+      <string>etaoxia</string>
+      <string>etaperispomeni</string>
+      <string>etaypogegrammeni</string>
+      <string>etavariaypogegrammeni</string>
+      <string>etaoxiaypogegrammeni</string>
+      <string>etapsiliypogegrammeni</string>
+      <string>etadasiaypogegrammeni</string>
+      <string>etapsilivariaypogegrammeni</string>
+      <string>etadasiavariaypogegrammeni</string>
+      <string>etapsilioxiaypogegrammeni</string>
+      <string>etadasiaoxiaypogegrammeni</string>
+      <string>etapsiliperispomeniypogegrammeni</string>
+      <string>etadasiaperispomeniypogegrammeni</string>
+      <string>etaperispomeniypogegrammeni</string>
+      <string>iotapsili</string>
+      <string>iotadasia</string>
+      <string>iotapsilivaria</string>
+      <string>iotadasiavaria</string>
+      <string>iotapsilioxia</string>
+      <string>iotadasiaoxia</string>
+      <string>iotapsiliperispomeni</string>
+      <string>iotadasiaperispomeni</string>
+      <string>iotavaria</string>
+      <string>iotaoxia</string>
+      <string>iotaperispomeni</string>
+      <string>iotavrachy</string>
+      <string>iotamacron</string>
+      <string>iotadialytikavaria</string>
+      <string>iotadialytikaoxia</string>
+      <string>iotadialytikaperispomeni</string>
+      <string>omicronpsili</string>
+      <string>omicrondasia</string>
+      <string>omicronpsilivaria</string>
+      <string>omicrondasiavaria</string>
+      <string>omicronpsilioxia</string>
+      <string>omicrondasiaoxia</string>
+      <string>omicronvaria</string>
+      <string>omicronoxia</string>
+      <string>rhopsili</string>
+      <string>rhodasia</string>
+      <string>upsilonpsili</string>
+      <string>upsilondasia</string>
+      <string>upsilonpsilivaria</string>
+      <string>upsilondasiavaria</string>
+      <string>upsilonpsilioxia</string>
+      <string>upsilondasiaoxia</string>
+      <string>upsilonpsiliperispomeni</string>
+      <string>upsilondasiaperispomeni</string>
+      <string>upsilonvaria</string>
+      <string>upsilonoxia</string>
+      <string>upsilonperispomeni</string>
+      <string>upsilonvrachy</string>
+      <string>upsilonmacron</string>
+      <string>upsilondialytikavaria</string>
+      <string>upsilondialytikaoxia</string>
+      <string>upsilondialytikaperispomeni</string>
+      <string>omegapsili</string>
+      <string>omegadasia</string>
+      <string>omegapsilivaria</string>
+      <string>omegadasiavaria</string>
+      <string>omegapsilioxia</string>
+      <string>omegadasiaoxia</string>
+      <string>omegapsiliperispomeni</string>
+      <string>omegadasiaperispomeni</string>
+      <string>omegavaria</string>
+      <string>omegaoxia</string>
+      <string>omegaperispomeni</string>
+      <string>omegaypogegrammeni</string>
+      <string>omegavariaypogegrammeni</string>
+      <string>omegaoxiaypogegrammeni</string>
+      <string>omegapsiliypogegrammeni</string>
+      <string>omegadasiaypogegrammeni</string>
+      <string>omegapsilivariaypogegrammeni</string>
+      <string>omegadasiavariaypogegrammeni</string>
+      <string>omegapsilioxiaypogegrammeni</string>
+      <string>omegadasiaoxiaypogegrammeni</string>
+      <string>omegapsiliperispomeniypogegrammeni</string>
+      <string>omegadasiaperispomeniypogegrammeni</string>
+      <string>omegaperispomeniypogegrammeni</string>
+      <string>prosgegrammeni</string>
+      <string>zero.osf</string>
+      <string>one.osf</string>
+      <string>two.osf</string>
+      <string>three.osf</string>
+      <string>four.osf</string>
+      <string>five.osf</string>
+      <string>six.osf</string>
+      <string>seven.osf</string>
+      <string>eight.osf</string>
+      <string>nine.osf</string>
+      <string>zero.dnom</string>
+      <string>one.dnom</string>
+      <string>two.dnom</string>
+      <string>three.dnom</string>
+      <string>four.dnom</string>
+      <string>five.dnom</string>
+      <string>six.dnom</string>
+      <string>seven.dnom</string>
+      <string>eight.dnom</string>
+      <string>nine.dnom</string>
+      <string>zero.numr</string>
+      <string>one.numr</string>
+      <string>two.numr</string>
+      <string>three.numr</string>
+      <string>four.numr</string>
+      <string>five.numr</string>
+      <string>six.numr</string>
+      <string>seven.numr</string>
+      <string>eight.numr</string>
+      <string>nine.numr</string>
+      <string>nbspace</string>
+      <string>thinspace</string>
+      <string>CR</string>
+      <string>exclamdown.case</string>
+      <string>questiondown.case</string>
+      <string>bullet.case</string>
+      <string>slash.case</string>
+      <string>backslash.case</string>
+      <string>softhyphen</string>
+      <string>horizontalbar</string>
+      <string>hyphen.case</string>
+      <string>endash.case</string>
+      <string>emdash.case</string>
+      <string>parenleft.case</string>
+      <string>parenright.case</string>
+      <string>braceleft.case</string>
+      <string>braceright.case</string>
+      <string>bracketleft.case</string>
+      <string>bracketright.case</string>
+      <string>guillemetleft</string>
+      <string>guillemetright</string>
+      <string>guillemetleft.case</string>
+      <string>guillemetright.case</string>
+      <string>guilsinglleft.case</string>
+      <string>guilsinglright.case</string>
+      <string>checkmark</string>
+      <string>crossMark</string>
+      <string>published</string>
+      <string>minute</string>
+      <string>second</string>
+      <string>literSign</string>
+      <string>numero</string>
+      <string>replacementCharacter</string>
+      <string>servicemark</string>
+      <string>at.case</string>
+      <string>euro</string>
+      <string>hryvnia</string>
+      <string>ruble</string>
+      <string>rupeeIndian</string>
+      <string>tugrik</string>
+      <string>dollar.osf</string>
+      <string>euro.osf</string>
+      <string>hryvnia.osf</string>
+      <string>ruble.osf</string>
+      <string>rupeeIndian.osf</string>
+      <string>sterling.osf</string>
+      <string>tenge.osf</string>
+      <string>tugrik.osf</string>
+      <string>yen.osf</string>
+      <string>bulletoperator</string>
+      <string>divisionslash</string>
+      <string>Ohm</string>
+      <string>increment</string>
+      <string>micro</string>
+      <string>percent.osf</string>
+      <string>fullBlock</string>
+      <string>shadelight</string>
+      <string>shademedium</string>
+      <string>shadedark</string>
+      <string>dottedCircle</string>
+      <string>boxDoubleDownAndHorizontal</string>
+      <string>boxDoubleDownAndLeft</string>
+      <string>boxDoubleDownAndRight</string>
+      <string>boxDoubleHorizontal</string>
+      <string>boxDoubleUpAndHorizontal</string>
+      <string>boxDoubleUpAndLeft</string>
+      <string>boxDoubleUpAndRight</string>
+      <string>boxDoubleVertical</string>
+      <string>boxDoubleVerticalAndHorizontal</string>
+      <string>boxDoubleVerticalAndLeft</string>
+      <string>boxDoubleVerticalAndRight</string>
+      <string>boxDownDoubleAndHorizontalSingle</string>
+      <string>boxDownDoubleAndLeftSingle</string>
+      <string>boxDownDoubleAndRightSingle</string>
+      <string>boxDownSingleAndHorizontalDouble</string>
+      <string>boxDownSingleAndLeftDouble</string>
+      <string>boxDownSingleAndRightDouble</string>
+      <string>boxLightDownAndHorizontal</string>
+      <string>boxLightDownAndLeft</string>
+      <string>boxLightDownAndRight</string>
+      <string>boxLightHorizontal</string>
+      <string>boxLightUpAndHorizontal</string>
+      <string>boxLightUpAndLeft</string>
+      <string>boxLightUpAndRight</string>
+      <string>boxLightVertical</string>
+      <string>boxLightVerticalAndHorizontal</string>
+      <string>boxLightVerticalAndLeft</string>
+      <string>boxLightVerticalAndRight</string>
+      <string>boxUpDoubleAndHorizontalSingle</string>
+      <string>boxUpDoubleAndLeftSingle</string>
+      <string>boxUpDoubleAndRightSingle</string>
+      <string>boxUpSingleAndHorizontalDouble</string>
+      <string>boxUpSingleAndLeftDouble</string>
+      <string>boxUpSingleAndRightDouble</string>
+      <string>boxVerticalDoubleAndHorizontalSingle</string>
+      <string>boxVerticalDoubleAndLeftSingle</string>
+      <string>boxVerticalDoubleAndRightSingle</string>
+      <string>boxVerticalSingleAndHorizontalDouble</string>
+      <string>boxVerticalSingleAndLeftDouble</string>
+      <string>boxVerticalSingleAndRightDouble</string>
+      <string>boxVerticalDoubleAndHorizontalSingle.001</string>
+      <string>boxVerticalSingleAndHorizontalDouble.001</string>
+      <string>psili</string>
+      <string>koronis</string>
+      <string>dasia</string>
+      <string>psilivaria</string>
+      <string>dasiavaria</string>
+      <string>psilioxia</string>
+      <string>dasiaoxia</string>
+      <string>psiliperispomeni</string>
+      <string>dasiaperispomeni</string>
+      <string>dialytikavaria</string>
+      <string>dialytikaoxia</string>
+      <string>dialytikaperispomeni</string>
+      <string>varia</string>
+      <string>oxia</string>
+      <string>perispomeni</string>
+      <string>dieresiscomb</string>
+      <string>dotaccentcomb</string>
+      <string>gravecomb</string>
+      <string>acutecomb</string>
+      <string>hungarumlautcomb</string>
+      <string>caroncomb.alt</string>
+      <string>circumflexcomb</string>
+      <string>caroncomb</string>
+      <string>brevecomb</string>
+      <string>ringcomb</string>
+      <string>tildecomb</string>
+      <string>macroncomb</string>
+      <string>dblgravecomb</string>
+      <string>breveinvertedcomb</string>
+      <string>commaturnedabovecomb</string>
+      <string>dotbelowcomb</string>
+      <string>commaaccentcomb</string>
+      <string>cedillacomb</string>
+      <string>ogonekcomb</string>
+      <string>verticallinebelowcomb</string>
+      <string>tildebelowcomb</string>
+      <string>macronbelowcomb</string>
+      <string>strokeshortcomb</string>
+      <string>brevecomb.cyr</string>
+      <string>dotaccentcomb.i</string>
+      <string>firsttonechinese</string>
+      <string>apostrophemod</string>
+      <string>IJacute</string>
+      <string>ijacute</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -1658,6 +2546,8 @@
       <string>uni0208</string>
       <key>Idieresis-cy</key>
       <string>uni04E4</string>
+      <key>Idotbelow</key>
+      <string>uni1ECA</string>
       <key>Ie-cy</key>
       <string>uni0415</string>
       <key>Iebreve-cy</key>
@@ -1706,6 +2596,8 @@
       <string>uni1FD8</string>
       <key>Istroke</key>
       <string>uni0197</string>
+      <key>Itildebelow</key>
+      <string>uni1E2C</string>
       <key>Izhitsa-cy</key>
       <string>uni0474</string>
       <key>Je-cy</key>
@@ -1912,6 +2804,8 @@
       <string>uni021A</string>
       <key>Tdiagonalstroke</key>
       <string>uni023E</string>
+      <key>Tdotbelow</key>
+      <string>uni1E6C</string>
       <key>Te-cy</key>
       <string>uni0422</string>
       <key>Tedescender-cy</key>
@@ -2276,6 +3170,8 @@
       <string>uni0452</string>
       <key>dotaccentcomb</key>
       <string>uni0307</string>
+      <key>dotaccentcomb.i</key>
+      <string>uni0307.i</string>
       <key>dottedCircle</key>
       <string>uni25CC</string>
       <key>dtopbar</key>
@@ -2406,6 +3302,8 @@
       <string>uni01DD</string>
       <key>euro</key>
       <string>Euro</string>
+      <key>euro.osf</key>
+      <string>Euro.osf</string>
       <key>ezh</key>
       <string>uni0292</string>
       <key>ezhcaron</key>
@@ -2484,6 +3382,8 @@
       <string>uni2015</string>
       <key>hryvnia</key>
       <string>uni20B4</string>
+      <key>hryvnia.osf</key>
+      <string>uni20B4.osf</string>
       <key>hungarumlautcomb</key>
       <string>uni030B</string>
       <key>hv</key>
@@ -2496,8 +3396,16 @@
       <string>uni0209</string>
       <key>idieresis-cy</key>
       <string>uni04E5</string>
+      <key>idotbelow</key>
+      <string>uni1ECB</string>
       <key>idotless</key>
       <string>dotlessi</string>
+      <key>idotless_dotbelowcomb</key>
+      <string>dotlessi_dotbelowcomb</string>
+      <key>idotless_ogonekcomb</key>
+      <string>uni01310328</string>
+      <key>idotless_tildebelowcomb</key>
+      <string>uni01310330</string>
       <key>ie-cy</key>
       <string>uni0435</string>
       <key>iebreve-cy</key>
@@ -2552,6 +3460,12 @@
       <string>uni1F76</string>
       <key>iotavrachy</key>
       <string>uni1FD0</string>
+      <key>istroke</key>
+      <string>uni0268</string>
+      <key>istroke.dotless</key>
+      <string>uni0268.dotless</string>
+      <key>itildebelow</key>
+      <string>uni1E2D</string>
       <key>izhitsa-cy</key>
       <string>uni0475</string>
       <key>jcaron</key>
@@ -2562,6 +3476,8 @@
       <string>uni0458</string>
       <key>jstroke</key>
       <string>uni0249</string>
+      <key>jstroke.dotless</key>
+      <string>uni0249.dotless</string>
       <key>ka-cy</key>
       <string>uni043A</string>
       <key>kabashkir-cy</key>
@@ -2780,8 +3696,12 @@
       <string>uni024D</string>
       <key>ruble</key>
       <string>uni20BD</string>
+      <key>ruble.osf</key>
+      <string>uni20BD.osf</string>
       <key>rupeeIndian</key>
       <string>uni20B9</string>
+      <key>rupeeIndian.osf</key>
+      <string>uni20B9.osf</string>
       <key>schwa-cy</key>
       <string>uni04D9</string>
       <key>schwadieresis-cy</key>
@@ -2824,18 +3744,24 @@
       <string>uni044C</string>
       <key>sswashtail</key>
       <string>uni023F</string>
+      <key>strokeshortcomb</key>
+      <string>uni0335</string>
       <key>tcedilla</key>
       <string>uni0163</string>
       <key>tcommaaccent</key>
       <string>uni021B</string>
       <key>tcurl</key>
       <string>uni0236</string>
+      <key>tdotbelow</key>
+      <string>uni1E6D</string>
       <key>te-cy</key>
       <string>uni0442</string>
       <key>tedescender-cy</key>
       <string>uni04AD</string>
       <key>tenge</key>
       <string>uni20B8</string>
+      <key>tenge.osf</key>
+      <string>uni20B8.osf</string>
       <key>tetse-cy</key>
       <string>uni04B5</string>
       <key>thinspace</key>
@@ -2850,6 +3776,8 @@
       <string>three_fraction_seven</string>
       <key>threesuperior</key>
       <string>uni00B3</string>
+      <key>tildebelowcomb</key>
+      <string>uni0330</string>
       <key>tonefive</key>
       <string>uni01BD</string>
       <key>tonesix</key>
@@ -2864,6 +3792,8 @@
       <string>uni045B</string>
       <key>tugrik</key>
       <string>uni20AE</string>
+      <key>tugrik.osf</key>
+      <string>uni20AE.osf</string>
       <key>twofifths</key>
       <string>uni2156</string>
       <key>twoinferior</key>

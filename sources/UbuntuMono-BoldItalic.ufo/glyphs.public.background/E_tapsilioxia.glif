@@ -2,42 +2,42 @@
 <glyph name="Etapsilioxia" format="2">
   <outline>
     <contour>
-      <point x="29" y="0" type="line"/>
-      <point x="167" y="0" type="line"/>
-      <point x="241" y="306" type="line"/>
-      <point x="426" y="306" type="line"/>
-      <point x="351" y="0" type="line"/>
-      <point x="489" y="0" type="line"/>
-      <point x="656" y="693" type="line"/>
-      <point x="519" y="693" type="line"/>
-      <point x="452" y="420" type="line"/>
-      <point x="268" y="420" type="line"/>
-      <point x="334" y="693" type="line"/>
-      <point x="196" y="693" type="line"/>
+      <point x="-13" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="199" y="306" type="line"/>
+      <point x="384" y="306" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="614" y="693" type="line"/>
+      <point x="477" y="693" type="line"/>
+      <point x="410" y="420" type="line"/>
+      <point x="226" y="420" type="line"/>
+      <point x="292" y="693" type="line"/>
+      <point x="154" y="693" type="line"/>
     </contour>
     <contour>
-      <point x="26" y="481" type="line"/>
-      <point x="189" y="659" type="line"/>
-      <point x="112" y="728" type="line"/>
-      <point x="-38" y="529" type="line"/>
+      <point x="-16" y="481" type="line"/>
+      <point x="147" y="659" type="line"/>
+      <point x="70" y="728" type="line"/>
+      <point x="-80" y="529" type="line"/>
     </contour>
     <contour>
-      <point x="-182" y="479" type="line"/>
-      <point x="-82" y="547"/>
-      <point x="-41" y="605"/>
-      <point x="-41" y="656" type="curve" smooth="yes"/>
-      <point x="-41" y="706"/>
-      <point x="-75" y="728"/>
-      <point x="-112" y="728" type="curve" smooth="yes"/>
-      <point x="-149" y="728"/>
-      <point x="-186" y="706"/>
-      <point x="-186" y="659" type="curve" smooth="yes"/>
-      <point x="-186" y="636"/>
-      <point x="-177" y="614"/>
-      <point x="-150" y="599" type="curve"/>
-      <point x="-173" y="568"/>
-      <point x="-192" y="549"/>
-      <point x="-226" y="522" type="curve"/>
+      <point x="-224" y="479" type="line"/>
+      <point x="-124" y="547"/>
+      <point x="-83" y="605"/>
+      <point x="-83" y="656" type="curve" smooth="yes"/>
+      <point x="-83" y="706"/>
+      <point x="-117" y="728"/>
+      <point x="-154" y="728" type="curve" smooth="yes"/>
+      <point x="-191" y="728"/>
+      <point x="-228" y="706"/>
+      <point x="-228" y="659" type="curve" smooth="yes"/>
+      <point x="-228" y="636"/>
+      <point x="-219" y="614"/>
+      <point x="-192" y="599" type="curve"/>
+      <point x="-215" y="568"/>
+      <point x="-234" y="549"/>
+      <point x="-268" y="522" type="curve"/>
     </contour>
   </outline>
 </glyph>

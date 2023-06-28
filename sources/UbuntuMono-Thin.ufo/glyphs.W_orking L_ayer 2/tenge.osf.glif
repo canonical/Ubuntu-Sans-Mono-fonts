@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge.osf" format="2">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="263" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="300" y="509" type="line"/>
+      <point x="497" y="509" type="line"/>
+      <point x="497" y="543" type="line"/>
+      <point x="66" y="543" type="line"/>
+      <point x="66" y="509" type="line"/>
+      <point x="263" y="509" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="659" type="line"/>
+      <point x="497" y="659" type="line"/>
+      <point x="497" y="693" type="line"/>
+      <point x="66" y="693" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>
