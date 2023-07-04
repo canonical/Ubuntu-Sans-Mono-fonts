@@ -8,6 +8,8 @@
       <string>182A6E54-BBC8-44DB-B146-1709BB2C49A3</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.macronbelowcomb</key>
       <integer>3</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.registered</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.verticallinebelowcomb</key>
       <integer>3</integer>
     </dict>

@@ -1130,6 +1130,8 @@
     <string>psiliperispomeni.glif</string>
     <key>psilivaria</key>
     <string>psilivaria.glif</string>
+    <key>published</key>
+    <string>published.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>qhooktail</key>
@@ -1160,8 +1162,8 @@
     <string>r.glif</string>
     <key>radical</key>
     <string>radical.glif</string>
-    <key>registered</key>
-    <string>registered.glif</string>
+    <key>registered.salt</key>
+    <string>registered.salt.glif</string>
     <key>replacementCharacter</key>
     <string>replacementC_haracter.glif</string>
     <key>rho</key>

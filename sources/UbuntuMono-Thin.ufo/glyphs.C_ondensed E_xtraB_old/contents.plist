@@ -4,6 +4,8 @@
   <dict>
     <key>macronbelowcomb</key>
     <string>macronbelowcomb.glif</string>
+    <key>registered</key>
+    <string>registered.glif</string>
     <key>verticallinebelowcomb</key>
     <string>verticallinebelowcomb.glif</string>
   </dict>

@@ -2301,6 +2301,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.rdblgrave</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.registered</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.registered.salt</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.replacementCharacter</key>
       <integer>0</integer>

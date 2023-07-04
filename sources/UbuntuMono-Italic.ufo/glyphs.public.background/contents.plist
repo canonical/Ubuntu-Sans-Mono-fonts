@@ -10,6 +10,8 @@
     <string>jstroke.glif</string>
     <key>jstroke.dotless</key>
     <string>jstroke.dotless.glif</string>
+    <key>published</key>
+    <string>published.glif</string>
     <key>rupeeIndian.osf</key>
     <string>rupeeI_ndian.osf.glif</string>
     <key>sterling.osf</key>

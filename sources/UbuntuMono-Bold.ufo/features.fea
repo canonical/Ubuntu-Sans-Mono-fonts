@@ -399,4 +399,5 @@ feature salt {
 sub @AlphaSub by @AlphaSub.alt;
 sub @EtaSub by @EtaSub.alt;
 sub @OmegaSub by @OmegaSub.alt;
+sub registered by registered.salt;
 } salt;

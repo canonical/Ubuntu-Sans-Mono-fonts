@@ -2300,6 +2300,8 @@
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.registered</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.registered.salt</key>
+      <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.replacementCharacter</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.rho</key>
