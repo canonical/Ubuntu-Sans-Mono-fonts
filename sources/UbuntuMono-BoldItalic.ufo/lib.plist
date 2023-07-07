@@ -22,7 +22,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3202</string>
+    <string>3204</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Export Mac Name Table Entries</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.Family Alignment Zones</key>
@@ -3927,8 +3927,18 @@
       <string>ampersand.001</string>
       <string>caron.asc</string>
       <string>circumflex.asc</string>
+      <string>eightninths</string>
       <string>f_i</string>
       <string>f_l</string>
+      <string>fiveninths</string>
+      <string>fivesevenths</string>
+      <string>fourninths</string>
+      <string>foursevenths</string>
+      <string>sevenninths</string>
+      <string>sixsevenths</string>
+      <string>threesevenths</string>
+      <string>twoninths</string>
+      <string>twosevenths</string>
       <string>uniE0FF</string>
       <string>uniEFFD</string>
       <string>uniF000</string>
