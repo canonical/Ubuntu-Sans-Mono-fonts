@@ -3,9 +3,11 @@
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="700" default="400">
       <map input="100" output="100"/>
+      <map input="200" output="200"/>
       <map input="300" output="300"/>
       <map input="400" output="400"/>
       <map input="500" output="564"/>
+      <map input="600" output="632"/>
       <map input="700" output="700"/>
     </axis>
   </axes>
@@ -45,6 +47,24 @@
       <kerning/>
       <info/>
     </instance>
+    
+    
+    <instance 
+        name="Ubuntu Mono ExtraLight" 
+        familyname="Ubuntu Mono" 
+        stylename="ExtraLight" 
+        filename="../instance_ufo/UbuntuMono-ExtraLight.ufo" 
+        stylemapfamilyname="Ubuntu Mono ExtraLight" 
+        stylemapstylename="regular"
+    >
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+
+    
     <instance 
         name="Ubuntu Mono Light" 
         familyname="Ubuntu Mono" 
@@ -75,6 +95,7 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </instance>
+    
     <instance 
         name="Ubuntu Mono Medium" 
         familyname="Ubuntu Mono" 
@@ -87,6 +108,24 @@
         <dimension name="Weight" xvalue="564"/>
       </location>
     </instance>
+    
+    
+    <instance 
+        name="Ubuntu Mono SemiBold" 
+        familyname="Ubuntu Mono" 
+        stylename="Light" 
+        filename="../instance_ufo/UbuntuMono-SemiBold.ufo" 
+        stylemapfamilyname="Ubuntu Mono SemiBold" 
+        stylemapstylename="regular"
+    >
+      <location>
+        <dimension name="Weight" xvalue="632"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+
+    
     <instance 
         name="Ubuntu Mono Bold" 
         familyname="Ubuntu Mono" 
