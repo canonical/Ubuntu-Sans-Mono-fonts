@@ -113,7 +113,7 @@
     <instance 
         name="Ubuntu Mono SemiBold" 
         familyname="Ubuntu Mono" 
-        stylename="Light" 
+        stylename="SemiBold" 
         filename="../instance_ufo/UbuntuMono-SemiBold.ufo" 
         stylemapfamilyname="Ubuntu Mono SemiBold" 
         stylemapstylename="regular"
