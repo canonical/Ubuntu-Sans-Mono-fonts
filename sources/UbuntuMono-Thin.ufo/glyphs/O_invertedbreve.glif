@@ -10,7 +10,7 @@
   <anchor x="533" y="776" name="topright"/>
   <outline>
     <component base="O"/>
-    <component base="breveinvertedcomb" yOffset="264"/>
+    <component base="breveinvertedcomb" yOffset="164"/>
   </outline>
   <lib>
     <dict>

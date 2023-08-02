@@ -2,7 +2,6 @@
 <glyph name="Iota-latin" format="2">
   <advance width="560"/>
   <unicode hex="0196"/>
-  <unicode hex="0269"/>
   <outline>
     <contour>
       <point x="326" y="-15" type="curve" smooth="yes"/>

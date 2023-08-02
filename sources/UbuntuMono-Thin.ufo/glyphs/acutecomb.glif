@@ -4,7 +4,12 @@
   <anchor x="280" y="512" name="_top"/>
   <anchor x="280" y="779" name="top"/>
   <outline>
-    <component base="acute"/>
+    <contour>
+      <point x="231" y="587" type="line"/>
+      <point x="359" y="757" type="line"/>
+      <point x="330" y="778" type="line"/>
+      <point x="207" y="602" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

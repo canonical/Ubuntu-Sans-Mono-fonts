@@ -2,7 +2,6 @@
 <glyph name="Tretroflexhook" format="2">
   <advance width="560"/>
   <unicode hex="01AE"/>
-  <unicode hex="0288"/>
   <outline>
     <contour>
       <point x="272" y="-187" type="curve" smooth="yes"/>

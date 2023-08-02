@@ -4,7 +4,7 @@
   <unicode hex="01D8"/>
   <outline>
     <component base="u"/>
-    <component base="dieresis_acute" xOffset="-9"/>
+    <component base="dieresiscomb_acutecomb" xOffset="-9"/>
   </outline>
   <lib>
     <dict>
@@ -51,7 +51,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dieresis_acute</string>
+          <string>dieresiscomb_acutecomb</string>
         </dict>
       </array>
     </dict>

@@ -2,7 +2,6 @@
 <glyph name="Ubar" format="2">
   <advance width="560"/>
   <unicode hex="0244"/>
-  <unicode hex="0289"/>
   <outline>
     <contour>
       <point x="230" y="-15" type="curve" smooth="yes"/>

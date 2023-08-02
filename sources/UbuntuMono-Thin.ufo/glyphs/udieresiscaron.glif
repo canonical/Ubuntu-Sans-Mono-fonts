@@ -4,11 +4,11 @@
   <unicode hex="01DA"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="499" y="11" name="ogonek"/>
-  <anchor x="280" y="582" name="top"/>
+  <anchor x="280" y="832" name="top"/>
   <anchor x="532" y="582" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresis_breve"/>
+    <component base="dieresiscomb_caroncomb"/>
   </outline>
   <lib>
     <dict>
@@ -55,7 +55,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>dieresis_breve</string>
+          <string>dieresiscomb_caroncomb</string>
         </dict>
       </array>
       <key>public.markColor</key>

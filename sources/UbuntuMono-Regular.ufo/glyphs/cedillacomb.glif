@@ -4,7 +4,35 @@
   <anchor x="261" y="0" name="_bottom"/>
   <anchor x="261" y="-189" name="bottom"/>
   <outline>
-    <component base="cedilla"/>
+    <contour>
+      <point x="255" y="-189" type="curve" smooth="yes"/>
+      <point x="335" y="-189"/>
+      <point x="347" y="-139"/>
+      <point x="347" y="-120" type="curve" smooth="yes"/>
+      <point x="347" y="-74"/>
+      <point x="330" y="-59"/>
+      <point x="296" y="-40" type="curve"/>
+      <point x="303" y="-24"/>
+      <point x="319" y="3"/>
+      <point x="327" y="20" type="curve"/>
+      <point x="270" y="20" type="line"/>
+      <point x="263" y="8"/>
+      <point x="237" y="-49"/>
+      <point x="225" y="-75" type="curve"/>
+      <point x="229" y="-77" type="line" smooth="yes"/>
+      <point x="255" y="-85"/>
+      <point x="271" y="-96"/>
+      <point x="271" y="-111" type="curve" smooth="yes"/>
+      <point x="271" y="-123"/>
+      <point x="262" y="-132"/>
+      <point x="238" y="-132" type="curve" smooth="yes"/>
+      <point x="216" y="-132"/>
+      <point x="202" y="-128"/>
+      <point x="184" y="-122" type="curve"/>
+      <point x="174" y="-175" type="line"/>
+      <point x="189" y="-182"/>
+      <point x="219" y="-189"/>
+    </contour>
   </outline>
   <lib>
     <dict>

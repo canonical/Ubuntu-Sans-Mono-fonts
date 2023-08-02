@@ -2,7 +2,6 @@
 <glyph name="Mturned" format="2">
   <advance width="560"/>
   <unicode hex="019C"/>
-  <unicode hex="026F"/>
   <outline>
     <contour>
       <point x="119" y="-13" type="curve" smooth="yes"/>

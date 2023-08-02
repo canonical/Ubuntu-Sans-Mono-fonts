@@ -1382,22 +1382,22 @@
     <string>dialytikavaria.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
-    <key>dieresis_acute</key>
-    <string>dieresis_acute.glif</string>
-    <key>dieresis_acute.cap</key>
-    <string>dieresis_acute.cap.glif</string>
-    <key>dieresis_breve</key>
-    <string>dieresis_breve.glif</string>
-    <key>dieresis_breve.cap</key>
-    <string>dieresis_breve.cap.glif</string>
-    <key>dieresis_grave</key>
-    <string>dieresis_grave.glif</string>
-    <key>dieresis_grave.cap</key>
-    <string>dieresis_grave.cap.glif</string>
-    <key>dieresis_macron</key>
-    <string>dieresis_macron.glif</string>
     <key>dieresiscomb</key>
     <string>dieresiscomb.glif</string>
+    <key>dieresiscomb_acutecomb</key>
+    <string>dieresiscomb_acutecomb.glif</string>
+    <key>dieresiscomb_acutecomb.cap</key>
+    <string>dieresiscomb_acutecomb.cap.glif</string>
+    <key>dieresiscomb_caroncomb</key>
+    <string>dieresiscomb_caroncomb.glif</string>
+    <key>dieresiscomb_caroncomb.cap</key>
+    <string>dieresiscomb_caroncomb.cap.glif</string>
+    <key>dieresiscomb_gravecomb</key>
+    <string>dieresiscomb_gravecomb.glif</string>
+    <key>dieresiscomb_gravecomb.cap</key>
+    <string>dieresiscomb_gravecomb.cap.glif</string>
+    <key>dieresiscomb_macroncomb</key>
+    <string>dieresiscomb_macroncomb.glif</string>
     <key>dieresistonos</key>
     <string>dieresistonos.glif</string>
     <key>divide</key>
@@ -1410,14 +1410,14 @@
     <string>dollar.glif</string>
     <key>dollar.osf</key>
     <string>dollar.osf.glif</string>
-    <key>dot_macron</key>
-    <string>dot_macron.glif</string>
     <key>dotaccent</key>
     <string>dotaccent.glif</string>
     <key>dotaccentcomb</key>
     <string>dotaccentcomb.glif</string>
     <key>dotaccentcomb.i</key>
     <string>dotaccentcomb.i.glif</string>
+    <key>dotaccentcomb_macroncomb</key>
+    <string>dotaccentcomb_macroncomb.glif</string>
     <key>dotbelowcomb</key>
     <string>dotbelowcomb.glif</string>
     <key>dottedCircle</key>
@@ -1622,10 +1622,6 @@
     <string>ezhtail.glif</string>
     <key>f</key>
     <string>f.glif</string>
-    <key>f_i</key>
-    <string>f_i.glif</string>
-    <key>f_l</key>
-    <string>f_l.glif</string>
     <key>fi</key>
     <string>fi.glif</string>
     <key>firsttonechinese</key>
@@ -2310,10 +2306,10 @@
     <string>rhopsili.glif</string>
     <key>ring</key>
     <string>ring.glif</string>
-    <key>ring_acute</key>
-    <string>ring_acute.glif</string>
     <key>ringcomb</key>
     <string>ringcomb.glif</string>
+    <key>ringcomb_acutecomb</key>
+    <string>ringcomb_acutecomb.glif</string>
     <key>rinvertedbreve</key>
     <string>rinvertedbreve.glif</string>
     <key>rstroke</key>
@@ -2476,12 +2472,12 @@
     <string>threesuperior.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
-    <key>tilde_macron</key>
-    <string>tilde_macron.glif</string>
     <key>tildebelowcomb</key>
     <string>tildebelowcomb.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
+    <key>tildecomb_macroncomb</key>
+    <string>tildecomb_macroncomb.glif</string>
     <key>tonefive</key>
     <string>tonefive.glif</string>
     <key>tonesix</key>

@@ -4,7 +4,34 @@
   <anchor x="283" y="526" name="_top"/>
   <anchor x="283" y="753" name="top"/>
   <outline>
-    <component base="tilde"/>
+    <contour>
+      <point x="167" y="599" type="line"/>
+      <point x="178" y="622"/>
+      <point x="195" y="642"/>
+      <point x="221" y="642" type="curve" smooth="yes"/>
+      <point x="237" y="642"/>
+      <point x="253" y="637"/>
+      <point x="269" y="630" type="curve" smooth="yes"/>
+      <point x="293" y="619"/>
+      <point x="317" y="607"/>
+      <point x="346" y="607" type="curve" smooth="yes"/>
+      <point x="407" y="607"/>
+      <point x="449" y="669"/>
+      <point x="464" y="709" type="curve"/>
+      <point x="398" y="753" type="line"/>
+      <point x="388" y="730"/>
+      <point x="370" y="711"/>
+      <point x="344" y="711" type="curve" smooth="yes"/>
+      <point x="319" y="711"/>
+      <point x="297" y="722"/>
+      <point x="274" y="732" type="curve" smooth="yes"/>
+      <point x="258" y="739"/>
+      <point x="240" y="746"/>
+      <point x="220" y="746" type="curve" smooth="yes"/>
+      <point x="158" y="746"/>
+      <point x="116" y="684"/>
+      <point x="101" y="643" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>

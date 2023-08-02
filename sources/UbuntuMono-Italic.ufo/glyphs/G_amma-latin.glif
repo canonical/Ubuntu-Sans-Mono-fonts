@@ -2,7 +2,6 @@
 <glyph name="Gamma-latin" format="2">
   <advance width="560"/>
   <unicode hex="0194"/>
-  <unicode hex="0263"/>
   <outline>
     <contour>
       <point x="196" y="-184" type="curve" smooth="yes"/>

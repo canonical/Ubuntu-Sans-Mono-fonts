@@ -54,13 +54,15 @@ feature salt;
 feature ccmp {
 lookup ccmp_DFLT_1 {
 	lookupflag 0;
-	sub dieresis acute by dieresis_acute;
-	sub dieresis breve by dieresis_breve;
-	sub dieresis grave by dieresis_grave;
-	sub dieresis macron by dieresis_macron;
-	sub ring acute by ring_acute;
-	sub tilde macron by tilde_macron;
+	sub dieresiscomb acutecomb by dieresiscomb_acutecomb;
+	sub dieresiscomb caroncomb by dieresiscomb_caroncomb;
+	sub dieresiscomb gravecomb by dieresiscomb_gravecomb;
+	sub dieresiscomb macroncomb by dieresiscomb_macroncomb;
+	sub ringcomb acutecomb by ringcomb_acutecomb;
+	sub tildecomb macroncomb by tildecomb_macroncomb;
 } ccmp_DFLT_1;
+
+
 
 lookup ccmp_soft_dotted {
 	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];

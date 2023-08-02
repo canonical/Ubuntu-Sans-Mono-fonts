@@ -4,7 +4,20 @@
   <anchor x="280" y="526" name="_top"/>
   <anchor x="280" y="756" name="top"/>
   <outline>
-    <component base="dotaccent"/>
+    <contour>
+      <point x="280" y="600" type="curve" smooth="yes"/>
+      <point x="323" y="600"/>
+      <point x="360" y="631"/>
+      <point x="360" y="678" type="curve" smooth="yes"/>
+      <point x="360" y="726"/>
+      <point x="323" y="756"/>
+      <point x="280" y="756" type="curve" smooth="yes"/>
+      <point x="237" y="756"/>
+      <point x="200" y="726"/>
+      <point x="200" y="678" type="curve" smooth="yes"/>
+      <point x="200" y="631"/>
+      <point x="237" y="600"/>
+    </contour>
   </outline>
   <lib>
     <dict>

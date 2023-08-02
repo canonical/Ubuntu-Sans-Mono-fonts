@@ -4,7 +4,20 @@
   <anchor x="280" y="0" name="_bottom"/>
   <anchor x="280" y="-185" name="bottom"/>
   <outline>
-    <component base="dotaccent" yOffset="-785"/>
+    <contour>
+      <point x="280" y="-185" type="curve" smooth="yes"/>
+      <point x="323" y="-185"/>
+      <point x="360" y="-154"/>
+      <point x="360" y="-107" type="curve" smooth="yes"/>
+      <point x="360" y="-59"/>
+      <point x="323" y="-29"/>
+      <point x="280" y="-29" type="curve" smooth="yes"/>
+      <point x="237" y="-29"/>
+      <point x="200" y="-59"/>
+      <point x="200" y="-107" type="curve" smooth="yes"/>
+      <point x="200" y="-154"/>
+      <point x="237" y="-185"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -35,17 +48,6 @@
         <key>9</key>
         <integer>0</integer>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>dotaccent</string>
-        </dict>
-      </array>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>560</integer>
     </dict>

@@ -4,7 +4,14 @@
   <anchor x="280" y="518" name="_top"/>
   <anchor x="280" y="768" name="top"/>
   <outline>
-    <component base="circumflex"/>
+    <contour>
+      <point x="183" y="585" type="line"/>
+      <point x="279" y="677" type="line"/>
+      <point x="376" y="585" type="line"/>
+      <point x="410" y="623" type="line"/>
+      <point x="279" y="768" type="line"/>
+      <point x="150" y="623" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

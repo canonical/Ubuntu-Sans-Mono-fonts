@@ -4,7 +4,14 @@
   <anchor x="281" y="526" name="_top"/>
   <anchor x="281" y="774" name="top"/>
   <outline>
-    <component base="caron"/>
+    <contour>
+      <point x="280" y="571" type="line"/>
+      <point x="437" y="708" type="line"/>
+      <point x="380" y="774" type="line"/>
+      <point x="280" y="697" type="line"/>
+      <point x="180" y="774" type="line"/>
+      <point x="125" y="708" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

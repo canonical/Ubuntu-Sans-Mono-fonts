@@ -4,7 +4,34 @@
   <anchor x="279" y="518" name="_top"/>
   <anchor x="279" y="728" name="top"/>
   <outline>
-    <component base="dieresis"/>
+    <contour>
+      <point x="370" y="620" type="curve" smooth="yes"/>
+      <point x="399" y="620"/>
+      <point x="422" y="644"/>
+      <point x="422" y="674" type="curve" smooth="yes"/>
+      <point x="422" y="706"/>
+      <point x="399" y="728"/>
+      <point x="370" y="728" type="curve" smooth="yes"/>
+      <point x="342" y="728"/>
+      <point x="317" y="706"/>
+      <point x="317" y="674" type="curve" smooth="yes"/>
+      <point x="317" y="644"/>
+      <point x="342" y="620"/>
+    </contour>
+    <contour>
+      <point x="190" y="620" type="curve" smooth="yes"/>
+      <point x="218" y="620"/>
+      <point x="242" y="644"/>
+      <point x="242" y="674" type="curve" smooth="yes"/>
+      <point x="242" y="706"/>
+      <point x="218" y="728"/>
+      <point x="190" y="728" type="curve" smooth="yes"/>
+      <point x="163" y="728"/>
+      <point x="137" y="706"/>
+      <point x="137" y="674" type="curve" smooth="yes"/>
+      <point x="137" y="644"/>
+      <point x="163" y="620"/>
+    </contour>
   </outline>
   <lib>
     <dict>

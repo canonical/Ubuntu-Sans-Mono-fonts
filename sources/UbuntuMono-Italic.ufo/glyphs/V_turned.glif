@@ -2,7 +2,6 @@
 <glyph name="Vturned" format="2">
   <advance width="560"/>
   <unicode hex="0245"/>
-  <unicode hex="028C"/>
   <outline>
     <component base="Lambda"/>
   </outline>

@@ -4,7 +4,12 @@
   <anchor x="283" y="526" name="_top"/>
   <anchor x="283" y="725" name="top"/>
   <outline>
-    <component base="macron"/>
+    <contour>
+      <point x="121" y="627" type="line"/>
+      <point x="444" y="627" type="line"/>
+      <point x="444" y="725" type="line"/>
+      <point x="121" y="725" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

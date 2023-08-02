@@ -2,7 +2,6 @@
 <glyph name="Yr" format="2">
   <advance width="560"/>
   <unicode hex="01A6"/>
-  <unicode hex="0280"/>
   <outline>
     <contour>
       <point x="413" y="-109" type="curve"/>

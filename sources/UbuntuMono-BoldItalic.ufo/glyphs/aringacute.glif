@@ -4,7 +4,7 @@
   <unicode hex="01FB"/>
   <outline>
     <component base="a"/>
-    <component base="ring_acute" xOffset="30"/>
+    <component base="ringcomb_acutecomb" xOffset="30"/>
   </outline>
   <lib>
     <dict>
@@ -51,7 +51,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>ring_acute</string>
+          <string>ringcomb_acutecomb</string>
         </dict>
       </array>
     </dict>

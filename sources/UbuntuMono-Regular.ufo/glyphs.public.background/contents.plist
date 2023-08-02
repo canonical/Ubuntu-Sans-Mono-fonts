@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>dieresis_grave.cap</key>
-    <string>dieresis_grave.cap.glif</string>
+    <key>dieresiscomb_gravecomb.cap</key>
+    <string>dieresiscomb_gravecomb.cap.glif</string>
     <key>hryvnia.osf</key>
     <string>hryvnia.osf.glif</string>
     <key>jstroke</key>

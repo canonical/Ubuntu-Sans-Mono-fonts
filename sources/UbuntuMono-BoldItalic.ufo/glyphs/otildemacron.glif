@@ -4,7 +4,7 @@
   <unicode hex="022D"/>
   <outline>
     <component base="o"/>
-    <component base="tilde_macron" xOffset="22"/>
+    <component base="tildecomb_macroncomb" xOffset="22"/>
   </outline>
   <lib>
     <dict>
@@ -51,7 +51,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>tilde_macron</string>
+          <string>tildecomb_macroncomb</string>
         </dict>
       </array>
     </dict>

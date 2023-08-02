@@ -2,7 +2,6 @@
 <glyph name="Tretroflexhook" format="2">
   <advance width="560"/>
   <unicode hex="01AE"/>
-  <unicode hex="0288"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="280" y="776" name="top"/>
   <outline>

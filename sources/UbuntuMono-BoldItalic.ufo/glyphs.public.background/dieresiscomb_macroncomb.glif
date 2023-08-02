@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_macroncomb" format="2">
+  <outline>
+    <contour>
+      <point x="311" y="586" type="qcurve"/>
+      <point x="287" y="586"/>
+      <point x="255" y="616"/>
+      <point x="255" y="641" type="qcurve"/>
+      <point x="255" y="673"/>
+      <point x="297" y="712"/>
+      <point x="323" y="712" type="qcurve"/>
+      <point x="345" y="712"/>
+      <point x="379" y="681"/>
+      <point x="379" y="655" type="qcurve"/>
+      <point x="379" y="641"/>
+      <point x="366" y="615"/>
+      <point x="346" y="597"/>
+      <point x="323" y="586"/>
+    </contour>
+    <contour>
+      <point x="495" y="586" type="qcurve"/>
+      <point x="472" y="586"/>
+      <point x="439" y="616"/>
+      <point x="439" y="641" type="qcurve"/>
+      <point x="439" y="673"/>
+      <point x="480" y="712"/>
+      <point x="506" y="712" type="qcurve"/>
+      <point x="530" y="712"/>
+      <point x="563" y="681"/>
+      <point x="563" y="655" type="qcurve"/>
+      <point x="563" y="626"/>
+      <point x="520" y="586"/>
+    </contour>
+    <contour>
+      <point x="317" y="820" type="line"/>
+      <point x="577" y="820" type="line"/>
+      <point x="558" y="740" type="line"/>
+      <point x="298" y="740" type="line"/>
+    </contour>
+  </outline>
+</glyph>

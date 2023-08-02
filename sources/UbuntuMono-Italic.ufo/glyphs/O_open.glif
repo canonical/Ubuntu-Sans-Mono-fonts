@@ -2,7 +2,6 @@
 <glyph name="Oopen" format="2">
   <advance width="560"/>
   <unicode hex="0186"/>
-  <unicode hex="0254"/>
   <outline>
     <contour>
       <point x="173" y="-15" type="curve" smooth="yes"/>

@@ -2,7 +2,6 @@
 <glyph name="Astroke" format="2">
   <advance width="560"/>
   <unicode hex="023A"/>
-  <unicode hex="2C65"/>
   <outline>
     <contour>
       <point x="231" y="-97" type="line"/>

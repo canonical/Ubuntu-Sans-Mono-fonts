@@ -2,7 +2,6 @@
 <glyph name="Tdiagonalstroke" format="2">
   <advance width="560"/>
   <unicode hex="023E"/>
-  <unicode hex="2C66"/>
   <outline>
     <contour>
       <point x="83" y="-29" type="line"/>

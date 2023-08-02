@@ -4,10 +4,10 @@
   <unicode hex="01FB"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="504" y="11" name="ogonek"/>
-  <anchor x="280" y="582" name="top"/>
+  <anchor x="280" y="832" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ring_acute"/>
+    <component base="ringcomb_acutecomb"/>
   </outline>
   <lib>
     <dict>
@@ -54,7 +54,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>ring_acute</string>
+          <string>ringcomb_acutecomb</string>
         </dict>
       </array>
       <key>public.markColor</key>

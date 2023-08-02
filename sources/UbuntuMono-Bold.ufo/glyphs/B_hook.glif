@@ -2,7 +2,6 @@
 <glyph name="Bhook" format="2">
   <advance width="560"/>
   <unicode hex="0181"/>
-  <unicode hex="0253"/>
   <outline>
     <contour>
       <point x="319" y="-9" type="curve" smooth="yes"/>

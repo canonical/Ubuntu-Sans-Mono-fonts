@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_caroncomb.cap" format="2">
+  <anchor x="280" y="518" name="_top"/>
+  <anchor x="280" y="832" name="top"/>
+  <outline>
+    <contour>
+      <point x="279" y="817" type="line"/>
+      <point x="371" y="887" type="line"/>
+      <point x="346" y="930" type="line"/>
+      <point x="279" y="890" type="line"/>
+      <point x="212" y="930" type="line"/>
+      <point x="187" y="887" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="741" type="curve" smooth="yes"/>
+      <point x="172" y="741"/>
+      <point x="193" y="762"/>
+      <point x="193" y="793" type="curve" smooth="yes"/>
+      <point x="193" y="824"/>
+      <point x="172" y="846"/>
+      <point x="142" y="846" type="curve" smooth="yes"/>
+      <point x="115" y="846"/>
+      <point x="91" y="824"/>
+      <point x="91" y="793" type="curve" smooth="yes"/>
+      <point x="91" y="762"/>
+      <point x="115" y="741"/>
+    </contour>
+    <contour>
+      <point x="418" y="741" type="curve" smooth="yes"/>
+      <point x="448" y="741"/>
+      <point x="469" y="762"/>
+      <point x="469" y="793" type="curve" smooth="yes"/>
+      <point x="469" y="824"/>
+      <point x="448" y="846"/>
+      <point x="418" y="846" type="curve" smooth="yes"/>
+      <point x="388" y="846"/>
+      <point x="367" y="824"/>
+      <point x="367" y="793" type="curve" smooth="yes"/>
+      <point x="367" y="762"/>
+      <point x="388" y="741"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>560</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

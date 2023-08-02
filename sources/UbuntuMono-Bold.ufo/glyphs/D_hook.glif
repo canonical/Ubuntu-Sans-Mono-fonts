@@ -2,7 +2,6 @@
 <glyph name="Dhook" format="2">
   <advance width="560"/>
   <unicode hex="018A"/>
-  <unicode hex="0257"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="280" y="776" name="top"/>
   <outline>

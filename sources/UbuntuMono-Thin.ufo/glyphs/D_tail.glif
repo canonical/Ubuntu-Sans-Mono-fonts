@@ -2,7 +2,6 @@
 <glyph name="Dtail" format="2">
   <advance width="560"/>
   <unicode hex="0189"/>
-  <unicode hex="0256"/>
   <outline>
     <component base="Eth"/>
   </outline>
