@@ -41,14 +41,14 @@ If you want to build fonts manually on your own computer:
 
 The proof files and QA tests are also available automatically via GitHub Actions - look at https://canonical.github.io/UbuntuMono-fonts.
 
-It is possible to generate custom styles directly from the variable fonts using [fontTools instancer.](https://fonttools.readthedocs.io/en/latest/varLib/instancer.html). For example, the following generates a custom font that is a close match to Ubuntu Mono’s original weight:
+It is possible to generate custom styles directly from the variable fonts using [fontTools instancer.](https://fonttools.readthedocs.io/en/latest/varLib/instancer.html). For example, the following generates a custom style that is a close match to Ubuntu Mono’s original weight:
 
 ```fonttools varLib.instancer UbuntuMono[wght].ttf wght=473```
 
 
 ## Changelog
 
-See [FONTLOG.txt](FONTLOG.txt) for summaries of updates.
+See [FONTLOG.txt](FONTLOG.txt) for a summary of updates.
 
 
 ## License
