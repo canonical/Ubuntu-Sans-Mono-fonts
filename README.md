@@ -18,19 +18,19 @@ The development is being funded by Canonical Ltd on behalf the wider Free Softwa
 
 Both the final font TrueType/OpenType files and the design files used to produce the font family are distributed under an open licence and you are expressly encouraged to experiment, modify, share and improve.
 
-http://font.ubuntu.com/
+[http://font.ubuntu.com](http://font.ubuntu.com)
 
 ![Sample Image](documentation/image1.png)
 
 A proportional-width variant, **Ubuntu**, is available in a separate repository: [https://github.com/canonical/ubuntu-fonts](https://github.com/canonical/ubuntu-fonts)
 
-## About
+## Releases
 
-Description of you and/or organisation goes here.
+You can find recent releases and release candidates in the ["Releases" tab](https://github.com/canonical/UbuntuMono-fonts/releases).
 
 ## Building
 
-Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
+Fonts are built automatically by GitHub Actions - take a look in the ["Actions" tab](https://github.com/canonical/UbuntuMono-fonts/actions) for the latest build.
 
 If you want to build fonts manually on your own computer:
 
@@ -41,15 +41,15 @@ If you want to build fonts manually on your own computer:
 
 The proof files and QA tests are also available automatically via GitHub Actions - look at https://canonical.github.io/UbuntuMono-fonts.
 
+It is possible to generate custom styles directly from the variable fonts using [fontTools instancer.](https://fonttools.readthedocs.io/en/latest/varLib/instancer.html). For example, the following generates a custom font that is a close match to Ubuntu Mono’s original weight:
+
+```fonttools varLib.instancer UbuntuMono[wght].ttf wght=473```
+
+
 ## Changelog
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
+See [FONTLOG.txt](FONTLOG.txt) for summaries of updates.
 
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
 
 ## License
 
