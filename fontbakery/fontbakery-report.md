@@ -33,7 +33,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
@@ -48,7 +48,7 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 	* Acircumflex
 	* Adieresis
 	* Agrave
-	* Alpha and 992 more.
+	* Alpha and 989 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -62,27 +62,13 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- caron.asc
+	- uni030C.alt
 
-	- circumflex.asc
+	- uni256A.001 
 
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute 
-
-	- 8 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -185,7 +171,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1340 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
@@ -200,7 +186,7 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 	* Acircumflex
 	* Adieresis
 	* Agrave
-	* Alpha and 991 more.
+	* Alpha and 988 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -214,27 +200,13 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- ampersand.001
+	- uni030C.alt
 
-	- caron.asc
+	- uni256A.001 
 
-	- circumflex.asc
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven 
-
-	- 9 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -334,7 +306,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -347,27 +319,13 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- caron.asc
+	- uni030C.alt
 
-	- circumflex.asc
+	- uni256A.001 
 
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute 
-
-	- 8 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -468,7 +426,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -481,27 +439,13 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- caron.asc
+	- uni030C.alt
 
-	- circumflex.asc
+	- uni256A.001 
 
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute 
-
-	- 8 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -600,7 +544,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
@@ -615,7 +559,7 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 	* Acircumflex
 	* Adieresis
 	* Agrave
-	* Alpha and 773 more.
+	* Alpha and 770 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -629,27 +573,13 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- caron.asc
+	- uni030C.alt
 
-	- circumflex.asc
+	- uni256A.001 
 
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute 
-
-	- 8 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -748,7 +678,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1340 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
@@ -763,7 +693,7 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 	* Acircumflex
 	* Adieresis
 	* Agrave
-	* Alpha and 762 more.
+	* Alpha and 759 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -777,27 +707,13 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- ampersand.001
+	- uni030C.alt
 
-	- caron.asc
+	- uni256A.001 
 
-	- circumflex.asc
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven 
-
-	- 9 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -891,7 +807,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
 
@@ -911,27 +827,13 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- caron.asc
+	- uni030C.alt
 
-	- circumflex.asc
+	- uni256A.001 
 
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute 
-
-	- 8 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1088,7 +990,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1340 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -1101,27 +1003,13 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- ampersand.001
+	- uni030C.alt
 
-	- caron.asc
+	- uni256A.001 
 
-	- circumflex.asc
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven 
-
-	- 9 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1219,7 +1107,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -1232,27 +1120,13 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- caron.asc
+	- uni030C.alt
 
-	- circumflex.asc
+	- uni256A.001 
 
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute 
-
-	- 8 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1365,7 +1239,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -1378,27 +1252,13 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- caron.asc
+	- uni030C.alt
 
-	- circumflex.asc
+	- uni256A.001 
 
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven
-
-	- ijacute 
-
-	- 8 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1551,7 +1411,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1340 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -1564,27 +1424,13 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- IJacute
 
-	- acute.asc
+	- ijacute
 
-	- ampersand.001
+	- uni030C.alt
 
-	- caron.asc
+	- uni256A.001 
 
-	- circumflex.asc
-
-	- eight_fraction_nine
-
-	- five_fraction_nine
-
-	- five_fraction_seven
-
-	- four_fraction_nine
-
-	- four_fraction_seven 
-
-	- 9 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- uni256B.001
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
