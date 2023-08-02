@@ -33,7 +33,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
@@ -48,7 +48,7 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 	* Acircumflex
 	* Adieresis
 	* Agrave
-	* Alpha and 1000 more.
+	* Alpha and 992 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -70,17 +70,17 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
 	- five_fraction_seven
 
-	- four_fraction_nine 
+	- four_fraction_nine
 
-	- 10 more.
+	- four_fraction_seven
+
+	- ijacute 
+
+	- 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -185,7 +185,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1359 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
@@ -200,7 +200,7 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 	* Acircumflex
 	* Adieresis
 	* Agrave
-	* Alpha and 999 more.
+	* Alpha and 991 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -224,15 +224,15 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
-	- five_fraction_seven 
+	- five_fraction_seven
 
-	- 11 more.
+	- four_fraction_nine
+
+	- four_fraction_seven 
+
+	- 9 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -334,7 +334,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -355,17 +355,17 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
 	- five_fraction_seven
 
-	- four_fraction_nine 
+	- four_fraction_nine
 
-	- 10 more.
+	- four_fraction_seven
+
+	- ijacute 
+
+	- 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -468,7 +468,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -489,17 +489,17 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
 	- five_fraction_seven
 
-	- four_fraction_nine 
+	- four_fraction_nine
 
-	- 10 more.
+	- four_fraction_seven
+
+	- ijacute 
+
+	- 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -600,7 +600,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
@@ -615,7 +615,7 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 	* Acircumflex
 	* Adieresis
 	* Agrave
-	* Alpha and 775 more.
+	* Alpha and 773 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -637,17 +637,17 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
 	- five_fraction_seven
 
-	- four_fraction_nine 
+	- four_fraction_nine
 
-	- 10 more.
+	- four_fraction_seven
+
+	- ijacute 
+
+	- 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -748,7 +748,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1359 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
@@ -763,7 +763,7 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 	* Acircumflex
 	* Adieresis
 	* Agrave
-	* Alpha and 764 more.
+	* Alpha and 762 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -787,15 +787,15 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
-	- five_fraction_seven 
+	- five_fraction_seven
 
-	- 11 more.
+	- four_fraction_nine
+
+	- four_fraction_seven 
+
+	- 9 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -891,7 +891,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
 
@@ -919,17 +919,17 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
 	- five_fraction_seven
 
-	- four_fraction_nine 
+	- four_fraction_nine
 
-	- 10 more.
+	- four_fraction_seven
+
+	- ijacute 
+
+	- 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -1088,7 +1088,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1359 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -1111,15 +1111,15 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
-	- five_fraction_seven 
+	- five_fraction_seven
 
-	- 11 more.
+	- four_fraction_nine
+
+	- four_fraction_seven 
+
+	- 9 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -1219,7 +1219,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -1240,17 +1240,17 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
 	- five_fraction_seven
 
-	- four_fraction_nine 
+	- four_fraction_nine
 
-	- 10 more.
+	- four_fraction_seven
+
+	- ijacute 
+
+	- 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -1365,7 +1365,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1355 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -1386,17 +1386,17 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
 	- five_fraction_seven
 
-	- four_fraction_nine 
+	- four_fraction_nine
 
-	- 10 more.
+	- four_fraction_seven
+
+	- ijacute 
+
+	- 8 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
@@ -1457,7 +1457,7 @@ The following glyphs do not have the recommended number of contours:
 
 	* eogonek (U+0119) contains a short segment B<<413.0,-155.0>-<420.0,-155.0>-<428.0,-153.5>> 
 
-	* 68 more.
+	* 67 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
@@ -1551,7 +1551,7 @@ But instead we have got:
 
 
 * 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1359 instead.
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1357 instead.
 Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -1574,15 +1574,15 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 	- eight_fraction_nine
 
-	- f_i
-
-	- f_l
-
 	- five_fraction_nine
 
-	- five_fraction_seven 
+	- five_fraction_seven
 
-	- 11 more.
+	- four_fraction_nine
+
+	- four_fraction_seven 
+
+	- 9 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
