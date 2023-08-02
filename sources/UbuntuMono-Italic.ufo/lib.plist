@@ -2124,7 +2124,6 @@
       <string>servicemark</string>
       <string>at.case</string>
       <string>registered.salt</string>
-      <string>ampersand.001</string>
       <string>euro</string>
       <string>hryvnia</string>
       <string>ruble</string>
@@ -3225,8 +3224,6 @@
       <string>uni0444</string>
       <key>eightinferior</key>
       <string>uni2088</string>
-      <key>eightninths</key>
-      <string>eight_fraction_nine</string>
       <key>eightsuperior</key>
       <string>uni2078</string>
       <key>einvertedbreve</key>
@@ -3345,10 +3342,6 @@
       <string>uni0473</string>
       <key>fiveinferior</key>
       <string>uni2085</string>
-      <key>fiveninths</key>
-      <string>five_fraction_nine</string>
-      <key>fivesevenths</key>
-      <string>five_fraction_seven</string>
       <key>fivesixths</key>
       <string>uni215A</string>
       <key>fivesuperior</key>
@@ -3357,10 +3350,6 @@
       <string>uni2158</string>
       <key>fourinferior</key>
       <string>uni2084</string>
-      <key>fourninths</key>
-      <string>four_fraction_nine</string>
-      <key>foursevenths</key>
-      <string>four_fraction_seven</string>
       <key>foursuperior</key>
       <string>uni2074</string>
       <key>fullBlock</key>
@@ -3747,8 +3736,6 @@
       <string>uni2120</string>
       <key>seveninferior</key>
       <string>uni2087</string>
-      <key>sevenninths</key>
-      <string>seven_fraction_nine</string>
       <key>sevensuperior</key>
       <string>uni2077</string>
       <key>sha-cy</key>
@@ -3767,8 +3754,6 @@
       <string>uni03C2</string>
       <key>sixinferior</key>
       <string>uni2086</string>
-      <key>sixsevenths</key>
-      <string>six_fraction_seven</string>
       <key>sixsuperior</key>
       <string>uni2076</string>
       <key>softhyphen</key>
@@ -3807,8 +3792,6 @@
       <string>uni2157</string>
       <key>threeinferior</key>
       <string>uni2083</string>
-      <key>threesevenths</key>
-      <string>three_fraction_seven</string>
       <key>threesuperior</key>
       <string>uni00B3</string>
       <key>tildebelowcomb</key>
@@ -3835,10 +3818,6 @@
       <string>uni2156</string>
       <key>twoinferior</key>
       <string>uni2082</string>
-      <key>twoninths</key>
-      <string>two_fraction_nine</string>
-      <key>twosevenths</key>
-      <string>two_fraction_seven</string>
       <key>twostroke</key>
       <string>uni01BB</string>
       <key>twosuperior</key>
@@ -3958,25 +3937,5 @@
       <key>zswashtail</key>
       <string>uni0240</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array>
-      <string>acute.asc</string>
-      <string>ampersand.001</string>
-      <string>caron.asc</string>
-      <string>circumflex.asc</string>
-      <string>eightninths</string>
-      <string>fiveninths</string>
-      <string>fivesevenths</string>
-      <string>fourninths</string>
-      <string>foursevenths</string>
-      <string>sevenninths</string>
-      <string>sixsevenths</string>
-      <string>threesevenths</string>
-      <string>twoninths</string>
-      <string>twosevenths</string>
-      <string>uniE0FF</string>
-      <string>uniEFFD</string>
-      <string>uniF000</string>
-    </array>
   </dict>
 </plist>

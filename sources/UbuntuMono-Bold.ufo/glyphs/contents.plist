@@ -1022,8 +1022,6 @@
     <string>acircumflex.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
-    <key>acute.asc</key>
-    <string>acute.asc.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
     <key>adblgrave</key>
@@ -1274,8 +1272,6 @@
     <string>caron.alt.glif</string>
     <key>caron.alt.short</key>
     <string>caron.alt.short.glif</string>
-    <key>caron.asc</key>
-    <string>caron.asc.glif</string>
     <key>caroncomb</key>
     <string>caroncomb.glif</string>
     <key>caroncomb.alt</key>
@@ -1316,8 +1312,6 @@
     <string>chook.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
-    <key>circumflex.asc</key>
-    <string>circumflex.asc.glif</string>
     <key>circumflexcomb</key>
     <string>circumflexcomb.glif</string>
     <key>clickalveolar</key>
@@ -1472,8 +1466,6 @@
     <string>eight.osf.glif</string>
     <key>eightinferior</key>
     <string>eightinferior.glif</string>
-    <key>eightninths</key>
-    <string>eightninths.glif</string>
     <key>eightsuperior</key>
     <string>eightsuperior.glif</string>
     <key>einvertedbreve</key>
@@ -1642,10 +1634,6 @@
     <string>fiveeighths.glif</string>
     <key>fiveinferior</key>
     <string>fiveinferior.glif</string>
-    <key>fiveninths</key>
-    <string>fiveninths.glif</string>
-    <key>fivesevenths</key>
-    <string>fivesevenths.glif</string>
     <key>fivesixths</key>
     <string>fivesixths.glif</string>
     <key>fivesuperior</key>
@@ -1666,10 +1654,6 @@
     <string>fourfifths.glif</string>
     <key>fourinferior</key>
     <string>fourinferior.glif</string>
-    <key>fourninths</key>
-    <string>fourninths.glif</string>
-    <key>foursevenths</key>
-    <string>foursevenths.glif</string>
     <key>foursuperior</key>
     <string>foursuperior.glif</string>
     <key>fraction</key>
@@ -2358,8 +2342,6 @@
     <string>seveneighths.glif</string>
     <key>seveninferior</key>
     <string>seveninferior.glif</string>
-    <key>sevenninths</key>
-    <string>sevenninths.glif</string>
     <key>sevensuperior</key>
     <string>sevensuperior.glif</string>
     <key>sha-cy</key>
@@ -2388,8 +2370,6 @@
     <string>six.osf.glif</string>
     <key>sixinferior</key>
     <string>sixinferior.glif</string>
-    <key>sixsevenths</key>
-    <string>sixsevenths.glif</string>
     <key>sixsuperior</key>
     <string>sixsuperior.glif</string>
     <key>slash</key>
@@ -2462,8 +2442,6 @@
     <string>threeinferior.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
-    <key>threesevenths</key>
-    <string>threesevenths.glif</string>
     <key>threesuperior</key>
     <string>threesuperior.glif</string>
     <key>tilde</key>
@@ -2508,10 +2486,6 @@
     <string>twofifths.glif</string>
     <key>twoinferior</key>
     <string>twoinferior.glif</string>
-    <key>twoninths</key>
-    <string>twoninths.glif</string>
-    <key>twosevenths</key>
-    <string>twosevenths.glif</string>
     <key>twostroke</key>
     <string>twostroke.glif</string>
     <key>twosuperior</key>
@@ -2560,12 +2534,6 @@
     <string>umacron-cy.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
-    <key>uniE0FF</key>
-    <string>uniE_0F_F_.glif</string>
-    <key>uniEFFD</key>
-    <string>uniE_F_F_D_.glif</string>
-    <key>uniF000</key>
-    <string>uniF_000.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>upsilon</key>

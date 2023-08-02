@@ -1020,8 +1020,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.acute</key>
       <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.acute.asc</key>
-      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.acutecomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.adblgrave</key>
@@ -1105,8 +1103,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.amacron</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ampersand</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.ampersand.001</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.aogonek</key>
       <integer>0</integer>
@@ -1274,8 +1270,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.caron.alt.short</key>
       <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.caron.asc</key>
-      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.caroncomb</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.caroncomb.alt</key>
@@ -1315,8 +1309,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.chook</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.circumflex</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.circumflex.asc</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.circumflexcomb</key>
       <integer>0</integer>
@@ -1473,8 +1465,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.eight.osf</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.eightinferior</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.eightninths</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.eightsuperior</key>
       <integer>0</integer>
@@ -1644,10 +1634,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.fiveinferior</key>
       <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.fiveninths</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.fivesevenths</key>
-      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.fivesixths</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.fivesuperior</key>
@@ -1667,10 +1653,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.fourfifths</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.fourinferior</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.fourninths</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.foursevenths</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.foursuperior</key>
       <integer>0</integer>
@@ -2364,8 +2346,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.seveninferior</key>
       <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.sevenninths</key>
-      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.sevensuperior</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.sha-cy</key>
@@ -2393,8 +2373,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.six.osf</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.sixinferior</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.sixsevenths</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.sixsuperior</key>
       <integer>0</integer>
@@ -2470,8 +2448,6 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.threequarters</key>
       <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.threesevenths</key>
-      <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.threesuperior</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.tilde</key>
@@ -2515,10 +2491,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.twofifths</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.twoinferior</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.twoninths</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.twosevenths</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.twostroke</key>
       <integer>0</integer>
@@ -2567,12 +2539,6 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.umacron-cy</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.underscore</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uniE0FF</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uniEFFD</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.layerOrderInGlyph.uniF000</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.uogonek</key>
       <integer>0</integer>

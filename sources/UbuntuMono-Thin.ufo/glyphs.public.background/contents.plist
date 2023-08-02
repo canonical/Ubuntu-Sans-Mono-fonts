@@ -338,8 +338,6 @@
     <string>a.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
-    <key>acute.asc</key>
-    <string>acute.asc.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
     <key>alpha</key>
@@ -384,8 +382,6 @@
     <string>caron.glif</string>
     <key>caron.alt.short</key>
     <string>caron.alt.short.glif</string>
-    <key>caron.asc</key>
-    <string>caron.asc.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
     <key>cedilla</key>

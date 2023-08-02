@@ -390,8 +390,6 @@
     <string>a.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
-    <key>acute.asc</key>
-    <string>acute.asc.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
     <key>alpha</key>
@@ -538,8 +536,6 @@
     <string>caron.alt.glif</string>
     <key>caron.alt.short</key>
     <string>caron.alt.short.glif</string>
-    <key>caron.asc</key>
-    <string>caron.asc.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
     <key>cedilla</key>
@@ -562,8 +558,6 @@
     <string>chook.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
-    <key>circumflex.asc</key>
-    <string>circumflex.asc.glif</string>
     <key>clickalveolar</key>
     <string>clickalveolar.glif</string>
     <key>comma</key>
@@ -662,8 +656,6 @@
     <string>eight.numr.glif</string>
     <key>eight.osf</key>
     <string>eight.osf.glif</string>
-    <key>eightninths</key>
-    <string>eightninths.glif</string>
     <key>el-cy</key>
     <string>el-cy.glif</string>
     <key>ellipsis</key>
@@ -742,10 +734,6 @@
     <string>five.osf.glif</string>
     <key>fiveeighths</key>
     <string>fiveeighths.glif</string>
-    <key>fiveninths</key>
-    <string>fiveninths.glif</string>
-    <key>fivesevenths</key>
-    <string>fivesevenths.glif</string>
     <key>fivesixths</key>
     <string>fivesixths.glif</string>
     <key>fl</key>
@@ -760,10 +748,6 @@
     <string>four.osf.glif</string>
     <key>fourfifths</key>
     <string>fourfifths.glif</string>
-    <key>fourninths</key>
-    <string>fourninths.glif</string>
-    <key>foursevenths</key>
-    <string>foursevenths.glif</string>
     <key>fraction</key>
     <string>fraction.glif</string>
     <key>fullBlock</key>
@@ -1114,8 +1098,6 @@
     <string>seven.osf.glif</string>
     <key>seveneighths</key>
     <string>seveneighths.glif</string>
-    <key>sevenninths</key>
-    <string>sevenninths.glif</string>
     <key>sha-cy</key>
     <string>sha-cy.glif</string>
     <key>shadedark</key>
@@ -1136,8 +1118,6 @@
     <string>six.numr.glif</string>
     <key>six.osf</key>
     <string>six.osf.glif</string>
-    <key>sixsevenths</key>
-    <string>sixsevenths.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
     <key>softsign-cy</key>
@@ -1188,8 +1168,6 @@
     <string>threefifths.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
-    <key>threesevenths</key>
-    <string>threesevenths.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
     <key>tildecomb_macroncomb</key>
@@ -1222,10 +1200,6 @@
     <string>two.osf.glif</string>
     <key>twofifths</key>
     <string>twofifths.glif</string>
-    <key>twoninths</key>
-    <string>twoninths.glif</string>
-    <key>twosevenths</key>
-    <string>twosevenths.glif</string>
     <key>twostroke</key>
     <string>twostroke.glif</string>
     <key>twothirds</key>
@@ -1236,12 +1210,6 @@
     <string>uhorn.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
-    <key>uniE0FF</key>
-    <string>uniE_0F_F_.glif</string>
-    <key>uniEFFD</key>
-    <string>uniE_F_F_D_.glif</string>
-    <key>uniF000</key>
-    <string>uniF_000.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>upsilon</key>
