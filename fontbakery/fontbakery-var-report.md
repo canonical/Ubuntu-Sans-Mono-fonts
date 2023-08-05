@@ -71,29 +71,11 @@ Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Detect any interpolation issues in the font. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/interpolation_issues">com.google.fonts/check/interpolation_issues</a>)</summary><div>
 
 
-* ⚠ **WARN** Interpolation issues were found in the font: 	- Contour order differs in glyph 'quotedbl': [0, 1] in <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116ad130>, [1, 0] in <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116adf10>.
+* ⚠ **WARN** Interpolation issues were found in the font: 	- Contour 3 start point differs in glyph 'uni01C4' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1111a8310> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1111a83d0>
 
-	- Contour 0 start point differs in glyph 'caron' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116ad130> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116adf10>
+	- Contour 1 start point differs in glyph 'uni04A8' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1111a8310> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1111a83d0> 
 
-	- Contour order differs in glyph 'hungarumlaut': [0, 1] in <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116ad130>, [1, 0] in <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116adf10>.
-
-	- Contour 3 start point differs in glyph 'uni01C4' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116ad130> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116adf10>
-
-	- Contour 0 start point differs in glyph 'uni018E' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116ad130> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116adf10>
-
-	- Contour 1 start point differs in glyph 'uni01EA' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116ad130> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116adf10>
-
-	- Contour 1 start point differs in glyph 'uni01EB' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116ad130> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116adf10>
-
-	- Contour 0 start point differs in glyph 'uni04F6' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116ad130> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116adf10>
-
-	- Contour 0 start point differs in glyph 'Gestrokecy' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116ad130> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116adf10>
-
-	- Contour 1 start point differs in glyph 'uni04A8' between location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116ad130> and location <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1116adf10> 
-
-	- 9 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: interpolation-issues]
+	- Contour order differs in glyph 'ijacute': [0, 1, 2, 3] in <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1111a8310>, [0, 1, 3, 2] in <fontTools.ttLib.ttGlyphSet._TTGlyphSetGlyf object at 0x1111a83d0>. [code: interpolation-issues]
 </div></details><details><summary>⚠ <b>WARN:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
 
 
