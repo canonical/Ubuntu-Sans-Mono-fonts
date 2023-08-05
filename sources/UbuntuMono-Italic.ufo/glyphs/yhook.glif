@@ -2,6 +2,8 @@
 <glyph name="yhook" format="2">
   <advance width="560"/>
   <unicode hex="01B4"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <contour>
       <point x="20" y="-188" type="curve" smooth="yes"/>

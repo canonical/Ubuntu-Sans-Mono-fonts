@@ -2,7 +2,7 @@
 <glyph name="i.locl" format="2">
   <advance width="560"/>
   <anchor x="218" y="0" name="bottom"/>
-  <anchor x="420" y="7" name="ogonek"/>
+  <anchor x="444" y="10" name="ogonek"/>
   <anchor x="350" y="745" name="top"/>
   <outline>
     <component base="i"/>

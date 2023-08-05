@@ -2,6 +2,7 @@
 <glyph name="Umacron-cy" format="2">
   <advance width="560"/>
   <unicode hex="04EE"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <component base="U-cy"/>
     <component base="macron" xOffset="39" yOffset="156"/>

@@ -2,6 +2,8 @@
 <glyph name="Imacron-cy" format="2">
   <advance width="560"/>
   <unicode hex="04E2"/>
+  <anchor x="477" y="0" name="bottomright"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <component base="Ii-cy"/>
     <component base="macron" xOffset="49" yOffset="156"/>

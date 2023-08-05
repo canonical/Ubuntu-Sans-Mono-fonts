@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless_dotbelowcomb" format="2">
   <advance width="560"/>
-  <anchor x="280" y="0" name="bottom"/>
-  <anchor x="504" y="10" name="ogonek"/>
-  <anchor x="258" y="518" name="top"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="343" y="526" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="dotbelowcomb" xOffset="41"/>

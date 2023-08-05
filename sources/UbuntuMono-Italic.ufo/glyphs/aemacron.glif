@@ -2,6 +2,8 @@
 <glyph name="aemacron" format="2">
   <advance width="560"/>
   <unicode hex="01E3"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <component base="ae"/>
     <component base="macron" xOffset="10"/>

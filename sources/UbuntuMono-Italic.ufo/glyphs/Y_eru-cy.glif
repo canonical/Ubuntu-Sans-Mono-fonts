@@ -2,6 +2,7 @@
 <glyph name="Yeru-cy" format="2">
   <advance width="560"/>
   <unicode hex="042B"/>
+  <anchor x="382" y="685" name="top"/>
   <outline>
     <contour>
       <point x="98" y="-5" type="curve" smooth="yes"/>

@@ -2,6 +2,8 @@
 <glyph name="ezh" format="2">
   <advance width="560"/>
   <unicode hex="0292"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="343" y="526" name="top"/>
   <outline>
     <contour>
       <point x="150" y="-185" type="curve" smooth="yes"/>

@@ -2,6 +2,7 @@
 <glyph name="Eogonek" format="2">
   <advance width="560"/>
   <unicode hex="0118"/>
+  <anchor x="382" y="685" name="top"/>
   <outline>
     <contour>
       <point x="365" y="-186" type="curve" smooth="yes"/>

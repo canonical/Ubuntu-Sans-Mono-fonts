@@ -2,6 +2,10 @@
 <glyph name="Etapsili" format="2">
   <advance width="560"/>
   <unicode hex="1F28"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="300" y="347" name="center"/>
+  <anchor x="381" y="685" name="top"/>
+  <anchor x="123" y="693" name="topleft"/>
   <outline>
     <component base="H"/>
     <component base="psili" xOffset="-319" yOffset="-103"/>

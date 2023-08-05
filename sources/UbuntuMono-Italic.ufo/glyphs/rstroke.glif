@@ -2,6 +2,8 @@
 <glyph name="rstroke" format="2">
   <advance width="560"/>
   <unicode hex="024D"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <contour>
       <point x="62" y="0" type="line"/>

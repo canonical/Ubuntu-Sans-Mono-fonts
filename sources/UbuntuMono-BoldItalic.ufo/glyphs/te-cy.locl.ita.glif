@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="te-cy.locl.ita" format="2">
   <advance width="560"/>
+  <anchor x="477" y="0" name="bottomright"/>
   <outline>
     <contour>
       <point x="117" y="-13" type="curve" smooth="yes"/>

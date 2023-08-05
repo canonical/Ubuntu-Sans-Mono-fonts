@@ -2,6 +2,7 @@
 <glyph name="upsilonpsilivaria" format="2">
   <advance width="560"/>
   <unicode hex="1F52"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <component base="upsilon"/>
     <component base="psilivaria" xOffset="23"/>

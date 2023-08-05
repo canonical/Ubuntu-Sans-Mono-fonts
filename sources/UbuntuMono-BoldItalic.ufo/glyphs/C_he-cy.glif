@@ -2,6 +2,8 @@
 <glyph name="Che-cy" format="2">
   <advance width="560"/>
   <unicode hex="0427"/>
+  <anchor x="477" y="0" name="bottomright"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <contour>
       <point x="300" y="0" type="line"/>

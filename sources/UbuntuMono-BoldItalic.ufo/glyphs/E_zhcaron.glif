@@ -2,6 +2,8 @@
 <glyph name="Ezhcaron" format="2">
   <advance width="560"/>
   <unicode hex="01EE"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <component base="Ezh"/>
     <component base="caron" xOffset="31" yOffset="156"/>

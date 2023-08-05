@@ -2,6 +2,9 @@
 <glyph name="Acaron" format="2">
   <advance width="560"/>
   <unicode hex="01CD"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <component base="A"/>
     <component base="caron" xOffset="25" yOffset="156"/>

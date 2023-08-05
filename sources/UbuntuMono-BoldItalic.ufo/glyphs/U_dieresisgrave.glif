@@ -2,6 +2,10 @@
 <glyph name="Udieresisgrave" format="2">
   <advance width="560"/>
   <unicode hex="01DB"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="431" y="930" name="top"/>
+  <anchor x="643" y="693" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="dieresiscomb_gravecomb.cap" xOffset="-7"/>

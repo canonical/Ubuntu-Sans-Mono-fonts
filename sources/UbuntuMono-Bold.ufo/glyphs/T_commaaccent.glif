@@ -4,7 +4,7 @@
   <unicode hex="021A"/>
   <anchor x="280" y="-190" name="bottom"/>
   <anchor x="280" y="389" name="center"/>
-  <anchor x="280" y="776" name="top"/>
+  <anchor x="280" y="685" name="top"/>
   <outline>
     <component base="T"/>
     <component base="commaaccentcomb"/>

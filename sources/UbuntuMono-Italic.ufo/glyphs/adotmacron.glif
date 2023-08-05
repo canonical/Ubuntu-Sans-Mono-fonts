@@ -2,6 +2,9 @@
 <glyph name="adotmacron" format="2">
   <advance width="560"/>
   <unicode hex="01E1"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="444" y="10" name="ogonek"/>
+  <anchor x="425" y="797" name="top"/>
   <outline>
     <component base="a"/>
     <component base="dotaccentcomb_macroncomb" xOffset="30"/>

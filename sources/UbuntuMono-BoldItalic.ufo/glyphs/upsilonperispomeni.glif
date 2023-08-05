@@ -2,6 +2,7 @@
 <glyph name="upsilonperispomeni" format="2">
   <advance width="560"/>
   <unicode hex="1FE6"/>
+  <anchor x="343" y="526" name="top"/>
   <outline>
     <component base="upsilon"/>
     <component base="breveinvertedcomb"/>

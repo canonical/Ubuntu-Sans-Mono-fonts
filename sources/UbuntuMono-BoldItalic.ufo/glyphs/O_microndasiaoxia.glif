@@ -2,6 +2,12 @@
 <glyph name="Omicrondasiaoxia" format="2">
   <advance width="560"/>
   <unicode hex="1F4D"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="300" y="347" name="center"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="381" y="685" name="top"/>
+  <anchor x="123" y="693" name="topleft"/>
+  <anchor x="643" y="693" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="dasiaoxia" xOffset="-391" yOffset="-103"/>

@@ -2,6 +2,8 @@
 <glyph name="Rhodasia" format="2">
   <advance width="560"/>
   <unicode hex="1FEC"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <component base="P"/>
     <component base="dasia" xOffset="-346" yOffset="-71"/>

@@ -2,6 +2,8 @@
 <glyph name="Schwa-cy" format="2">
   <advance width="560"/>
   <unicode hex="04D8"/>
+  <anchor x="381" y="685" name="top"/>
+  <anchor x="217" y="0" name="bottom"/>
   <outline>
     <component base="Schwa"/>
   </outline>

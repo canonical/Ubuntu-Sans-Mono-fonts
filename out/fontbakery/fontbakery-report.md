@@ -309,7 +309,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* 63 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[13] UbuntuMono-ExtraLight.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] UbuntuMono-ExtraLight.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
 
 
 * 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
@@ -375,29 +375,25 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: Ccaron	Contours detected: 3	Expected: 2
+	- Glyph name: uni01C4	Contours detected: 5	Expected: 4
 
-	- Glyph name: ccaron	Contours detected: 3	Expected: 2
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
 
-	- Glyph name: Dcaron	Contours detected: 4	Expected: 3
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
 
-	- Glyph name: Ecaron	Contours detected: 3	Expected: 2
+	- Glyph name: shade	Contours detected: 72	Expected: 85
 
-	- Glyph name: ecaron	Contours detected: 4	Expected: 3
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
 
-	- Glyph name: Ncaron	Contours detected: 3	Expected: 2
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
 
-	- Glyph name: ncaron	Contours detected: 3	Expected: 2
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
 
-	- Glyph name: Ohungarumlaut	Contours detected: 3	Expected: 4
+	- Glyph name: shade	Contours detected: 72	Expected: 85
 
-	- Glyph name: ohungarumlaut	Contours detected: 3	Expected: 4
+	- Glyph name: uni01C4	Contours detected: 5	Expected: 4 
 
-	- Glyph name: Rcaron	Contours detected: 4	Expected: 3 
-
-	- 148 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
 
@@ -408,16 +404,38 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
 	 tonos.cap (unencoded) [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Are any segments inordinately short? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_short_segments">com.google.fonts/check/outline_short_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have segments which seem very short:
+
+	* two (U+0032) contains a short segment B<<98.0,0.0>-<97.0,8.0>-<97.0,12.0>>
+
+	* two (U+0032) contains a short segment B<<97.0,12.0>-<97.0,16.0>-<97.0,21.0>>
+
+	* three (U+0033) contains a short segment L<<206.0,392.0>--<223.0,392.0>>
+
+	* at (U+0040) contains a short segment B<<411.0,475.0>-<424.0,475.0>-<434.5,474.0>>
+
+	* at (U+0040) contains a short segment B<<434.5,474.0>-<445.0,473.0>-<457.0,470.0>>
+
+	* sterling (U+00A3) contains a short segment L<<206.0,316.0>--<206.0,305.0>>
+
+	* onehalf (U+00BD) contains a short segment B<<321.0,9.0>-<321.0,16.0>-<321.0,17.0>>
+
+	* ae (U+00E6) contains a short segment B<<531.5,262.5>-<531.0,256.0>-<531.0,251.0>>
+
+	* eogonek (U+0119) contains a short segment B<<500.0,285.0>-<500.0,278.0>-<499.5,269.5>>
+
+	* eogonek (U+0119) contains a short segment B<<499.5,269.5>-<499.0,261.0>-<498.0,253.0>> 
+
+	* 85 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: found-short-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* Gestrokecy (U+0492): L<<176.0,571.0>--<199.0,571.0>> -> L<<199.0,571.0>--<199.0,571.0>>
-
-	* Gestrokecy (U+0492): L<<199.0,571.0>--<199.0,571.0>> -> L<<199.0,571.0>--<353.0,571.0>>
-
-	* Gestrokecy (U+0492): L<<199.0,571.0>--<353.0,571.0>> -> L<<353.0,571.0>--<353.0,571.0>>
 
 	* uni01CA (U+01CA): L<<266.0,125.0>--<259.0,250.0>> -> L<<259.0,250.0>--<259.0,693.0>>
 
@@ -427,12 +445,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* uni01CB (U+01CB): L<<98.0,580.0>--<105.0,444.0>> -> L<<105.0,444.0>--<105.0,0.0>>
 
-	* uni04B4 (U+04B4): L<<363.0,43.0>--<428.0,484.0>> -> L<<428.0,484.0>--<452.0,693.0>>
-
-	* uni04B4 (U+04B4): L<<452.0,693.0>--<480.0,252.0>> -> L<<480.0,252.0>--<512.0,43.0>>
-
-	* uni04B4 (U+04B4): L<<480.0,252.0>--<512.0,43.0>> -> L<<512.0,43.0>--<527.0,-101.0>>
-
 	* uni2116 (U+2116): L<<260.0,121.0>--<253.0,253.0>> -> L<<253.0,253.0>--<253.0,693.0>> 
 
 	* uni2116 (U+2116): L<<88.0,584.0>--<94.0,446.0>> -> L<<94.0,446.0>--<94.0,0.0>> [code: found-colinear-vectors]
@@ -440,16 +452,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* Ohungarumlaut (U+0150): L<<284.0,758.0>--<304.0,786.0>>/L<<304.0,786.0>--<265.0,738.0>> = 3.5561810942550234
-
-	* Uhungarumlaut (U+0170): L<<271.0,758.0>--<291.0,786.0>>/L<<291.0,786.0>--<252.0,738.0>> = 3.5561810942550234
-
-	* hungarumlaut (U+02DD): L<<244.0,606.0>--<264.0,634.0>>/L<<264.0,634.0>--<225.0,586.0>> = 3.5561810942550234
-
-	* ohungarumlaut (U+0151): L<<284.0,606.0>--<304.0,634.0>>/L<<304.0,634.0>--<265.0,586.0>> = 3.5561810942550234
-
-	* uhungarumlaut (U+0171): L<<274.0,606.0>--<294.0,634.0>>/L<<294.0,634.0>--<255.0,586.0>> = 3.5561810942550234
 
 	* uni01CA (U+01CA): B<<172.5,290.5>-<131.0,438.0>-<91.0,580.0>>/L<<91.0,580.0>--<97.0,446.0>> = 13.16823457364228
 
@@ -459,11 +461,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* uni01CB (U+01CB): L<<115.0,693.0>--<273.0,125.0>>/L<<273.0,125.0>--<266.0,253.0>> = 12.41467447918525
 
-	* uni0200 (U+0200): L<<342.0,738.0>--<312.0,774.0>>/L<<312.0,774.0>--<323.0,759.0>> = 3.551733354820409 
+	* uni2116 (U+2116): L<<105.0,693.0>--<260.0,121.0>>/L<<260.0,121.0>--<253.0,253.0>> = 12.12627548922312 
 
-	* 18 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+	* uni2116 (U+2116): L<<247.0,0.0>--<88.0,584.0>>/L<<88.0,584.0>--<94.0,446.0>> = 12.740658183940608 [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
@@ -1292,29 +1292,25 @@ Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: Ccaron	Contours detected: 3	Expected: 2
+	- Glyph name: uni01C4	Contours detected: 5	Expected: 4
 
-	- Glyph name: ccaron	Contours detected: 3	Expected: 2
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
 
-	- Glyph name: Dcaron	Contours detected: 4	Expected: 3
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
 
-	- Glyph name: Ecaron	Contours detected: 3	Expected: 2
+	- Glyph name: shade	Contours detected: 72	Expected: 85
 
-	- Glyph name: ecaron	Contours detected: 4	Expected: 3
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
 
-	- Glyph name: Ncaron	Contours detected: 3	Expected: 2
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
 
-	- Glyph name: ncaron	Contours detected: 3	Expected: 2
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
 
-	- Glyph name: Ohungarumlaut	Contours detected: 3	Expected: 4
+	- Glyph name: shade	Contours detected: 72	Expected: 85
 
-	- Glyph name: ohungarumlaut	Contours detected: 3	Expected: 4
+	- Glyph name: uni01C4	Contours detected: 5	Expected: 4 
 
-	- Glyph name: Rcaron	Contours detected: 4	Expected: 3 
-
-	- 98 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
 
@@ -1330,10 +1326,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni018E (U+018E): L<<358.0,550.0>--<174.0,638.0>> -> L<<174.0,638.0>--<71.0,683.0>>
-
-	* uni018E (U+018E): L<<373.0,230.0>--<197.0,334.0>> -> L<<197.0,334.0>--<106.0,379.0>>
-
 	* uni01CA (U+01CA): L<<263.0,153.0>--<252.0,323.0>> -> L<<252.0,323.0>--<252.0,693.0>>
 
 	* uni01CA (U+01CA): L<<93.0,541.0>--<103.0,368.0>> -> L<<103.0,368.0>--<103.0,0.0>>
@@ -1341,10 +1333,6 @@ Use -F or --full-lists to disable shortening of long lists.
 	* uni01CB (U+01CB): L<<267.0,153.0>--<256.0,330.0>> -> L<<256.0,330.0>--<256.0,693.0>>
 
 	* uni01CB (U+01CB): L<<97.0,541.0>--<106.0,362.0>> -> L<<106.0,362.0>--<106.0,0.0>>
-
-	* uni04B4 (U+04B4): L<<464.0,-123.0>--<349.0,0.0>> -> L<<349.0,0.0>--<287.0,62.0>>
-
-	* uni04B4 (U+04B4): L<<517.0,-185.0>--<464.0,-123.0>> -> L<<464.0,-123.0>--<349.0,0.0>>
 
 	* uni2116 (U+2116): L<<260.0,145.0>--<250.0,329.0>> -> L<<250.0,329.0>--<250.0,693.0>> 
 
@@ -1489,7 +1477,7 @@ The following glyphs do not have the recommended number of contours:
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 11 | 33 | 82 | 1351 | 67 | 992 | 0 |
+| 11 | 33 | 83 | 1351 | 67 | 991 | 0 |
 | 0% | 1% | 3% | 53% | 3% | 39% | 0% |
 
 **Note:** The following loglevels were omitted in this report:

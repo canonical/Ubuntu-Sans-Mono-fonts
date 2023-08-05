@@ -2,6 +2,9 @@
 <glyph name="Alphadasia" format="2">
   <advance width="560"/>
   <unicode hex="1F09"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="449" y="10" name="ogonek"/>
+  <anchor x="387" y="685" name="top"/>
   <outline>
     <component base="A" xOffset="5"/>
     <component base="dasia" xOffset="-250" yOffset="-61"/>

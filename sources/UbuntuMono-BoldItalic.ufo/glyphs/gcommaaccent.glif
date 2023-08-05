@@ -2,6 +2,8 @@
 <glyph name="gcommaaccent" format="2">
   <advance width="560"/>
   <unicode hex="0123"/>
+  <anchor x="172" y="-185" name="bottom"/>
+  <anchor x="454" y="793" name="top"/>
   <outline>
     <component base="g"/>
     <component base="commaturnedabovecomb" xOffset="34"/>

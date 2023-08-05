@@ -2,6 +2,8 @@
 <glyph name="florin" format="2">
   <advance width="560"/>
   <unicode hex="0192"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="404" y="776" name="top"/>
   <outline>
     <component base="f"/>
   </outline>

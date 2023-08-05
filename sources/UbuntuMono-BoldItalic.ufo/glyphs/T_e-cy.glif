@@ -2,6 +2,9 @@
 <glyph name="Te-cy" format="2">
   <advance width="560"/>
   <unicode hex="0422"/>
+  <anchor x="477" y="0" name="bottomright"/>
+  <anchor x="300" y="347" name="center"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <component base="T"/>
   </outline>

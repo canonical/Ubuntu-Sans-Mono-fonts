@@ -2,6 +2,10 @@
 <glyph name="tdotbelow" format="2">
   <advance width="560"/>
   <unicode hex="1E6D"/>
+  <anchor x="226" y="-205" name="bottom"/>
+  <anchor x="280" y="263" name="center"/>
+  <anchor x="343" y="526" name="top"/>
+  <anchor x="663" y="776" name="topright"/>
   <outline>
     <component base="t"/>
     <component base="dotbelowcomb" xOffset="100"/>

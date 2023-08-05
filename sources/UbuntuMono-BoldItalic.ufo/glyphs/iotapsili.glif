@@ -3,8 +3,8 @@
   <advance width="560"/>
   <unicode hex="1F30"/>
   <anchor x="217" y="0" name="bottom"/>
-  <anchor x="472" y="15" name="ogonek"/>
-  <anchor x="323" y="526" name="top"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="343" y="526" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="psili" xOffset="20"/>

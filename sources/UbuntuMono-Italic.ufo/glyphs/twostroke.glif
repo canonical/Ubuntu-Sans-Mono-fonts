@@ -2,6 +2,8 @@
 <glyph name="twostroke" format="2">
   <advance width="560"/>
   <unicode hex="01BB"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="404" y="776" name="top"/>
   <outline>
     <contour>
       <point x="31" y="0" type="curve"/>

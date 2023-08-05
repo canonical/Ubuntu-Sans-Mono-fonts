@@ -2,6 +2,10 @@
 <glyph name="Epsilonpsilivaria" format="2">
   <advance width="560"/>
   <unicode hex="1F1A"/>
+  <anchor x="193" y="0" name="bottom"/>
+  <anchor x="419" y="10" name="ogonek"/>
+  <anchor x="357" y="685" name="top"/>
+  <anchor x="99" y="693" name="topleft"/>
   <outline>
     <component base="E" xOffset="-25"/>
     <component base="psilivaria" xOffset="-395" yOffset="-61"/>

@@ -2,6 +2,8 @@
 <glyph name="tonetwo" format="2">
   <advance width="560"/>
   <unicode hex="01A8"/>
+  <anchor x="478" y="0" name="bottomright"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <component base="ge-cy"/>
   </outline>

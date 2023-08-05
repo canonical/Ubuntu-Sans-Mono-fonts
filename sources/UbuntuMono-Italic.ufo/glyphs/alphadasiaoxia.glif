@@ -2,6 +2,7 @@
 <glyph name="alphadasiaoxia" format="2">
   <advance width="560"/>
   <unicode hex="1F05"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <component base="alpha"/>
     <component base="dasiaoxia" xOffset="16"/>

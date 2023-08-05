@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ge-cy.locl.ita" format="2">
   <advance width="560"/>
-  <anchor x="218" y="0" name="bottom"/>
-  <anchor x="420" y="7" name="ogonek"/>
-  <anchor x="322" y="518" name="top"/>
+  <anchor x="478" y="0" name="bottomright"/>
+  <anchor x="342" y="518" name="top"/>
+  <anchor x="444" y="10" name="ogonek"/>
   <outline>
     <component base="idotless"/>
     <component base="macron" xOffset="-7"/>

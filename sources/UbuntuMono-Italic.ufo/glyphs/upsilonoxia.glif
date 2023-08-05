@@ -2,6 +2,7 @@
 <glyph name="upsilonoxia" format="2">
   <advance width="560"/>
   <unicode hex="1F7B"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <component base="upsilon"/>
     <component base="oxia" xOffset="2"/>

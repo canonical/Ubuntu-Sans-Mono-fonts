@@ -2,6 +2,7 @@
 <glyph name="etapsilioxia" format="2">
   <advance width="560"/>
   <unicode hex="1F24"/>
+  <anchor x="343" y="526" name="top"/>
   <outline>
     <component base="eta"/>
     <component base="psilioxia" xOffset="40"/>

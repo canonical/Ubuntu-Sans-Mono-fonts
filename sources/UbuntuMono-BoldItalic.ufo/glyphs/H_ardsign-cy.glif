@@ -2,6 +2,7 @@
 <glyph name="Hardsign-cy" format="2">
   <advance width="560"/>
   <unicode hex="042A"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <contour>
       <point x="211" y="-9" type="curve" smooth="yes"/>

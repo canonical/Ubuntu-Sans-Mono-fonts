@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="de-cy.locl.ita" format="2">
   <advance width="560"/>
+  <anchor x="172" y="-185" name="bottom"/>
+  <anchor x="343" y="526" name="top"/>
   <outline>
     <component base="g"/>
   </outline>

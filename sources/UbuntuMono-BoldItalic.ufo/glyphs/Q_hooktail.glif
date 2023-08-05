@@ -2,6 +2,8 @@
 <glyph name="Qhooktail" format="2">
   <advance width="560"/>
   <unicode hex="024A"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <contour>
       <point x="430" y="-187" type="curve" smooth="yes"/>

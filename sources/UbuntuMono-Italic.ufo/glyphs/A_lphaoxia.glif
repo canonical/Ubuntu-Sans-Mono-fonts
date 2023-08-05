@@ -2,6 +2,9 @@
 <glyph name="Alphaoxia" format="2">
   <advance width="560"/>
   <unicode hex="1FBB"/>
+  <anchor x="228" y="0" name="bottom"/>
+  <anchor x="454" y="10" name="ogonek"/>
+  <anchor x="392" y="685" name="top"/>
   <outline>
     <component base="A" xOffset="10"/>
     <component base="oxia" xOffset="-213" yOffset="-71"/>

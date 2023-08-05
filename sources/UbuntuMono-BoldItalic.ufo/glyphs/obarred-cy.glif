@@ -2,6 +2,7 @@
 <glyph name="obarred-cy" format="2">
   <advance width="560"/>
   <unicode hex="04E9"/>
+  <anchor x="343" y="526" name="top"/>
   <outline>
     <contour>
       <point x="226" y="-15" type="curve" smooth="yes"/>

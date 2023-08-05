@@ -2,6 +2,8 @@
 <glyph name="ge-cy" format="2">
   <advance width="560"/>
   <unicode hex="0433"/>
+  <anchor x="478" y="0" name="bottomright"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <contour>
       <point x="256" y="-12" type="curve" smooth="yes"/>

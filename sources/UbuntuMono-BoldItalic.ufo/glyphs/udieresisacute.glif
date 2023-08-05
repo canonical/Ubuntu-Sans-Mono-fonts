@@ -2,6 +2,10 @@
 <glyph name="udieresisacute" format="2">
   <advance width="560"/>
   <unicode hex="01D8"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="431" y="894" name="top"/>
+  <anchor x="603" y="526" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="dieresiscomb_acutecomb" xOffset="-9"/>

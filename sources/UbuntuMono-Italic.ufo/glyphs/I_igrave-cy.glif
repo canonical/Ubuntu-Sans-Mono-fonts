@@ -2,6 +2,8 @@
 <glyph name="Iigrave-cy" format="2">
   <advance width="560"/>
   <unicode hex="040D"/>
+  <anchor x="478" y="0" name="bottomright"/>
+  <anchor x="382" y="685" name="top"/>
   <outline>
     <component base="Ii-cy"/>
     <component base="grave" xOffset="38" yOffset="156"/>

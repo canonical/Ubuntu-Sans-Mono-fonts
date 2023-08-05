@@ -2,6 +2,8 @@
 <glyph name="Tonefive" format="2">
   <advance width="560"/>
   <unicode hex="01BC"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="382" y="685" name="top"/>
   <outline>
     <contour>
       <point x="191" y="-14" type="curve" smooth="yes"/>

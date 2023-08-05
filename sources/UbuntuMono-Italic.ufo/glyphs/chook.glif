@@ -2,6 +2,8 @@
 <glyph name="chook" format="2">
   <advance width="560"/>
   <unicode hex="0188"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <contour>
       <point x="240" y="-12" type="curve" smooth="yes"/>

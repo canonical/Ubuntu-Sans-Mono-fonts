@@ -2,6 +2,10 @@
 <glyph name="iishort-cy" format="2">
   <advance width="560"/>
   <unicode hex="0439"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="376" y="767" name="top"/>
+  <anchor x="603" y="526" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="brevecomb.cyr" xOffset="-4"/>

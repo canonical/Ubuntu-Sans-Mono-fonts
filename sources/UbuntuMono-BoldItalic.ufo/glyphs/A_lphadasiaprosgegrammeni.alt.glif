@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphadasiaprosgegrammeni.alt" format="2">
   <advance width="560"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <component base="A"/>
     <component base="dasia" xOffset="-277" yOffset="-115"/>

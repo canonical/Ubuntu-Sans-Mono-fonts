@@ -2,6 +2,8 @@
 <glyph name="Kcaron" format="2">
   <advance width="560"/>
   <unicode hex="01E8"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="382" y="685" name="top"/>
   <outline>
     <component base="K"/>
     <component base="caron" xOffset="21" yOffset="156"/>

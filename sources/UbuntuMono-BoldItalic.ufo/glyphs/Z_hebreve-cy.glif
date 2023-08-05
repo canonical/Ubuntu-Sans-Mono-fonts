@@ -3,6 +3,8 @@
   <advance width="560"/>
   <unicode hex="04C1"/>
   <guideline x="234" y="0" angle="103.5"/>
+  <anchor x="477" y="0" name="bottomright"/>
+  <anchor x="432" y="923" name="top"/>
   <outline>
     <component base="Zhe-cy"/>
     <component base="brevecomb.cyr" xOffset="52" yOffset="156"/>

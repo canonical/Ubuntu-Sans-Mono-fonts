@@ -2,6 +2,10 @@
 <glyph name="Lcommaaccent" format="2">
   <advance width="560"/>
   <unicode hex="013B"/>
+  <anchor x="168" y="-190" name="bottom"/>
+  <anchor x="301" y="347" name="center"/>
+  <anchor x="382" y="685" name="top"/>
+  <anchor x="644" y="693" name="topright"/>
   <outline>
     <component base="L"/>
     <component base="commaaccentcomb"/>

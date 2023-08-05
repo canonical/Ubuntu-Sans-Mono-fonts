@@ -2,6 +2,9 @@
 <glyph name="Agrave" format="2">
   <advance width="560"/>
   <unicode hex="00C0"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="444" y="10" name="ogonek"/>
+  <anchor x="382" y="685" name="top"/>
   <outline>
     <component base="A"/>
     <component base="grave" xOffset="38" yOffset="156"/>

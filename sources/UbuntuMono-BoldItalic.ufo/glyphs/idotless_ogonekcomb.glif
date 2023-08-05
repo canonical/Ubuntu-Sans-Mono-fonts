@@ -2,8 +2,8 @@
 <glyph name="idotless_ogonekcomb" format="2">
   <advance width="560"/>
   <anchor x="217" y="0" name="bottom"/>
-  <anchor x="472" y="15" name="ogonek"/>
-  <anchor x="323" y="526" name="top"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="343" y="526" name="top"/>
   <outline>
     <contour>
       <point x="330" y="-190" type="curve" smooth="yes"/>

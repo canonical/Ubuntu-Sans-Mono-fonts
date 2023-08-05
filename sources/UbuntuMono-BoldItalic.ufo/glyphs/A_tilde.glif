@@ -2,6 +2,9 @@
 <glyph name="Atilde" format="2">
   <advance width="560"/>
   <unicode hex="00C3"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <component base="A"/>
     <component base="tilde" xOffset="38" yOffset="156"/>

@@ -2,6 +2,8 @@
 <glyph name="udieresis-cy" format="2">
   <advance width="560"/>
   <unicode hex="04F1"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <component base="y"/>
     <component base="dieresis" xOffset="-29"/>

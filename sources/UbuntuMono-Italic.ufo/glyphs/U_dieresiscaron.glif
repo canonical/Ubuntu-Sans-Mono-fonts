@@ -2,6 +2,10 @@
 <glyph name="Udieresiscaron" format="2">
   <advance width="560"/>
   <unicode hex="01D9"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="444" y="10" name="ogonek"/>
+  <anchor x="433" y="930" name="top"/>
+  <anchor x="644" y="693" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="dieresiscomb_caroncomb.cap" xOffset="16"/>

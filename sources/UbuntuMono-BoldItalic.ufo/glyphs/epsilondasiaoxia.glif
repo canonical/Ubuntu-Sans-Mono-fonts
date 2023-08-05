@@ -2,6 +2,7 @@
 <glyph name="epsilondasiaoxia" format="2">
   <advance width="560"/>
   <unicode hex="1F15"/>
+  <anchor x="343" y="526" name="top"/>
   <outline>
     <component base="epsilon"/>
     <component base="dasiaoxia" xOffset="20"/>

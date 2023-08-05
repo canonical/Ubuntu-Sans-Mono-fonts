@@ -2,7 +2,7 @@
 <glyph name="rinvertedbreve" format="2">
   <advance width="560"/>
   <unicode hex="0213"/>
-  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="140" y="0" name="bottom"/>
   <anchor x="280" y="582" name="top"/>
   <outline>
     <component base="r"/>

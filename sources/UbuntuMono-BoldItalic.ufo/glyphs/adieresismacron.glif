@@ -2,6 +2,9 @@
 <glyph name="adieresismacron" format="2">
   <advance width="560"/>
   <unicode hex="01DF"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="428" y="820" name="top"/>
   <outline>
     <component base="a"/>
     <component base="dieresiscomb_macroncomb" xOffset="20"/>

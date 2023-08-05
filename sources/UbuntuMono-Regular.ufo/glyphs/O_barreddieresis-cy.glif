@@ -2,7 +2,7 @@
 <glyph name="Obarreddieresis-cy" format="2">
   <advance width="560"/>
   <unicode hex="04EA"/>
-  <anchor x="280" y="776" name="top"/>
+  <anchor x="280" y="685" name="top"/>
   <outline>
     <component base="Obarred-cy"/>
     <component base="dieresis" yOffset="156"/>

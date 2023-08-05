@@ -2,6 +2,12 @@
 <glyph name="Omicrondasiavaria" format="2">
   <advance width="560"/>
   <unicode hex="1F4B"/>
+  <anchor x="206" y="0" name="bottom"/>
+  <anchor x="289" y="347" name="center"/>
+  <anchor x="432" y="10" name="ogonek"/>
+  <anchor x="370" y="685" name="top"/>
+  <anchor x="112" y="693" name="topleft"/>
+  <anchor x="632" y="693" name="topright"/>
   <outline>
     <component base="O" xOffset="-12"/>
     <component base="dasiavaria" xOffset="-432" yOffset="-61"/>

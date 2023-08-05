@@ -2,6 +2,7 @@
 <glyph name="etaypogegrammeni" format="2">
   <advance width="560"/>
   <unicode hex="1FC3"/>
+  <anchor x="342" y="518" name="top"/>
   <outline>
     <component base="eta"/>
     <component base="prosgegrammeni" xOffset="-149"/>

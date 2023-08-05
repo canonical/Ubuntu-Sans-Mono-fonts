@@ -2,6 +2,8 @@
 <glyph name="ushort-cy" format="2">
   <advance width="560"/>
   <unicode hex="045E"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="355" y="767" name="top"/>
   <outline>
     <component base="y"/>
     <component base="brevecomb.cyr" xOffset="-25"/>

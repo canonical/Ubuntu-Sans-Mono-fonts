@@ -2,6 +2,8 @@
 <glyph name="zhebreve-cy" format="2">
   <advance width="560"/>
   <unicode hex="04C2"/>
+  <anchor x="477" y="0" name="bottomright"/>
+  <anchor x="390" y="767" name="top"/>
   <outline>
     <component base="zhe-cy"/>
     <component base="brevecomb.cyr" xOffset="10"/>

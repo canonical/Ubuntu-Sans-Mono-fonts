@@ -2,6 +2,8 @@
 <glyph name="Ystroke" format="2">
   <advance width="560"/>
   <unicode hex="024E"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <contour>
       <point x="150" y="0" type="line"/>

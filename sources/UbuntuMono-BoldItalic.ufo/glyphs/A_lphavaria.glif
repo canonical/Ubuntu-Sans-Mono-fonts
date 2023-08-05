@@ -2,6 +2,9 @@
 <glyph name="Alphavaria" format="2">
   <advance width="560"/>
   <unicode hex="1FBA"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="443" y="10" name="ogonek"/>
+  <anchor x="381" y="685" name="top"/>
   <outline>
     <component base="A"/>
     <component base="varia" xOffset="-291" yOffset="-71"/>

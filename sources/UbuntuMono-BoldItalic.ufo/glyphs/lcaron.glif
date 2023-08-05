@@ -2,6 +2,10 @@
 <glyph name="lcaron" format="2">
   <advance width="560"/>
   <unicode hex="013E"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="310" y="388" name="center"/>
+  <anchor x="403" y="776" name="top"/>
+  <anchor x="663" y="776" name="topright"/>
   <outline>
     <component base="l"/>
     <component base="caron.alt" xOffset="165"/>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Alphapsilioxiaprosgegrammeni.alt" format="2">
   <advance width="560"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="449" y="10" name="ogonek"/>
+  <anchor x="387" y="685" name="top"/>
   <outline>
     <component base="A" xOffset="5"/>
     <component base="psilioxia" xOffset="-280" yOffset="-58"/>

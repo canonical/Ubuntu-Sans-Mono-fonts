@@ -2,6 +2,8 @@
 <glyph name="ezhtail" format="2">
   <advance width="560"/>
   <unicode hex="01BA"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="343" y="526" name="top"/>
   <outline>
     <contour>
       <point x="-35" y="-190" type="curve"/>

@@ -2,6 +2,10 @@
 <glyph name="d" format="2">
   <advance width="560"/>
   <unicode hex="0064"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="280" y="259" name="center"/>
+  <anchor x="404" y="776" name="top"/>
+  <anchor x="664" y="776" name="topright"/>
   <outline>
     <contour>
       <point x="227" y="-12" type="curve" smooth="yes"/>

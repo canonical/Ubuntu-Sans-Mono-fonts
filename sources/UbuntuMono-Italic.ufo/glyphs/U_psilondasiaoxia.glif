@@ -2,6 +2,9 @@
 <glyph name="Upsilondasiaoxia" format="2">
   <advance width="560"/>
   <unicode hex="1F5D"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="382" y="685" name="top"/>
+  <anchor x="124" y="693" name="topleft"/>
   <outline>
     <component base="Y"/>
     <component base="dasiaoxia" xOffset="-446" yOffset="-61"/>

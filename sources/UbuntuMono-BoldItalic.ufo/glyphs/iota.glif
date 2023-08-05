@@ -2,9 +2,9 @@
 <glyph name="iota" format="2">
   <advance width="560"/>
   <unicode hex="03B9"/>
+  <anchor x="343" y="526" name="top"/>
   <anchor x="217" y="0" name="bottom"/>
-  <anchor x="472" y="15" name="ogonek"/>
-  <anchor x="323" y="526" name="top"/>
+  <anchor x="443" y="10" name="ogonek"/>
   <outline>
     <component base="idotless"/>
   </outline>
