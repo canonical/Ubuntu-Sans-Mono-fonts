@@ -11,7 +11,7 @@
 
   <!-- Sources -->
   <sources>
-    <source filename="UbuntuMono-Italic.ufo" name="Ubuntu Mono Italic" familyname="Ubuntu Mono" stylename="Italic">
+    <source filename="UbuntuSansMono-Italic.ufo" name="Ubuntu Sans Mono Italic" familyname="Ubuntu Sans Mono" stylename="Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -21,7 +21,7 @@
  name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="UbuntuMono-BoldItalic.ufo" name="Ubuntu Mono Bold Italic" familyname="Ubuntu Mono" stylename="Bold">
+    <source filename="UbuntuSansMono-BoldItalic.ufo" name="Ubuntu Sans Mono Bold Italic" familyname="Ubuntu Sans Mono" stylename="Bold">
       <location>
         <dimension
  name="Weight" xvalue="700"/>
@@ -32,10 +32,10 @@
   <!-- Instances -->
   <instances>
     <instance
-        name="Ubuntu Mono Italic"
-        familyname="Ubuntu Mono" stylename="Italic" 
-        filename="../instance_ufo/UbuntuMono-Italic.ufo"     
-        stylemapfamilyname="Ubuntu Mono" 
+        name="Ubuntu Sans Mono Italic"
+        familyname="Ubuntu Sans Mono" stylename="Italic" 
+        filename="../instance_ufo/UbuntuSansMono-Italic.ufo"     
+        stylemapfamilyname="Ubuntu Sans Mono" 
         stylemapstylename="italic"
     >
       <location>
@@ -45,10 +45,10 @@
     </instance>
     
     <instance
-        name="Ubuntu Mono Medium Italic"
-        familyname="Ubuntu Mono" stylename="Medium Italic" 
-        filename="../instance_ufo/UbuntuMono-MediumItalic.ufo" 
-        stylemapfamilyname="Ubuntu Mono Medium" 
+        name="Ubuntu Sans Mono Medium Italic"
+        familyname="Ubuntu Sans Mono" stylename="Medium Italic" 
+        filename="../instance_ufo/UbuntuSansMono-MediumItalic.ufo" 
+        stylemapfamilyname="Ubuntu Sans Mono Medium" 
         stylemapstylename="italic"
     >
       <location>
@@ -59,10 +59,10 @@
     
     
     <instance
-        name="Ubuntu Mono SemiBold Italic"
-        familyname="Ubuntu Mono" stylename="SemiBold Italic" 
-        filename="../instance_ufo/UbuntuMono-SemiBoldItalic.ufo" 
-        stylemapfamilyname="Ubuntu Mono SemiBold" 
+        name="Ubuntu Sans Mono SemiBold Italic"
+        familyname="Ubuntu Sans Mono" stylename="SemiBold Italic" 
+        filename="../instance_ufo/UbuntuSansMono-SemiBoldItalic.ufo" 
+        stylemapfamilyname="Ubuntu Sans Mono SemiBold" 
         stylemapstylename="italic"
     >
       <location>
@@ -72,11 +72,11 @@
     </instance>
     
     <instance
-        name="Ubuntu Mono Bold Italic"
-        familyname="Ubuntu Mono" 
+        name="Ubuntu Sans Mono Bold Italic"
+        familyname="Ubuntu Sans Mono" 
         stylename="Bold Italic"     
-        filename="../instance_ufo/UbuntuMono-BoldItalic.ufo"     
-        stylemapfamilyname="Ubuntu Mono" 
+        filename="../instance_ufo/UbuntuSansMono-BoldItalic.ufo"     
+        stylemapfamilyname="Ubuntu Sans Mono" 
         stylemapstylename="bold italic"
     >
       <location>

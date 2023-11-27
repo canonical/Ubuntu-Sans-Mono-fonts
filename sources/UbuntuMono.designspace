@@ -12,12 +12,12 @@
     </axis>
   </axes>
   <sources>
-    <source filename="UbuntuMono-Thin.ufo" name="Ubuntu Mono Thin" familyname="Ubuntu Mono" stylename="Thin">
+    <source filename="UbuntuSansMono-Thin.ufo" name="Ubuntu Sans Mono Thin" familyname="Ubuntu Sans Mono" stylename="Thin">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="UbuntuMono-Regular.ufo" name="Ubuntu Mono Regular" familyname="Ubuntu Mono" stylename="Regular">
+    <source filename="UbuntuSansMono-Regular.ufo" name="Ubuntu Sans Mono Regular" familyname="Ubuntu Sans Mono" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -26,7 +26,7 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="UbuntuMono-Bold.ufo" name="Ubuntu Mono Bold" familyname="Ubuntu Mono" stylename="Bold">
+    <source filename="UbuntuSansMono-Bold.ufo" name="Ubuntu Sans Mono Bold" familyname="Ubuntu Sans Mono" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="700"/>
       </location>
@@ -34,11 +34,11 @@
   </sources>
   <instances>
     <instance 
-        name="Ubuntu Mono Thin" 
-        familyname="Ubuntu Mono" 
+        name="Ubuntu Sans Mono Thin" 
+        familyname="Ubuntu Sans Mono" 
         stylename="Thin" 
-        filename="../instance_ufo/UbuntuMono-Thin.ufo" 
-        stylemapfamilyname="Ubuntu Mono Thin" 
+        filename="../instance_ufo/UbuntuSansMono-Thin.ufo" 
+        stylemapfamilyname="Ubuntu Sans Mono Thin" 
         stylemapstylename="regular"
     >
       <location>
@@ -50,11 +50,11 @@
     
     
     <instance 
-        name="Ubuntu Mono ExtraLight" 
-        familyname="Ubuntu Mono" 
+        name="Ubuntu Sans Mono ExtraLight" 
+        familyname="Ubuntu Sans Mono" 
         stylename="ExtraLight" 
-        filename="../instance_ufo/UbuntuMono-ExtraLight.ufo" 
-        stylemapfamilyname="Ubuntu Mono ExtraLight" 
+        filename="../instance_ufo/UbuntuSansMono-ExtraLight.ufo" 
+        stylemapfamilyname="Ubuntu Sans Mono ExtraLight" 
         stylemapstylename="regular"
     >
       <location>
@@ -66,11 +66,11 @@
 
     
     <instance 
-        name="Ubuntu Mono Light" 
-        familyname="Ubuntu Mono" 
+        name="Ubuntu Sans Mono Light" 
+        familyname="Ubuntu Sans Mono" 
         stylename="Light" 
-        filename="../instance_ufo/UbuntuMono-Light.ufo" 
-        stylemapfamilyname="Ubuntu Mono Light" 
+        filename="../instance_ufo/UbuntuSansMono-Light.ufo" 
+        stylemapfamilyname="Ubuntu Sans Mono Light" 
         stylemapstylename="regular"
     >
       <location>
@@ -84,11 +84,11 @@
 
 
     <instance  
-        name="Ubuntu Mono Regular" 
-        familyname="Ubuntu Mono" 
+        name="Ubuntu Sans Mono Regular" 
+        familyname="Ubuntu Sans Mono" 
         stylename="Regular" 
-        filename="../instance_ufo/UbuntuMono-Regular.ufo" 
-        stylemapfamilyname="Ubuntu Mono" 
+        filename="../instance_ufo/UbuntuSansMono-Regular.ufo" 
+        stylemapfamilyname="Ubuntu Sans Mono" 
         stylemapstylename="regular"
     >
       <location>
@@ -97,11 +97,11 @@
     </instance>
     
     <instance 
-        name="Ubuntu Mono Medium" 
-        familyname="Ubuntu Mono" 
+        name="Ubuntu Sans Mono Medium" 
+        familyname="Ubuntu Sans Mono" 
         stylename="Medium" 
-        filename="../instance_ufo/UbuntuMono-Medium.ufo" 
-        stylemapfamilyname="Ubuntu Mono Medium" 
+        filename="../instance_ufo/UbuntuSansMono-Medium.ufo" 
+        stylemapfamilyname="Ubuntu Sans Mono Medium" 
         stylemapstylename="regular"
     >
       <location>
@@ -111,11 +111,11 @@
     
     
     <instance 
-        name="Ubuntu Mono SemiBold" 
-        familyname="Ubuntu Mono" 
+        name="Ubuntu Sans Mono SemiBold" 
+        familyname="Ubuntu Sans Mono" 
         stylename="SemiBold" 
-        filename="../instance_ufo/UbuntuMono-SemiBold.ufo" 
-        stylemapfamilyname="Ubuntu Mono SemiBold" 
+        filename="../instance_ufo/UbuntuSansMono-SemiBold.ufo" 
+        stylemapfamilyname="Ubuntu Sans Mono SemiBold" 
         stylemapstylename="regular"
     >
       <location>
@@ -127,11 +127,11 @@
 
     
     <instance 
-        name="Ubuntu Mono Bold" 
-        familyname="Ubuntu Mono" 
+        name="Ubuntu Sans Mono Bold" 
+        familyname="Ubuntu Sans Mono" 
         stylename="Bold" 
-        filename="../instance_ufo/UbuntuMono-Bold.ufo" 
-        stylemapfamilyname="Ubuntu Mono" 
+        filename="../instance_ufo/UbuntuSansMono-Bold.ufo" 
+        stylemapfamilyname="Ubuntu Sans Mono" 
         stylemapstylename="bold"
     >
       <location>
