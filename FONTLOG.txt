@@ -1,5 +1,5 @@
 This is the FONTLOG file for the Ubuntu Font Family and attempts to follow
-the recommendations at:  http://scripts.sil.org/OFL-FAQ_web#43cecb44
+the recommendations at:  https://openfontlicense.org/ofl-faq/
 
 
 Overview
