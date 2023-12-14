@@ -4,10 +4,10 @@ sources:
 axisOrder:
   - wght
   - ital
-familyName: Ubuntu Mono
+familyName: Ubuntu Sans Mono
 buildWebfont: false
 stat:
-  UbuntuMono[wght].ttf:
+  UbuntuSansMono[wght].ttf:
     - name: Weight
       tag: wght
       values:
@@ -34,7 +34,7 @@ stat:
         value: 0
         linkedValue: 1
         flags: 2
-  UbuntuMono-Italic[wght].ttf:
+  UbuntuSansMono-Italic[wght].ttf:
     - name: Weight
       tag: wght
       values:
