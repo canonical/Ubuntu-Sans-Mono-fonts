@@ -25,6 +25,10 @@ Regular, Italic, Bold and Bold-Italic.
 
 ChangeLog
 
+2023-12-14
+
+  * Change font name to "Ubuntu Sans Mono"
+
 2023-08-02 (Type Network, DJR, Dual Type) Ubuntu Font Family version 1.001
 
   Note: This release culminates the family’s significant expansion 

@@ -6,8 +6,8 @@ the intent of being an on-going community expanded project:
 
 Development of the Ubuntu Font Family is undertaken GitHub and Launchpad:
 
-  http://github.com/canonical/Ubuntu-fonts/
-  http://github.com/canonical/UbuntuMono-fonts/
+  http://github.com/canonical/Ubuntu-Sans-fonts/
+  http://github.com/canonical/Ubuntu-Sans-Mono-fonts/
   http://launchpad.net/ubuntu-font-family/
 
 and this is where milestones, bug management and releases are handled.

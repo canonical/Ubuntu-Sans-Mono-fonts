@@ -16,10 +16,10 @@ import argparse
 
 # Constants, these are the main "settings" for the image
 WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 2048, 128, 1
-FONT_PATH = "fonts/variable/UbuntuMono[wght].ttf"
+FONT_PATH = "fonts/variable/UbuntuSansMono[wght].ttf"
 FONT_LICENSE = "Ubuntu Font License"
-AUXILIARY_FONT = "Helvetica"
-AUXILIARY_FONT_SIZE = 48
+AUXILIARY_FONT = "fonts/variable/UbuntuSansMono[wght].ttf"
+AUXILIARY_FONT_SIZE = 36
 BIG_TEXT = "Aa"
 BIG_TEXT_FONT_SIZE = 1024
 BIG_TEXT_SIDE_MARGIN = MARGIN * 3.1
