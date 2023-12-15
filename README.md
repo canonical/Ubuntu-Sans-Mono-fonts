@@ -1,4 +1,4 @@
-# Ubuntu Sans Mono
+# Ubuntu Sans Mono Font Family
 
 [![][Fontbakery]](https://canonical.github.io/Ubuntu-Sans-Mono-fonts/fontbakery/fontbakery-report.html)
 [![][Universal]](https://canonical.github.io/Ubuntu-Sans-Mono-fonts/fontbakery/fontbakery-report.html)
@@ -41,7 +41,7 @@ If you want to build fonts manually on your own computer:
 
 The proof files and QA tests are also available automatically via GitHub Actions - look at https://canonical.github.io/Ubuntu-Sans-Mono-fonts.
 
-It is possible to generate custom styles directly from the variable fonts using [fontTools instancer.](https://fonttools.readthedocs.io/en/latest/varLib/instancer.html). For example, the following generates a custom style that is a close match to Ubuntu Mono’s original weight:
+It is possible to generate custom styles directly from the variable fonts using [fontTools instancer](https://fonttools.readthedocs.io/en/latest/varLib/instancer.html). For example, the following generates a custom style that is a close match to Ubuntu Mono’s original weight:
 
 ```fonttools varLib.instancer UbuntuSansMono[wght].ttf wght=473```
 
