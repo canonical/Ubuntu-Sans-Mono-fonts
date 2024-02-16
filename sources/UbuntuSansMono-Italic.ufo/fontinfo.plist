@@ -28,9 +28,9 @@
     <key>openTypeHeadCreated</key>
     <string>2023/06/26 22:23:05</string>
     <key>openTypeHheaAscender</key>
-    <integer>932</integer>
+    <integer>940</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-189</integer>
+    <integer>-260</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
@@ -79,9 +79,9 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>932</integer>
+    <integer>940</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-189</integer>
+    <integer>-260</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2UnicodeRanges</key>
@@ -155,7 +155,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>4</integer>
+    <integer>5</integer>
     <key>xHeight</key>
     <integer>518</integer>
   </dict>
