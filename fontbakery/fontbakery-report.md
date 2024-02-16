@@ -2,20 +2,16 @@
 
 Fontbakery version: 0.8.13
 
-<details><summary><b>[10] UbuntuSansMono-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+<details><summary><b>[9] UbuntuSansMono-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
 "Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
 
 
@@ -102,20 +98,16 @@ Use -F or --full-lists to disable shortening of long lists.
 	* uni01CB (U+01CB): B<<163.5,338.0>-<160.0,424.0>-<155.0,502.0>>/L<<155.0,502.0>--<116.0,282.0>> = 13.720332882608297 
 
 	* uni01CB (U+01CB): L<<224.0,693.0>--<243.0,180.0>>/L<<243.0,180.0>--<283.0,403.0>> = 12.29022473115213 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[12] UbuntuSansMono-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
 "Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
 
 
@@ -216,20 +208,121 @@ The following glyphs do not have the recommended number of contours:
 	* uni2116 (U+2116): L<<106.0,693.0>--<230.0,255.0>>/L<<230.0,255.0>--<224.0,418.0>> = 13.698988776330973 
 
 	* uni2116 (U+2116): L<<229.0,0.0>--<105.0,452.0>>/L<<105.0,452.0>--<111.0,270.0>> = 13.452702757263976 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
 "Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+</div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
+
+
+* 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
+Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+	- IJacute
+
+	- ijacute
+
+	- uni030C.alt
+
+	- uni256A.001 
+
+	- uni256B.001
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
+
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
+
+	- Glyph name: shade	Contours detected: 72	Expected: 85
+
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
+
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
+
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
+
+	- Glyph name: shade	Contours detected: 72	Expected: 85 
+
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
+
+
+* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+	 tonos.cap (unencoded) [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+
+	* uni2713 (U+2713): L<<203.0,258.0>--<221.0,287.0>> -> L<<221.0,287.0>--<474.0,631.0>> 
+
+	* uni2713 (U+2713): L<<88.0,412.0>--<184.0,286.0>> -> L<<184.0,286.0>--<203.0,258.0>> [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+
+	* AE (U+00C6): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457
+
+	* AEacute (U+01FC): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457
+
+	* uni01CA (U+01CA): B<<145.0,318.5>-<133.0,372.0>-<118.0,440.0>>/L<<118.0,440.0>--<118.0,0.0>> = 12.439562018846544
+
+	* uni01CB (U+01CB): B<<145.0,318.5>-<133.0,372.0>-<118.0,440.0>>/L<<118.0,440.0>--<118.0,0.0>> = 12.439562018846544
+
+	* uni01E2 (U+01E2): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457
+
+	* uni04CD (U+04CD): L<<220.0,245.0>--<152.0,539.0>>/L<<152.0,539.0>--<152.0,0.0>> = 13.023079670604968
+
+	* uni04CD (U+04CD): L<<394.0,0.0>--<394.0,539.0>>/L<<394.0,539.0>--<319.0,245.0>> = 14.311041262606418
+
+	* uni04CE (U+04CE): B<<186.0,221.0>-<170.0,296.0>-<153.0,372.0>>/L<<153.0,372.0>--<153.0,0.0>> = 12.60860679336622
+
+	* uni04CE (U+04CE): L<<395.0,0.0>--<395.0,372.0>>/B<<395.0,372.0>-<376.0,296.0>-<357.0,221.0>> = 14.036243467926457 
+
+	* uni04D4 (U+04D4): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457 [code: found-jaggy-segments]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+
+	* kgreenlandic (U+0138): L<<71.0,525.0>--<209.0,526.0>> [code: found-semi-vertical]
+</div></details><br></div></details><details><summary><b>[10] UbuntuSansMono-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+
+
+* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
+But instead we have got:
+"Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+</div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
+
+
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
 
 
@@ -313,20 +406,234 @@ The following glyphs do not have the recommended number of contours:
 	* uni01CB (U+01CB): B<<164.5,308.0>-<163.0,383.0>-<163.0,468.0>>/L<<163.0,468.0>--<123.0,280.0>> = 12.01147838636543 
 
 	* uni01CB (U+01CB): L<<219.0,693.0>--<232.0,238.0>>/L<<232.0,238.0>--<269.0,419.0>> = 13.189802233901787 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
 "Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+</div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
+
+
+* 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
+Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
+</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
+
+
+* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
+ FONT_FAMILY_NAME = 'Ubuntu Sans Mono SemiBold' / SUBFAMILY_NAME = 'Regular'
+
+Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+	- IJacute
+
+	- ijacute
+
+	- uni030C.alt
+
+	- uni256A.001 
+
+	- uni256B.001
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
+
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
+
+	- Glyph name: shade	Contours detected: 72	Expected: 85
+
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
+
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
+
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
+
+	- Glyph name: shade	Contours detected: 72	Expected: 85 
+
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
+
+
+* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+	 tonos.cap (unencoded) [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+
+	* uni01CA (U+01CA): L<<113.0,454.0>--<116.0,261.0>> -> L<<116.0,261.0>--<116.0,0.0>>
+
+	* uni01CA (U+01CA): L<<221.0,263.0>--<217.0,442.0>> -> L<<217.0,442.0>--<217.0,693.0>>
+
+	* uni01CB (U+01CB): L<<113.0,454.0>--<116.0,281.0>> -> L<<116.0,281.0>--<116.0,0.0>>
+
+	* uni01CB (U+01CB): L<<221.0,263.0>--<217.0,419.0>> -> L<<217.0,419.0>--<217.0,693.0>>
+
+	* uni2116 (U+2116): L<<108.0,426.0>--<111.0,263.0>> -> L<<111.0,263.0>--<111.0,0.0>>
+
+	* uni2116 (U+2116): L<<218.0,291.0>--<215.0,423.0>> -> L<<215.0,423.0>--<215.0,693.0>>
+
+	* uni2713 (U+2713): L<<204.0,242.0>--<219.0,265.0>> -> L<<219.0,265.0>--<480.0,616.0>> 
+
+	* uni2713 (U+2713): L<<85.0,398.0>--<189.0,264.0>> -> L<<189.0,264.0>--<204.0,242.0>> [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+
+	* uni01CA (U+01CA): B<<141.5,332.5>-<128.0,388.0>-<113.0,454.0>>/L<<113.0,454.0>--<116.0,261.0>> = 11.913729811926178
+
+	* uni01CA (U+01CA): L<<107.0,693.0>--<221.0,263.0>>/L<<221.0,263.0>--<217.0,442.0>> = 13.568312458572978
+
+	* uni01CB (U+01CB): B<<141.5,332.5>-<128.0,388.0>-<113.0,454.0>>/L<<113.0,454.0>--<116.0,281.0>> = 11.810797209004122
+
+	* uni01CB (U+01CB): L<<107.0,693.0>--<221.0,263.0>>/L<<221.0,263.0>--<217.0,419.0>> = 13.379651303792055 
+
+	* uni04CD (U+04CD): L<<222.0,250.0>--<148.0,551.0>>/B<<148.0,551.0>-<147.0,413.0>-<146.0,271.5>> = 14.227262261099765 [code: found-jaggy-segments]
+</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+
+
+* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
+But instead we have got:
+"Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+</div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
+
+
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+</div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
+
+
+* 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
+Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
+</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
+
+
+* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
+ FONT_FAMILY_NAME = 'Ubuntu Sans Mono Light' / SUBFAMILY_NAME = 'Regular'
+
+Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+	- IJacute
+
+	- ijacute
+
+	- uni030C.alt
+
+	- uni256A.001 
+
+	- uni256B.001
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: uni01C4	Contours detected: 5	Expected: 4
+
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
+
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
+
+	- Glyph name: shade	Contours detected: 72	Expected: 85
+
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
+
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
+
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
+
+	- Glyph name: shade	Contours detected: 72	Expected: 85
+
+	- Glyph name: uni01C4	Contours detected: 5	Expected: 4 
+
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
+
+
+* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+	 tonos.cap (unencoded) [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+
+	* uni01CA (U+01CA): L<<263.0,153.0>--<252.0,323.0>> -> L<<252.0,323.0>--<252.0,693.0>>
+
+	* uni01CA (U+01CA): L<<93.0,541.0>--<103.0,368.0>> -> L<<103.0,368.0>--<103.0,0.0>>
+
+	* uni01CB (U+01CB): L<<267.0,153.0>--<256.0,330.0>> -> L<<256.0,330.0>--<256.0,693.0>>
+
+	* uni01CB (U+01CB): L<<97.0,541.0>--<106.0,362.0>> -> L<<106.0,362.0>--<106.0,0.0>>
+
+	* uni2116 (U+2116): L<<260.0,145.0>--<250.0,329.0>> -> L<<250.0,329.0>--<250.0,693.0>> 
+
+	* uni2116 (U+2116): L<<92.0,549.0>--<102.0,368.0>> -> L<<102.0,368.0>--<102.0,0.0>> [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+
+	* uni01CA (U+01CA): B<<169.0,271.0>-<130.0,411.0>-<93.0,541.0>>/L<<93.0,541.0>--<103.0,368.0>> = 12.5789549688919
+
+	* uni01CA (U+01CA): L<<112.0,693.0>--<263.0,153.0>>/L<<263.0,153.0>--<252.0,323.0>> = 11.920353801419516
+
+	* uni01CB (U+01CB): B<<173.0,271.0>-<134.0,411.0>-<97.0,541.0>>/L<<97.0,541.0>--<106.0,362.0>> = 13.008799003029903
+
+	* uni01CB (U+01CB): L<<116.0,693.0>--<267.0,153.0>>/L<<267.0,153.0>--<256.0,330.0>> = 12.06638556036382
+
+	* uni2116 (U+2116): L<<113.0,693.0>--<260.0,145.0>>/L<<260.0,145.0>--<250.0,329.0>> = 11.905141078781755 
+
+	* uni2116 (U+2116): L<<242.0,0.0>--<92.0,549.0>>/L<<92.0,549.0>--<102.0,368.0>> = 12.11930998255544 [code: found-jaggy-segments]
+</div></details><br></div></details><details><summary><b>[10] UbuntuSansMono-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+
+
+* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
+But instead we have got:
+"Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+</div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
+
+
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
 
 
@@ -424,125 +731,16 @@ The following glyphs do not have the recommended number of contours:
 	* uni04CD (U+04CD): B<<398.5,274.0>-<433.0,417.0>-<466.0,554.0>>/L<<466.0,554.0>--<310.0,250.0>> = 13.621808414887182 
 
 	* uni04CE (U+04CE): B<<370.5,185.0>-<393.0,279.0>-<414.0,373.0>>/B<<414.0,373.0>-<381.0,308.0>-<346.0,243.0>> = 14.323224660848188 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[13] UbuntuSansMono-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
 "Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
-
-
-* 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
-Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- IJacute
-
-	- ijacute
-
-	- uni030C.alt
-
-	- uni256A.001 
-
-	- uni256B.001
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: uni0249	Contours detected: 3	Expected: 2
-
-	- Glyph name: ltshade	Contours detected: 36	Expected: 46
-
-	- Glyph name: shade	Contours detected: 72	Expected: 85
-
-	- Glyph name: dkshade	Contours detected: 61	Expected: 73
-
-	- Glyph name: dkshade	Contours detected: 61	Expected: 73
-
-	- Glyph name: ltshade	Contours detected: 36	Expected: 46
-
-	- Glyph name: shade	Contours detected: 72	Expected: 85 
-
-	- Glyph name: uni0249	Contours detected: 3	Expected: 2
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 tonos.cap (unencoded) [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* uni01CA (U+01CA): L<<260.0,180.0>--<245.0,396.0>> -> L<<245.0,396.0>--<245.0,693.0>>
-
-	* uni01CA (U+01CA): L<<95.0,502.0>--<108.0,289.0>> -> L<<108.0,289.0>--<108.0,0.0>>
-
-	* uni01CB (U+01CB): L<<260.0,180.0>--<245.0,406.0>> -> L<<245.0,406.0>--<245.0,693.0>>
-
-	* uni01CB (U+01CB): L<<95.0,502.0>--<108.0,281.0>> -> L<<108.0,281.0>--<108.0,0.0>>
-
-	* uni2116 (U+2116): L<<261.0,168.0>--<247.0,405.0>> -> L<<247.0,405.0>--<247.0,693.0>> 
-
-	* uni2116 (U+2116): L<<96.0,514.0>--<109.0,289.0>> -> L<<109.0,289.0>--<109.0,0.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* uni01CA (U+01CA): B<<141.5,338.0>-<118.0,424.0>-<95.0,502.0>>/L<<95.0,502.0>--<108.0,289.0>> = 12.936708290677316
-
-	* uni01CA (U+01CA): L<<117.0,693.0>--<260.0,180.0>>/L<<260.0,180.0>--<245.0,396.0>> = 11.603445579167502
-
-	* uni01CB (U+01CB): B<<141.5,338.0>-<118.0,424.0>-<95.0,502.0>>/L<<95.0,502.0>--<108.0,281.0>> = 13.06284078810359
-
-	* uni01CB (U+01CB): L<<117.0,693.0>--<260.0,180.0>>/L<<260.0,180.0>--<245.0,406.0>> = 11.778693639479739
-
-	* uni024A (U+024A): L<<408.0,-1.0>--<408.0,82.0>>/B<<408.0,82.0>-<398.0,41.0>-<357.0,13.0>> = 13.706961004079783
-
-	* uni2116 (U+2116): L<<120.0,693.0>--<261.0,168.0>>/L<<261.0,168.0>--<247.0,405.0>> = 11.6526258660711 
-
-	* uni2116 (U+2116): L<<236.0,0.0>--<96.0,514.0>>/L<<96.0,514.0>--<109.0,289.0>> = 11.929506309926724 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[14] UbuntuSansMono-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
-</div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
-
-
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
 
 
@@ -695,20 +893,117 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* 63 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[14] UbuntuSansMono-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] UbuntuSansMono-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
 "Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+</div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
+
+
+* 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
+* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
+Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+	- IJacute
+
+	- ijacute
+
+	- uni030C.alt
+
+	- uni256A.001 
+
+	- uni256B.001
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
+
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
+
+	- Glyph name: shade	Contours detected: 72	Expected: 85
+
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
+
+	- Glyph name: dkshade	Contours detected: 61	Expected: 73
+
+	- Glyph name: ltshade	Contours detected: 36	Expected: 46
+
+	- Glyph name: shade	Contours detected: 72	Expected: 85 
+
+	- Glyph name: uni0249	Contours detected: 3	Expected: 2
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
+</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
+
+
+* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
+	 tonos.cap (unencoded) [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+
+	* uni01CA (U+01CA): L<<260.0,180.0>--<245.0,396.0>> -> L<<245.0,396.0>--<245.0,693.0>>
+
+	* uni01CA (U+01CA): L<<95.0,502.0>--<108.0,289.0>> -> L<<108.0,289.0>--<108.0,0.0>>
+
+	* uni01CB (U+01CB): L<<260.0,180.0>--<245.0,406.0>> -> L<<245.0,406.0>--<245.0,693.0>>
+
+	* uni01CB (U+01CB): L<<95.0,502.0>--<108.0,281.0>> -> L<<108.0,281.0>--<108.0,0.0>>
+
+	* uni2116 (U+2116): L<<261.0,168.0>--<247.0,405.0>> -> L<<247.0,405.0>--<247.0,693.0>> 
+
+	* uni2116 (U+2116): L<<96.0,514.0>--<109.0,289.0>> -> L<<109.0,289.0>--<109.0,0.0>> [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+
+	* uni01CA (U+01CA): B<<141.5,338.0>-<118.0,424.0>-<95.0,502.0>>/L<<95.0,502.0>--<108.0,289.0>> = 12.936708290677316
+
+	* uni01CA (U+01CA): L<<117.0,693.0>--<260.0,180.0>>/L<<260.0,180.0>--<245.0,396.0>> = 11.603445579167502
+
+	* uni01CB (U+01CB): B<<141.5,338.0>-<118.0,424.0>-<95.0,502.0>>/L<<95.0,502.0>--<108.0,281.0>> = 13.06284078810359
+
+	* uni01CB (U+01CB): L<<117.0,693.0>--<260.0,180.0>>/L<<260.0,180.0>--<245.0,406.0>> = 11.778693639479739
+
+	* uni024A (U+024A): L<<408.0,-1.0>--<408.0,82.0>>/B<<408.0,82.0>-<398.0,41.0>-<357.0,13.0>> = 13.706961004079783
+
+	* uni2116 (U+2116): L<<120.0,693.0>--<261.0,168.0>>/L<<261.0,168.0>--<247.0,405.0>> = 11.6526258660711 
+
+	* uni2116 (U+2116): L<<236.0,0.0>--<96.0,514.0>>/L<<96.0,514.0>--<109.0,289.0>> = 11.929506309926724 [code: found-jaggy-segments]
+</div></details><br></div></details><details><summary><b>[13] UbuntuSansMono-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+
+
+* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
+But instead we have got:
+"Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
+</div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
+
+
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
 
 
@@ -865,355 +1160,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* 63 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[12] UbuntuSansMono-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] UbuntuSansMono-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
 But instead we have got:
 "Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
-
-
-* 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
-Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
-</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
-
-
-* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Ubuntu Sans Mono SemiBold' / SUBFAMILY_NAME = 'Regular'
-
-Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- IJacute
-
-	- ijacute
-
-	- uni030C.alt
-
-	- uni256A.001 
-
-	- uni256B.001
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: uni0249	Contours detected: 3	Expected: 2
-
-	- Glyph name: ltshade	Contours detected: 36	Expected: 46
-
-	- Glyph name: shade	Contours detected: 72	Expected: 85
-
-	- Glyph name: dkshade	Contours detected: 61	Expected: 73
-
-	- Glyph name: dkshade	Contours detected: 61	Expected: 73
-
-	- Glyph name: ltshade	Contours detected: 36	Expected: 46
-
-	- Glyph name: shade	Contours detected: 72	Expected: 85 
-
-	- Glyph name: uni0249	Contours detected: 3	Expected: 2
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 tonos.cap (unencoded) [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* uni01CA (U+01CA): L<<113.0,454.0>--<116.0,261.0>> -> L<<116.0,261.0>--<116.0,0.0>>
-
-	* uni01CA (U+01CA): L<<221.0,263.0>--<217.0,442.0>> -> L<<217.0,442.0>--<217.0,693.0>>
-
-	* uni01CB (U+01CB): L<<113.0,454.0>--<116.0,281.0>> -> L<<116.0,281.0>--<116.0,0.0>>
-
-	* uni01CB (U+01CB): L<<221.0,263.0>--<217.0,419.0>> -> L<<217.0,419.0>--<217.0,693.0>>
-
-	* uni2116 (U+2116): L<<108.0,426.0>--<111.0,263.0>> -> L<<111.0,263.0>--<111.0,0.0>>
-
-	* uni2116 (U+2116): L<<218.0,291.0>--<215.0,423.0>> -> L<<215.0,423.0>--<215.0,693.0>>
-
-	* uni2713 (U+2713): L<<204.0,242.0>--<219.0,265.0>> -> L<<219.0,265.0>--<480.0,616.0>> 
-
-	* uni2713 (U+2713): L<<85.0,398.0>--<189.0,264.0>> -> L<<189.0,264.0>--<204.0,242.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* uni01CA (U+01CA): B<<141.5,332.5>-<128.0,388.0>-<113.0,454.0>>/L<<113.0,454.0>--<116.0,261.0>> = 11.913729811926178
-
-	* uni01CA (U+01CA): L<<107.0,693.0>--<221.0,263.0>>/L<<221.0,263.0>--<217.0,442.0>> = 13.568312458572978
-
-	* uni01CB (U+01CB): B<<141.5,332.5>-<128.0,388.0>-<113.0,454.0>>/L<<113.0,454.0>--<116.0,281.0>> = 11.810797209004122
-
-	* uni01CB (U+01CB): L<<107.0,693.0>--<221.0,263.0>>/L<<221.0,263.0>--<217.0,419.0>> = 13.379651303792055 
-
-	* uni04CD (U+04CD): L<<222.0,250.0>--<148.0,551.0>>/B<<148.0,551.0>-<147.0,413.0>-<146.0,271.5>> = 14.227262261099765 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[12] UbuntuSansMono-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
-</div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
-
-
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
-
-
-* 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
-Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
-</div></details><details><summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length">com.google.fonts/check/name/family_and_style_max_length</a>)</summary><div>
-
-
-* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Ubuntu Sans Mono Light' / SUBFAMILY_NAME = 'Regular'
-
-Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- IJacute
-
-	- ijacute
-
-	- uni030C.alt
-
-	- uni256A.001 
-
-	- uni256B.001
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: uni01C4	Contours detected: 5	Expected: 4
-
-	- Glyph name: uni0249	Contours detected: 3	Expected: 2
-
-	- Glyph name: ltshade	Contours detected: 36	Expected: 46
-
-	- Glyph name: shade	Contours detected: 72	Expected: 85
-
-	- Glyph name: dkshade	Contours detected: 61	Expected: 73
-
-	- Glyph name: dkshade	Contours detected: 61	Expected: 73
-
-	- Glyph name: ltshade	Contours detected: 36	Expected: 46
-
-	- Glyph name: shade	Contours detected: 72	Expected: 85
-
-	- Glyph name: uni01C4	Contours detected: 5	Expected: 4 
-
-	- Glyph name: uni0249	Contours detected: 3	Expected: 2
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 tonos.cap (unencoded) [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* uni01CA (U+01CA): L<<263.0,153.0>--<252.0,323.0>> -> L<<252.0,323.0>--<252.0,693.0>>
-
-	* uni01CA (U+01CA): L<<93.0,541.0>--<103.0,368.0>> -> L<<103.0,368.0>--<103.0,0.0>>
-
-	* uni01CB (U+01CB): L<<267.0,153.0>--<256.0,330.0>> -> L<<256.0,330.0>--<256.0,693.0>>
-
-	* uni01CB (U+01CB): L<<97.0,541.0>--<106.0,362.0>> -> L<<106.0,362.0>--<106.0,0.0>>
-
-	* uni2116 (U+2116): L<<260.0,145.0>--<250.0,329.0>> -> L<<250.0,329.0>--<250.0,693.0>> 
-
-	* uni2116 (U+2116): L<<92.0,549.0>--<102.0,368.0>> -> L<<102.0,368.0>--<102.0,0.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* uni01CA (U+01CA): B<<169.0,271.0>-<130.0,411.0>-<93.0,541.0>>/L<<93.0,541.0>--<103.0,368.0>> = 12.5789549688919
-
-	* uni01CA (U+01CA): L<<112.0,693.0>--<263.0,153.0>>/L<<263.0,153.0>--<252.0,323.0>> = 11.920353801419516
-
-	* uni01CB (U+01CB): B<<173.0,271.0>-<134.0,411.0>-<97.0,541.0>>/L<<97.0,541.0>--<106.0,362.0>> = 13.008799003029903
-
-	* uni01CB (U+01CB): L<<116.0,693.0>--<267.0,153.0>>/L<<267.0,153.0>--<256.0,330.0>> = 12.06638556036382
-
-	* uni2116 (U+2116): L<<113.0,693.0>--<260.0,145.0>>/L<<260.0,145.0>--<250.0,329.0>> = 11.905141078781755 
-
-	* uni2116 (U+2116): L<<242.0,0.0>--<92.0,549.0>>/L<<92.0,549.0>--<102.0,368.0>> = 12.11930998255544 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[12] UbuntuSansMono-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
-</div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
-
-
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
-
-
-* 🔥 **FAIL** The PANOSE numbers are incorrect for a monospaced font. Note: Family Type is set to 0, which does not seem right. [code: mono-bad-panose]
-* ⚠ **WARN** The OpenType spec recomments at https://learn.microsoft.com/en-us/typography/opentype/spec/recom#hhea-table that hhea.numberOfHMetrics be set to 3 but this font has 1339 instead.
-Please read https://github.com/fonttools/fonttools/issues/3014 to decide whether this makes sense for your font. [code: bad-numberOfHMetrics]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- IJacute
-
-	- ijacute
-
-	- uni030C.alt
-
-	- uni256A.001 
-
-	- uni256B.001
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: uni0249	Contours detected: 3	Expected: 2
-
-	- Glyph name: ltshade	Contours detected: 36	Expected: 46
-
-	- Glyph name: shade	Contours detected: 72	Expected: 85
-
-	- Glyph name: dkshade	Contours detected: 61	Expected: 73
-
-	- Glyph name: dkshade	Contours detected: 61	Expected: 73
-
-	- Glyph name: ltshade	Contours detected: 36	Expected: 46
-
-	- Glyph name: shade	Contours detected: 72	Expected: 85 
-
-	- Glyph name: uni0249	Contours detected: 3	Expected: 2
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Does the font contain a soft hyphen? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/soft_hyphen">com.google.fonts/check/soft_hyphen</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character. [code: softhyphen]
-</div></details><details><summary>⚠ <b>WARN:</b> Check glyphs in mark glyph class are non-spacing. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_spacing_marks">com.google.fonts/check/gdef_spacing_marks</a>)</summary><div>
-
-
-* ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 tonos.cap (unencoded) [code: spacing-mark-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* uni2713 (U+2713): L<<203.0,258.0>--<221.0,287.0>> -> L<<221.0,287.0>--<474.0,631.0>> 
-
-	* uni2713 (U+2713): L<<88.0,412.0>--<184.0,286.0>> -> L<<184.0,286.0>--<203.0,258.0>> [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* AE (U+00C6): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457
-
-	* AEacute (U+01FC): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457
-
-	* uni01CA (U+01CA): B<<145.0,318.5>-<133.0,372.0>-<118.0,440.0>>/L<<118.0,440.0>--<118.0,0.0>> = 12.439562018846544
-
-	* uni01CB (U+01CB): B<<145.0,318.5>-<133.0,372.0>-<118.0,440.0>>/L<<118.0,440.0>--<118.0,0.0>> = 12.439562018846544
-
-	* uni01E2 (U+01E2): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457
-
-	* uni04CD (U+04CD): L<<220.0,245.0>--<152.0,539.0>>/L<<152.0,539.0>--<152.0,0.0>> = 13.023079670604968
-
-	* uni04CD (U+04CD): L<<394.0,0.0>--<394.0,539.0>>/L<<394.0,539.0>--<319.0,245.0>> = 14.311041262606418
-
-	* uni04CE (U+04CE): B<<186.0,221.0>-<170.0,296.0>-<153.0,372.0>>/L<<153.0,372.0>--<153.0,0.0>> = 12.60860679336622
-
-	* uni04CE (U+04CE): L<<395.0,0.0>--<395.0,372.0>>/B<<395.0,372.0>-<376.0,296.0>-<357.0,221.0>> = 14.036243467926457 
-
-	* uni04D4 (U+04D4): L<<286.0,274.0>--<286.0,600.0>>/B<<286.0,600.0>-<267.0,524.0>-<247.5,445.5>> = 14.036243467926457 [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
-
-	* kgreenlandic (U+0138): L<<71.0,525.0>--<209.0,526.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] UbuntuSansMono-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Copyright 2011, 2022, 2023 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1121 when it should be at least 1200 [code: bad-hhea-range]
-</div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
-
-
-* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.10.8 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
+* 🔥 **FAIL** Current Font Bakery version is 0.8.13, while a newer 0.11.1 is already available. Please upgrade it with 'pip install -U fontbakery' [code: outdated-fontbakery]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking correctness of monospaced metadata. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/name.html#com.google.fonts/check/monospace">com.google.fonts/check/monospace</a>)</summary><div>
 
 
@@ -1312,8 +1268,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 44 | 85 | 1355 | 67 | 985 | 0 |
-| 0% | 2% | 3% | 53% | 3% | 39% | 0% |
+| 0 | 33 | 85 | 1355 | 67 | 996 | 0 |
+| 0% | 1% | 3% | 53% | 3% | 39% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
