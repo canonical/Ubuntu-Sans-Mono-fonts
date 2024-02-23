@@ -2,7 +2,11 @@
 
 Fontbakery version: 0.8.13
 
-<details><summary><b>[9] UbuntuSansMono-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+<details><summary><b>[10] UbuntuSansMono-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -98,7 +102,11 @@ Use -F or --full-lists to disable shortening of long lists.
 	* uni01CB (U+01CB): B<<163.5,338.0>-<160.0,424.0>-<155.0,502.0>>/L<<155.0,502.0>--<116.0,282.0>> = 13.720332882608297 
 
 	* uni01CB (U+01CB): L<<224.0,693.0>--<243.0,180.0>>/L<<243.0,180.0>--<283.0,403.0>> = 12.29022473115213 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuSansMono-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -208,7 +216,11 @@ The following glyphs do not have the recommended number of contours:
 	* uni2116 (U+2116): L<<106.0,693.0>--<230.0,255.0>>/L<<230.0,255.0>--<224.0,418.0>> = 13.698988776330973 
 
 	* uni2116 (U+2116): L<<229.0,0.0>--<105.0,452.0>>/L<<105.0,452.0>--<111.0,270.0>> = 13.452702757263976 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuSansMono-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -313,7 +325,11 @@ The following glyphs do not have the recommended number of contours:
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
 	* kgreenlandic (U+0138): L<<71.0,525.0>--<209.0,526.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] UbuntuSansMono-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -406,7 +422,11 @@ The following glyphs do not have the recommended number of contours:
 	* uni01CB (U+01CB): B<<164.5,308.0>-<163.0,383.0>-<163.0,468.0>>/L<<163.0,468.0>--<123.0,280.0>> = 12.01147838636543 
 
 	* uni01CB (U+01CB): L<<219.0,693.0>--<232.0,238.0>>/L<<232.0,238.0>--<269.0,419.0>> = 13.189802233901787 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuSansMono-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -514,7 +534,11 @@ The following glyphs do not have the recommended number of contours:
 	* uni01CB (U+01CB): L<<107.0,693.0>--<221.0,263.0>>/L<<221.0,263.0>--<217.0,419.0>> = 13.379651303792055 
 
 	* uni04CD (U+04CD): L<<222.0,250.0>--<148.0,551.0>>/B<<148.0,551.0>-<147.0,413.0>-<146.0,271.5>> = 14.227262261099765 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] UbuntuSansMono-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -624,7 +648,11 @@ The following glyphs do not have the recommended number of contours:
 	* uni2116 (U+2116): L<<113.0,693.0>--<260.0,145.0>>/L<<260.0,145.0>--<250.0,329.0>> = 11.905141078781755 
 
 	* uni2116 (U+2116): L<<242.0,0.0>--<92.0,549.0>>/L<<92.0,549.0>--<102.0,368.0>> = 12.11930998255544 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[10] UbuntuSansMono-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -731,7 +759,11 @@ The following glyphs do not have the recommended number of contours:
 	* uni04CD (U+04CD): B<<398.5,274.0>-<433.0,417.0>-<466.0,554.0>>/L<<466.0,554.0>--<310.0,250.0>> = 13.621808414887182 
 
 	* uni04CE (U+04CE): B<<370.5,185.0>-<393.0,279.0>-<414.0,373.0>>/B<<414.0,373.0>-<381.0,308.0>-<346.0,243.0>> = 14.323224660848188 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[13] UbuntuSansMono-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] UbuntuSansMono-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -893,7 +925,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* 63 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] UbuntuSansMono-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] UbuntuSansMono-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -994,7 +1030,11 @@ The following glyphs do not have the recommended number of contours:
 	* uni2116 (U+2116): L<<120.0,693.0>--<261.0,168.0>>/L<<261.0,168.0>--<247.0,405.0>> = 11.6526258660711 
 
 	* uni2116 (U+2116): L<<236.0,0.0>--<96.0,514.0>>/L<<96.0,514.0>--<109.0,289.0>> = 11.929506309926724 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[13] UbuntuSansMono-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[14] UbuntuSansMono-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1160,7 +1200,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 	* 63 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[9] UbuntuSansMono-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] UbuntuSansMono-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* 🔥 **FAIL** The Ubuntu Font License is only acceptable on the Google Fonts collection for legacy font families that already adopted such license. New Families should use eigther Apache or Open Font License. [code: ufl]
+</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
 
 
 * 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
@@ -1268,8 +1312,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 33 | 85 | 1355 | 67 | 996 | 0 |
-| 0% | 1% | 3% | 53% | 3% | 39% | 0% |
+| 0 | 44 | 85 | 1344 | 67 | 996 | 0 |
+| 0% | 2% | 3% | 53% | 3% | 39% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
