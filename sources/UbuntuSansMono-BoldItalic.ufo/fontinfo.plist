@@ -45,6 +45,10 @@
     <string>Dalton Maag Ltd</string>
     <key>openTypeNameDesignerURL</key>
     <string>http://www.daltonmaag.com/</string>
+    <key>openTypeNameLicense</key>
+    <string>Licensed under the Ubuntu Font Licence 1.0.</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://ubuntu.com/legal/font-licence</string>
     <key>openTypeNameManufacturer</key>
     <string>Dalton Maag Ltd</string>
     <key>openTypeNameManufacturerURL</key>
@@ -163,7 +167,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>5</integer>
+    <integer>6</integer>
     <key>xHeight</key>
     <integer>526</integer>
   </dict>
