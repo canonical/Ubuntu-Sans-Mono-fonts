@@ -26,8 +26,8 @@
       <point x="220" y="526" type="line"/>
       <point x="82" y="526" type="line"/>
     </contour>
-    <component base="acute" xOffset="140"/>
     <component base="acute" xOffset="-118"/>
+    <component base="acute" xOffset="140"/>
   </outline>
   <lib>
     <dict>
